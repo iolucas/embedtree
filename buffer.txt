@@ -1,0 +1,80 @@
+9848 - Software release life cycle
+7779 - Software developer
+8120 - Software license
+3720 - OpenCV
+9657 - Wolfram Mathematica
+10945 - MATLAB
+8178 - Insight Segmentation and Registration Toolkit
+6296 - Visage SDK
+6431 - Analysis of Functional NeuroImages
+6813 - ImageJ
+6506 - InVesalius
+6329 - Analyze (imaging software)
+7133 - CellProfiler
+6471 - VIGRA
+6482 - Endrov
+6341 - Bitplane
+6361 - FMRIB Software Library
+6528 - Ilastik
+6372 - Mimics
+6589 - Fiji (software)
+6606 - MountainsMap
+6642 - ITK-SNAP
+8801 - GNU Octave
+6782 - Mango (software)
+6415 - FreeSurfer
+6841 - GemIdent
+8548 - Software categories
+6877 - CellCognition
+6996 - IDL (programming language)
+13317 - Amira (software)
+11513 - Microsoft Windows
+6451 - KNIME
+13389 - C (programming language)
+6439 - OsiriX
+7586 - Proprietary software
+7832 - Computer vision
+8302 - Cross-platform
+12412 - MacOS
+9779 - GitHub
+11254 - Open-source software
+8684 - Library (computing)
+10278 - IOS
+12672 - C Sharp (programming language)
+9041 - Decision tree learning
+11044 - Perl
+10596 - Expectation–maximization algorithm
+10692 - Support vector machine
+7385 - Random forest
+10804 - Haskell (programming language)
+7974 - BlackBerry 10
+9624 - BSD licenses
+7482 - Facial recognition system
+13144 - OpenCL
+6893 - Boosting (machine learning)
+10070 - Graphics processing unit
+8671 - Video tracking
+1176 - Abstraction layer
+9429 - SourceForge
+6687 - CMake
+9984 - Gradient boosting
+8643 - Structure from motion
+8885 - Stereopsis
+12098 - Maemo
+1014 - Year 2038 problem
+5826 - Hypertext Transfer Protocol
+7193 - Ch (computer programming)
+5297 - Transport Layer Security
+6533 - Integrated Performance Primitives
+7205 - Visual odometry
+9998 - Ray tracing (graphics)
+7797 - Gesture recognition
+2901 - GSM
+9964 - Willow Garage
+9084 - Stereo display
+6491 - OpenFrameworks
+10757 - K-nearest neighbors algorithm
+6851 - Intel Research Lablets
+9888 - Human–computer interaction
+8439 - Conference on Computer Vision and Pattern Recognition
+8615 - AForge.NET
