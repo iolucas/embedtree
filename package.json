@@ -1,0 +1,23 @@
+{
+  "name": "embedtree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iolucas/embedtree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iolucas/embedtree/issues"
+  },
+  "homepage": "https://github.com/iolucas/embedtree#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "node-neo4j": "^2.0.3"
+  }
+}

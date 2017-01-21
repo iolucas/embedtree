@@ -1,80 +1,3619 @@
-9848 - Software release life cycle
-7779 - Software developer
-8120 - Software license
-3720 - OpenCV
-9657 - Wolfram Mathematica
-10945 - MATLAB
-8178 - Insight Segmentation and Registration Toolkit
-6296 - Visage SDK
-6431 - Analysis of Functional NeuroImages
-6813 - ImageJ
-6506 - InVesalius
-6329 - Analyze (imaging software)
-7133 - CellProfiler
-6471 - VIGRA
-6482 - Endrov
-6341 - Bitplane
-6361 - FMRIB Software Library
-6528 - Ilastik
-6372 - Mimics
-6589 - Fiji (software)
-6606 - MountainsMap
-6642 - ITK-SNAP
-8801 - GNU Octave
-6782 - Mango (software)
-6415 - FreeSurfer
-6841 - GemIdent
-8548 - Software categories
-6877 - CellCognition
-6996 - IDL (programming language)
-13317 - Amira (software)
-11513 - Microsoft Windows
-6451 - KNIME
-13389 - C (programming language)
-6439 - OsiriX
-7586 - Proprietary software
-7832 - Computer vision
-8302 - Cross-platform
-12412 - MacOS
-9779 - GitHub
-11254 - Open-source software
-8684 - Library (computing)
-10278 - IOS
-12672 - C Sharp (programming language)
-9041 - Decision tree learning
-11044 - Perl
-10596 - Expectation–maximization algorithm
-10692 - Support vector machine
-7385 - Random forest
-10804 - Haskell (programming language)
-7974 - BlackBerry 10
-9624 - BSD licenses
-7482 - Facial recognition system
-13144 - OpenCL
-6893 - Boosting (machine learning)
-10070 - Graphics processing unit
-8671 - Video tracking
-1176 - Abstraction layer
-9429 - SourceForge
-6687 - CMake
-9984 - Gradient boosting
-8643 - Structure from motion
-8885 - Stereopsis
-12098 - Maemo
-1014 - Year 2038 problem
-5826 - Hypertext Transfer Protocol
-7193 - Ch (computer programming)
-5297 - Transport Layer Security
-6533 - Integrated Performance Primitives
-7205 - Visual odometry
-9998 - Ray tracing (graphics)
-7797 - Gesture recognition
-2901 - GSM
-9964 - Willow Garage
-9084 - Stereo display
-6491 - OpenFrameworks
-10757 - K-nearest neighbors algorithm
-6851 - Intel Research Lablets
-9888 - Human–computer interaction
-8439 - Conference on Computer Vision and Pattern Recognition
-8615 - AForge.NET
+35577 General relativity 0,18,47,0
+35690 Albert Einstein 1,13,28,0
+35278 Physics 0,12,64,0
+35387 Gravity 1,9,49,0
+42335 Mass 0,9,38,0
+51042 Quantum mechanics 1,8,38,0
+51017 Classical mechanics 0,8,27,0
+35093 Spacetime 1,7,24,0
+64996 Special relativity 1,7,23,0
+38616 Universe 0,7,43,0
+36495 Black hole 1,6,22,0
+36904 Galaxy 0,6,27,0
+65211 Gravitational field 0,6,7,0
+38325 Energy 1,5,38,0
+38413 Force 0,5,17,0
+63184 Theoretical physics 1,4,12,0
+63144 Space 1,4,11,0
+35358 Newton's law of universal gravitation 1,4,10,0
+37696 Electromagnetic radiation 0,4,32,0
+36711 Photon 0,4,29,0
+74722 Speed of light 0,4,20,0
+37175 Milky Way 0,4,16,0
+64227 Quantum field theory 0,4,14,0
+65248 Neutron star 0,4,8,0
+75124 Physical body 0,4,7,0
+63104 Minkowski space 0,4,7,0
+65012 Binary star 0,4,6,0
+35641 Star 1,3,39,0
+65187 Gravitational wave 1,3,15,0
+64685 Classical physics 1,3,9,0
+65051 LIGO 1,3,6,0
+64921 Supermassive black hole 1,3,4,0
+64831 Tests of general relativity 1,3,1,0
+36149 Mathematics 0,3,38,0
+68228 Atom 0,3,31,0
+37257 Big Bang 0,3,24,0
+36607 Earth 0,3,24,0
+63640 Isaac Newton 0,3,19,0
+37769 Plasma (physics) 0,3,16,0
+58012 Electromagnetic spectrum 0,3,15,0
+64029 Fundamental interaction 0,3,14,0
+63904 Physical law 0,3,9,0
+69773 Maxwell's equations 0,3,8,0
+63168 Euclidean space 0,3,7,0
+65214 Particle 0,3,7,0
+42130 Gravitational collapse 0,3,7,0
+38164 Mass–energy equivalence 0,3,7,0
+68342 Solar mass 0,3,6,0
+63874 Proportionality (mathematics) 0,3,4,0
+65335 Photoelectric effect 0,3,4,0
+64190 Theory of everything 0,3,3,0
+165748 Time dilation 0,3,2,0
+169539 Gravitational-wave astronomy 0,3,2,0
+63807 Matter 1,2,22,0
+65134 Metric expansion of space 1,2,15,0
+64696 Theory of relativity 1,2,15,0
+64699 Curvature 1,2,9,0
+64109 Quantum gravity 1,2,5,0
+64753 Stellar black hole 1,2,2,0
+63084 Time in physics 1,2,1,0
+64040 Gravitational time dilation 1,2,0,0
+50438 Electron 0,2,31,0
+37967 Electromagnetism 0,2,28,0
+38595 Light 0,2,25,0
+42248 International System of Units 0,2,23,0
+74728 Neutron 0,2,18,0
+37794 Science 0,2,17,0
+38984 Hydrogen 0,2,16,0
+38000 Observable universe 0,2,15,0
+61879 Time 0,2,15,0
+64065 Subatomic particle 0,2,14,0
+74605 Infrared 0,2,13,0
+50315 Ultraviolet 0,2,13,0
+42759 Density 0,2,12,0
+68637 Gamma ray 0,2,12,0
+68721 X-ray 0,2,11,0
+57796 Microwave 0,2,11,0
+42707 Astrophysics 0,2,11,0
+77743 Kinetic energy 0,2,11,0
+69557 Supernova 0,2,11,0
+73847 Cosmology 0,2,10,0
+47202 Stellar evolution 0,2,10,0
+76399 Heat 0,2,9,0
+58795 Dimension 0,2,9,0
+72085 Lambda-CDM model 0,2,9,0
+69327 Chronology of the universe 0,2,9,0
+38171 Dark energy 0,2,8,0
+57117 Empirical evidence 0,2,8,0
+132152 Metaphysics 0,2,8,0
+63366 Line (geometry) 0,2,7,0
+30165 Orbit 0,2,6,0
+64028 Distance 0,2,6,0
+64298 White dwarf 0,2,6,0
+57250 Mathematical model 0,2,6,0
+68471 Wave 0,2,6,0
+69590 Invariant mass 0,2,6,0
+65348 Electromagnetic field 0,2,6,0
+74568 Classical electromagnetism 0,2,6,0
+69691 Max Planck 0,2,5,0
+58707 Differential equation 0,2,5,0
+64505 Event horizon 0,2,4,0
+35118 Geodesic 0,2,4,0
+83346 Non-Euclidean geometry 0,2,3,0
+65030 Luminosity 0,2,3,0
+52882 Linear algebra 0,2,3,0
+76623 Positron 0,2,3,0
+34705 Sound 0,2,3,0
+67178 Radiant energy 0,2,3,0
+70299 Galaxy cluster 0,2,2,0
+170013 Virgo interferometer 0,2,2,0
+165735 Length contraction 0,2,2,0
+69766 Sagittarius A* 0,2,2,0
+40961 Mercury (planet) 0,2,2,0
+95948 Inertia 0,2,2,0
+68920 First observation of gravitational waves 0,2,2,0
+77999 Potential energy 0,2,2,0
+63921 Square (algebra) 0,2,2,0
+36754 Quasar 0,2,1,0
+78741 Michelson–Morley experiment 0,2,1,0
+63199 Continuum (measurement) 0,2,1,0
+63917 Inverse-square law 0,2,1,0
+95940 Equivalence principle 0,2,1,0
+74709 Luminiferous aether 0,2,1,0
+64023 Gravitational potential 0,2,0,0
+169097 Curvature of Riemannian manifolds 0,2,0,0
+169089 Relativity of simultaneity 0,2,0,0
+63291 Physical cosmology 1,1,17,0
+64890 Momentum 1,1,14,0
+38077 Radiation 1,1,9,0
+64911 Einstein field equations 1,1,8,0
+64821 Partial differential equation 1,1,5,0
+64705 Active galactic nucleus 1,1,3,0
+64646 Modern physics 1,1,1,0
+64724 Alternatives to general relativity 1,1,1,0
+63300 Free fall 1,1,1,0
+64707 X-ray binary 1,1,0,0
+68909 Electric charge 0,1,25,0
+73937 Proton 0,1,22,0
+31793 Planet 0,1,22,0
+36384 Sun 0,1,21,0
+38282 Temperature 0,1,20,0
+64271 Gas 0,1,18,0
+73865 Atomic nucleus 0,1,18,0
+37548 Cosmic ray 0,1,15,0
+56774 Chemical element 0,1,15,0
+37738 Magnetic field 0,1,14,0
+64123 Weak interaction 0,1,14,0
+43008 Latin 0,1,14,0
+67773 Radioactive decay 0,1,13,0
+69168 Atmosphere of Earth 0,1,13,0
+67925 Frequency 0,1,13,0
+64678 Light-year 0,1,12,0
+68108 Joule 0,1,12,0
+63823 Natural science 0,1,11,0
+63658 Motion (physics) 0,1,11,0
+53446 Nuclear fusion 0,1,10,0
+52017 Scientific method 0,1,10,0
+70813 Particle accelerator 0,1,10,0
+39517 Geometry 0,1,10,0
+76372 Kilogram 0,1,10,0
+69897 Redshift 0,1,10,0
+78393 Velocity 0,1,10,0
+63116 Manifold 0,1,10,0
+74937 Liquid 0,1,10,0
+36599 Nobel Prize in Physics 0,1,10,0
+36556 Electric current 0,1,9,0
+69861 Visible spectrum 0,1,9,0
+38437 Dark matter 0,1,9,0
+31227 Moon 0,1,9,0
+74172 Immanuel Kant 0,1,9,0
+72587 Hubble's law 0,1,9,0
+68565 Radio wave 0,1,9,0
+37215 Cosmic microwave background 0,1,9,0
+62766 Derivative 0,1,9,0
+38856 Helium 0,1,9,0
+169699 Tensor 0,1,8,0
+72065 Edwin Hubble 0,1,8,0
+63520 Newton's laws of motion 0,1,8,0
+74451 Quark 0,1,8,0
+71325 Solid 0,1,8,0
+64084 Strong interaction 0,1,8,0
+38724 Astronomer 0,1,8,0
+38811 Function (mathematics) 0,1,8,0
+65794 Nuclear fission 0,1,8,0
+62981 Curve 0,1,7,0
+33987 Logic 0,1,7,0
+73662 Ionizing radiation 0,1,7,0
+63907 Observation 0,1,7,0
+73675 Metre 0,1,7,0
+30500 Outer space 0,1,7,0
+38392 Work (physics) 0,1,7,0
+63698 Natural philosophy 0,1,7,0
+61783 Three-dimensional space 0,1,7,0
+78710 Physical quantity 0,1,7,0
+74773 Newton (unit) 0,1,7,0
+74840 State of matter 0,1,7,0
+64730 Statistical mechanics 0,1,7,0
+70266 Electric field 0,1,7,0
+83074 Length 0,1,7,0
+66230 Aristotle 0,1,7,0
+76630 Electronvolt 0,1,7,0
+47778 Galileo Galilei 0,1,7,0
+129368 Gottfried Wilhelm Leibniz 0,1,7,0
+31158 NASA 0,1,6,0
+63969 Gravitational constant 0,1,6,0
+74852 Charge (physics) 0,1,6,0
+62779 Integral 0,1,6,0
+67142 Age of the universe 0,1,6,0
+69648 Black-body radiation 0,1,6,0
+37308 Theory 0,1,6,0
+83258 String theory 0,1,6,0
+78331 Euclidean vector 0,1,6,0
+68629 Thermal radiation 0,1,6,0
+67610 Phenomenon 0,1,6,0
+59675 Experiment 0,1,6,0
+76811 Chemical energy 0,1,5,0
+64152 Galaxy formation and evolution 0,1,5,0
+47714 German language 0,1,5,0
+128055 Surface (topology) 0,1,5,0
+30601 Laser 0,1,5,0
+64048 Macroscopic scale 0,1,5,0
+64036 Coulomb's law 0,1,5,0
+43155 Tide 0,1,5,0
+64021 Weight 0,1,5,0
+66542 Parsec 0,1,5,0
+70906 Plato 0,1,5,0
+57787 Thermal energy 0,1,5,0
+37102 Atmosphere 0,1,5,0
+62988 Plane (geometry) 0,1,5,0
+38008 Nebula 0,1,5,0
+67222 Water 0,1,5,0
+80456 Philosopher 0,1,5,0
+65049 Compact star 0,1,5,0
+78299 Work (thermodynamics) 0,1,5,0
+38796 Telescope 0,1,5,0
+74449 Cosmological constant 0,1,4,0
+60635 United Kingdom 0,1,4,0
+65046 Heat transfer 0,1,4,0
+65058 Red giant 0,1,4,0
+70313 Comoving distance 0,1,4,0
+72413 Scientific theory 0,1,4,0
+65102 Stellar nucleosynthesis 0,1,4,0
+39652 Formation and evolution of the Solar System 0,1,4,0
+153412 Metre per second 0,1,4,0
+69315 Observational astronomy 0,1,4,0
+78230 First law of thermodynamics 0,1,4,0
+77816 Physical property 0,1,4,0
+63284 Riemannian manifold 0,1,4,0
+72557 Georges Lemaître 0,1,4,0
+74363 Meson 0,1,4,0
+31697 Nobel Prize 0,1,4,0
+68431 Entropy 0,1,4,0
+69893 Schwarzschild radius 0,1,4,0
+69834 Bose–Einstein condensate 0,1,4,0
+72429 Falsifiability 0,1,4,0
+68591 Black body 0,1,4,0
+76551 Chemical bond 0,1,4,0
+116984 Equation 0,1,3,0
+71982 Planck–Einstein relation 0,1,3,0
+63926 Henry Cavendish 0,1,3,0
+65021 Convection 0,1,3,0
+63943 Philosophiæ Naturalis Principia Mathematica 0,1,3,0
+76696 Alpha particle 0,1,3,0
+52844 Magnetic resonance imaging 0,1,3,0
+67362 Renaissance 0,1,3,0
+165896 Critique of Pure Reason 0,1,3,0
+64000 Royal Society 0,1,3,0
+62299 Hubble Space Telescope 0,1,3,0
+65091 Fuel 0,1,3,0
+78203 Second law of thermodynamics 0,1,3,0
+65104 Degenerate matter 0,1,3,0
+57844 Radar 0,1,3,0
+65173 Star formation 0,1,3,0
+99454 Radius 0,1,3,0
+72154 Inflation (cosmology) 0,1,3,0
+79418 Electrostatics 0,1,3,0
+72424 Nature 0,1,3,0
+63060 Circle 0,1,3,0
+167485 Grand Unified Theory 0,1,3,0
+76559 Ionization 0,1,3,0
+166224 Stress–energy tensor 0,1,3,0
+71704 Religion 0,1,3,0
+139685 Fluid dynamics 0,1,3,0
+76450 Vesto Slipher 0,1,3,0
+77890 Conservation of energy 0,1,3,0
+65522 Philosophy of science 0,1,3,0
+159621 Differentiable manifold 0,1,3,0
+72577 Accelerating expansion of the universe 0,1,3,0
+63915 Inductive reasoning 0,1,3,0
+69317 Gamma-ray burst 0,1,3,0
+169602 Conservation law 0,1,3,0
+78318 Direction (geometry) 0,1,2,0
+68542 Radiography 0,1,2,0
+68699 Karl Schwarzschild 0,1,2,0
+74670 Lepton 0,1,2,0
+67933 Linearity 0,1,2,0
+76323 Quark–gluon plasma 0,1,2,0
+68879 Pierre-Simon Laplace 0,1,2,0
+65875 Climate 0,1,2,0
+65408 Manhattan Project 0,1,2,0
+76714 Muon 0,1,2,0
+64994 Astronomical spectroscopy 0,1,2,0
+69072 Observational cosmology 0,1,2,0
+64976 Supernova nucleosynthesis 0,1,2,0
+64905 Constellation 0,1,2,0
+64884 Thermonuclear fusion 0,1,2,0
+64168 Brownian motion 0,1,2,0
+77840 Classical field theory 0,1,2,0
+77844 Energy transformation 0,1,2,0
+64006 List of natural phenomena 0,1,2,0
+77879 Forms of energy 0,1,2,0
+77889 Weighing scale 0,1,2,0
+77979 Food energy 0,1,2,0
+69705 Probability amplitude 0,1,2,0
+63079 Four-dimensional space 0,1,2,0
+74551 Massless particle 0,1,2,0
+78667 Dynamical system 0,1,2,0
+95617 Phase (matter) 0,1,2,0
+53896 Massachusetts Institute of Technology 0,1,2,0
+119550 Kinematics 0,1,2,0
+50228 Electrical energy 0,1,2,0
+45973 Clock 0,1,2,0
+147631 A priori and a posteriori 0,1,2,0
+150907 Planck length 0,1,2,0
+69902 Binary black hole 0,1,2,0
+159665 Smoothness 0,1,2,0
+39948 Abstraction 0,1,2,0
+165875 Lorentz transformation 0,1,2,0
+37981 Star cluster 0,1,2,0
+166105 Differential geometry of surfaces 0,1,2,0
+167624 Renormalization 0,1,2,0
+168913 Orders of magnitude (length) 0,1,2,0
+36322 Semiconductor 0,1,2,0
+169197 Schwarzschild metric 0,1,2,0
+169244 Hypernova 0,1,2,0
+33863 Computer simulation 0,1,2,0
+31087 European Space Agency 0,1,2,0
+72001 List of cosmological horizons 0,1,2,0
+71954 Galactic Center 0,1,2,0
+68625 Accretion disk 0,1,2,0
+166147 Redshift survey 0,1,1,0
+76646 Non-ionizing radiation 0,1,1,0
+146142 Elasticity (physics) 0,1,1,0
+58960 Light-emitting diode 0,1,1,0
+163174 Scalar (mathematics) 0,1,1,0
+78147 Fossil fuel 0,1,1,0
+78008 Nuclear fuel 0,1,1,0
+30344 Transistor 0,1,1,0
+162279 Operational definition 0,1,1,0
+169311 Riemann curvature tensor 0,1,1,0
+76597 Sunburn 0,1,1,0
+76593 Radiometry 0,1,1,0
+68715 John Michell 0,1,1,0
+97808 Cosmogony 0,1,1,0
+74060 History of quantum mechanics 0,1,1,0
+68804 Medical imaging 0,1,1,0
+169797 Exact solutions in general relativity 0,1,1,0
+68814 Hawking radiation 0,1,1,0
+77180 Heat engine 0,1,1,0
+129123 Wave function 0,1,1,0
+169470 Russell Alan Hulse 0,1,1,0
+169651 Rotating black hole 0,1,1,0
+65433 Institute for Advanced Study 0,1,1,0
+63909 Cavendish experiment 0,1,1,0
+78303 Renewable energy 0,1,1,0
+65687 Adolf Hitler 0,1,1,0
+65716 Princeton, New Jersey 0,1,1,0
+128159 Partial derivative 0,1,1,0
+77071 Friedmann–Lemaître–Robertson–Walker metric 0,1,1,0
+66075 Metallicity 0,1,1,0
+66157 Bertrand Russell 0,1,1,0
+95901 Aerodynamics 0,1,1,0
+153772 Precession 0,1,1,0
+66297 Jews 0,1,1,0
+57348 Rigour 0,1,1,0
+76987 Henri Poincaré 0,1,1,0
+75140 Alhazen 0,1,1,0
+93721 Max Planck Society 0,1,1,0
+91050 Formal proof 0,1,1,0
+76860 Spacetime symmetries 0,1,1,0
+64902 Asterism (astronomy) 0,1,1,0
+85011 Accretion (astrophysics) 0,1,1,0
+84190 Perihelion and aphelion 0,1,1,0
+167393 Graviton 0,1,1,0
+76831 Annus Mirabilis papers 0,1,1,0
+64972 Stellar designation 0,1,1,0
+64016 Point particle 0,1,1,0
+165884 Physics (Aristotle) 0,1,1,0
+127704 Electron microscope 0,1,1,0
+127291 Thermal expansion 0,1,1,0
+165868 Socrates 0,1,1,0
+121888 National Science Foundation 0,1,1,0
+169211 Franciscans 0,1,1,0
+170360 GW151226 0,1,1,0
+78205 Geothermal energy 0,1,1,0
+80032 Superconducting magnet 0,1,1,0
+79916 Heuristic 0,1,1,0
+58693 Ordinary differential equation 0,1,1,0
+166165 Differential calculus 0,1,1,0
+63341 Geodesics in general relativity 0,1,1,0
+150459 Dimensional analysis 0,1,1,0
+65377 Citizenship of the United States 0,1,0,0
+64899 Star catalogue 0,1,0,0
+170366 Oliver Heaviside 0,1,0,0
+170356 Gravitational-wave observatory 0,1,0,0
+170348 Mathematics of general relativity 0,1,0,0
+72328 Conceptual framework 0,1,0,0
+170318 Jeans instability 0,1,0,0
+69946 Atomic clock 0,1,0,0
+115127 Plural 0,1,0,0
+57370 Parachute 0,1,0,0
+116860 Principle of relativity 0,1,0,0
+165834 Khôra 0,1,0,0
+170294 Hubble volume 0,1,0,0
+170266 Preferred frame 0,1,0,0
+170230 Local reference frame 0,1,0,0
+170229 Inflaton 0,1,0,0
+170218 Proper length 0,1,0,0
+170195 Intrinsic and extrinsic properties (philosophy) 0,1,0,0
+68744 Quantum field theory in curved spacetime 0,1,0,0
+170016 Einstein@Home 0,1,0,0
+68668 David Finkelstein 0,1,0,0
+74211 Lorentz covariance 0,1,0,0
+169948 Rindler coordinates 0,1,0,0
+165878 Timaeus (dialogue) 0,1,0,0
+169928 Galilean transformation 0,1,0,0
+169874 Galilean invariance 0,1,0,0
+169856 Mass in special relativity 0,1,0,0
+169745 Linearized gravity 0,1,0,0
+169708 Einstein tensor 0,1,0,0
+90846 California Institute of Technology 0,1,0,0
+169611 Translational symmetry 0,1,0,0
+51119 Quantum superposition 0,1,0,0
+169601 Multivariable calculus 0,1,0,0
+169525 Stochastic partial differential equation 0,1,0,0
+118439 Explosion 0,1,0,0
+169432 Multidimensional system 0,1,0,0
+169341 Alfred Bucherer 0,1,0,0
+169319 William of Ockham 0,1,0,0
+169195 Ad hoc hypothesis 0,1,0,0
+169168 Classical unified field theories 0,1,0,0
+169110 Radius of curvature 0,1,0,0
+169100 Orders of magnitude (speed) 0,1,0,0
+125350 Test method 0,1,0,0
+75689 Weightlessness 0,1,0,0
+50139 Nanosecond 0,1,0,0
+169084 Paradigm shift 0,1,0,0
+168921 Everyday life 0,1,0,0
+129302 Mathematical formulation of quantum mechanics 0,1,0,0
+65655 Ecosystem 0,1,0,0
+170662 Stellar collision 0,1,0,0
+65321 Introduction to quantum mechanics 0,1,0,0
+65270 List of scientific publications by Albert Einstein 0,1,0,0
+76591 Point source 0,1,0,0
+65240 Genius 0,1,0,0
+65238 Prussian Academy of Sciences 0,1,0,0
+65226 Russell–Einstein Manifesto 0,1,0,0
+65222 Einstein–Szilárd letter 0,1,0,0
+65110 Stellar mass 0,1,0,0
+165999 George Berkeley 0,1,0,0
+166063 Particle physics experiments 0,1,0,0
+64990 Hertzsprung–Russell diagram 0,1,0,0
+166069 Copernican principle 0,1,0,0
+166088 Phenomenology (particle physics) 0,1,0,0
+64866 Tidal force 0,1,0,0
+165448 Special case 0,1,0,0
+78554 Old quantum theory 0,1,0,0
+77555 Elastic energy 0,1,0,0
+166094 Differential geometry of curves 0,1,0,0
+64116 Product (mathematics) 0,1,0,0
+151135 Multiplicative inverse 0,1,0,0
+64053 Trajectory 0,1,0,0
+63971 Robert Hooke 0,1,0,0
+63918 Coulomb's constant 0,1,0,0
+166096 Terminal velocity 0,1,0,0
+77892 Waste heat 0,1,0,0
+77917 Energy industry 0,1,0,0
+152414 Osculating circle 0,1,0,0
+167568 Causal fermion system 0,1,0,0
+78064 Exergy 0,1,0,0
+167556 Loop quantum gravity 0,1,0,0
+41941 Microprocessor 0,1,0,0
+167435 Metric tensor (general relativity) 0,1,0,0
+167097 Democritus 0,1,0,0
+167072 Fermionic condensate 0,1,0,0
+167027 Leucippus 0,1,0,0
+166162 Non-standard cosmology 0,1,0,0
+165732 Records management 0,1,0,0
+63313 Differential geometry 1,0,11,0
+64740 Occam's razor 1,0,2,0
+64682 Gravitational redshift 1,0,1,0
+65017 Gravitational lens 1,0,1,0
+64687 Shapiro delay 1,0,0,0
+36657 Astronomy 0,0,30,0
+68290 Particle physics 0,0,21,0
+58251 Philosophy 0,0,20,0
+44522 Ancient Greek 0,0,19,0
+65033 Molecule 0,0,17,0
+63888 Calculus 0,0,16,0
+69750 Elementary particle 0,0,15,0
+31134 Solar System 0,0,14,0
+30548 Astronomical object 0,0,14,0
+57263 Chemistry 0,0,14,0
+44467 Greek language 0,0,14,0
+64056 Thermodynamics 0,0,13,0
+72076 Wavelength 0,0,13,0
+69800 Spin (physics) 0,0,12,0
+33851 Engineering 0,0,12,0
+63799 Nuclear physics 0,0,11,0
+68005 Ion 0,0,11,0
+36376 Physicist 0,0,10,0
+37507 Epistemology 0,0,10,0
+61583 Acceleration 0,0,10,0
+50853 Real number 0,0,10,0
+46006 Measurement 0,0,9,0
+57419 Oxygen 0,0,9,0
+46760 Social science 0,0,9,0
+77625 Fluid 0,0,9,0
+127692 Fermion 0,0,8,0
+67014 Hypothesis 0,0,8,0
+50639 Volume 0,0,8,0
+135141 Vector space 0,0,8,0
+66197 Units of measurement 0,0,8,0
+83149 Pseudo-Riemannian manifold 0,0,8,0
+80020 Spectroscopy 0,0,8,0
+74583 Planck constant 0,0,8,0
+69783 Standard Model 0,0,8,0
+37673 Baryon 0,0,8,0
+69866 Wave–particle duality 0,0,8,0
+57321 Biology 0,0,8,0
+53465 Nuclear weapon 0,0,8,0
+41072 Carbon 0,0,7,0
+58671 Coordinate system 0,0,7,0
+74225 Antiparticle 0,0,7,0
+69561 Quantum 0,0,7,0
+83997 Euclidean geometry 0,0,7,0
+61188 Optics 0,0,7,0
+42535 Interstellar medium 0,0,7,0
+80508 Isotope 0,0,7,0
+88718 Inertial frame of reference 0,0,7,0
+74350 Absolute zero 0,0,7,0
+90298 Frame of reference 0,0,7,0
+71840 Isotropy 0,0,7,0
+74974 Neutrino 0,0,7,0
+74692 Angular momentum 0,0,7,0
+167610 Nuclear force 0,0,7,0
+66893 Graph of a function 0,0,7,0
+68037 Second 0,0,7,0
+35168 Kepler's laws of planetary motion 0,0,7,0
+56500 Atomic number 0,0,6,0
+78759 Chemical reaction 0,0,6,0
+99133 Theology 0,0,6,0
+53003 English language 0,0,6,0
+72095 Scientific modelling 0,0,6,0
+70725 Fellow of the Royal Society 0,0,6,0
+69185 Hertz 0,0,6,0
+57389 Psychology 0,0,6,0
+30568 Computer science 0,0,6,0
+74299 Hadron 0,0,6,0
+57523 Economics 0,0,6,0
+74390 Quantum electrodynamics 0,0,6,0
+30797 Comet 0,0,6,0
+30865 Natural satellite 0,0,6,0
+127716 Elementary charge 0,0,6,0
+67763 Electric potential 0,0,6,0
+67631 Euclid 0,0,6,0
+67605 Axiom 0,0,6,0
+74746 Vector field 0,0,6,0
+57699 Variable (mathematics) 0,0,6,0
+34753 Jupiter 0,0,6,0
+35951 Linguistics 0,0,6,0
+61909 Physical system 0,0,6,0
+136332 Nuclear transmutation 0,0,6,0
+37686 Kelvin 0,0,6,0
+61611 Speed 0,0,6,0
+71465 Photosynthesis 0,0,6,0
+37724 Vacuum 0,0,6,0
+37838 Life 0,0,6,0
+39840 Metal 0,0,6,0
+40535 International Astronomical Union 0,0,6,0
+42380 French language 0,0,6,0
+42118 Molecular cloud 0,0,6,0
+80026 Nucleon 0,0,6,0
+71198 Sunlight 0,0,6,0
+165676 Field (physics) 0,0,5,0
+40129 United States 0,0,5,0
+165836 Poincaré group 0,0,5,0
+43145 Geology 0,0,5,0
+80514 Unified atomic mass unit 0,0,5,0
+30005 Computer 0,0,5,0
+43246 Middle Ages 0,0,5,0
+57733 Mathematician 0,0,5,0
+139541 Point (geometry) 0,0,5,0
+83288 Area 0,0,5,0
+166760 Polymath 0,0,5,0
+63196 Analytic geometry 0,0,5,0
+37356 Technology 0,0,5,0
+63727 Two-dimensional space 0,0,5,0
+167615 Quantum chromodynamics 0,0,5,0
+37012 Knowledge 0,0,5,0
+64926 Medicine 0,0,5,0
+66835 Organism 0,0,5,0
+76196 Magnetism 0,0,5,0
+67052 Uncertainty principle 0,0,5,0
+74927 Lorentz force 0,0,5,0
+74882 Energy level 0,0,5,0
+135078 Linear map 0,0,5,0
+58143 Algebra 0,0,5,0
+34344 World War II 0,0,5,0
+67515 Pure mathematics 0,0,5,0
+67525 Conjecture 0,0,5,0
+131735 Dependent and independent variables 0,0,5,0
+129615 Quantum state 0,0,5,0
+127804 Beta particle 0,0,5,0
+32297 Electronics 0,0,5,0
+127782 Beta decay 0,0,5,0
+50412 Nanometre 0,0,5,0
+83679 Chemical compound 0,0,5,0
+68036 Watt 0,0,5,0
+68063 Power (physics) 0,0,5,0
+127643 Condensed matter physics 0,0,5,0
+117143 Main sequence 0,0,5,0
+169971 Thermal conduction 0,0,5,0
+116896 Sphere 0,0,5,0
+74031 Ancient Greece 0,0,5,0
+68886 Coulomb 0,0,5,0
+94419 Complex number 0,0,5,0
+70670 Drag (physics) 0,0,5,0
+113885 Ethics 0,0,5,0
+110059 Kilometre 0,0,5,0
+132798 Large Hadron Collider 0,0,5,0
+81071 Uranium 0,0,4,0
+62269 Matrix (mathematics) 0,0,4,0
+62819 Nitrogen 0,0,4,0
+43325 Greek alphabet 0,0,4,0
+167385 Atomic orbital 0,0,4,0
+83601 Photon energy 0,0,4,0
+63235 Line segment 0,0,4,0
+37021 CERN 0,0,4,0
+167555 Femtometre 0,0,4,0
+63712 Mechanics 0,0,4,0
+50040 Number 0,0,4,0
+63737 Scientific revolution 0,0,4,0
+128704 Nuclear power 0,0,4,0
+153157 Politics 0,0,4,0
+128777 Additive inverse 0,0,4,0
+47262 Johannes Kepler 0,0,4,0
+76215 Quark epoch 0,0,4,0
+36636 Radio 0,0,4,0
+83557 René Descartes 0,0,4,0
+47119 Heliocentrism 0,0,4,0
+74929 Covalent bond 0,0,4,0
+83750 Planetary nebula 0,0,4,0
+162470 Irreversible process 0,0,4,0
+79761 Functional analysis 0,0,4,0
+67412 Deductive reasoning 0,0,4,0
+79733 Domain of a function 0,0,4,0
+165614 Mathematical physics 0,0,4,0
+50432 Electricity 0,0,4,0
+79712 Empiricism 0,0,4,0
+56524 Abundance of the chemical elements 0,0,4,0
+118208 Radionuclide 0,0,4,0
+58698 Celestial mechanics 0,0,4,0
+88877 Germany 0,0,4,0
+74712 Standard conditions for temperature and pressure 0,0,4,0
+118458 Outline of physical science 0,0,4,0
+68031 Voltage 0,0,4,0
+39370 Human 0,0,4,0
+79322 Ultimate fate of the universe 0,0,4,0
+136297 Triple-alpha process 0,0,4,0
+74485 Oscillation 0,0,4,0
+30771 Asteroid 0,0,4,0
+68057 Electrical resistance and conductance 0,0,4,0
+127727 Chemical property 0,0,4,0
+79167 Old Style and New Style dates 0,0,4,0
+79162 Terahertz radiation 0,0,4,0
+136497 Ernest Rutherford 0,0,4,0
+58870 Pressure 0,0,4,0
+74168 List of particles 0,0,4,0
+78533 Structure formation 0,0,4,0
+68872 Intensity (physics) 0,0,4,0
+88469 Position (vector) 0,0,4,0
+68926 Neon 0,0,4,0
+90502 Carbon-14 0,0,4,0
+73551 SI derived unit 0,0,4,0
+78353 Displacement (vector) 0,0,4,0
+72315 1,000,000,000 0,0,4,0
+61655 Vibration 0,0,4,0
+37634 Hydrogen atom 0,0,4,0
+72088 Planck units 0,0,4,0
+57740 Mathematical analysis 0,0,4,0
+172151 Nuclear reactor 0,0,4,0
+172250 Alpha decay 0,0,4,0
+178467 State function 0,0,4,0
+195474 Hendrik Lorentz 0,0,4,0
+73667 Metric prefix 0,0,3,0
+63876 Visual perception 0,0,3,0
+73697 Aesthetics 0,0,3,0
+131319 Princeton University 0,0,3,0
+57026 Periodic table 0,0,3,0
+47341 Ptolemy 0,0,3,0
+132641 Paul Feyerabend 0,0,3,0
+32242 Digital data 0,0,3,0
+134921 Radiology 0,0,3,0
+68890 Ampere 0,0,3,0
+37660 Vacuum energy 0,0,3,0
+48337 Global warming 0,0,3,0
+78502 Absorption (electromagnetic radiation) 0,0,3,0
+62068 Astronomical unit 0,0,3,0
+69007 Iron 0,0,3,0
+66214 Probability theory 0,0,3,0
+30657 Space exploration 0,0,3,0
+32321 Integrated circuit 0,0,3,0
+150030 Commutative property 0,0,3,0
+62739 Quantity 0,0,3,0
+66623 World War I 0,0,3,0
+34430 Venus 0,0,3,0
+151144 Political philosophy 0,0,3,0
+152356 Absolute time and space 0,0,3,0
+79242 Geocentric model 0,0,3,0
+152420 Event (relativity) 0,0,3,0
+36652 Radio frequency 0,0,3,0
+33782 Silicon 0,0,3,0
+69579 Minute and second of arc 0,0,3,0
+42971 President of the United States 0,0,3,0
+69597 Thermal equilibrium 0,0,3,0
+161352 Scalar (physics) 0,0,3,0
+39773 Solar wind 0,0,3,0
+80517 Noble gas 0,0,3,0
+162635 Heat capacity 0,0,3,0
+74690 Electromagnetic induction 0,0,3,0
+164654 Property (philosophy) 0,0,3,0
+164862 Fundamental theorem of calculus 0,0,3,0
+165208 Analytic philosophy 0,0,3,0
+69695 Symmetry (physics) 0,0,3,0
+57772 Argument 0,0,3,0
+80475 Weather 0,0,3,0
+165689 Inner product space 0,0,3,0
+165708 Atlas (topology) 0,0,3,0
+69748 Quantization (physics) 0,0,3,0
+67310 Euclid's Elements 0,0,3,0
+35479 Quantification (science) 0,0,3,0
+80651 Argon 0,0,3,0
+50902 Solar energy 0,0,3,0
+67433 Greek mathematics 0,0,3,0
+37820 Cosmic neutrino background 0,0,3,0
+83208 Topology 0,0,3,0
+67518 Shape 0,0,3,0
+57998 Orders of magnitude (numbers) 0,0,3,0
+67535 Charge carrier 0,0,3,0
+40389 European Union 0,0,3,0
+58042 Multiplication 0,0,3,0
+43856 Europe 0,0,3,0
+83734 Nebular hypothesis 0,0,3,0
+67641 Carl Friedrich Gauss 0,0,3,0
+83758 Algebraic geometry 0,0,3,0
+58203 Integer 0,0,3,0
+63204 Graph theory 0,0,3,0
+85006 Meteorology 0,0,3,0
+76010 Intermolecular force 0,0,3,0
+51789 Level of measurement 0,0,3,0
+76201 Electroweak interaction 0,0,3,0
+70323 Spiral galaxy 0,0,3,0
+76252 Globular cluster 0,0,3,0
+167118 Laws of science 0,0,3,0
+90500 Thermodynamic equilibrium 0,0,3,0
+63244 Tangent space 0,0,3,0
+67974 Crystal 0,0,3,0
+90967 Polynomial 0,0,3,0
+167526 Color confinement 0,0,3,0
+76388 Existence 0,0,3,0
+65095 Absolute magnitude 0,0,3,0
+51864 Concept 0,0,3,0
+94526 Metric system 0,0,3,0
+95596 SI base unit 0,0,3,0
+71165 Opacity (optics) 0,0,3,0
+167695 Parity (physics) 0,0,3,0
+168049 Type Ia supernova 0,0,3,0
+36781 Pulsar 0,0,3,0
+40568 Center of mass 0,0,3,0
+40582 Mars 0,0,3,0
+96734 Catholic Church 0,0,3,0
+37905 Physiology 0,0,3,0
+99006 Infinity 0,0,3,0
+46503 Nobel Prize in Literature 0,0,3,0
+68204 Stellar classification 0,0,3,0
+100428 Scholasticism 0,0,3,0
+101973 Classical Greece 0,0,3,0
+104285 Italy 0,0,3,0
+105650 Western philosophy 0,0,3,0
+71976 Anisotropy 0,0,3,0
+64262 Aircraft 0,0,3,0
+71986 Recombination (cosmology) 0,0,3,0
+37938 Cosmic dust 0,0,3,0
+76821 System of measurement 0,0,3,0
+64282 Industry 0,0,3,0
+117138 Protostar 0,0,3,0
+41561 Electrical network 0,0,3,0
+60250 Carbon dioxide 0,0,3,0
+118424 Mechanical energy 0,0,3,0
+68474 Refraction 0,0,3,0
+63668 Nicolaus Copernicus 0,0,3,0
+72100 Sociology 0,0,3,0
+72138 Planck (spacecraft) 0,0,3,0
+60282 Reason 0,0,3,0
+169803 Nova 0,0,3,0
+126943 Height 0,0,3,0
+60442 Mind 0,0,3,0
+169891 Parallax 0,0,3,0
+169925 Convective heat transfer 0,0,3,0
+127390 Order of magnitude 0,0,3,0
+127428 Ionization energies of the elements (data page) 0,0,3,0
+60587 Homeomorphism 0,0,3,0
+65325 Sirius 0,0,3,0
+72416 Causality 0,0,3,0
+63728 Demarcation problem 0,0,3,0
+127723 Nuclear reaction 0,0,3,0
+38653 Spectral density 0,0,3,0
+127739 Pauli exclusion principle 0,0,3,0
+63748 Quantum chemistry 0,0,3,0
+127794 Matter wave 0,0,3,0
+72561 History of science 0,0,3,0
+127807 Binding energy 0,0,3,0
+35067 Ellipse 0,0,3,0
+128138 Infinitesimal 0,0,3,0
+61531 Cartesian coordinate system 0,0,3,0
+61559 Transmission medium 0,0,3,0
+73661 Intensive and extensive properties 0,0,3,0
+47320 Scientist 0,0,3,0
+129131 Lagrangian mechanics 0,0,3,0
+178624 Planck's law 0,0,3,0
+183862 Fermilab 0,0,3,0
+186508 Rationalism 0,0,3,0
+195391 Modern philosophy 0,0,3,0
+129138 Hamiltonian mechanics 0,0,3,0
+196345 Flavour (particle physics) 0,0,3,0
+70408 James Clerk Maxwell 0,0,2,0
+70644 Altitude 0,0,2,0
+80608 Precipitation 0,0,2,0
+80641 Schrödinger equation 0,0,2,0
+37758 Kármán line 0,0,2,0
+80729 Thorium 0,0,2,0
+70701 Buoyancy 0,0,2,0
+83003 Crust (geology) 0,0,2,0
+38730 Applied science 0,0,2,0
+70756 Latitude 0,0,2,0
+70810 Logical consequence 0,0,2,0
+34063 Human spaceflight 0,0,2,0
+36201 Quantum computing 0,0,2,0
+83321 Projective geometry 0,0,2,0
+65774 Earth science 0,0,2,0
+57724 Abstract algebra 0,0,2,0
+65866 Topological space 0,0,2,0
+71340 Plant 0,0,2,0
+43348 Io (moon) 0,0,2,0
+43683 Projectile 0,0,2,0
+66110 Grammatical number 0,0,2,0
+57754 Number theory 0,0,2,0
+71973 Local Group 0,0,2,0
+84837 Water vapor 0,0,2,0
+43687 Medieval Latin 0,0,2,0
+36216 Semiconductor device 0,0,2,0
+85018 Rule of inference 0,0,2,0
+85059 Ball 0,0,2,0
+85541 Continental Europe 0,0,2,0
+86563 Canada 0,0,2,0
+37826 Cosmic background radiation 0,0,2,0
+71995 Quantum fluctuation 0,0,2,0
+66253 Biodiversity 0,0,2,0
+89651 Operations research 0,0,2,0
+89945 Ice 0,0,2,0
+90103 Axial tilt 0,0,2,0
+39058 Cold War 0,0,2,0
+90305 Thermonuclear weapon 0,0,2,0
+66405 Probability density function 0,0,2,0
+45272 Dutch language 0,0,2,0
+90530 Half-life 0,0,2,0
+90576 Coal 0,0,2,0
+90734 Petroleum 0,0,2,0
+37028 Theorem 0,0,2,0
+31474 Computer program 0,0,2,0
+46462 Nobel Prize in Chemistry 0,0,2,0
+91242 Mechanical engineering 0,0,2,0
+92313 Superposition principle 0,0,2,0
+92731 Nation 0,0,2,0
+93302 Arabs 0,0,2,0
+46486 Nobel Prize in Physiology or Medicine 0,0,2,0
+67043 Organic compound 0,0,2,0
+37918 Micro-g environment 0,0,2,0
+94856 Vernacular 0,0,2,0
+46511 Alfred Nobel 0,0,2,0
+67149 Biosphere 0,0,2,0
+95652 United States customary units 0,0,2,0
+95835 Measure (mathematics) 0,0,2,0
+95855 Net force 0,0,2,0
+95886 Adjective 0,0,2,0
+46524 Nobel Peace Prize 0,0,2,0
+95920 Noun 0,0,2,0
+46569 Royal Swedish Academy of Sciences 0,0,2,0
+67292 Applied mathematics 0,0,2,0
+72513 Steady State theory 0,0,2,0
+96840 Sulfur 0,0,2,0
+97726 Stellar dynamics 0,0,2,0
+46658 Nobel Foundation 0,0,2,0
+97815 Magnetohydrodynamics 0,0,2,0
+97855 University 0,0,2,0
+97968 Specific gravity 0,0,2,0
+98484 Greenhouse gas 0,0,2,0
+46693 Swedish language 0,0,2,0
+99094 United States Senate 0,0,2,0
+46731 Sweden 0,0,2,0
+39661 Minor planet 0,0,2,0
+99837 Platonic Academy 0,0,2,0
+72684 Consistency 0,0,2,0
+101033 Chemical substance 0,0,2,0
+101418 Alchemy 0,0,2,0
+73203 Supernatural 0,0,2,0
+103548 Interaction 0,0,2,0
+73332 Classical antiquity 0,0,2,0
+104456 Norm (mathematics) 0,0,2,0
+105294 Steam 0,0,2,0
+105379 Sense 0,0,2,0
+73363 The arts 0,0,2,0
+106266 List of life sciences 0,0,2,0
+106429 National Medal of Science 0,0,2,0
+108957 Rural area 0,0,2,0
+108968 List of Turing Award laureates by university affiliation 0,0,2,0
+108999 List of Fields Medal winners by university affiliation 0,0,2,0
+109809 Consciousness 0,0,2,0
+110041 Mile 0,0,2,0
+67509 Electron hole 0,0,2,0
+110816 Parameter 0,0,2,0
+111148 Resonator 0,0,2,0
+111232 Pendulum 0,0,2,0
+73621 American and British English spelling differences 0,0,2,0
+114943 Lithium 0,0,2,0
+59329 Hydrocarbon 0,0,2,0
+116380 Age of Enlightenment 0,0,2,0
+59596 Engineer 0,0,2,0
+39717 Orbital eccentricity 0,0,2,0
+59828 The Holocaust 0,0,2,0
+67547 History of mathematics 0,0,2,0
+73698 Air shower (physics) 0,0,2,0
+117195 Cosmos Redshift 7 0,0,2,0
+59858 Atmospheric pressure 0,0,2,0
+118233 Scorpius 0,0,2,0
+47158 Mythology 0,0,2,0
+73877 Shock wave 0,0,2,0
+73882 Fermi Gamma-ray Space Telescope 0,0,2,0
+119199 Effective temperature 0,0,2,0
+67623 P–n junction 0,0,2,0
+119733 God 0,0,2,0
+120062 Electricity generation 0,0,2,0
+74012 Chandra X-ray Observatory 0,0,2,0
+122271 Gradient 0,0,2,0
+47187 Space Age 0,0,2,0
+125529 Radiation therapy 0,0,2,0
+126735 Rational number 0,0,2,0
+126847 Metric space 0,0,2,0
+126868 Microsecond 0,0,2,0
+60311 Commonwealth of Nations 0,0,2,0
+74132 Indo-European languages 0,0,2,0
+127342 Electric potential energy 0,0,2,0
+67700 Truth 0,0,2,0
+67724 Richard Feynman 0,0,2,0
+127453 Sun tanning 0,0,2,0
+127565 Red 0,0,2,0
+64236 Counting 0,0,2,0
+127665 Skin cancer 0,0,2,0
+64244 Experience 0,0,2,0
+127703 Generation (particle physics) 0,0,2,0
+37119 Humanities 0,0,2,0
+74334 Up quark 0,0,2,0
+47230 Stockholm 0,0,2,0
+127725 Electron–positron annihilation 0,0,2,0
+74354 Down quark 0,0,2,0
+127735 Annihilation 0,0,2,0
+39806 Orbital period 0,0,2,0
+60833 Perception 0,0,2,0
+60864 Cathode ray tube 0,0,2,0
+47289 New York City 0,0,2,0
+74484 Charged particle 0,0,2,0
+127896 J. J. Thomson 0,0,2,0
+64657 Color 0,0,2,0
+68041 Western world 0,0,2,0
+64677 Kinetic theory of gases 0,0,2,0
+128455 Volt 0,0,2,0
+128652 International System of Quantities 0,0,2,0
+68060 Amorphous solid 0,0,2,0
+128723 Real line 0,0,2,0
+61527 Mechanical wave 0,0,2,0
+36336 Electric power 0,0,2,0
+39910 International Space Station 0,0,2,0
+68210 Solar core 0,0,2,0
+47711 System 0,0,2,0
+32648 Data 0,0,2,0
+34483 Artificial intelligence 0,0,2,0
+130029 National Collegiate Athletic Association 0,0,2,0
+47794 Deity 0,0,2,0
+131537 Church of England 0,0,2,0
+30237 Planetary system 0,0,2,0
+38019 Engine 0,0,2,0
+132409 Peer review 0,0,2,0
+74774 Tesla (unit) 0,0,2,0
+38033 Magnitude (mathematics) 0,0,2,0
+134384 Angle 0,0,2,0
+50157 Discrete mathematics 0,0,2,0
+134969 Anatomy 0,0,2,0
+74868 Intracluster medium 0,0,2,0
+35485 Electrical engineering 0,0,2,0
+135918 Physical constant 0,0,2,0
+62639 Properties of water 0,0,2,0
+136301 Uranium-235 0,0,2,0
+50280 Wire 0,0,2,0
+136474 Trinity (nuclear test) 0,0,2,0
+38139 United Nations 0,0,2,0
+50349 Transmitter 0,0,2,0
+74994 Prediction 0,0,2,0
+139700 Calculus of variations 0,0,2,0
+75006 Scientific community 0,0,2,0
+146361 Beryllium 0,0,2,0
+146376 Supernova remnant 0,0,2,0
+146381 Synthetic element 0,0,2,0
+50362 Radio receiver 0,0,2,0
+148407 Antiderivative 0,0,2,0
+148489 Cellular respiration 0,0,2,0
+149613 Waveguide 0,0,2,0
+149693 Internal energy 0,0,2,0
+149999 Space (mathematics) 0,0,2,0
+62953 Inference 0,0,2,0
+150306 Magnetic monopole 0,0,2,0
+75193 Formal science 0,0,2,0
+75332 Metabolism 0,0,2,0
+50374 Solid-state physics 0,0,2,0
+75749 Microorganism 0,0,2,0
+152325 Observer (special relativity) 0,0,2,0
+75997 Branches of science 0,0,2,0
+29621 Space probe 0,0,2,0
+76136 Present 0,0,2,0
+63015 Object (philosophy) 0,0,2,0
+63040 Perspective (graphical) 0,0,2,0
+153550 Acute radiation syndrome 0,0,2,0
+153729 Lambda 0,0,2,0
+41283 Foundations of mathematics 0,0,2,0
+157299 Totalitarianism 0,0,2,0
+158254 Being 0,0,2,0
+159378 Symmetry 0,0,2,0
+64952 Open cluster 0,0,2,0
+76264 Diameter 0,0,2,0
+160554 Werner Heisenberg 0,0,2,0
+41301 Pluto 0,0,2,0
+162093 Wind 0,0,2,0
+162213 Molecular electronic transition 0,0,2,0
+76341 Amber 0,0,2,0
+162319 Scientific realism 0,0,2,0
+162420 Diffusion 0,0,2,0
+76343 Cancer 0,0,2,0
+35629 Star system 0,0,2,0
+50738 Capacitor 0,0,2,0
+41869 Arabic 0,0,2,0
+164788 Function of several real variables 0,0,2,0
+164791 Real-valued function 0,0,2,0
+164853 Bernhard Riemann 0,0,2,0
+41924 Binary number 0,0,2,0
+164863 Slope 0,0,2,0
+164980 Linear approximation 0,0,2,0
+164989 Tangent 0,0,2,0
+76507 Inflationary epoch 0,0,2,0
+165401 Inequality (mathematics) 0,0,2,0
+68956 Incandescent light bulb 0,0,2,0
+68989 Radiometric dating 0,0,2,0
+68998 Wilhelm Röntgen 0,0,2,0
+69003 Elliptical galaxy 0,0,2,0
+165695 Embedding 0,0,2,0
+165707 Klein bottle 0,0,2,0
+30383 Radio astronomy 0,0,2,0
+165710 Differential structure 0,0,2,0
+69057 Solar time 0,0,2,0
+41977 Kilo- 0,0,2,0
+69127 Graphite 0,0,2,0
+165749 Parallel (geometry) 0,0,2,0
+69135 Lithosphere 0,0,2,0
+69136 Mineral 0,0,2,0
+33979 Unmanned spacecraft 0,0,2,0
+51472 Private university 0,0,2,0
+69276 Extinction event 0,0,2,0
+76854 Scalar field theory 0,0,2,0
+69283 Astrometry 0,0,2,0
+76932 Quintessence (physics) 0,0,2,0
+51780 Qualitative property 0,0,2,0
+77019 Christianity 0,0,2,0
+35802 Stochastic process 0,0,2,0
+42223 American English 0,0,2,0
+77511 Atmospheric sciences 0,0,2,0
+69354 Hydrosphere 0,0,2,0
+69456 Plate tectonics 0,0,2,0
+69502 Reflecting telescope 0,0,2,0
+69548 Earth's magnetic field 0,0,2,0
+63283 Distance (graph theory) 0,0,2,0
+166334 Affine geometry 0,0,2,0
+166638 Axial precession 0,0,2,0
+42245 Terrestrial planet 0,0,2,0
+166881 Johann Wolfgang von Goethe 0,0,2,0
+166932 Georg Wilhelm Friedrich Hegel 0,0,2,0
+69562 Virtual particle 0,0,2,0
+35894 Exoplanet 0,0,2,0
+42312 Great Observatories program 0,0,2,0
+42327 Independent agencies of the United States government 0,0,2,0
+69599 Ontology 0,0,2,0
+69635 Interference (wave propagation) 0,0,2,0
+167400 Physics beyond the Standard Model 0,0,2,0
+167425 Leonardo da Vinci 0,0,2,0
+30456 Research 0,0,2,0
+69651 Microscopic scale 0,0,2,0
+167503 State-space representation 0,0,2,0
+69667 Mantle (geology) 0,0,2,0
+78080 Disease 0,0,2,0
+69669 Superconductivity 0,0,2,0
+38447 Acronym 0,0,2,0
+167604 Radioluminescence 0,0,2,0
+69693 Photochemistry 0,0,2,0
+167612 Color charge 0,0,2,0
+42507 Apollo program 0,0,2,0
+65149 Cell (biology) 0,0,2,0
+167648 Isotopes of nitrogen 0,0,2,0
+69711 Compton scattering 0,0,2,0
+167903 Fog 0,0,2,0
+54750 Tuple 0,0,2,0
+78329 Time derivative 0,0,2,0
+38533 Coherence (physics) 0,0,2,0
+37723 Basic research 0,0,2,0
+78357 Friction 0,0,2,0
+169090 Subtended angle 0,0,2,0
+78389 Deformation (engineering) 0,0,2,0
+56691 Concrete 0,0,2,0
+78425 Modified Newtonian dynamics 0,0,2,0
+78480 Torque 0,0,2,0
+63707 Discipline (academia) 0,0,2,0
+69792 Spectral line 0,0,2,0
+42743 Space Shuttle 0,0,2,0
+78651 Phase space 0,0,2,0
+69813 Gauge theory 0,0,2,0
+36763 Radio telescope 0,0,2,0
+69843 Human eye 0,0,2,0
+42858 Tidal locking 0,0,2,0
+169468 Joseph Hooton Taylor Jr. 0,0,2,0
+78806 Picosecond 0,0,2,0
+78986 Spectrum 0,0,2,0
+57231 Conceptual model 0,0,2,0
+69882 Scientific consensus 0,0,2,0
+79198 Diffraction 0,0,2,0
+79229 Tycho Brahe 0,0,2,0
+42928 Giant-impact hypothesis 0,0,2,0
+63754 Industrialisation 0,0,2,0
+79331 Multiverse 0,0,2,0
+79409 Stress (mechanics) 0,0,2,0
+36084 Statistics 0,0,2,0
+79451 Dynamics (mechanics) 0,0,2,0
+79598 Quantum optics 0,0,2,0
+79708 Philosophy of physics 0,0,2,0
+79709 Function space 0,0,2,0
+42989 Diode 0,0,2,0
+79716 Complex analysis 0,0,2,0
+70090 Developed country 0,0,2,0
+79756 Tissue (biology) 0,0,2,0
+70198 Transverse wave 0,0,2,0
+79870 Function composition 0,0,2,0
+170060 Electrochemistry 0,0,2,0
+170128 Doppler effect 0,0,2,0
+70245 Heinrich Hertz 0,0,2,0
+79974 Monatomic gas 0,0,2,0
+80005 Helios 0,0,2,0
+57327 Spacecraft 0,0,2,0
+80023 0 (number) 0,0,2,0
+70277 Galaxy group 0,0,2,0
+170313 Stellar population 0,0,2,0
+63838 Society 0,0,2,0
+80049 Symbol (chemistry) 0,0,2,0
+80082 History 0,0,2,0
+80153 Nuclear binding energy 0,0,2,0
+80218 Ore 0,0,2,0
+170616 Flux 0,0,2,0
+80226 Natural gas 0,0,2,0
+170663 Paradox 0,0,2,0
+170707 Robert Andrews Millikan 0,0,2,0
+170909 Hanford Site 0,0,2,0
+171252 Problem of induction 0,0,2,0
+171269 Philosophy of space and time 0,0,2,0
+171303 The Structure of Scientific Revolutions 0,0,2,0
+171427 Logical positivism 0,0,2,0
+171495 Thomas Kuhn 0,0,2,0
+172077 Fissile material 0,0,2,0
+172090 Ternary fission 0,0,2,0
+172133 Mutation 0,0,2,0
+172143 Nuclear chain reaction 0,0,2,0
+80261 Hilbert space 0,0,2,0
+80309 Linear equation 0,0,2,0
+172350 Cluster decay 0,0,2,0
+172479 Otto Hahn 0,0,2,0
+172785 Covariance and contravariance of vectors 0,0,2,0
+172831 Walter Baade 0,0,2,0
+173246 Christian theology 0,0,2,0
+174676 Dialogue 0,0,2,0
+175636 Measurement uncertainty 0,0,2,0
+176315 Sagittarius (constellation) 0,0,2,0
+176702 Scattering 0,0,2,0
+177074 Friedrich Nietzsche 0,0,2,0
+177376 Noumenon 0,0,2,0
+177524 Radium 0,0,2,0
+178126 Wave equation 0,0,2,0
+178335 Thermodynamic system 0,0,2,0
+178410 Refractive index 0,0,2,0
+80353 Combustion 0,0,2,0
+178541 Medical radiography 0,0,2,0
+80429 Transparency and translucency 0,0,2,0
+178649 Bremsstrahlung 0,0,2,0
+178667 Cosmos 0,0,2,0
+178696 Picometre 0,0,2,0
+178944 X-ray tube 0,0,2,0
+179201 Energy density 0,0,2,0
+179290 Supercluster 0,0,2,0
+180602 Boson 0,0,2,0
+181022 Pion 0,0,2,0
+181041 Gustav Kirchhoff 0,0,2,0
+181104 Kaiser Wilhelm Society 0,0,2,0
+181222 Interpretations of quantum mechanics 0,0,2,0
+181631 Primary standard 0,0,2,0
+181821 Atomic physics 0,0,2,0
+182466 Virgo Cluster 0,0,2,0
+182477 Scale factor (cosmology) 0,0,2,0
+183853 Brookhaven National Laboratory 0,0,2,0
+38678 Laser printing 0,0,2,0
+184021 Cyclotron 0,0,2,0
+80470 Celestial sphere 0,0,2,0
+187221 Religious cosmology 0,0,2,0
+187257 Creation myth 0,0,2,0
+187758 Atheism 0,0,2,0
+190205 Pre-Socratic philosophy 0,0,2,0
+191510 Intellectual 0,0,2,0
+194591 Christian Wolff (philosopher) 0,0,2,0
+43041 Earth tide 0,0,2,0
+195416 Critique of Judgment 0,0,2,0
+80503 Alfred North Whitehead 0,0,2,0
+195577 Apologetics 0,0,2,0
+195876 SLAC National Accelerator Laboratory 0,0,2,0
+196015 Bottom quark 0,0,2,0
+70391 John von Neumann 0,0,2,0
+202251 Thermal reservoir 0,0,2,0
+202984 Non-renewable resource 0,0,2,0
+207045 Tidal power 0,0,2,0
+207841 Bohr model 0,0,2,0
+208356 John Locke 0,0,2,0
+211059 Noether's theorem 0,0,2,0
+372762 Analytic–synthetic distinction 0,0,2,0
+393996 Topological manifold 0,0,2,0
+408080 Elwin Bruno Christoffel 0,0,2,0
+408278 Cauchy stress tensor 0,0,2,0
+74048 Diatomic molecule 0,0,1,0
+42359 Commercial Crew Development 0,0,1,0
+74094 Ludwig Wittgenstein 0,0,1,0
+42362 Aeronautics 0,0,1,0
+62441 Feedback 0,0,1,0
+62504 Transmission line 0,0,1,0
+42369 Launch Services Program 0,0,1,0
+30554 Machine 0,0,1,0
+36299 Plain text 0,0,1,0
+37833 Outer Space Treaty 0,0,1,0
+42551 Heliophysics 0,0,1,0
+42577 Paris 0,0,1,0
+62957 Academic journal 0,0,1,0
+62965 Plane curve 0,0,1,0
+74397 Fahrenheit 0,0,1,0
+74402 Hebrew language 0,0,1,0
+62971 Binary relation 0,0,1,0
+62977 Focus (geometry) 0,0,1,0
+42660 Skylab 0,0,1,0
+36304 Amplifier 0,0,1,0
+62990 Cylinder (geometry) 0,0,1,0
+62991 Eccentricity (mathematics) 0,0,1,0
+42736 Claimed moons of Earth 0,0,1,0
+37898 Anti-satellite weapon 0,0,1,0
+74610 Near and far field 0,0,1,0
+74611 Atomic electron transition 0,0,1,0
+33964 Arithmetic 0,0,1,0
+74687 Static electricity 0,0,1,0
+63064 Document 0,0,1,0
+63071 Barycenter 0,0,1,0
+42780 Space Launch System 0,0,1,0
+42815 Primary (astronomy) 0,0,1,0
+42817 Theia (planet) 0,0,1,0
+42852 Greenhouse Gases Observing Satellite 0,0,1,0
+63129 Parabola 0,0,1,0
+30255 Information theory 0,0,1,0
+42861 Lunar mare 0,0,1,0
+74785 Thermodynamic temperature 0,0,1,0
+74791 Lift (force) 0,0,1,0
+74795 Sea level 0,0,1,0
+74830 Magnet 0,0,1,0
+42867 Dwight D. Eisenhower 0,0,1,0
+74843 Electromagnetic tensor 0,0,1,0
+37922 Muscle atrophy 0,0,1,0
+74863 Hall effect 0,0,1,0
+42935 Alpha 0,0,1,0
+42939 Near side of the Moon 0,0,1,0
+74889 Double layer (plasma physics) 0,0,1,0
+74895 Magnetic circuit 0,0,1,0
+74900 Neon sign 0,0,1,0
+74906 Fusion power 0,0,1,0
+63211 Planetary surface 0,0,1,0
+63223 Great circle 0,0,1,0
+42944 Moonlight 0,0,1,0
+74967 Shock waves in astrophysics 0,0,1,0
+63237 Local property 0,0,1,0
+74982 Explanation 0,0,1,0
+74983 Physical universe 0,0,1,0
+74992 Theodore von Kármán 0,0,1,0
+42945 Orion (spacecraft) 0,0,1,0
+63245 Affine connection 0,0,1,0
+75050 Book of Optics 0,0,1,0
+75114 Airship 0,0,1,0
+63260 Vertex (graph theory) 0,0,1,0
+63264 Levi-Civita connection 0,0,1,0
+75153 Biological process 0,0,1,0
+75161 Death 0,0,1,0
+63274 Parallel transport 0,0,1,0
+75200 Mathematical and theoretical biology 0,0,1,0
+75210 Classical element 0,0,1,0
+75286 Middle East 0,0,1,0
+63281 Graph (discrete mathematics) 0,0,1,0
+75665 Organ (anatomy) 0,0,1,0
+42954 Reflectance 0,0,1,0
+75701 Pathology 0,0,1,0
+36360 Switch 0,0,1,0
+75754 Bacteria 0,0,1,0
+75870 Mahābhūta 0,0,1,0
+75893 Animal 0,0,1,0
+75922 Effect of spaceflight on the human body 0,0,1,0
+37957 Yuri Gagarin 0,0,1,0
+43000 Lunar calendar 0,0,1,0
+76020 Molecular orbital 0,0,1,0
+76026 Iron ore 0,0,1,0
+76048 Stellar kinematics 0,0,1,0
+76130 Permittivity 0,0,1,0
+63312 Test particle 0,0,1,0
+76160 Spirit 0,0,1,0
+76189 Ball (mathematics) 0,0,1,0
+76192 Mathematical descriptions of the electromagnetic field 0,0,1,0
+37963 Spaceflight osteopenia 0,0,1,0
+63319 Geodesy 0,0,1,0
+43040 Moon in fiction 0,0,1,0
+76217 Interstellar cloud 0,0,1,0
+76219 Permeability (electromagnetism) 0,0,1,0
+36372 Julius Edgar Lilienfeld 0,0,1,0
+63410 Scientific law 0,0,1,0
+76295 T Tauri star 0,0,1,0
+76301 Pleiades 0,0,1,0
+76307 Pillars of Creation 0,0,1,0
+76311 Beehive Cluster 0,0,1,0
+76317 Eagle Nebula 0,0,1,0
+76320 Machine (mechanical) 0,0,1,0
+43045 Tidal acceleration 0,0,1,0
+43047 Age of the Earth 0,0,1,0
+43055 List of lunar deities 0,0,1,0
+43058 Illuminance 0,0,1,0
+63691 Interdisciplinarity 0,0,1,0
+63694 Biophysics 0,0,1,0
+76409 Hyades (star cluster) 0,0,1,0
+43074 Asphalt concrete 0,0,1,0
+76461 Orion Nebula 0,0,1,0
+43082 List of Solar System objects by size 0,0,1,0
+76516 Andromeda Galaxy 0,0,1,0
+43093 New Horizons 0,0,1,0
+63716 Major appliance 0,0,1,0
+76563 Wind power 0,0,1,0
+43103 Impact crater 0,0,1,0
+43124 Geology of the Moon 0,0,1,0
+43129 Internal structure of the Moon 0,0,1,0
+76609 List of countries and territories by population density 0,0,1,0
+31265 Latin alphabet 0,0,1,0
+76626 List of sovereign states and dependencies by area 0,0,1,0
+36381 Walter Houser Brattain 0,0,1,0
+43161 Lunar phase 0,0,1,0
+43166 Angular diameter 0,0,1,0
+43183 Ancient history 0,0,1,0
+76745 Nomad 0,0,1,0
+43197 Ammonia 0,0,1,0
+43210 Solar eclipse 0,0,1,0
+43220 Old Italic script 0,0,1,0
+76845 Conversion of units 0,0,1,0
+31299 Missile 0,0,1,0
+43311 Moon rock 0,0,1,0
+76928 Moduli (physics) 0,0,1,0
+36410 Calculator 0,0,1,0
+36441 Doping (semiconductor) 0,0,1,0
+43368 Methane 0,0,1,0
+43411 Luna programme 0,0,1,0
+77105 Cyclic model 0,0,1,0
+77125 Equation of state (cosmology) 0,0,1,0
+43432 Astrology 0,0,1,0
+77184 Calcium 0,0,1,0
+77219 Ban Ki-moon 0,0,1,0
+77229 Islam 0,0,1,0
+77323 List of countries and dependencies by population 0,0,1,0
+77331 Deceleration parameter 0,0,1,0
+77365 List of largest empires 0,0,1,0
+77404 Alexander the Great 0,0,1,0
+77444 Purchasing power parity 0,0,1,0
+77503 Gross domestic product 0,0,1,0
+77507 Conversion of units of temperature 0,0,1,0
+77508 List of countries by GDP (nominal) 0,0,1,0
+43637 Precision-guided munition 0,0,1,0
+77522 List of countries by GDP (PPP) 0,0,1,0
+77545 Zero-point energy 0,0,1,0
+38036 Spaceflight 0,0,1,0
+77566 Thermometer 0,0,1,0
+77615 List of states with nuclear weapons 0,0,1,0
+38069 Computational complexity theory 0,0,1,0
+77651 Treaty on the Non-Proliferation of Nuclear Weapons 0,0,1,0
+77671 Council of Europe 0,0,1,0
+77716 World Trade Organization 0,0,1,0
+36454 William Shockley 0,0,1,0
+43879 Apollo 8 0,0,1,0
+43913 Culture 0,0,1,0
+43955 Electrode 0,0,1,0
+43957 Celtic languages 0,0,1,0
+77883 G20 0,0,1,0
+44024 Apollo 17 0,0,1,0
+44044 Mechanism (engineering) 0,0,1,0
+44054 Romance languages 0,0,1,0
+44105 Fixed-wing aircraft 0,0,1,0
+44133 Thrust 0,0,1,0
+44280 Mainframe computer 0,0,1,0
+44366 Symbol 0,0,1,0
+34170 Numerical analysis 0,0,1,0
+44486 Philosophy of language 0,0,1,0
+34240 Satellite 0,0,1,0
+78176 Mechanical advantage 0,0,1,0
+44532 Wright brothers 0,0,1,0
+64095 Torus 0,0,1,0
+44540 Philology 0,0,1,0
+78282 Optical cavity 0,0,1,0
+36572 List of IEEE milestones 0,0,1,0
+45445 Atlantic Ocean 0,0,1,0
+64149 Protoplanetary disk 0,0,1,0
+45585 U.S. state 0,0,1,0
+78330 Gaspard-Gustave de Coriolis 0,0,1,0
+45650 Robotics 0,0,1,0
+45861 Grace Hopper 0,0,1,0
+45881 Horology 0,0,1,0
+45909 Jersey 0,0,1,0
+34330 Central processing unit 0,0,1,0
+78406 Conformal gravity 0,0,1,0
+31366 Airplane 0,0,1,0
+78443 Weakly interacting massive particles 0,0,1,0
+78454 Maser 0,0,1,0
+78460 Polarization (waves) 0,0,1,0
+78478 Ultra diffuse galaxy 0,0,1,0
+46023 Kingdom of England 0,0,1,0
+78500 Tensor–vector–scalar gravity 0,0,1,0
+46076 Trenton, New Jersey 0,0,1,0
+78532 Angular acceleration 0,0,1,0
+46177 Global Positioning System 0,0,1,0
+78544 Dragonfly 44 0,0,1,0
+64383 Siemens 0,0,1,0
+78629 Operationalization 0,0,1,0
+46302 Philadelphia 0,0,1,0
+78660 Population dynamics 0,0,1,0
+46396 England 0,0,1,0
+78669 Statistical physics 0,0,1,0
+34417 Uranus 0,0,1,0
+78714 NATO 0,0,1,0
+78733 Electromagnetic pulse 0,0,1,0
+46467 Electrum 0,0,1,0
+38397 Optical amplifier 0,0,1,0
+31400 Semantics 0,0,1,0
+78960 History of electric power transmission 0,0,1,0
+1181188 Azaria 0,0,1,0
+78995 Bioluminescence 0,0,1,0
+79011 Electric light 0,0,1,0
+79043 Mathematical constant 0,0,1,0
+79124 Automated theorem proving 0,0,1,0
+79157 Abductive reasoning 0,0,1,0
+46517 Norwegian Nobel Committee 0,0,1,0
+79166 Proof assistant 0,0,1,0
+36674 John Bardeen 0,0,1,0
+38451 Stimulated emission 0,0,1,0
+46630 Diploma 0,0,1,0
+38461 Laser cutting 0,0,1,0
+79260 Principle of maximum entropy 0,0,1,0
+79261 Pitch (music) 0,0,1,0
+79281 Law 0,0,1,0
+79300 Spatial frequency 0,0,1,0
+46660 Netherlands 0,0,1,0
+38464 Photolithography 0,0,1,0
+79347 Photocopier 0,0,1,0
+46701 Swedish Academy 0,0,1,0
+46726 Swedes 0,0,1,0
+31561 New Jersey 0,0,1,0
+79464 Electron beam welding 0,0,1,0
+79476 Electric arc 0,0,1,0
+79520 Arc welding 0,0,1,0
+46757 Nobel Assembly at Karolinska Institutet 0,0,1,0
+79601 Time of flight 0,0,1,0
+79668 Infrared telescope 0,0,1,0
+79669 Accademia dei Lincei 0,0,1,0
+79696 Ordered pair 0,0,1,0
+79700 Sidereus Nuncius 0,0,1,0
+79701 Event (philosophy) 0,0,1,0
+79705 Giovanni Demisiani 0,0,1,0
+38543 Ultrashort pulse 0,0,1,0
+46775 Nobel Memorial Prize in Economic Sciences 0,0,1,0
+64885 Double star 0,0,1,0
+46962 Norwegian language 0,0,1,0
+79720 Paradigm 0,0,1,0
+46982 Wireless 0,0,1,0
+79754 Real analysis 0,0,1,0
+46990 Prefix 0,0,1,0
+47061 IAU definition of planet 0,0,1,0
+47096 Grammatical gender 0,0,1,0
+38555 Barcode reader 0,0,1,0
+79918 Historiography 0,0,1,0
+47125 Magnetometer 0,0,1,0
+79997 Inert 0,0,1,0
+80003 Boiling point 0,0,1,0
+47131 Elliptic orbit 0,0,1,0
+47138 Formula 0,0,1,0
+80021 Pierre Janssen 0,0,1,0
+47150 Deferent and epicycle 0,0,1,0
+38557 Arthur Leonard Schawlow 0,0,1,0
+47181 Tectonics 0,0,1,0
+80036 Solar eclipse of August 18, 1868 0,0,1,0
+80038 Helium-4 0,0,1,0
+80047 Superfluidity 0,0,1,0
+38560 Television 0,0,1,0
+80056 Radiogenic nuclide 0,0,1,0
+80057 Abraham Langlet 0,0,1,0
+80064 Fractional distillation 0,0,1,0
+80069 Helium cryogenics 0,0,1,0
+80074 Natural gas field 0,0,1,0
+80081 Parts-per notation 0,0,1,0
+47192 Ice cap 0,0,1,0
+80088 Human voice 0,0,1,0
+80120 Balloon 0,0,1,0
+80125 List of Greek mythological figures 0,0,1,0
+80133 Timeline of chemical element discoveries 0,0,1,0
+80137 Norman Lockyer 0,0,1,0
+47201 Solar analog 0,0,1,0
+80185 Remote sensing 0,0,1,0
+80186 Cleveite 0,0,1,0
+80210 Latinisation of names 0,0,1,0
+36749 Angular resolution 0,0,1,0
+47210 Oslo 0,0,1,0
+38604 Free-space optical communication 0,0,1,0
+38606 Law enforcement 0,0,1,0
+80322 Escape velocity 0,0,1,0
+80338 Per Teodor Cleve 0,0,1,0
+34719 Computer animation 0,0,1,0
+80383 Apsis 0,0,1,0
+80427 Acid–base reaction 0,0,1,0
+47305 Hydrology 0,0,1,0
+80434 Chemical species 0,0,1,0
+80437 Ionic compound 0,0,1,0
+80453 Electrolysis of water 0,0,1,0
+29672 Programming language 0,0,1,0
+80458 Hydride 0,0,1,0
+80464 Cracking (chemistry) 0,0,1,0
+80469 Gottlob Frege 0,0,1,0
+38643 Collimated light 0,0,1,0
+47358 Kepler-20e 0,0,1,0
+80500 Lightning 0,0,1,0
+47369 Motor vehicle 0,0,1,0
+47442 Transport 0,0,1,0
+80509 Relative atomic mass 0,0,1,0
+47505 WASP-17b 0,0,1,0
+47516 Kepler-20f 0,0,1,0
+80574 Blue 0,0,1,0
+47532 Kepler-37b 0,0,1,0
+80638 Nonmetal 0,0,1,0
+65156 Chaos theory 0,0,1,0
+47536 Climate change 0,0,1,0
+47549 Gasoline 0,0,1,0
+80785 Taste 0,0,1,0
+47557 Deflagration 0,0,1,0
+81477 History of Iran 0,0,1,0
+81494 Hydrogen embrittlement 0,0,1,0
+81508 Judaism 0,0,1,0
+81535 Metallurgy 0,0,1,0
+81949 Hydrogen production 0,0,1,0
+81965 Space capsule 0,0,1,0
+82382 Chemical formula 0,0,1,0
+82410 Space Shuttle Discovery 0,0,1,0
+82463 Sedentism 0,0,1,0
+82470 Cooking 0,0,1,0
+82556 Vietnam War 0,0,1,0
+82639 Ritual 0,0,1,0
+82654 Pluricentric language 0,0,1,0
+82931 Coordinated Universal Time 0,0,1,0
+82970 Aerodynamic drag 0,0,1,0
+82983 Michael D. Griffin 0,0,1,0
+47564 Internal combustion engine 0,0,1,0
+83061 List of geometers 0,0,1,0
+83070 Mathematical sciences 0,0,1,0
+47584 Volcano 0,0,1,0
+83096 Quadrivium 0,0,1,0
+47607 Norway 0,0,1,0
+47647 Gravitational microlensing 0,0,1,0
+83250 Thales 0,0,1,0
+47686 Tropical cyclone 0,0,1,0
+47707 Kepler-20 0,0,1,0
+65255 Cygnus X-1 0,0,1,0
+38650 HRL Laboratories 0,0,1,0
+83355 Liberal arts education 0,0,1,0
+83404 Leonhard Euler 0,0,1,0
+83548 Fractal 0,0,1,0
+31640 Watch 0,0,1,0
+83577 Archimedes 0,0,1,0
+47744 3 Juno 0,0,1,0
+34786 Saturn 0,0,1,0
+38686 Welding 0,0,1,0
+65357 Abiotic component 0,0,1,0
+65372 Master's degree 0,0,1,0
+83779 Planetary migration 0,0,1,0
+83793 Timeline of the far future 0,0,1,0
+83985 Fatimid Caliphate 0,0,1,0
+47822 2 Pallas 0,0,1,0
+84039 Emanuel Swedenborg 0,0,1,0
+84102 Evaporation 0,0,1,0
+47838 Profiling (computer programming) 0,0,1,0
+84229 Jurisdiction 0,0,1,0
+84260 Transducer 0,0,1,0
+84295 Republic of Ireland 0,0,1,0
+84319 Supersonic speed 0,0,1,0
+84323 Corona 0,0,1,0
+84366 Turkish people 0,0,1,0
+84387 British Empire 0,0,1,0
+84407 Nickel 0,0,1,0
+84467 Thermal conductivity 0,0,1,0
+84524 One-party state 0,0,1,0
+84806 United States Congress 0,0,1,0
+48246 Kepler (spacecraft) 0,0,1,0
+84848 Ionosphere 0,0,1,0
+84874 Red Army 0,0,1,0
+84970 First principle 0,0,1,0
+84991 Vapor 0,0,1,0
+85003 Anti-aircraft warfare 0,0,1,0
+65445 Nutrient cycle 0,0,1,0
+65470 Community (ecology) 0,0,1,0
+85013 Type–token distinction 0,0,1,0
+65516 Ecosystem services 0,0,1,0
+48309 Email 0,0,1,0
+85336 Democracy 0,0,1,0
+85356 Power (international relations) 0,0,1,0
+85438 List of countries by military expenditures 0,0,1,0
+85458 Parliamentary system 0,0,1,0
+85526 Urban area 0,0,1,0
+65577 Agriculture 0,0,1,0
+86216 Elevation 0,0,1,0
+86222 Map projection 0,0,1,0
+86285 Longitude 0,0,1,0
+86317 American Revolution 0,0,1,0
+86460 Kingdom of Great Britain 0,0,1,0
+38712 Fiber-optic communication 0,0,1,0
+86701 United States Constitution 0,0,1,0
+86725 Human Development Index 0,0,1,0
+87707 Member state of the European Union 0,0,1,0
+87920 European Economic Community 0,0,1,0
+88070 Encyclopædia Britannica 0,0,1,0
+65685 Resource (biology) 0,0,1,0
+88613 Fluid mechanics 0,0,1,0
+48946 Entrepreneurship 0,0,1,0
+88874 Maxima and minima 0,0,1,0
+65705 Evolutionary biology 0,0,1,0
+89133 Trinity College, Cambridge 0,0,1,0
+89305 United Kingdom European Union membership referendum, 2016 0,0,1,0
+48991 Infrastructure 0,0,1,0
+89653 Binary system 0,0,1,0
+89693 Center-of-momentum frame 0,0,1,0
+89901 Radiant flux 0,0,1,0
+89938 Borough (New Jersey) 0,0,1,0
+65748 Gene 0,0,1,0
+89962 2010 United States Census 0,0,1,0
+89975 Exothermic process 0,0,1,0
+90100 Fixed stars 0,0,1,0
+49022 World population 0,0,1,0
+90104 Jargon 0,0,1,0
+90143 Mercury (mythology) 0,0,1,0
+90155 Idea 0,0,1,0
+90191 Planetary phase 0,0,1,0
+65780 Deterministic system 0,0,1,0
+49409 Euro sign 0,0,1,0
+90357 MESSENGER 0,0,1,0
+90388 Township (New Jersey) 0,0,1,0
+90429 Money (magazine) 0,0,1,0
+90493 Carbon-13 0,0,1,0
+90497 Carbon-12 0,0,1,0
+65826 Codomain 0,0,1,0
+65834 Electrocardiography 0,0,1,0
+49465 Iraq 0,0,1,0
+90562 Methane clathrate 0,0,1,0
+49528 International Telecommunication Union 0,0,1,0
+65895 Natural history 0,0,1,0
+90747 Diamond 0,0,1,0
+90791 Water cycle 0,0,1,0
+65900 Random walk 0,0,1,0
+65937 Terrain 0,0,1,0
+91049 Mathematical theory 0,0,1,0
+65940 Metric (mathematics) 0,0,1,0
+91182 Clyde Tombaugh 0,0,1,0
+65990 Electroencephalography 0,0,1,0
+91290 Great Depression 0,0,1,0
+91316 Lead (electronics) 0,0,1,0
+91603 Geiger counter 0,0,1,0
+91630 Cherenkov radiation 0,0,1,0
+91824 Statistician 0,0,1,0
+92158 Undecidable problem 0,0,1,0
+66012 Metric tensor 0,0,1,0
+92372 Laplace transform 0,0,1,0
+92416 Capacitance 0,0,1,0
+92419 Inductor 0,0,1,0
+92632 Network analysis (electrical circuits) 0,0,1,0
+66032 Wind wave 0,0,1,0
+93023 Data processing system 0,0,1,0
+93076 Silk 0,0,1,0
+49535 Cairo 0,0,1,0
+66080 Cube 0,0,1,0
+93800 Ancient Greek philosophy 0,0,1,0
+93839 National Institutes of Health 0,0,1,0
+93954 Marriage 0,0,1,0
+94000 William Shakespeare 0,0,1,0
+94065 Silver 0,0,1,0
+94327 Christian 0,0,1,0
+36875 Spaceport 0,0,1,0
+94462 1 (number) 0,0,1,0
+38725 Calculation 0,0,1,0
+94535 Antoine Lavoisier 0,0,1,0
+94583 Carbohydrate 0,0,1,0
+94637 2 (number) 0,0,1,0
+94709 Cellulose 0,0,1,0
+50142 Continuous function 0,0,1,0
+94878 Group of Eight 0,0,1,0
+94928 Late Middle Ages 0,0,1,0
+94972 Petrarch 0,0,1,0
+95062 Dynamic equilibrium 0,0,1,0
+95069 Scotland 0,0,1,0
+95203 Italians 0,0,1,0
+95227 Northern Ireland 0,0,1,0
+95438 British people 0,0,1,0
+95505 Metonymy 0,0,1,0
+34815 Neptune 0,0,1,0
+95608 Metrication in Canada 0,0,1,0
+95609 Centimetre–gram–second system of units 0,0,1,0
+66223 Jet Propulsion Laboratory 0,0,1,0
+95619 Coherence (units of measurement) 0,0,1,0
+95635 General Conference on Weights and Measures 0,0,1,0
+95639 Metrication in the United Kingdom 0,0,1,0
+95649 Metrication 0,0,1,0
+95650 Metrication in the United States 0,0,1,0
+38744 Laser rangefinder 0,0,1,0
+95657 Metre Convention 0,0,1,0
+95666 MKS system of units 0,0,1,0
+95733 Coplanarity 0,0,1,0
+95738 Partial Nuclear Test Ban Treaty 0,0,1,0
+95759 Sunrise 0,0,1,0
+95773 Earth's rotation 0,0,1,0
+50251 Electric generator 0,0,1,0
+66287 Red dwarf 0,0,1,0
+50262 Nonlinear system 0,0,1,0
+66376 Evolution 0,0,1,0
+50269 Electric motor 0,0,1,0
+95924 Pronoun 0,0,1,0
+95936 Micrometer 0,0,1,0
+38748 Laser lighting display 0,0,1,0
+66547 Probability 0,0,1,0
+95988 Fusional language 0,0,1,0
+96001 Vulgar Latin 0,0,1,0
+96232 Romanian language 0,0,1,0
+96267 Medieval philosophy 0,0,1,0
+96657 Thomas Aquinas 0,0,1,0
+50292 Resistor 0,0,1,0
+96778 Roman Empire 0,0,1,0
+38751 Effective method 0,0,1,0
+96920 Turbulence 0,0,1,0
+97015 Classical Latin 0,0,1,0
+97152 List of urban areas in the European Union 0,0,1,0
+50331 Battery (electricity) 0,0,1,0
+97744 Time travel 0,0,1,0
+97757 Astroparticle physics 0,0,1,0
+97793 Bachelor's degree 0,0,1,0
+66914 Map 0,0,1,0
+66962 Green 0,0,1,0
+67010 Planetary science 0,0,1,0
+97864 Atomic, molecular, and optical physics 0,0,1,0
+97935 Specific weight 0,0,1,0
+97937 Wormhole 0,0,1,0
+97938 Dimensionless quantity 0,0,1,0
+97948 Relative density 0,0,1,0
+38753 Optical disc drive 0,0,1,0
+97969 Space Shuttle Columbia disaster 0,0,1,0
+97999 Mass concentration (chemistry) 0,0,1,0
+98021 Tonne 0,0,1,0
+98069 Article One of the United States Constitution 0,0,1,0
+98099 Space Shuttle Challenger disaster 0,0,1,0
+98106 Rho 0,0,1,0
+98129 Specific volume 0,0,1,0
+98149 Scientific journal 0,0,1,0
+98266 Iridium 0,0,1,0
+98335 Greenhouse effect 0,0,1,0
+98366 Osmium 0,0,1,0
+67034 Proxima Centauri 0,0,1,0
+38762 Theodore Harold Maiman 0,0,1,0
+99009 Crystallinity 0,0,1,0
+99043 Lunar month 0,0,1,0
+99065 Classical language 0,0,1,0
+38767 Femtosecond 0,0,1,0
+99098 Latium 0,0,1,0
+99119 List of English words of Italian origin 0,0,1,0
+99121 List of medical roots, suffixes and prefixes 0,0,1,0
+99125 List of Latin and Greek words commonly used in systematic names 0,0,1,0
+99129 List of Latin words with English derivatives 0,0,1,0
+99131 List of English words of French origin 0,0,1,0
+67058 Cambridge, Massachusetts 0,0,1,0
+99134 Terence 0,0,1,0
+99137 Plautus 0,0,1,0
+99158 Old Latin 0,0,1,0
+99175 Epigraphy 0,0,1,0
+99184 Roman Rite 0,0,1,0
+99194 Grammatical tense 0,0,1,0
+99205 Holy Orders (Catholic Church) 0,0,1,0
+99210 Italic languages 0,0,1,0
+99220 Grammatical case 0,0,1,0
+99225 Renaissance Latin 0,0,1,0
+99226 New Latin 0,0,1,0
+99227 Voice (grammar) 0,0,1,0
+99228 Grammatical conjugation 0,0,1,0
+99234 Diurnal cycle 0,0,1,0
+99257 Grammatical aspect 0,0,1,0
+99308 Italian Peninsula 0,0,1,0
+99375 Photometry (optics) 0,0,1,0
+99397 Late Latin 0,0,1,0
+99406 Ecclesiastical Latin 0,0,1,0
+99424 Holy See 0,0,1,0
+67138 Statistical hypothesis testing 0,0,1,0
+99504 Roman Republic 0,0,1,0
+99652 Erosion 0,0,1,0
+99669 Bathymetry 0,0,1,0
+99676 Storm surge 0,0,1,0
+99710 Tide gauge 0,0,1,0
+99716 Amphidromic point 0,0,1,0
+99722 Paleoclimatology 0,0,1,0
+99786 Early Middle Ages 0,0,1,0
+38769 Charles H. Townes 0,0,1,0
+99912 Eclipse 0,0,1,0
+99990 Late Antiquity 0,0,1,0
+100071 Modern history 0,0,1,0
+100285 Potassium 0,0,1,0
+100296 Magnesium 0,0,1,0
+100396 Titanium 0,0,1,0
+37002 Atmospheric entry 0,0,1,0
+100575 Ethnic group 0,0,1,0
+100662 Kingdom of Scotland 0,0,1,0
+100750 Countries of the United Kingdom 0,0,1,0
+100848 Rømer's determination of the speed of light 0,0,1,0
+100888 Radiative forcing 0,0,1,0
+30630 Algorithm 0,0,1,0
+101165 Explanatory power 0,0,1,0
+67182 Solvent 0,0,1,0
+101605 Pseudoscience 0,0,1,0
+101776 Rome 0,0,1,0
+67212 Fossil 0,0,1,0
+102168 Inertial navigation system 0,0,1,0
+102191 Psi (letter) 0,0,1,0
+102452 Explosive material 0,0,1,0
+102963 Turbine 0,0,1,0
+103486 History of science in the Renaissance 0,0,1,0
+38822 Laser surgery 0,0,1,0
+103603 Dance 0,0,1,0
+103903 Michael Faraday 0,0,1,0
+103950 North Sea 0,0,1,0
+103985 Isle of Man 0,0,1,0
+104003 Wales 0,0,1,0
+104174 Mechanical system 0,0,1,0
+104209 Autocracy 0,0,1,0
+104224 Universal history 0,0,1,0
+67234 Definitions of mathematics 0,0,1,0
+67245 Pattern 0,0,1,0
+104472 Normal (geometry) 0,0,1,0
+104503 West Germanic languages 0,0,1,0
+104700 Light aircraft 0,0,1,0
+104709 Low German 0,0,1,0
+104743 Afrikaans 0,0,1,0
+104804 Nutrient 0,0,1,0
+104902 Belgium 0,0,1,0
+104916 Heart sounds 0,0,1,0
+105017 Speed of sound 0,0,1,0
+105035 Leisure 0,0,1,0
+105255 English people 0,0,1,0
+67258 Mathematical structure 0,0,1,0
+105358 Thunder 0,0,1,0
+67266 Giuseppe Peano 0,0,1,0
+105637 Quality (philosophy) 0,0,1,0
+67271 Mathematical proof 0,0,1,0
+105717 Reality 0,0,1,0
+105773 Attic Greek 0,0,1,0
+105784 Wind tunnel 0,0,1,0
+105855 Magnetization 0,0,1,0
+106144 Birth certificate 0,0,1,0
+50720 Sequential logic 0,0,1,0
+106290 Natural resource 0,0,1,0
+31717 Mobile device 0,0,1,0
+107878 Austria 0,0,1,0
+108220 Humidity 0,0,1,0
+108253 Pound (mass) 0,0,1,0
+108535 English Channel 0,0,1,0
+108779 Herodotus 0,0,1,0
+108951 United States Department of Energy national laboratories 0,0,1,0
+67318 Finance 0,0,1,0
+67345 Game theory 0,0,1,0
+108989 Crown dependencies 0,0,1,0
+50786 Multi-core processor 0,0,1,0
+109013 Bailiwick of Guernsey 0,0,1,0
+109027 Lawrence Berkeley National Laboratory 0,0,1,0
+109030 MacArthur Fellows Program 0,0,1,0
+109139 Degrees of freedom (mechanics) 0,0,1,0
+109187 Learned society 0,0,1,0
+109778 Ohio 0,0,1,0
+50798 Type theory 0,0,1,0
+110030 Nazism 0,0,1,0
+38902 David Hilbert 0,0,1,0
+67498 Abstraction (mathematics) 0,0,1,0
+110079 Crystal oscillator 0,0,1,0
+110081 Lead 0,0,1,0
+110196 Time standard 0,0,1,0
+110210 Balance wheel 0,0,1,0
+110212 Escapement 0,0,1,0
+110517 Tin 0,0,1,0
+110534 Bell 0,0,1,0
+110548 Hourglass 0,0,1,0
+110599 Copper 0,0,1,0
+110807 Measuring instrument 0,0,1,0
+67503 Extrinsic semiconductor 0,0,1,0
+110829 Water clock 0,0,1,0
+110838 Sundial 0,0,1,0
+110926 Ultra high frequency 0,0,1,0
+111001 Formal verification 0,0,1,0
+111037 Constitutional monarchy 0,0,1,0
+111051 Striking clock 0,0,1,0
+111061 Year 0,0,1,0
+111071 Monarchy of the United Kingdom 0,0,1,0
+111082 Day 0,0,1,0
+111083 Zhang Sixun 0,0,1,0
+111103 Yi Xing 0,0,1,0
+111129 Pendulum clock 0,0,1,0
+111137 Electric clock 0,0,1,0
+50894 Qubit 0,0,1,0
+111151 History of science and technology in China 0,0,1,0
+111157 Tuning fork 0,0,1,0
+111172 Vacuum fluorescent display 0,0,1,0
+111184 Mercer County, New Jersey 0,0,1,0
+111205 Bhikkhu 0,0,1,0
+111216 Su Song 0,0,1,0
+38941 Low Earth orbit 0,0,1,0
+111245 Harmonic oscillator 0,0,1,0
+111584 Han Chinese 0,0,1,0
+111639 United States Navy 0,0,1,0
+111664 Laws in Wales Acts 1535 and 1542 0,0,1,0
+111681 Visual impairment 0,0,1,0
+111697 Kingdom of Ireland 0,0,1,0
+111906 Microscopy 0,0,1,0
+112455 London 0,0,1,0
+112747 George Washington 0,0,1,0
+113436 Celtic Sea 0,0,1,0
+113662 Linus Pauling 0,0,1,0
+113684 Treaty of Union 0,0,1,0
+113826 Irish Sea 0,0,1,0
+38963 Kurt Gödel 0,0,1,0
+113939 Dynamite 0,0,1,0
+114009 James Joyce 0,0,1,0
+114029 Society of Jesus 0,0,1,0
+114283 Henrik Ibsen 0,0,1,0
+114460 United Kingdom of Great Britain and Ireland 0,0,1,0
+38980 Moon landing 0,0,1,0
+30139 Database 0,0,1,0
+115250 Liberalism 0,0,1,0
+115769 World Bank high-income economy 0,0,1,0
+115962 Super high frequency 0,0,1,0
+30448 History of computing hardware 0,0,1,0
+116799 Agreement (linguistics) 0,0,1,0
+116833 Copernican Revolution 0,0,1,0
+67577 Electrical resistivity and conductivity 0,0,1,0
+116872 William Herschel 0,0,1,0
+67583 Benjamin Peirce 0,0,1,0
+67591 Wafer (electronics) 0,0,1,0
+117008 Almagest 0,0,1,0
+117014 Hipparchus 0,0,1,0
+117028 Pedagogy 0,0,1,0
+117081 Neoplatonism 0,0,1,0
+117116 Topography 0,0,1,0
+117131 Earthquake 0,0,1,0
+51537 Royal charter 0,0,1,0
+51556 Carnegie Classification of Institutions of Higher Education 0,0,1,0
+117151 Subgiant 0,0,1,0
+117168 Stellar structure 0,0,1,0
+51622 Association of American Universities 0,0,1,0
+117542 Linz 0,0,1,0
+117558 Charles II of England 0,0,1,0
+117786 Aristotelian physics 0,0,1,0
+51740 List of Nobel laureates by university affiliation 0,0,1,0
+51745 National Medal of Technology and Innovation 0,0,1,0
+118247 Atmospheric physics 0,0,1,0
+118260 Synoptic scale meteorology 0,0,1,0
+118288 Proxy (climate) 0,0,1,0
+118317 Types of volcanic eruptions 0,0,1,0
+118345 Oil refinery 0,0,1,0
+118355 Ice core 0,0,1,0
+118405 Detonation 0,0,1,0
+67653 Timeline of scientific discoveries 0,0,1,0
+30450 Geocentric orbit 0,0,1,0
+118452 Thermal efficiency 0,0,1,0
+39428 Persian language 0,0,1,0
+118665 Biofuel 0,0,1,0
+118681 Propane 0,0,1,0
+118696 Core–mantle boundary 0,0,1,0
+118711 Troposphere 0,0,1,0
+118795 Ethanol 0,0,1,0
+118966 Sunspot 0,0,1,0
+119125 Condensation 0,0,1,0
+119198 World language 0,0,1,0
+39465 Apollo 11 0,0,1,0
+119206 French language in the United States 0,0,1,0
+119207 List of territorial entities where German is an official language 0,0,1,0
+119218 German Standard German 0,0,1,0
+119219 German dialects 0,0,1,0
+119220 Economist 0,0,1,0
+119235 Wilderness 0,0,1,0
+119269 Thunderstorm 0,0,1,0
+119286 Standard German 0,0,1,0
+119325 Spanish language in the United States 0,0,1,0
+119332 Austrian German 0,0,1,0
+119333 Factory 0,0,1,0
+119337 Swiss Standard German 0,0,1,0
+119339 Plautdietsch language 0,0,1,0
+119349 Tornado 0,0,1,0
+119409 Sector (instrument) 0,0,1,0
+119418 Liechtenstein 0,0,1,0
+119424 South Tyrol 0,0,1,0
+119432 Phases of Venus 0,0,1,0
+119433 Strength of materials 0,0,1,0
+119439 Tychonic system 0,0,1,0
+119443 Roman Inquisition 0,0,1,0
+119456 Dialogue Concerning the Two Chief World Systems 0,0,1,0
+119472 Pope Urban VIII 0,0,1,0
+119473 Stellar parallax 0,0,1,0
+119481 Divinity 0,0,1,0
+119496 Two New Sciences 0,0,1,0
+39503 Persian people 0,0,1,0
+52312 Inch 0,0,1,0
+119812 Luxembourg 0,0,1,0
+120040 Particulates 0,0,1,0
+52317 Revolutions per minute 0,0,1,0
+120496 Systems theory 0,0,1,0
+121018 Transit (astronomy) 0,0,1,0
+121051 Names of large numbers 0,0,1,0
+121089 Photographic film 0,0,1,0
+121248 Climate model 0,0,1,0
+121315 Carbon dioxide in Earth's atmosphere 0,0,1,0
+121321 Snow 0,0,1,0
+121326 Effects of global warming 0,0,1,0
+121337 Scientific opinion on climate change 0,0,1,0
+121354 Rain 0,0,1,0
+121399 Climate change mitigation 0,0,1,0
+121564 Time value of money 0,0,1,0
+121626 Opinion poll 0,0,1,0
+67952 Electrical junction 0,0,1,0
+67968 Cat's-whisker detector 0,0,1,0
+122674 Line-of-sight propagation 0,0,1,0
+122802 Radio spectrum 0,0,1,0
+122810 Audio signal 0,0,1,0
+122933 Interval (mathematics) 0,0,1,0
+123868 Levant 0,0,1,0
+124047 Renaissance of the 12th century 0,0,1,0
+124085 Periodization 0,0,1,0
+124092 Carolingian Renaissance 0,0,1,0
+125287 Seleucid Empire 0,0,1,0
+52798 United States Department of Defense 0,0,1,0
+67988 Crystal structure 0,0,1,0
+125863 World 0,0,1,0
+126517 Digital signal processing 0,0,1,0
+126554 Index finger 0,0,1,0
+39515 Aerospace 0,0,1,0
+126755 Anti-war movement 0,0,1,0
+126758 Ring (mathematics) 0,0,1,0
+126782 Field (mathematics) 0,0,1,0
+68016 Movable type 0,0,1,0
+126862 Basra 0,0,1,0
+35303 Image 0,0,1,0
+52896 Definition 0,0,1,0
+127056 George Gamow 0,0,1,0
+29726 Application software 0,0,1,0
+127310 Soliton 0,0,1,0
+127340 Structural load 0,0,1,0
+53017 Traffic light 0,0,1,0
+127388 Electromagnet 0,0,1,0
+68050 Insulator (electricity) 0,0,1,0
+127418 Tanning lamp 0,0,1,0
+53213 Grammatical person 0,0,1,0
+127431 Mercury-vapor lamp 0,0,1,0
+53218 Verb 0,0,1,0
+127460 Aphakia 0,0,1,0
+127490 Fluorescence 0,0,1,0
+127524 Blacklight 0,0,1,0
+127541 Freckle 0,0,1,0
+53229 Grammatical mood 0,0,1,0
+127623 Bird vision 0,0,1,0
+127632 Vitamin D 0,0,1,0
+53295 Climatology 0,0,1,0
+68200 Solar dynamo 0,0,1,0
+127674 Ångström 0,0,1,0
+53336 Weather forecasting 0,0,1,0
+127696 Gaseous ionization detectors 0,0,1,0
+127697 Electron diffraction 0,0,1,0
+68206 Solar calendar 0,0,1,0
+68208 Solar deity 0,0,1,0
+127712 Free-electron laser 0,0,1,0
+37234 Goddard Space Flight Center 0,0,1,0
+127719 Proton-to-electron mass ratio 0,0,1,0
+68214 Prehistory 0,0,1,0
+39673 Small Solar System body 0,0,1,0
+68265 Calendar 0,0,1,0
+68279 Mechanical calculator 0,0,1,0
+53724 Rule of thumb 0,0,1,0
+127758 George Johnstone Stoney 0,0,1,0
+127772 Richard Laming 0,0,1,0
+68318 Trigonometry 0,0,1,0
+32351 Telecommunication 0,0,1,0
+68351 G-type main-sequence star 0,0,1,0
+54007 Education 0,0,1,0
+68457 Reflection (physics) 0,0,1,0
+128031 Arc length 0,0,1,0
+54135 Optical communication 0,0,1,0
+128091 Hermann Minkowski 0,0,1,0
+128135 Invariant (mathematics) 0,0,1,0
+54481 Sequence 0,0,1,0
+68513 Single-photon emission computed tomography 0,0,1,0
+128254 Riemannian geometry 0,0,1,0
+128356 Marquess 0,0,1,0
+128427 Farad 0,0,1,0
+54581 Computational physics 0,0,1,0
+68551 Positron emission tomography 0,0,1,0
+128665 Mega- 0,0,1,0
+128687 Fraction (mathematics) 0,0,1,0
+54658 Computational fluid dynamics 0,0,1,0
+39726 Outline of space science 0,0,1,0
+68594 Medical ultrasound 0,0,1,0
+128788 Proposition 0,0,1,0
+128944 World energy consumption 0,0,1,0
+129026 Atomic theory 0,0,1,0
+129065 Projectile motion 0,0,1,0
+68609 Austria-Hungary 0,0,1,0
+54833 Denmark 0,0,1,0
+55857 Ireland 0,0,1,0
+129155 Identity (philosophy) 0,0,1,0
+129185 Analytical mechanics 0,0,1,0
+129202 Photovoltaics 0,0,1,0
+55952 United States dollar 0,0,1,0
+56120 Formal system 0,0,1,0
+129454 Quantum information science 0,0,1,0
+129510 Bra–ket notation 0,0,1,0
+129522 Double-slit experiment 0,0,1,0
+129546 Multilateralism 0,0,1,0
+56294 Diplomacy 0,0,1,0
+129942 Research institute 0,0,1,0
+130026 Institute of Technology (United States) 0,0,1,0
+56298 Global city 0,0,1,0
+130280 David Hume 0,0,1,0
+130410 Edinburgh 0,0,1,0
+131142 Rutgers University 0,0,1,0
+56352 Financial centre 0,0,1,0
+131434 Academy 0,0,1,0
+68727 Thermography 0,0,1,0
+131630 NCAA Division I 0,0,1,0
+56367 Doctor of Philosophy 0,0,1,0
+131742 Categorical variable 0,0,1,0
+132025 Category of being 0,0,1,0
+39754 Common law 0,0,1,0
+132157 Normal distribution 0,0,1,0
+132315 Reversible computing 0,0,1,0
+39770 Solar irradiance 0,0,1,0
+132465 Collider 0,0,1,0
+132503 Minimally-invasive procedures 0,0,1,0
+132586 Scientific technique 0,0,1,0
+132597 OxfordDictionaries.com 0,0,1,0
+132600 Inquiry 0,0,1,0
+132623 Lee Smolin 0,0,1,0
+132630 Against Method 0,0,1,0
+68824 Gallium 0,0,1,0
+68845 CT scan 0,0,1,0
+132988 Fall of Constantinople 0,0,1,0
+133015 Central London 0,0,1,0
+133587 Giga- 0,0,1,0
+133618 Imperial units 0,0,1,0
+133638 Rotation 0,0,1,0
+133766 Rhodes Scholarship 0,0,1,0
+133839 Charles River 0,0,1,0
+133844 Marshall Scholarship 0,0,1,0
+68851 Electrolyte 0,0,1,0
+134769 Divisor 0,0,1,0
+134900 Electric field gradient 0,0,1,0
+68863 Night vision 0,0,1,0
+134926 Pulse sequence 0,0,1,0
+134937 Relaxation (NMR) 0,0,1,0
+134938 Lipid 0,0,1,0
+56578 Italian language 0,0,1,0
+135000 Diffusion MRI 0,0,1,0
+135067 Hyperplane 0,0,1,0
+135073 Functional magnetic resonance imaging 0,0,1,0
+68877 Ammeter 0,0,1,0
+35427 Circumstellar disc 0,0,1,0
+135155 System of linear equations 0,0,1,0
+135338 Limit (mathematics) 0,0,1,0
+135376 Operator (mathematics) 0,0,1,0
+135521 Principia Mathematica 0,0,1,0
+135899 Infrared spectroscopy 0,0,1,0
+32411 Dynamic random-access memory 0,0,1,0
+135971 Berkeley Open Infrastructure for Network Computing 0,0,1,0
+136277 Nickel-62 0,0,1,0
+136289 Robert d'Escourt Atkinson 0,0,1,0
+136291 Endothermic process 0,0,1,0
+136293 Fritz Houtermans 0,0,1,0
+68888 Joule heating 0,0,1,0
+136298 Iron-56 0,0,1,0
+56833 Glass 0,0,1,0
+136328 Isotopes of hydrogen 0,0,1,0
+56990 Metalloid 0,0,1,0
+136341 Ivy Mike 0,0,1,0
+136346 Plutonium-239 0,0,1,0
+136359 Greenhouse Item 0,0,1,0
+136394 Quantum tunnelling 0,0,1,0
+136397 Friedrich Hund 0,0,1,0
+136423 Fat Man 0,0,1,0
+136429 Hans Bethe 0,0,1,0
+136453 Mark Oliphant 0,0,1,0
+68914 Valence and conduction bands 0,0,1,0
+39807 Soviet Union 0,0,1,0
+136512 Plutonium 0,0,1,0
+136710 History of China 0,0,1,0
+136753 Group of Seven (G7) 0,0,1,0
+137539 Franklin D. Roosevelt 0,0,1,0
+137676 New England Women's and Men's Athletic Conference 0,0,1,0
+137682 MIT Department of Biology 0,0,1,0
+137710 MIT Department of Economics 0,0,1,0
+137713 Eastern Association of Rowing Colleges 0,0,1,0
+137718 NCAA Division III 0,0,1,0
+137719 History of European research universities 0,0,1,0
+137796 Massachusetts Institute of Technology School of Science 0,0,1,0
+137804 Whirlwind I 0,0,1,0
+137807 Massachusetts Institute of Technology School of Engineering 0,0,1,0
+137812 Chief Scientist of the U.S. Air Force 0,0,1,0
+137814 MIT Sloan School of Management 0,0,1,0
+137827 Eastern Association of Women's Rowing Colleges 0,0,1,0
+137841 Technological and industrial history of the United States 0,0,1,0
+137875 James Rhyne Killian 0,0,1,0
+138130 Autodidacticism 0,0,1,0
+138656 Cleveland 0,0,1,0
+139533 X-ray crystallography 0,0,1,0
+57051 Switzerland 0,0,1,0
+68938 Galaxy groups and clusters 0,0,1,0
+37378 Science fiction 0,0,1,0
+139806 Boundary value problem 0,0,1,0
+139923 Function of a real variable 0,0,1,0
+141642 List of countries by Human Development Index 0,0,1,0
+141743 Ampere-hour 0,0,1,0
+142240 Dow Jones & Company 0,0,1,0
+142919 College town 0,0,1,0
+143705 Banquet 0,0,1,0
+143781 Festival 0,0,1,0
+143930 British Overseas Territories 0,0,1,0
+144957 World economy 0,0,1,0
+145343 Neutron number 0,0,1,0
+145880 Art history 0,0,1,0
+57121 Invention 0,0,1,0
+146347 Allotropy 0,0,1,0
+57141 Stanford University 0,0,1,0
+57184 Simulation 0,0,1,0
+146380 Abundances of the elements (data page) 0,0,1,0
+57212 Computer experiment 0,0,1,0
+146382 Simple substance 0,0,1,0
+146383 Cosmic ray spallation 0,0,1,0
+146386 Group (periodic table) 0,0,1,0
+146393 Period (periodic table) 0,0,1,0
+146402 Noble metal 0,0,1,0
+146423 Charcoal 0,0,1,0
+146431 Native element minerals 0,0,1,0
+146460 Smelting 0,0,1,0
+146465 Native metal 0,0,1,0
+146516 Hot spring 0,0,1,0
+147443 Wealth 0,0,1,0
+69043 Sidereal year 0,0,1,0
+148100 Failure analysis 0,0,1,0
+148172 Trigonometric functions 0,0,1,0
+148300 Navigation 0,0,1,0
+148402 Drag racing 0,0,1,0
+69048 Metasediment 0,0,1,0
+148412 Drogue parachute 0,0,1,0
+148414 Nylon 0,0,1,0
+148432 Bomb 0,0,1,0
+69050 Synchrotron radiation 0,0,1,0
+148617 Automotive lighting 0,0,1,0
+148739 Radar astronomy 0,0,1,0
+148863 Solar cell 0,0,1,0
+149396 Algebraic structure 0,0,1,0
+149483 Equality (mathematics) 0,0,1,0
+149605 Lumped element model 0,0,1,0
+57221 Uncertainty quantification 0,0,1,0
+149623 Optical window 0,0,1,0
+149628 Rhetoric 0,0,1,0
+149636 Extremely high frequency 0,0,1,0
+69063 Tropical year 0,0,1,0
+149705 Research vessel 0,0,1,0
+149711 Public health surveillance 0,0,1,0
+149720 Space rendezvous 0,0,1,0
+149721 Marine radar 0,0,1,0
+149726 Close-in weapon system 0,0,1,0
+149730 Weather radar 0,0,1,0
+149733 Ground-penetrating radar 0,0,1,0
+149889 Lidar 0,0,1,0
+149926 Vitamin 0,0,1,0
+69069 Orbital plane (astronomy) 0,0,1,0
+150014 Cologne 0,0,1,0
+69071 Aerobic organism 0,0,1,0
+57222 Blue Brain Project 0,0,1,0
+150407 North Pole 0,0,1,0
+69073 Anaerobic organism 0,0,1,0
+150503 Coefficient 0,0,1,0
+150655 Calorie 0,0,1,0
+150658 Diet (nutrition) 0,0,1,0
+69077 Geological history of Earth 0,0,1,0
+69105 Biogenic substance 0,0,1,0
+151139 Subscript and superscript 0,0,1,0
+69106 State (polity) 0,0,1,0
+151150 Pythagoras 0,0,1,0
+151250 Wildlife 0,0,1,0
+151449 Primitive notion 0,0,1,0
+151628 Contiguity 0,0,1,0
+151693 Factorization 0,0,1,0
+151853 Eigenvalues and eigenvectors 0,0,1,0
+151877 Babylonia 0,0,1,0
+151920 State space 0,0,1,0
+152106 Elementary function 0,0,1,0
+152121 Electroluminescence 0,0,1,0
+152246 Numerical methods for ordinary differential equations 0,0,1,0
+152262 Linear differential equation 0,0,1,0
+39880 Volatility (chemistry) 0,0,1,0
+152331 Configuration space 0,0,1,0
+37483 Number density 0,0,1,0
+152412 Parameter space 0,0,1,0
+39932 Naked eye 0,0,1,0
+57268 Materials science 0,0,1,0
+152500 Pascal (unit) 0,0,1,0
+152534 Cryogenics 0,0,1,0
+152598 Poverty 0,0,1,0
+152611 Electrification 0,0,1,0
+152617 Band gap 0,0,1,0
+152639 Fluorescent lamp 0,0,1,0
+152748 Wood fuel 0,0,1,0
+152806 Hydroelectricity 0,0,1,0
+152892 Zoology 0,0,1,0
+152971 Paleontology 0,0,1,0
+57288 Closed-form expression 0,0,1,0
+153178 List of wars by death toll 0,0,1,0
+153265 Cardiff 0,0,1,0
+153345 Gun-type fission weapon 0,0,1,0
+57300 Ribosome 0,0,1,0
+153413 Little Boy 0,0,1,0
+153546 European theatre of World War II 0,0,1,0
+37493 Art 0,0,1,0
+153553 Nuclear weapon design 0,0,1,0
+153598 Sphere of influence 0,0,1,0
+153622 Paleolithic 0,0,1,0
+69295 Western Australia 0,0,1,0
+69309 Theoretical astronomy 0,0,1,0
+153799 Mu (letter) 0,0,1,0
+153802 Epsilon 0,0,1,0
+153832 Nutation 0,0,1,0
+153833 Gamma 0,0,1,0
+154448 Führer 0,0,1,0
+154474 Death of Adolf Hitler 0,0,1,0
+154507 Modernization theory 0,0,1,0
+154791 Natural experiment 0,0,1,0
+154795 Scientific control 0,0,1,0
+155451 North African Campaign 0,0,1,0
+155716 Genocide 0,0,1,0
+155946 Chemical synthesis 0,0,1,0
+156081 Buddhism 0,0,1,0
+156163 Nazi Party 0,0,1,0
+156344 Weimar Republic 0,0,1,0
+156602 Hinduism 0,0,1,0
+157203 Chancellor of Germany 0,0,1,0
+157252 Dictatorship 0,0,1,0
+40041 Moscow 0,0,1,0
+157446 Lake 0,0,1,0
+157521 Human nature 0,0,1,0
+157599 Decomposition 0,0,1,0
+157606 Groundwater 0,0,1,0
+157639 Holocaust victims 0,0,1,0
+157661 Nazi propaganda 0,0,1,0
+157688 Antisemitism 0,0,1,0
+158123 Judgement 0,0,1,0
+158187 Lebensraum 0,0,1,0
+40107 Geographic coordinate system 0,0,1,0
+158273 Miscibility 0,0,1,0
+158334 Nuclear winter 0,0,1,0
+158345 Mein Kampf 0,0,1,0
+158656 Differentiable function 0,0,1,0
+158740 Reductionism 0,0,1,0
+158889 Republic of Ireland–United Kingdom border 0,0,1,0
+158893 List of countries that have gained independence from the United Kingdom 0,0,1,0
+158895 Incidence geometry 0,0,1,0
+158967 Devolution in the United Kingdom 0,0,1,0
+158972 Big Four (Western Europe) 0,0,1,0
+158975 History of the formation of the United Kingdom 0,0,1,0
+158983 Culture of the United Kingdom 0,0,1,0
+159063 Government of the United Kingdom 0,0,1,0
+159078 List of European countries by area 0,0,1,0
+159086 Affine space 0,0,1,0
+159113 Belfast 0,0,1,0
+69322 Polar regions of Earth 0,0,1,0
+159380 List of countries by length of coastline 0,0,1,0
+32476 Processor register 0,0,1,0
+69338 Last universal ancestor 0,0,1,0
+159675 Republic (Plato) 0,0,1,0
+160038 Shift work 0,0,1,0
+160197 Office 0,0,1,0
+160256 Morality 0,0,1,0
+160372 Physical optics 0,0,1,0
+69350 Infrared astronomy 0,0,1,0
+160560 Cardinal point (optics) 0,0,1,0
+160571 Colorfulness 0,0,1,0
+161204 Longitudinal wave 0,0,1,0
+161253 Surface wave 0,0,1,0
+161285 Unit vector 0,0,1,0
+161302 Interface (matter) 0,0,1,0
+161342 Aether theories 0,0,1,0
+40301 Communications satellite 0,0,1,0
+161582 Perpendicular 0,0,1,0
+161657 Row and column vectors 0,0,1,0
+161677 Italian Renaissance 0,0,1,0
+161832 Night 0,0,1,0
+161897 3-manifold 0,0,1,0
+161910 Translation (geometry) 0,0,1,0
+162081 Flow velocity 0,0,1,0
+37538 Cubic metre 0,0,1,0
+162158 Circular definition 0,0,1,0
+162167 Past 0,0,1,0
+162172 Philosophical realism 0,0,1,0
+162187 Qualia 0,0,1,0
+162192 Engineering technologist 0,0,1,0
+69477 Nuclear magnetic resonance 0,0,1,0
+162255 Isolated system 0,0,1,0
+57454 Noise (electronics) 0,0,1,0
+162312 Life expectancy 0,0,1,0
+162316 Greeks 0,0,1,0
+69542 Interferometry 0,0,1,0
+162403 Turn (geometry) 0,0,1,0
+162418 Phase diagram 0,0,1,0
+57475 Mycoplasma genitalium 0,0,1,0
+57513 École Polytechnique Fédérale de Lausanne 0,0,1,0
+162597 Caesium 0,0,1,0
+162615 Suspension (chemistry) 0,0,1,0
+40527 4 Vesta 0,0,1,0
+162759 Boltzmann constant 0,0,1,0
+163119 Linear function 0,0,1,0
+57543 Germanium 0,0,1,0
+163275 Diagonal matrix 0,0,1,0
+163377 Space Telescope Science Institute 0,0,1,0
+163383 Background (astronomy) 0,0,1,0
+163417 Orbiting Astronomical Observatory 2 0,0,1,0
+163437 STS-61 0,0,1,0
+163606 Spitzer Space Telescope 0,0,1,0
+163640 James Webb Space Telescope 0,0,1,0
+163696 STS-125 0,0,1,0
+164482 Hydrogen bond 0,0,1,0
+69566 Antarctic ice sheet 0,0,1,0
+164783 Terminology 0,0,1,0
+69574 Extinction 0,0,1,0
+57563 Boron 0,0,1,0
+57601 Mathematical logic 0,0,1,0
+69595 Force carrier 0,0,1,0
+57667 Kuwait 0,0,1,0
+164882 Curvilinear coordinates 0,0,1,0
+164895 Line integral 0,0,1,0
+164905 Surface integral 0,0,1,0
+164941 Jacobian matrix and determinant 0,0,1,0
+57690 Subtraction 0,0,1,0
+69604 Static forces and virtual-particle exchange 0,0,1,0
+69613 Electromagnetic wave equation 0,0,1,0
+69616 Dialectic 0,0,1,0
+165415 List of curves 0,0,1,0
+165439 Tactile imaging 0,0,1,0
+165441 Degeneracy (mathematics) 0,0,1,0
+165445 Phillips curve 0,0,1,0
+69629 Lens (optics) 0,0,1,0
+165476 Path (topology) 0,0,1,0
+165484 Two-dimensional graph 0,0,1,0
+165519 Chirality (physics) 0,0,1,0
+165528 Rotational symmetry 0,0,1,0
+165549 Geometric shape 0,0,1,0
+165585 Euclidean distance 0,0,1,0
+165590 4D vector 0,0,1,0
+57694 Set theory 0,0,1,0
+165620 Parametric equation 0,0,1,0
+165622 Postulates of special relativity 0,0,1,0
+165675 Isometry group 0,0,1,0
+69636 Biotic material 0,0,1,0
+165682 Euclidean group 0,0,1,0
+165686 Real projective plane 0,0,1,0
+35501 Information 0,0,1,0
+165694 Neighbourhood (mathematics) 0,0,1,0
+40554 Galilean moons 0,0,1,0
+165697 Lemniscate 0,0,1,0
+165701 Immersion (mathematics) 0,0,1,0
+69652 Greenland 0,0,1,0
+40561 Giant planet 0,0,1,0
+57735 Addition 0,0,1,0
+165711 Simultaneous equations 0,0,1,0
+165712 Symplectic manifold 0,0,1,0
+69681 Gilbert N. Lewis 0,0,1,0
+37565 Cognitive science 0,0,1,0
+165745 Base unit (measurement) 0,0,1,0
+37576 Warm–hot intergalactic medium 0,0,1,0
+57762 Space telescope 0,0,1,0
+165798 Quadratic function 0,0,1,0
+165810 Hyperbolic geometry 0,0,1,0
+69699 Two-photon excitation microscopy 0,0,1,0
+40690 Russian language 0,0,1,0
+165850 Disk (mathematics) 0,0,1,0
+40959 Astronaut 0,0,1,0
+69722 Homo sapiens 0,0,1,0
+69728 Fourier transform 0,0,1,0
+35547 List of multiplanetary systems 0,0,1,0
+57814 Homogeneity and heterogeneity 0,0,1,0
+165927 Section sign 0,0,1,0
+165982 Breathing 0,0,1,0
+69760 Quantum cryptography 0,0,1,0
+166033 Connection (mathematics) 0,0,1,0
+57815 Food 0,0,1,0
+69769 Optical telescope 0,0,1,0
+30987 Formal language 0,0,1,0
+57961 Dipole 0,0,1,0
+41188 Well-formed formula 0,0,1,0
+69794 Microscope 0,0,1,0
+57999 Cosmic distance ladder 0,0,1,0
+41194 Set (mathematics) 0,0,1,0
+41279 Axiomatic system 0,0,1,0
+166217 Collinearity 0,0,1,0
+166223 Nature (journal) 0,0,1,0
+69837 Förster resonance energy transfer 0,0,1,0
+166228 World line 0,0,1,0
+166314 Hooke's law 0,0,1,0
+58094 Fat 0,0,1,0
+166338 Compressible flow 0,0,1,0
+166621 Dispersive prism 0,0,1,0
+166626 Newton's law of cooling 0,0,1,0
+166629 Newtonian fluid 0,0,1,0
+69855 Astronomical radio source 0,0,1,0
+166642 Pierre Louis Maupertuis 0,0,1,0
+166654 Holy orders 0,0,1,0
+166668 Newton's method 0,0,1,0
+166672 Cubic plane curve 0,0,1,0
+166683 Charles Marie de La Condamine 0,0,1,0
+166686 Theory of Colours 0,0,1,0
+166697 Binomial theorem 0,0,1,0
+166700 Lucasian Professor of Mathematics 0,0,1,0
+166704 Chronology of the Bible 0,0,1,0
+166716 Zero of a function 0,0,1,0
+166719 Power series 0,0,1,0
+166721 Royal Mint 0,0,1,0
+166736 Trinity 0,0,1,0
+69856 Stellar atmosphere 0,0,1,0
+166819 Peter Tait (physicist) 0,0,1,0
+166854 German philosophy 0,0,1,0
+58140 Binary code 0,0,1,0
+32829 Type system 0,0,1,0
+166963 Ion implantation 0,0,1,0
+166974 Radiocarbon dating 0,0,1,0
+166982 Nuclear medicine 0,0,1,0
+167014 Presupposition 0,0,1,0
+167022 Discovery science 0,0,1,0
+69878 Medical optical imaging 0,0,1,0
+41286 Formalism (philosophy of mathematics) 0,0,1,0
+32851 Embedded system 0,0,1,0
+69894 Electromagnetic interference 0,0,1,0
+167142 Hard and soft science 0,0,1,0
+167166 Francis Bacon 0,0,1,0
+167184 Even and odd functions 0,0,1,0
+167186 Linear function (calculus) 0,0,1,0
+167187 Physis 0,0,1,0
+167189 Square number 0,0,1,0
+167191 Philosophical Transactions of the Royal Society 0,0,1,0
+167276 Gas laws 0,0,1,0
+167306 Great Fire of London 0,0,1,0
+167337 Germination 0,0,1,0
+167350 Listed building 0,0,1,0
+167359 Royalist 0,0,1,0
+58288 Exponentiation 0,0,1,0
+167387 Extension (metaphysics) 0,0,1,0
+58377 Expression (mathematics) 0,0,1,0
+167398 Mass generation 0,0,1,0
+41308 Electromechanics 0,0,1,0
+70065 Sovereign state 0,0,1,0
+32989 Supercomputer 0,0,1,0
+70170 Public policy 0,0,1,0
+41574 Ceres (dwarf planet) 0,0,1,0
+167521 Jet (particle physics) 0,0,1,0
+41716 Music 0,0,1,0
+167545 Alexis Clairaut 0,0,1,0
+70247 Irregular galaxy 0,0,1,0
+70255 Dwarf galaxy 0,0,1,0
+167567 Betavoltaic device 0,0,1,0
+58757 Liquid-crystal display 0,0,1,0
+167571 Tritium illumination 0,0,1,0
+167573 Field strength 0,0,1,0
+167585 Half-integer 0,0,1,0
+167589 CP violation 0,0,1,0
+70267 Hulse–Taylor binary 0,0,1,0
+70272 EGSY8p7 0,0,1,0
+37715 Machine learning 0,0,1,0
+70279 Radiation pattern 0,0,1,0
+58813 University of Cambridge 0,0,1,0
+167645 Gravitational acceleration 0,0,1,0
+58862 Satellite navigation 0,0,1,0
+167650 Henry Norris Russell 0,0,1,0
+167652 Histology 0,0,1,0
+167676 W and Z bosons 0,0,1,0
+70316 Void (astronomy) 0,0,1,0
+167717 Jean Baptiste Perrin 0,0,1,0
+167720 Associative algebra 0,0,1,0
+167724 Robert Brown (Scottish botanist from Montrose) 0,0,1,0
+167771 Stanisław Lem 0,0,1,0
+167793 Quasiparticle 0,0,1,0
+167797 Excited state 0,0,1,0
+167814 Transport phenomena 0,0,1,0
+167830 Dogma 0,0,1,0
+167854 List of states of matter 0,0,1,0
+167855 Mixture 0,0,1,0
+167877 Feynman diagram 0,0,1,0
+33072 Intel 0,0,1,0
+167937 Bose gas 0,0,1,0
+167969 Willem Jacob Luyten 0,0,1,0
+167970 Carbon detonation 0,0,1,0
+167983 Chandrasekhar limit 0,0,1,0
+168031 Electron degeneracy pressure 0,0,1,0
+70335 Aircraft flight control system 0,0,1,0
+168063 Black dwarf 0,0,1,0
+168081 SN 1006 0,0,1,0
+168114 Color temperature 0,0,1,0
+168319 Oncology 0,0,1,0
+168408 Stochastic 0,0,1,0
+168521 Natural logarithm 0,0,1,0
+168665 Boundary layer 0,0,1,0
+33311 Free software 0,0,1,0
+59009 Steam engine 0,0,1,0
+168947 Socialism 0,0,1,0
+169042 Kerr metric 0,0,1,0
+169065 Popular science 0,0,1,0
+70429 GN-z11 0,0,1,0
+70478 Order of Merit 0,0,1,0
+70499 Galaxy filament 0,0,1,0
+59220 Great Britain 0,0,1,0
+169099 Blueshift 0,0,1,0
+59279 Great power 0,0,1,0
+70693 Awareness 0,0,1,0
+59288 Atomic bombings of Hiroshima and Nagasaki 0,0,1,0
+70711 Belief 0,0,1,0
+37735 United Nations resolution 0,0,1,0
+70735 Premise 0,0,1,0
+59357 Permanent members of the United Nations Security Council 0,0,1,0
+70775 Elizabeth II 0,0,1,0
+59387 G-force 0,0,1,0
+59424 Cloud 0,0,1,0
+59447 Apparent magnitude 0,0,1,0
+169463 Tests of special relativity 0,0,1,0
+169466 Binary pulsar 0,0,1,0
+71110 Respiration (physiology) 0,0,1,0
+71157 Paleoatmosphere 0,0,1,0
+59472 Equator 0,0,1,0
+59477 Atmospheric escape 0,0,1,0
+169578 Proper motion 0,0,1,0
+169596 Friar 0,0,1,0
+71220 Photosphere 0,0,1,0
+71229 Classics 0,0,1,0
+59480 Axis powers 0,0,1,0
+169630 Big Dipper 0,0,1,0
+169633 88 modern constellations 0,0,1,0
+169635 Celestial coordinate system 0,0,1,0
+59546 Radioisotope thermoelectric generator 0,0,1,0
+169666 Argo Navis 0,0,1,0
+169679 Astrological sign 0,0,1,0
+71416 Continental philosophy 0,0,1,0
+71429 Cyanobacteria 0,0,1,0
+71453 Renaissance humanism 0,0,1,0
+169769 Prayer 0,0,1,0
+41990 Intergovernmental organization 0,0,1,0
+71490 Algae 0,0,1,0
+169810 Three-body problem 0,0,1,0
+169811 Flamsteed designation 0,0,1,0
+169849 Fred Hoyle 0,0,1,0
+71544 Chain reaction 0,0,1,0
+71636 Great Debate (astronomy) 0,0,1,0
+169880 Ejnar Hertzsprung 0,0,1,0
+169887 Radial velocity 0,0,1,0
+71640 Bulge (astronomy) 0,0,1,0
+169913 Advection 0,0,1,0
+71643 Barred spiral galaxy 0,0,1,0
+71646 Israel 0,0,1,0
+169945 Marangoni effect 0,0,1,0
+169946 Rheid 0,0,1,0
+71698 Harlow Shapley 0,0,1,0
+169957 Mass transfer 0,0,1,0
+59610 Photodissociation 0,0,1,0
+169972 Carbon star 0,0,1,0
+169995 Giant star 0,0,1,0
+170010 Asymptotic giant branch 0,0,1,0
+170011 Scatter plot 0,0,1,0
+71743 Satellite galaxies of the Milky Way 0,0,1,0
+71771 Political science 0,0,1,0
+71793 Virgo Supercluster 0,0,1,0
+170100 Nucleosynthesis 0,0,1,0
+170126 Solar luminosity 0,0,1,0
+59623 Rotation around a fixed axis 0,0,1,0
+170191 Stellar wind 0,0,1,0
+59660 United Nations Security Council 0,0,1,0
+71959 Laniakea Supercluster 0,0,1,0
+170227 Astronomical catalog 0,0,1,0
+71969 Radiance 0,0,1,0
+42014 Guiana Space Centre 0,0,1,0
+170241 Pain 0,0,1,0
+170245 Weissenberg effect 0,0,1,0
+170265 Bunsen burner 0,0,1,0
+71975 Heber Doust Curtis 0,0,1,0
+170282 Sodium 0,0,1,0
+42021 British English 0,0,1,0
+170296 Fermi–Dirac statistics 0,0,1,0
+42067 Dante Alighieri 0,0,1,0
+60031 Invasion of Poland 0,0,1,0
+60127 Battle of Berlin 0,0,1,0
+60184 Nazi Germany 0,0,1,0
+170357 Initial mass function 0,0,1,0
+72002 Fine-tuning 0,0,1,0
+72010 Robert Woodrow Wilson 0,0,1,0
+170390 Young stellar object 0,0,1,0
+170402 Pugwash Conferences on Science and World Affairs 0,0,1,0
+170411 Cyrus S. Eaton 0,0,1,0
+170456 Academy of Arts, Berlin 0,0,1,0
+170472 Magnetar 0,0,1,0
+170488 Eugene Wigner 0,0,1,0
+170497 Variable star 0,0,1,0
+170543 Soft gamma repeater 0,0,1,0
+170582 Leo Szilard 0,0,1,0
+170610 Einstein solid 0,0,1,0
+72017 Arno Allan Penzias 0,0,1,0
+170623 Stephen Hawking 0,0,1,0
+72019 Decoupling (cosmology) 0,0,1,0
+42103 Orion Arm 0,0,1,0
+170687 Electric spark 0,0,1,0
+170690 1887 in science 0,0,1,0
+170691 1905 in science 0,0,1,0
+170692 1921 in science 0,0,1,0
+170702 Neon lighting 0,0,1,0
+170706 Photoelectrochemical cell 0,0,1,0
+42116 Gas giant 0,0,1,0
+170712 Photovoltaic effect 0,0,1,0
+170744 Rights 0,0,1,0
+170748 Allegiance 0,0,1,0
+170749 Citizenship 0,0,1,0
+170767 United States nationality law 0,0,1,0
+170770 Birthright citizenship in the United States 0,0,1,0
+170774 Higher education in the United States 0,0,1,0
+170779 Renunciation of citizenship 0,0,1,0
+170805 Photoconductivity 0,0,1,0
+170812 Tube Alloys 0,0,1,0
+170822 Major general (United States) 0,0,1,0
+170828 Citizenship Clause 0,0,1,0
+170832 Uranium-238 0,0,1,0
+170842 Calutron 0,0,1,0
+170851 Thermophoresis 0,0,1,0
+170852 Alsos Mission 0,0,1,0
+170860 German nuclear weapon project 0,0,1,0
+170870 History of electromagnetic theory 0,0,1,0
+170871 Fourteenth Amendment to the United States Constitution 0,0,1,0
+170883 United States Army Corps of Engineers 0,0,1,0
+170888 Leslie Groves 0,0,1,0
+170898 Los Alamos, New Mexico 0,0,1,0
+170906 Oak Ridge, Tennessee 0,0,1,0
+72084 Qualitative research 0,0,1,0
+170916 Administration of federal assistance in the United States 0,0,1,0
+170922 Human capital flight 0,0,1,0
+170923 Caroline Bamberger Fuld 0,0,1,0
+170928 Duty 0,0,1,0
+170932 Nuclear navy 0,0,1,0
+170933 Gaseous diffusion 0,0,1,0
+170939 Fascism in Europe 0,0,1,0
+170952 Abraham Flexner 0,0,1,0
+170953 Postdoctoral researcher 0,0,1,0
+170964 Operation Crossroads 0,0,1,0
+170982 Enriched uranium 0,0,1,0
+170985 Project Y 0,0,1,0
+171050 J. Robert Oppenheimer 0,0,1,0
+171054 United States Atomic Energy Commission 0,0,1,0
+171072 Battle of Princeton 0,0,1,0
+171078 White Sands Missile Range 0,0,1,0
+171095 Some Institutes for Advanced Study 0,0,1,0
+171096 Mineral (nutrient) 0,0,1,0
+171114 Bikini Atoll 0,0,1,0
+171145 Princeton Battlefield 0,0,1,0
+171158 Ecological succession 0,0,1,0
+171179 Photoresistor 0,0,1,0
+171195 Pugwash, Nova Scotia 0,0,1,0
+171236 Atomic spies 0,0,1,0
+171239 Louis Bamberger 0,0,1,0
+33476 GNU General Public License 0,0,1,0
+171257 S. Barry Barnes 0,0,1,0
+60399 Operation Barbarossa 0,0,1,0
+171270 Scientific progress 0,0,1,0
+171271 Philosophy of biology 0,0,1,0
+171273 Philosophy of medicine 0,0,1,0
+171276 Philosophy of social science 0,0,1,0
+171277 Constructivist epistemology 0,0,1,0
+171278 Renewable resource 0,0,1,0
+171292 Coherentism 0,0,1,0
+60441 Packaging and labeling 0,0,1,0
+171316 David Bloor 0,0,1,0
+171346 Uniformitarianism 0,0,1,0
+171425 Philosophy and economics 0,0,1,0
+37755 Space law 0,0,1,0
+171444 Drinking water 0,0,1,0
+171466 Stephen Jay Gould 0,0,1,0
+72130 Compton Gamma Ray Observatory 0,0,1,0
+171519 Philosophy of psychology 0,0,1,0
+171524 Willard Van Orman Quine 0,0,1,0
+171595 Foundations of statistics 0,0,1,0
+171645 Decomposer 0,0,1,0
+171658 Disturbance (ecology) 0,0,1,0
+171663 Introduced species 0,0,1,0
+171666 Biomass (ecology) 0,0,1,0
+171668 Biota (ecology) 0,0,1,0
+171671 Ecosystem management 0,0,1,0
+171694 Parent material 0,0,1,0
+171761 German Workers' Party 0,0,1,0
+171773 Military career of Adolf Hitler 0,0,1,0
+171786 Manifesto 0,0,1,0
+171798 Reichstag (Weimar Republic) 0,0,1,0
+171799 Beer Hall Putsch 0,0,1,0
+171803 Charismatic authority 0,0,1,0
+171807 German diaspora 0,0,1,0
+171810 Eva Braun 0,0,1,0
+171816 Anti-communism 0,0,1,0
+171834 Robert Wood Johnson Foundation 0,0,1,0
+171864 Princeton Theological Seminary 0,0,1,0
+171875 Church & Dwight 0,0,1,0
+171880 Berlitz Corporation 0,0,1,0
+171908 Treaty of Versailles 0,0,1,0
+171918 German federal election, March 1933 0,0,1,0
+171961 Nazism and race 0,0,1,0
+171973 Bristol-Myers Squibb 0,0,1,0
+172008 Nuclear chemistry 0,0,1,0
+172076 Fritz Strassmann 0,0,1,0
+60520 Infinite set 0,0,1,0
+42133 National Advisory Committee for Aeronautics 0,0,1,0
+172091 Spontaneous fission 0,0,1,0
+172097 Exothermic reaction 0,0,1,0
+172131 Otto Robert Frisch 0,0,1,0
+172132 Georgy Flyorov 0,0,1,0
+42141 Arianespace 0,0,1,0
+60823 Radio broadcasting 0,0,1,0
+172144 Igor Kurchatov 0,0,1,0
+72367 Methodology 0,0,1,0
+172152 Pan-Germanism 0,0,1,0
+172160 Proton emission 0,0,1,0
+172169 Lise Meitner 0,0,1,0
+172172 Radioactive waste 0,0,1,0
+172176 Untermensch 0,0,1,0
+172218 Niels Bohr 0,0,1,0
+172226 Konstantin Petrzhak 0,0,1,0
+72368 Contemplation 0,0,1,0
+172275 Fission (biology) 0,0,1,0
+172302 New Order (Nazism) 0,0,1,0
+172311 Nuclear power debate 0,0,1,0
+172319 Connected space 0,0,1,0
+172334 Cryosphere 0,0,1,0
+172349 Spatial Synoptic Classification system 0,0,1,0
+72371 Body of knowledge 0,0,1,0
+172354 Evapotranspiration 0,0,1,0
+172359 Wladimir Köppen 0,0,1,0
+172367 Dendrochronology 0,0,1,0
+172380 Body of water 0,0,1,0
+172398 Thermodynamic free energy 0,0,1,0
+172405 Köppen climate classification 0,0,1,0
+172451 Superstring theory 0,0,1,0
+172459 Climate classification 0,0,1,0
+72385 Nature (philosophy) 0,0,1,0
+172514 Lie group 0,0,1,0
+172535 Teleology 0,0,1,0
+172636 Enabling Act of 1933 0,0,1,0
+172639 Neoplasm 0,0,1,0
+172661 Dot product 0,0,1,0
+172680 Tensor field 0,0,1,0
+172693 Gregorio Ricci-Curbastro 0,0,1,0
+172713 Coordinate-free 0,0,1,0
+172761 Tullio Levi-Civita 0,0,1,0
+72388 Proof (truth) 0,0,1,0
+72396 Normative 0,0,1,0
+172844 Child 0,0,1,0
+172937 Dual (grammatical number) 0,0,1,0
+172945 Anti-imperialism 0,0,1,0
+172951 British idealism 0,0,1,0
+172990 Bayesian probability 0,0,1,0
+173014 Nuclear disarmament 0,0,1,0
+173066 G. E. Moore 0,0,1,0
+173106 Reproducibility 0,0,1,0
+173110 Freedom of thought 0,0,1,0
+173130 Stalinism 0,0,1,0
+173152 Circa 0,0,1,0
+173153 Judeo-Islamic philosophies (800–1400) 0,0,1,0
+173164 Lyceum (Classical) 0,0,1,0
+173194 Platonism 0,0,1,0
+173221 Aristotelianism 0,0,1,0
+173232 Philip II of Macedon 0,0,1,0
+72397 Medical research 0,0,1,0
+173257 Poetics (Aristotle) 0,0,1,0
+173261 Virtue ethics 0,0,1,0
+173309 Cicero 0,0,1,0
+173317 ISO 259 0,0,1,0
+173318 Ethnoreligious group 0,0,1,0
+173330 Ethnogenesis 0,0,1,0
+173331 Assyrian captivity 0,0,1,0
+173350 Merneptah Stele 0,0,1,0
+173358 Israeli Declaration of Independence 0,0,1,0
+173368 Law of Return 0,0,1,0
+173372 El (deity) 0,0,1,0
+173374 Progress (history) 0,0,1,0
+173376 Jewish literature 0,0,1,0
+173392 Jewish medicine 0,0,1,0
+173411 Judea (Roman province) 0,0,1,0
+173425 Canaan 0,0,1,0
+173442 Basic Laws of Israel 0,0,1,0
+173444 Jewish state 0,0,1,0
+173456 Ethnic religion 0,0,1,0
+173470 Kingdom of Judah 0,0,1,0
+173502 Jewish culture 0,0,1,0
+173514 Berman Jewish DataBank 0,0,1,0
+173520 Halakha 0,0,1,0
+173530 Israelites 0,0,1,0
+173545 Kingdom of Israel (Samaria) 0,0,1,0
+173550 Tanakh 0,0,1,0
+173562 Jewish diaspora 0,0,1,0
+173581 Babylonian captivity 0,0,1,0
+173599 Hebrews 0,0,1,0
+173628 Jewish population by country 0,0,1,0
+173668 Who is a Jew? 0,0,1,0
+173671 Nicomachus (father of Aristotle) 0,0,1,0
+173674 New Kingdom of Egypt 0,0,1,0
+173682 Proxenus of Atarneus 0,0,1,0
+173706 Jewish ethics 0,0,1,0
+173710 Stagira (ancient city) 0,0,1,0
+173718 Chalkidiki 0,0,1,0
+173759 Scientific evidence 0,0,1,0
+173802 Ancient Near East 0,0,1,0
+173832 Jewish philosophy 0,0,1,0
+173859 Land of Israel 0,0,1,0
+173870 Virgo (constellation) 0,0,1,0
+173886 Magenta 0,0,1,0
+173994 Sentience 0,0,1,0
+174651 Eastern Front (World War I) 0,0,1,0
+42192 Federal government of the United States 0,0,1,0
+42201 Kourou 0,0,1,0
+175762 Surface runoff 0,0,1,0
+175780 Sanitation 0,0,1,0
+175895 Wilkinson Microwave Anisotropy Probe 0,0,1,0
+176080 Cultural movement 0,0,1,0
+176082 History of education 0,0,1,0
+176084 Renaissance Papacy 0,0,1,0
+176099 Oil painting 0,0,1,0
+176106 Erwin Panofsky 0,0,1,0
+176108 Painting 0,0,1,0
+176120 Greek scholars in the Renaissance 0,0,1,0
+176129 Jules Michelet 0,0,1,0
+176146 Nostalgia 0,0,1,0
+176182 Italian city-states 0,0,1,0
+176206 Protagoras 0,0,1,0
+176208 Longue durée 0,0,1,0
+176216 Duchy of Milan 0,0,1,0
+176227 House of Medici 0,0,1,0
+176286 Republic of Venice 0,0,1,0
+176296 Thought experiment 0,0,1,0
+60885 Inverse function 0,0,1,0
+176454 Michelangelo 0,0,1,0
+176465 Bologna 0,0,1,0
+176518 Urea 0,0,1,0
+176530 Antimatter 0,0,1,0
+176630 Ohm 0,0,1,0
+176653 Litre 0,0,1,0
+61122 Array data structure 0,0,1,0
+176789 Pigment 0,0,1,0
+176956 Florence 0,0,1,0
+72508 Gravitational singularity 0,0,1,0
+177090 Orders of magnitude (time) 0,0,1,0
+177091 Internal conversion 0,0,1,0
+177097 Decay chain 0,0,1,0
+177099 Exponential decay 0,0,1,0
+177100 Potassium-40 0,0,1,0
+177110 List of nuclides 0,0,1,0
+177123 Electron capture 0,0,1,0
+177128 Cosmogenic nuclide 0,0,1,0
+177144 Magnetic potential 0,0,1,0
+177202 Neutron emission 0,0,1,0
+177309 Primordial nuclide 0,0,1,0
+61153 Broadcasting 0,0,1,0
+177407 Erwin Schrödinger 0,0,1,0
+177504 Radon 0,0,1,0
+72515 Narrative 0,0,1,0
+177631 Order and disorder (physics) 0,0,1,0
+177726 James Prescott Joule 0,0,1,0
+177967 CNO cycle 0,0,1,0
+178007 Priest 0,0,1,0
+178021 Sermon 0,0,1,0
+178075 Pascal's calculator 0,0,1,0
+178077 Arithmometer 0,0,1,0
+30225 List of government space agencies 0,0,1,0
+178158 Anglicanism 0,0,1,0
+178172 Elliptic geometry 0,0,1,0
+178250 Higgs boson 0,0,1,0
+61470 Mariner 10 0,0,1,0
+178379 Restoring force 0,0,1,0
+72568 Synonym 0,0,1,0
+178461 Tomography 0,0,1,0
+61506 Lighting 0,0,1,0
+178472 Contrast medium 0,0,1,0
+178474 X-ray generator 0,0,1,0
+178517 Imaging technology 0,0,1,0
+178518 Radiocontrast agent 0,0,1,0
+178520 Third law of thermodynamics 0,0,1,0
+178523 Indication (medicine) 0,0,1,0
+178524 Reversible process (thermodynamics) 0,0,1,0
+178525 Industrial computed tomography 0,0,1,0
+178526 Industrial radiography 0,0,1,0
+42236 Randomness 0,0,1,0
+178542 Functional imaging 0,0,1,0
+178550 Skywave 0,0,1,0
+178568 X-ray detector 0,0,1,0
+178592 Airport security 0,0,1,0
+72588 Olfaction 0,0,1,0
+178645 Elastography 0,0,1,0
+178646 Thermographic camera 0,0,1,0
+72683 Human condition 0,0,1,0
+178651 Radiant heating 0,0,1,0
+178658 Paul Ulrich Villard 0,0,1,0
+33843 Distributed computing 0,0,1,0
+178681 Lightning strike 0,0,1,0
+72717 Natural environment 0,0,1,0
+178697 Terrestrial gamma-ray flash 0,0,1,0
+178734 Emissivity 0,0,1,0
+178750 Topological defect 0,0,1,0
+178763 Charles W. Misner 0,0,1,0
+178818 Stefan–Boltzmann law 0,0,1,0
+178859 Autoimmunity 0,0,1,0
+178879 John Archibald Wheeler 0,0,1,0
+178905 Wien's displacement law 0,0,1,0
+72733 Value (ethics) 0,0,1,0
+178950 Attenuation length 0,0,1,0
+178992 Dissipation 0,0,1,0
+178997 Atlanta 0,0,1,0
+179064 Inverse problem 0,0,1,0
+179065 Magnetoencephalography 0,0,1,0
+179068 Endoscopy 0,0,1,0
+179076 Jacob Bekenstein 0,0,1,0
+179080 Alexei Starobinsky 0,0,1,0
+179086 Primordial black hole 0,0,1,0
+179096 Micro black hole 0,0,1,0
+179119 Medical photography 0,0,1,0
+179147 Yakov Borisovich Zel'dovich 0,0,1,0
+179177 Ashkenazi Jews 0,0,1,0
+179183 Biological imaging 0,0,1,0
+179194 Projectional radiography 0,0,1,0
+179197 Laplace's equation 0,0,1,0
+72740 Capital city 0,0,1,0
+179229 Laplace operator 0,0,1,0
+179238 Oil drop experiment 0,0,1,0
+179289 Cold dark matter 0,0,1,0
+72787 Organisation for Economic Co-operation and Development 0,0,1,0
+179311 Gravitational binding energy 0,0,1,0
+179395 Bourbon Restoration 0,0,1,0
+179422 First French Empire 0,0,1,0
+179493 Synchrotron 0,0,1,0
+179509 Analog models of gravity 0,0,1,0
+179616 Large extra dimension 0,0,1,0
+179652 Season 0,0,1,0
+179736 Terrestrial animal 0,0,1,0
+179744 Daytime 0,0,1,0
+179747 Diurnal temperature variation 0,0,1,0
+179748 Terrestrial plant 0,0,1,0
+179759 Léon Teisserenc de Bort 0,0,1,0
+179762 Richard Assmann 0,0,1,0
+179771 Breathing gas 0,0,1,0
+179799 Extragalactic astronomy 0,0,1,0
+179835 Anthracite 0,0,1,0
+180074 Quark star 0,0,1,0
+180139 Billion years 0,0,1,0
+180173 Future of an expanding universe 0,0,1,0
+180238 Vela (satellite) 0,0,1,0
+180271 Photometry (astronomy) 0,0,1,0
+180352 Thin disk 0,0,1,0
+180544 Photon epoch 0,0,1,0
+72814 Efficient energy use 0,0,1,0
+180624 Timeline of the evolutionary history of life 0,0,1,0
+180632 Mantle convection 0,0,1,0
+180695 Zeeman effect 0,0,1,0
+180938 Four-momentum 0,0,1,0
+180944 Perturbation theory 0,0,1,0
+180945 Tachyon 0,0,1,0
+180956 Kepler's Supernova 0,0,1,0
+72949 Republic of Genoa 0,0,1,0
+73117 Future 0,0,1,0
+181094 Symmetry group 0,0,1,0
+73148 Standard language 0,0,1,0
+181165 Albert A. Michelson 0,0,1,0
+37779 Westphalian sovereignty 0,0,1,0
+181225 Max Born 0,0,1,0
+181261 Penetration depth 0,0,1,0
+181267 Joseph Fourier 0,0,1,0
+181295 Measurement in quantum mechanics 0,0,1,0
+181301 Magnification 0,0,1,0
+181304 Nonclassical light 0,0,1,0
+181307 Two-photon physics 0,0,1,0
+181313 Sagittarius A 0,0,1,0
+181314 Atomic spacing 0,0,1,0
+181336 Optical microscope 0,0,1,0
+181338 Covariant formulation of classical electromagnetism 0,0,1,0
+181344 Supersymmetry 0,0,1,0
+181389 Local symmetry 0,0,1,0
+181399 Macroscopic quantum phenomena 0,0,1,0
+181406 S2 (star) 0,0,1,0
+181440 Yang–Mills theory 0,0,1,0
+181458 Top quark 0,0,1,0
+181475 Arc (geometry) 0,0,1,0
+181512 Purple 0,0,1,0
+181515 Pink 0,0,1,0
+181524 Manifest covariance 0,0,1,0
+181544 Satyendra Nath Bose 0,0,1,0
+181550 Valence bond theory 0,0,1,0
+181552 Radar gun 0,0,1,0
+181556 Doppler radar 0,0,1,0
+181558 Galaxy merger 0,0,1,0
+181606 Astronomical survey 0,0,1,0
+73274 Phonon 0,0,1,0
+181651 NIST-F1 0,0,1,0
+181655 Atomic fountain 0,0,1,0
+181681 International Atomic Time 0,0,1,0
+181695 Leap second 0,0,1,0
+181814 Universal Time 0,0,1,0
+73291 Work of art 0,0,1,0
+181854 Atomic emission spectroscopy 0,0,1,0
+181961 Time and frequency transfer 0,0,1,0
+182352 Photometric redshift 0,0,1,0
+182406 Frequency standard 0,0,1,0
+182425 Fornax Cluster 0,0,1,0
+182435 SPT-CL J0546-5345 0,0,1,0
+182449 SPT-CL J2106-5844 0,0,1,0
+182450 Radio relics 0,0,1,0
+182464 Radio halo 0,0,1,0
+73294 Amount of substance 0,0,1,0
+182474 Norma Cluster 0,0,1,0
+73307 Early modern period 0,0,1,0
+182495 Hercules Cluster 0,0,1,0
+182659 Coma Cluster 0,0,1,0
+182783 Baryon acoustic oscillations 0,0,1,0
+183056 Great Attractor 0,0,1,0
+183201 National Academies of Sciences, Engineering, and Medicine 0,0,1,0
+183296 Moment (physics) 0,0,1,0
+183687 Pierre de Fermat 0,0,1,0
+183820 Particle beam 0,0,1,0
+183837 KEKB (accelerator) 0,0,1,0
+183850 Synchrotron light source 0,0,1,0
+61575 Particle displacement 0,0,1,0
+183860 KEK 0,0,1,0
+42278 Earth Observing System 0,0,1,0
+183915 Particle therapy 0,0,1,0
+183929 Max Steenbeck 0,0,1,0
+183930 Electrical breakdown 0,0,1,0
+183962 Cockcroft–Walton generator 0,0,1,0
+183971 Gustav Ising 0,0,1,0
+183982 Linear particle accelerator 0,0,1,0
+183985 Rolf Widerøe 0,0,1,0
+183986 Accelerator mass spectrometry 0,0,1,0
+183987 Relativistic Heavy Ion Collider 0,0,1,0
+183988 Tevatron 0,0,1,0
+183991 Ernest Lawrence 0,0,1,0
+183996 Van de Graaff generator 0,0,1,0
+73383 Performing arts 0,0,1,0
+184113 Betatron 0,0,1,0
+184250 History of Athens 0,0,1,0
+184275 Western religions 0,0,1,0
+184280 Laws (dialogue) 0,0,1,0
+184302 Parmenides 0,0,1,0
+184304 Heraclitus 0,0,1,0
+184318 Christian philosophy 0,0,1,0
+184323 History of Christianity 0,0,1,0
+184453 Stanford Encyclopedia of Philosophy 0,0,1,0
+184577 Spirituality 0,0,1,0
+184873 Augustine of Hippo 0,0,1,0
+185107 Radiation protection 0,0,1,0
+185405 World view 0,0,1,0
+185690 Social theory 0,0,1,0
+73467 Philosophical analysis 0,0,1,0
+187094 Religious text 0,0,1,0
+187106 Religious behaviour 0,0,1,0
+187129 Cultural system 0,0,1,0
+187131 Faith 0,0,1,0
+187167 Trance 0,0,1,0
+187171 Religious organization 0,0,1,0
+187172 Sacrifice 0,0,1,0
+187197 Holy places 0,0,1,0
+187198 Sacred history 0,0,1,0
+187214 Religious symbol 0,0,1,0
+73474 Theory of justification 0,0,1,0
+187225 Community service 0,0,1,0
+187230 Meaning of life 0,0,1,0
+187242 Folk religion 0,0,1,0
+73481 Supply (economics) 0,0,1,0
+187298 Initiation 0,0,1,0
+187304 Funeral 0,0,1,0
+187311 Meditation 0,0,1,0
+187544 Irony 0,0,1,0
+187555 Agnosticism 0,0,1,0
+73493 Spanish language 0,0,1,0
+188565 Ophiuchus 0,0,1,0
+188682 Hamiltonian (quantum mechanics) 0,0,1,0
+188684 Planck postulate 0,0,1,0
+188722 Observable 0,0,1,0
+189054 Parametrization 0,0,1,0
+189316 Paul Steinhardt 0,0,1,0
+189407 Alan Guth 0,0,1,0
+189877 Demand curve 0,0,1,0
+189982 Molière 0,0,1,0
+190023 Fyodor Dostoyevsky 0,0,1,0
+190062 Honoré de Balzac 0,0,1,0
+190085 Protocol (science) 0,0,1,0
+190119 Enumerative induction 0,0,1,0
+73521 Demand 0,0,1,0
+190380 Karl Popper 0,0,1,0
+190558 Catholic University of Leuven (1834–1968) 0,0,1,0
+190593 Supernova Cosmology Project 0,0,1,0
+190599 High-Z Supernova Search Team 0,0,1,0
+190665 Second derivative 0,0,1,0
+61588 Brain 0,0,1,0
+192337 Monotonic function 0,0,1,0
+192401 Eschatology 0,0,1,0
+193330 Philosophical skepticism 0,0,1,0
+194056 Background radiation 0,0,1,0
+194078 Jacques Derrida 0,0,1,0
+194162 Isotopes of krypton 0,0,1,0
+194553 Western esotericism 0,0,1,0
+194571 David Spergel 0,0,1,0
+73553 Portuguese language 0,0,1,0
+194593 Geiger–Marsden experiment 0,0,1,0
+194660 Dmitri Ivanenko 0,0,1,0
+194742 Charge radius 0,0,1,0
+194759 Radical (chemistry) 0,0,1,0
+194809 Thomas Blount (lexicographer) 0,0,1,0
+194869 Bohr magneton 0,0,1,0
+194979 Ernst Mach 0,0,1,0
+195045 Baruch Spinoza 0,0,1,0
+195079 CfA2 Great Wall 0,0,1,0
+195139 Ludwig Boltzmann 0,0,1,0
+195167 University of Göttingen 0,0,1,0
+195240 Chemical structure 0,0,1,0
+195268 Discovery of the neutron 0,0,1,0
+195385 List of German-language philosophers 0,0,1,0
+195387 Transcendence (philosophy) 0,0,1,0
+42280 National Aeronautics and Space Act 0,0,1,0
+195399 Condition of possibility 0,0,1,0
+195403 Critical philosophy 0,0,1,0
+195409 Critique of Practical Reason 0,0,1,0
+42300 French Guiana 0,0,1,0
+195417 The Metaphysics of Morals 0,0,1,0
+195457 Perpetual peace 0,0,1,0
+61702 Spheroid 0,0,1,0
+195533 Ontological argument 0,0,1,0
+61739 Night sky 0,0,1,0
+195711 Perpetual motion 0,0,1,0
+195740 Particle decay 0,0,1,0
+195793 Force field (physics) 0,0,1,0
+195874 George Zweig 0,0,1,0
+61748 Roman mythology 0,0,1,0
+195906 Strange quark 0,0,1,0
+195912 Upsilon meson 0,0,1,0
+195921 J/psi meson 0,0,1,0
+195999 Total angular momentum quantum number 0,0,1,0
+29992 Robotic spacecraft 0,0,1,0
+196022 Charm quark 0,0,1,0
+196162 Enthalpy 0,0,1,0
+196188 Murray Gell-Mann 0,0,1,0
+196330 Deep inelastic scattering 0,0,1,0
+61797 Berlin 0,0,1,0
+196410 Quark model 0,0,1,0
+196417 Mechanical equilibrium 0,0,1,0
+196547 Bevatron 0,0,1,0
+196750 Target acquisition 0,0,1,0
+197019 Cross product 0,0,1,0
+197027 Frederick Reines 0,0,1,0
+197086 Degenerate energy levels 0,0,1,0
+197101 Electrostatic discharge 0,0,1,0
+197107 Commutator 0,0,1,0
+197108 Physical information 0,0,1,0
+197119 Ole Rømer 0,0,1,0
+197143 Table of nuclides 0,0,1,0
+197165 Pseudovector 0,0,1,0
+197169 Neutron capture 0,0,1,0
+197202 Aether (classical element) 0,0,1,0
+197219 Spallation 0,0,1,0
+197228 Continuum mechanics 0,0,1,0
+197229 Chicago Pile-1 0,0,1,0
+197287 Gibbs free energy 0,0,1,0
+197683 Wetting 0,0,1,0
+197720 Surface tension 0,0,1,0
+197768 Hot dark matter 0,0,1,0
+197828 Compressibility 0,0,1,0
+197835 Lepton number 0,0,1,0
+198070 Polis 0,0,1,0
+198153 Skin 0,0,1,0
+198200 List of theoretical physicists 0,0,1,0
+198296 Scholastic accolades 0,0,1,0
+198391 Atomism 0,0,1,0
+199531 Mass spectrometry 0,0,1,0
+200575 Resonance (chemistry) 0,0,1,0
+200762 Human skeleton 0,0,1,0
+201038 Linear combination of atomic orbitals 0,0,1,0
+201638 Unified field theory 0,0,1,0
+202100 QCD matter 0,0,1,0
+202148 Biopsy 0,0,1,0
+202202 Avoirdupois 0,0,1,0
+73774 Hungary 0,0,1,0
+202302 Vacuum permeability 0,0,1,0
+202336 Sensible heat 0,0,1,0
+202345 Calorimetry 0,0,1,0
+202532 James Edward Keeler 0,0,1,0
+202553 Milton L. Humason 0,0,1,0
+202582 Latent heat 0,0,1,0
+202648 Indiana University Bloomington 0,0,1,0
+202659 Lowell Observatory 0,0,1,0
+202793 Science (journal) 0,0,1,0
+202794 VSEPR theory 0,0,1,0
+202799 Substitution reaction 0,0,1,0
+202846 Grand unification epoch 0,0,1,0
+202880 Pyrometer 0,0,1,0
+202881 Direct DNA damage 0,0,1,0
+202885 Radiation burn 0,0,1,0
+202897 Melanin 0,0,1,0
+202902 Erythema 0,0,1,0
+202928 Apoptosis 0,0,1,0
+202960 Units of energy 0,0,1,0
+202978 Infrared thermometer 0,0,1,0
+73813 Anthropology 0,0,1,0
+203014 International Agency for Research on Cancer 0,0,1,0
+203026 Sunscreen 0,0,1,0
+203032 Fine-structure constant 0,0,1,0
+203037 Photoprotection 0,0,1,0
+203078 Particle radiation 0,0,1,0
+203098 Relative biological effectiveness 0,0,1,0
+203247 Positron emission 0,0,1,0
+203372 Heat of combustion 0,0,1,0
+203374 Heterolysis (chemistry) 0,0,1,0
+203421 Integrable system 0,0,1,0
+203455 Soft error 0,0,1,0
+203605 The Analyst 0,0,1,0
+203781 Poincaré conjecture 0,0,1,0
+203828 List of unsolved problems in mathematics 0,0,1,0
+203975 Homogeneity (physics) 0,0,1,0
+203982 Simply connected space 0,0,1,0
+203987 Arthur Geoffrey Walker 0,0,1,0
+203992 Howard P. Robertson 0,0,1,0
+204053 Christian denomination 0,0,1,0
+204066 Alexander Friedmann 0,0,1,0
+204158 Big Bounce 0,0,1,0
+204379 Carnot's theorem (thermodynamics) 0,0,1,0
+206230 James MacCullagh 0,0,1,0
+206234 Covariant classical field theory 0,0,1,0
+206254 Fiber bundle 0,0,1,0
+206347 Energy conversion efficiency 0,0,1,0
+206374 Urban heat island 0,0,1,0
+206429 Energy–momentum relation 0,0,1,0
+206450 Alberta 0,0,1,0
+206534 Organic acid 0,0,1,0
+206541 Nutrition facts label 0,0,1,0
+206562 Rumen 0,0,1,0
+206589 Polyol 0,0,1,0
+206590 Sugar alcohol 0,0,1,0
+206597 Wilbur Olin Atwater 0,0,1,0
+206617 Plutonium-238 0,0,1,0
+206624 Atomic battery 0,0,1,0
+206630 Nuclear fuel cycle 0,0,1,0
+206641 Potentiality and actuality 0,0,1,0
+206894 Isothermal process 0,0,1,0
+206900 Thermodynamic potential 0,0,1,0
+206919 Waste-to-energy 0,0,1,0
+206925 Kerosene 0,0,1,0
+206931 Energy Information Administration 0,0,1,0
+206936 Georgius Agricola 0,0,1,0
+206943 Oil field 0,0,1,0
+206953 Mikhail Lomonosov 0,0,1,0
+206961 Instrumental temperature record 0,0,1,0
+206988 Anaerobic digestion 0,0,1,0
+207022 Geothermal power 0,0,1,0
+207038 Space heater 0,0,1,0
+207042 Arrow of time 0,0,1,0
+42313 Ariane 5 0,0,1,0
+207050 Geothermal gradient 0,0,1,0
+207057 Earth's internal heat budget 0,0,1,0
+207059 Geothermal heating 0,0,1,0
+207350 REN21 0,0,1,0
+207368 Stand-alone power system 0,0,1,0
+207381 Wave power 0,0,1,0
+207393 Energy security and renewable technology 0,0,1,0
+207397 Renewable energy in China 0,0,1,0
+207411 Renewable energy in developing countries 0,0,1,0
+207414 Human development (humanity) 0,0,1,0
+207416 Relative direction 0,0,1,0
+207434 Distributive property 0,0,1,0
+207435 Energy transition 0,0,1,0
+207443 Renewable energy in the United States 0,0,1,0
+207460 100% renewable energy 0,0,1,0
+207524 Lutheranism 0,0,1,0
+207705 Operator (physics) 0,0,1,0
+37807 Rocket launch 0,0,1,0
+207869 Arnold Sommerfeld 0,0,1,0
+208122 Edward W. Morley 0,0,1,0
+208124 Kennedy–Thorndike experiment 0,0,1,0
+208132 Reaction rate 0,0,1,0
+208187 Relative velocity 0,0,1,0
+208233 Case Western Reserve University 0,0,1,0
+208263 Ives–Stilwell experiment 0,0,1,0
+61929 Julian year (astronomy) 0,0,1,0
+209113 Common sense 0,0,1,0
+209414 Howard Hughes Medical Institute 0,0,1,0
+209831 Triboelectric effect 0,0,1,0
+210419 Scalar multiplication 0,0,1,0
+210441 Born rule 0,0,1,0
+210831 Ansatz 0,0,1,0
+211043 Isospin 0,0,1,0
+61990 Magnetic moment 0,0,1,0
+211560 Holomorphic function 0,0,1,0
+211656 Algebraic equation 0,0,1,0
+211728 Logical possibility 0,0,1,0
+216382 Introspection 0,0,1,0
+218492 Thrace 0,0,1,0
+219039 Winter 0,0,1,0
+219042 Summer 0,0,1,0
+219795 Bosonic string theory 0,0,1,0
+219799 Outline of physics 0,0,1,0
+219838 String (physics) 0,0,1,0
+219842 String theory landscape 0,0,1,0
+219857 AdS/CFT correspondence 0,0,1,0
+219908 Erlangen program 0,0,1,0
+219954 M-theory 0,0,1,0
+219964 Playfair's axiom 0,0,1,0
+219966 Parallel postulate 0,0,1,0
+220374 Classical Athens 0,0,1,0
+220543 Lists of shapes 0,0,1,0
+220551 Self-similarity 0,0,1,0
+221325 Equation solving 0,0,1,0
+221373 Proton decay 0,0,1,0
+222209 Purdue University 0,0,1,0
+222714 Perimeter 0,0,1,0
+228319 Euler angles 0,0,1,0
+232029 Earth radius 0,0,1,0
+232497 Mass flow rate 0,0,1,0
+236212 Early Christianity 0,0,1,0
+238989 Arecibo Observatory 0,0,1,0
+241045 George Ellery Hale 0,0,1,0
+241527 Non-standard analysis 0,0,1,0
+241993 Biomechanics 0,0,1,0
+242108 Optimism 0,0,1,0
+246081 Freethought 0,0,1,0
+246505 Surrey 0,0,1,0
+251476 Conservation of mass 0,0,1,0
+252315 Early modern Europe 0,0,1,0
+252539 List of urban areas in the United Kingdom 0,0,1,0
+252776 Greater Glasgow 0,0,1,0
+254127 Phase boundary 0,0,1,0
+254395 Morning 0,0,1,0
+264611 Circumscribed circle 0,0,1,0
+264648 Incircle and excircles of a triangle 0,0,1,0
+266919 Religious order 0,0,1,0
+270792 Tiberius 0,0,1,0
+272879 Euler–Lagrange equation 0,0,1,0
+275098 Francis of Assisi 0,0,1,0
+275688 Pisa 0,0,1,0
+276893 Inclined plane 0,0,1,0
+280035 Xenophon 0,0,1,0
+287076 West Midlands conurbation 0,0,1,0
+287838 Orientation (geometry) 0,0,1,0
+288134 Anglo-Irish people 0,0,1,0
+296829 Greater Manchester Built-up Area 0,0,1,0
+305192 Voltaire 0,0,1,0
+308244 Diurnality 0,0,1,0
+308816 Diophantine equation 0,0,1,0
+308847 Robert Recorde 0,0,1,0
+308930 Implicit function 0,0,1,0
+308999 Equals sign 0,0,1,0
+309164 Ceteris paribus 0,0,1,0
+313733 Traffic engineering (transportation) 0,0,1,0
+318854 Lists of American institutions of higher education 0,0,1,0
+318880 National Science Board 0,0,1,0
+318938 France A. Córdova 0,0,1,0
+328232 Fundamental theorem of algebra 0,0,1,0
+328977 Quaternion 0,0,1,0
+330528 Electron optics 0,0,1,0
+330534 Ultrastructure 0,0,1,0
+330536 Micrograph 0,0,1,0
+330539 Electrostatic lens 0,0,1,0
+330587 Frame grabber 0,0,1,0
+331131 Gaussian curvature 0,0,1,0
+331178 Law of Continuity 0,0,1,0
+331205 Transcendental law of homogeneity 0,0,1,0
+331245 Carl Gustav Jacob Jacobi 0,0,1,0
+332305 Well-defined 0,0,1,0
+332313 Basis (linear algebra) 0,0,1,0
+332760 Position and momentum space 0,0,1,0
+332778 Canonical commutation relation 0,0,1,0
+333346 Leibniz wheel 0,0,1,0
+333349 Pinwheel calculator 0,0,1,0
+333395 Leibniz's notation 0,0,1,0
+333481 Best of all possible worlds 0,0,1,0
+339772 Copernican Revolution (metaphor) 0,0,1,0
+346308 Max Planck Institute for Gravitational Physics 0,0,1,0
+354544 Simple group 0,0,1,0
+354781 Hydrodynamic stability 0,0,1,0
+354786 Flow measurement 0,0,1,0
+368194 Baryon number 0,0,1,0
+369904 Rubber elasticity 0,0,1,0
+372756 Contingency (philosophy) 0,0,1,0
+73886 Pasadena, California 0,0,1,0
+374302 Theoretical definition 0,0,1,0
+376161 Identity matrix 0,0,1,0
+377986 Commensurability 0,0,1,0
+378045 Inequation 0,0,1,0
+378578 Inverse trigonometric functions 0,0,1,0
+386553 Theory of Forms 0,0,1,0
+392173 Working time 0,0,1,0
+393296 Subjective idealism 0,0,1,0
+61992 Celsius 0,0,1,0
+395622 Exterior derivative 0,0,1,0
+400287 Continuity equation 0,0,1,0
+403214 Ricci calculus 0,0,1,0
+407650 Lorentz factor 0,0,1,0
+407660 Records life-cycle 0,0,1,0
+407665 George Francis FitzGerald 0,0,1,0
+407674 Governance, risk management, and compliance 0,0,1,0
+407849 Squeeze mapping 0,0,1,0
+407857 Critias 0,0,1,0
+407878 Deconstruction 0,0,1,0
+407975 Bishop of Cloyne 0,0,1,0
+407977 Three Dialogues between Hylas and Philonous 0,0,1,0
+407983 Absoluteness 0,0,1,0
+407986 A Treatise Concerning the Principles of Human Knowledge 0,0,1,0
+407987 Tar water 0,0,1,0
+407988 Alciphron (book) 0,0,1,0
+407996 De Motu (Berkeley's essay) 0,0,1,0
+62050 Control theory 0,0,1,0
+408128 Projected area 0,0,1,0
+408151 CfA Redshift Survey 0,0,1,0
+408157 Minimal surface 0,0,1,0
+408217 Timeline of cosmological theories 0,0,1,0
+408225 Sloan Digital Sky Survey 0,0,1,0
+408231 Differential of a function 0,0,1,0
+408233 VIMOS-VLT Deep Survey 0,0,1,0
+408235 Large Synoptic Survey Telescope 0,0,1,0
+408250 DEEP2 Redshift Survey 0,0,1,0
+408263 Galaxy And Mass Assembly survey 0,0,1,0
+37813 Balloon (aeronautics) 0,0,1,0
+408283 Galaxy color–magnitude diagram 0,0,1,0
+408336 2dF Galaxy Redshift Survey 0,0,1,0
+408825 Old Catholic Church 0,0,1,0
+410014 Semisimple algebraic group 0,0,1,0
+410016 Renormalization group 0,0,1,0
+410035 Grand unification energy 0,0,1,0
+410076 Coupling constant 0,0,1,0
+410111 Spin foam 0,0,1,0
+410178 Regularization (physics) 0,0,1,0
+410186 Nikolay Bogolyubov 0,0,1,0
+410189 Kenneth G. Wilson 0,0,1,0
+412242 Normality (behavior) 0,0,1,0
+412248 Bathing 0,0,1,0
+412254 Rush hour 0,0,1,0
+412255 Drive time 0,0,1,0
+412651 Normal science 0,0,1,0
+412674 Martin Cohen (philosopher) 0,0,1,0
+412714 Paradeigma 0,0,1,0
+412794 Birkhoff's theorem (relativity) 0,0,1,0
+412817 Vacuum solution (general relativity) 0,0,1,0
+412929 Tau Cross 0,0,1,0
+413032 Integrability conditions for differential systems 0,0,1,0
+413228 PSR J0737-3039 0,0,1,0
+413449 Hypercharge 0,0,1,0
+413462 Strangeness 0,0,1,0
+413471 Charge conservation 0,0,1,0
+413603 Ricci curvature 0,0,1,0
+413693 Covariant transformation 0,0,1,0
+413778 Weyl tensor 0,0,1,0
+413867 Fallacy 0,0,1,0
+413918 Mass in general relativity 0,0,1,0
+414049 Michelson interferometer 0,0,1,0
+414053 Bruce Allen (physicist) 0,0,1,0
+414077 PSR J2007+2722 0,0,1,0
+414106 University of Wisconsin–Milwaukee 0,0,1,0
+414127 Livingston, Louisiana 0,0,1,0
+557087 Adoption of the Gregorian calendar 0,0,1,0
+619360 Liverpool Urban Area 0,0,1,0
+619380 West Yorkshire Urban Area 0,0,1,0
+38638 Laser pointer 0,0,1,0
