@@ -11,6 +11,8 @@ var titleVar = "title";
 
 var maxNumberOfTransverse = 4;
 
+var k = 10;
+
 //Algorithm 
 
 //Get page k most relevant transversal connections (i.e. k can be 10)
@@ -27,22 +29,110 @@ var maxNumberOfTransverse = 4;
 
 //the left articles are consired to come "before" the original articles
 
+//Get tranv articles from the target article
+getValidTransvData(article, function(textSorted) {
 
+    //Array to store the k most relevant articles connections
+    var articlesArr = [];
 
+    var asyncQueue = async.queue(function(articleData, taskCallback) {
 
-getPageTranversal(article, function(textSorted) {
+        //If the array already have the k elements, just callback
+        if(articlesArr.length == k)
+            return taskCallback();  
 
-    var textBuffer = "";
+        console.log("Analyzing " + articleData.title);
+        //Get transv articles for the current article
+        getValidTransvData(articleData.title, function(targetArticles) {
 
-    for(var i = 0; i < textSorted.length; i++) {
-        //console.log((i + 1) + "/" + textSorted.length);
-        console.log(textSorted[i].join(" - "));
-        textBuffer += textSorted[i].join(" ") + "\r\n";
-    }  
+            //Iterate thru all the target articles from the current article
+            for(var i = 0; i < targetArticles.length; i++) {
+                var tArticle = targetArticles[i];
 
-    fs.writeFileSync("buffer.txt", textBuffer, 'utf-8');  
+                //If the main article belongs to some of the transv article, just return
+                if(tArticle.title == article) {
+                    return taskCallback();
+                }
+            }
 
+            //If the article pass all the test, push it to the queue
+            articlesArr.push(articleData);  
+            taskCallback();    
+        });
+
+            // articlesArr.push(articleData);  
+            // taskCallback();  
+
+    }, 1);
+
+    //Callback to be called when the queue is empty
+    asyncQueue.drain = function() {
+        console.log("");
+        for(var i = 0; i < articlesArr.length; i++) {
+            var a = articlesArr[i];
+
+            console.log(a.title + " - " + a.count);
+
+        }
+    }
+
+    console.log(textSorted.length);
+
+    //Push data to the queue
+    asyncQueue.push(textSorted.slice(0, 1700), function() {
+        console.log(articlesArr.length + "/" + k);
+        
+    });
 });
+
+// getPageTranversal(article, function(textSorted) {
+
+//     var textBuffer = "";
+
+//     for(var i = 0; i < textSorted.length; i++) {
+//         //console.log((i + 1) + "/" + textSorted.length);
+//         console.log(textSorted[i].join(" - "));
+//         textBuffer += textSorted[i].join(" ") + "\r\n";
+//     }  
+
+//     fs.writeFileSync("buffer.txt", textBuffer, 'utf-8');  
+
+// });
+
+// getValidTransvData(article, function(validArticles) {
+
+//     console.log(validArticles);
+
+// });
+
+function getValidTransvData(article, callback) {
+
+    getPageTranversal(article, function(transvArticles) {
+
+        var validData = [];
+
+        for(var i = 0; i < transvArticles.length && validData.length < 1500; i++) {
+
+            var tArticle = transvArticles[i];
+
+            //If the article title is the same article, skip it
+            if(tArticle[1] == article)
+                continue;
+
+            //If the article count of level 2 is less than 2 (means no intersection) skip it
+            if(tArticle[2][1] < 2)
+                continue; 
+
+            validData.push({
+                id: tArticle[0],
+                title: tArticle[1],
+                count: tArticle[2]
+            });
+        }
+
+        callback(validData);
+    });
+}
 
 function getPageTranversal(article, callback) {
 
@@ -165,7 +255,12 @@ function getPageTranversal(article, callback) {
 
         var textSorted = sorted.map(function(a) {
             a.text = articleDict[a.art];
-            return [a.art, articleDict[a.art], a.count];    
+            return [a.art, articleDict[a.art], a.count];
+            // return {
+            //     id: a.art,
+            //     title: articleDict[a.art],
+            //     count: a.count
+            // }    
         });
         
         
