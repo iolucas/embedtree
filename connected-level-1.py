@@ -13,7 +13,10 @@ py2neo.authenticate("localhost:7474", "neo4j", "lucas")
 graph = Graph("http://localhost:7474/db/data/")
 
 #Get article title from the args
-articleTitle = sys.argv[1]
+connection = sys.argv[1]
+method = sys.argv[2]
+articleTitle = sys.argv[3]
+
 
 #Construct the query
 dbQuery = " ".join([
@@ -39,11 +42,13 @@ for r in results:
     else: #If there is node 3, there is a relation, add it directly so nodes are add automatically
         G.add_edge(r['n2']['title'], r['n3']['title'])
 
-#Get the undirected subgraphs of  G
-undir_subgraphs = nx.connected_component_subgraphs(G.to_undirected())
+#Get the connected nodes of G according to choose method
+if connection == 'weak':
+    sc_nodes = nx.weakly_connected_components(G)
+elif connection == 'strong':
+    sc_nodes = nx.strongly_connected_components(G)
 
-#Array to store the directed subgraphs
-subgraphs = []
+subgraphs = [G.subgraph(nlist) for nlist in sc_nodes]
 
 #Function to compute incomming edges
 def sumInEdges(g):
@@ -58,23 +63,27 @@ def sumInEdges(g):
         if not target in connDict: #if the target has not been initiated @ the dict,
             connDict[target] = 0 #init it
         connDict[target] += 1 #Sum one value
-
+    
     return connDict #return the dict
 
-#Iterate thru the undir subgraphs
-for sg in undir_subgraphs:
-    dir_sg = G.subgraph(sg.nodes()) # generate the dir subgraph
+#Array to keep the clusters found 
+clusters = []
 
+#Iterate thru the subgraphs
+for dir_sg in subgraphs:
     #Compute the most import node of the cluster
     #We may use the page rank, or only the incomming edges sum
-    pr = sumInEdges(dir_sg).items() #Incomming edges
-    #pr = nx.pagerank(dir_sg).items() #Pagerank
+
+    if method == 'pagerank':
+        pr = nx.pagerank(dir_sg).items() #Pagerank
+    elif method == 'sum':
+        pr = sumInEdges(dir_sg).items() #Incomming edges
 
     biggestPr = max(pr, key=lambda a: a[1])[0] #Select the biggest value to represent the cluster
-    subgraphs.append((biggestPr, len(dir_sg.nodes()))) #Append it to the subgraphs with the number of nodes
+    clusters.append((biggestPr, len(dir_sg.nodes()))) #Append it to the subgraphs with the number of nodes
 
 #Print sorted results
-for n in sorted(subgraphs, key=lambda a: a[1], reverse=True):
+for n in sorted(clusters, key=lambda a: a[1], reverse=True):
     print n
 
 
@@ -82,8 +91,6 @@ for n in sorted(subgraphs, key=lambda a: a[1], reverse=True):
 
 # nx.draw(G)
 # plt.show()
-
-
 
 
 
