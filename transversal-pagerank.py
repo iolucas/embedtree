@@ -20,22 +20,18 @@ graph = Graph("http://localhost:7474/db/data/")
 
 articleTitle = sys.argv[1]
 
+#Create a directed graph
+G = nx.DiGraph()
+
+#Only forward query
 # #Construct the query
 # dbQuery = " ".join([
-#     # 'MATCH (n:Article {title:"ARTICLE-TITLE"})-[l:ConnectsTo]->(n1:Article)-[l1:ConnectsTo*1..2]->(n2:Article)',
 #     'MATCH (n1:Article {title:"ARTICLE-TITLE"})-[l1:ConnectsTo*1..1]->(n2:Article)',
-#     #'OPTIONAL MATCH (n2)-[l2:ConnectsTo]->(n3:Article)',
-#     #'WHERE (n1)-[:ConnectsTo*1..1]->(n3)',
-#     # 'WHERE n1 <> n2',
-#     # 'WHERE (n <> n1 AND n <> n2)',
-#     #'RETURN l1 + collect(l2)',
 #     'RETURN l1'
 # ]).replace("ARTICLE-TITLE", articleTitle)
 
-#Create a directed graph
 
-G = nx.DiGraph()
-
+#All directions query based on forward nodes
 #Query all nodes id related
 dbQuery = " ".join([
     'MATCH (n1:Article {title:"ARTICLE-TITLE"})-[l1:ConnectsTo*1..3]->(n2:Article)',
@@ -65,10 +61,6 @@ for val in graph.run(dbQuery):
     G.add_edge(e.start_node()['title'], e.end_node()['title'])
 
 print "" #Skip line
-
-# Must ensure connections between tranversals exists
-
-# keep working on the query
 
 #Execute query 
 #iterate over the results
