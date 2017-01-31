@@ -20,6 +20,11 @@ graph = Graph("http://localhost:7474/db/data/")
 
 articleTitle = sys.argv[1]
 
+if not sys.argv[2]:
+    transversalLevel = "1..2"
+else:
+    transversalLevel = sys.argv[2]
+
 #Create a directed graph
 G = nx.DiGraph()
 
@@ -34,7 +39,7 @@ G = nx.DiGraph()
 #All directions query based on forward nodes
 #Query all nodes id related
 dbQuery = " ".join([
-    'MATCH (n1:Article {title:"ARTICLE-TITLE"})-[l1:ConnectsTo*1..3]->(n2:Article)',
+    'MATCH (n1:Article {title:"ARTICLE-TITLE"})-[l1:ConnectsTo*' + transversalLevel + ']->(n2:Article)',
     'RETURN collect(DISTINCT ID(n1)) + collect(DISTINCT ID(n2)) as ids'
 ]).replace("ARTICLE-TITLE", articleTitle)
 
@@ -62,6 +67,56 @@ for val in graph.run(dbQuery):
 
 print "" #Skip line
 
+connection = "strong"
+method = "pagerank"
+
+#Get the connected nodes of G according to choose method
+if connection == 'weak':
+    sc_nodes = nx.weakly_connected_components(G)
+elif connection == 'strong':
+    sc_nodes = nx.strongly_connected_components(G)
+
+subgraphs = [G.subgraph(nlist) for nlist in sc_nodes]
+
+#Function to compute incomming edges
+def sumInEdges(g):
+    connDict = dict() #Dictionary to compute values
+    edges = g.edges() #get graph edges
+
+    if not edges: #If there is no edges
+        connDict[g.nodes()[0]] = 0 #Put only the first node found and return
+
+    for e in edges: #iterate thru edges
+        target = e[1] #get target
+        if not target in connDict: #if the target has not been initiated @ the dict,
+            connDict[target] = 0 #init it
+        connDict[target] += 1 #Sum one value
+    
+    return connDict #return the dict
+
+#Array to keep the clusters found 
+clusters = []
+
+#Iterate thru the subgraphs
+for dir_sg in subgraphs:
+    #Compute the most import node of the cluster
+    #We may use the page rank, or only the incomming edges sum
+
+    if method == 'pagerank':
+        pr = nx.pagerank(dir_sg).items() #Pagerank
+    elif method == 'sum':
+        pr = sumInEdges(dir_sg).items() #Incomming edges
+
+    biggestPr = max(pr, key=lambda a: a[1])[0] #Select the biggest value to represent the cluster
+    clusters.append((biggestPr, len(dir_sg.nodes()))) #Append it to the subgraphs with the number of nodes
+
+#Print sorted results
+for n in sorted(clusters, key=lambda a: a[1], reverse=True):
+    print n
+
+
+sys.exit()
+
 #Execute query 
 #iterate over the results
 #And add edges
@@ -72,7 +127,14 @@ print "" #Skip line
 
 print len(G.edges())
 
-print "\n".join(map(str, sorted(nx.pagerank(G).items(), key=lambda a: a[1], reverse=True))) #Pagerank
+resultLog = "\n\r".join(map(str, sorted(nx.pagerank(G).items(), key=lambda a: a[1], reverse=True)))
+
+#save resultLog
+with open("results/" + articleTitle + " - " + transversalLevel + ".txt", "w") as f:
+    f.write(resultLog)
+f.close()
+
+print resultLog 
 
 # for comp in nx.weakly_connected_components(G):
 #     print comp

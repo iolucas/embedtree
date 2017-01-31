@@ -1,0 +1,2158 @@
+(u'United States', 0.015437233100417067)
+(u'Computer', 0.009381166603800038)
+(u'Internet', 0.007100675881460342)
+(u'Computer science', 0.006107439538605475)
+(u'United Kingdom', 0.006027633873521299)
+(u'Information', 0.005793954757274953)
+(u'Latin', 0.005601517211732712)
+(u'World War II', 0.005512218896223209)
+(u'U.S. state', 0.005199384460521811)
+(u'Software', 0.005193869779737266)
+(u'Computer program', 0.005124757791730784)
+(u'Science', 0.004865720676960514)
+(u'Europe', 0.0048209769293297644)
+(u'Broadcasting', 0.004680217125346908)
+(u'Engineering', 0.004564350357196927)
+(u'Mathematics', 0.0045541350798039715)
+(u'American English', 0.004380964883136636)
+(u'Cold War', 0.004362896991154709)
+(u'Radio wave', 0.004140711277653601)
+(u'State (polity)', 0.004125571708073205)
+(u'Algorithm', 0.003954653875040223)
+(u'Education', 0.0038837760439744775)
+(u'Organization', 0.003801878704958692)
+(u'Smartphone', 0.003763114306810985)
+(u'Programming language', 0.0036749424311797235)
+(u'Television', 0.0036427085592612924)
+(u'United Nations', 0.003477981941474363)
+(u'Operating system', 0.0034617862857836915)
+(u'List of countries by GDP (nominal) per capita', 0.0034345716950838164)
+(u'Technology', 0.0034322806086322668)
+(u'Computing', 0.003426735168591938)
+(u'European Union', 0.0033943460863834424)
+(u'Central processing unit', 0.0033219184093135293)
+(u'Communication', 0.003227927647994174)
+(u'Knowledge', 0.0032171106508299746)
+(u'Personal computer', 0.003216675785562987)
+(u'Radio', 0.003197266131535792)
+(u'Washington, D.C.', 0.0031824322878424324)
+(u'World Wide Web', 0.003178506842051132)
+(u'United States dollar', 0.003147293747534286)
+(u'Corporation', 0.0030978485569308086)
+(u'North America', 0.0030271890686329015)
+(u'Gross domestic product', 0.0029564862798133304)
+(u'Government', 0.002904916702150959)
+(u'Perception', 0.0028904172062715534)
+(u'Dutch language', 0.0028449678209836156)
+(u'United States Congress', 0.0028245939452217995)
+(u'Computer data storage', 0.0028143349157393883)
+(u'Television program', 0.0027303699245033817)
+(u'Mobile phone', 0.00268856467291499)
+(u'Apple Inc.', 0.0026735877712993)
+(u'Service (economics)', 0.0026679243512848943)
+(u'Federal government of the United States', 0.002663951564301534)
+(u'Source code', 0.0026617554924893852)
+(u'President of the United States', 0.0026378895222745544)
+(u'Computer programming', 0.002621126103299228)
+(u'Geographic coordinate system', 0.0025977027591172616)
+(u'Tablet computer', 0.0025879753309000393)
+(u'Logic', 0.00257584778249143)
+(u'Film', 0.0025172203713031394)
+(u'Application software', 0.002499289835989491)
+(u'Good (economics)', 0.0024578041302870807)
+(u'Catholic Church', 0.0024569617855800087)
+(u'United States House of Representatives', 0.002455683397789566)
+(u'Computer network', 0.0024167749828762604)
+(u'NATO', 0.002400947730697633)
+(u'International trade', 0.002363644290835774)
+(u'Web browser', 0.002351543625363404)
+(u'Software engineering', 0.0023165950377160237)
+(u'California', 0.002306886498723139)
+(u'Dissolution of the Soviet Union', 0.002305877198251325)
+(u'Analog television', 0.002305496943138346)
+(u'Developed country', 0.002302789466387242)
+(u'Compiler', 0.002284778579408766)
+(u'System', 0.002271792759076142)
+(u'Superpower', 0.0022617411229320012)
+(u'New York City', 0.0022490254718551517)
+(u'United States Senate', 0.0021841440693294283)
+(u'Italian language', 0.0021755516202103427)
+(u'Interaction', 0.0021370435241476254)
+(u'BBC', 0.002135541138442965)
+(u'Copyright', 0.0021290621927514625)
+(u'Data', 0.0021029722483854253)
+(u'Netherlands', 0.0020887216621263455)
+(u'Data storage device', 0.0020854226980189065)
+(u'Pacific Ocean', 0.002066826972828182)
+(u'Law', 0.0020641827946724462)
+(u'Mobile device', 0.002050056526819941)
+(u'United States Constitution', 0.00204132740603469)
+(u'Canada', 0.0020142242079820363)
+(u'Theology', 0.0019876987106648173)
+(u'Semantics', 0.001978879204831376)
+(u'List of countries by GDP (PPP) per capita', 0.0019636556602568205)
+(u'Forms of government', 0.0019291801184107209)
+(u'Touchscreen', 0.00190657370434533)
+(u'Currency', 0.0019062633658261533)
+(u'United Nations Security Council', 0.0018992187217438555)
+(u'Human', 0.0018944739253767163)
+(u'Email', 0.0018873072325185003)
+(u'Website', 0.001876420355171849)
+(u'Mass media', 0.0018440248039644452)
+(u'Machine code', 0.001838799085683985)
+(u'Caribbean', 0.001802059844449269)
+(u'Psychology', 0.0017790551308849384)
+(u'Computer hardware', 0.0017589783919849998)
+(u'Kingdom of Great Britain', 0.0017518405769850664)
+(u'Server (computing)', 0.001744935144386218)
+(u'Digital television', 0.0017269785773385425)
+(u'Newspaper', 0.0017100672655115455)
+(u'Data (computing)', 0.001689995570171142)
+(u'Video', 0.001679546233273828)
+(u'Computation', 0.001679496270598822)
+(u'Integrated circuit', 0.0016535302258599163)
+(u'Interpreter (computing)', 0.001652947753801118)
+(u'Public broadcasting', 0.0016478412892812096)
+(u'Finance', 0.0016105155927910054)
+(u'Graphical user interface', 0.0015706806170565663)
+(u'Human Development Index', 0.0015614234387540912)
+(u'Wi-Fi', 0.001538558567413646)
+(u'Christianity', 0.001535283910173242)
+(u'Germany', 0.0015142802218046177)
+(u'Hard disk drive', 0.0015079139729867656)
+(u'Subroutine', 0.0015076360311771205)
+(u'Radio spectrum', 0.0014909539871942865)
+(u'Belgium', 0.0014883967364262619)
+(u'Software development', 0.0014740292233656144)
+(u'Meaning (linguistics)', 0.0014737295377059989)
+(u'Applied science', 0.0014719213070194146)
+(u'Printing press', 0.001470481756534919)
+(u'Constitution', 0.0014698186754148865)
+(u'Patent', 0.001468389787928168)
+(u'Nonprofit organization', 0.0014638715385617816)
+(u'Database', 0.0014572276095312976)
+(u'World Trade Organization', 0.001456656983221588)
+(u'Industrial Revolution', 0.0014490509003791496)
+(u'Western culture', 0.001442041945009918)
+(u'British English', 0.0014406209801757688)
+(u'List of countries by military expenditures', 0.0014397472806315815)
+(u'Digital data', 0.001420108896282437)
+(u'Open-source software', 0.0014025534998257161)
+(u'Google', 0.0013933207064914235)
+(u'Cable television', 0.001374759919904155)
+(u'Hawaii', 0.001374348230163646)
+(u'American Civil War', 0.001372733129073678)
+(u'Execution (computing)', 0.0013722150328431373)
+(u'Computer monitor', 0.0013604031295666578)
+(u'Information technology', 0.0013561707346866922)
+(u'Human rights', 0.001347611345580576)
+(u'Thirteen Colonies', 0.0013467058473423496)
+(u'American Revolutionary War', 0.0013410386011656376)
+(u'Client\u2013server model', 0.001336870776733906)
+(u'Product (business)', 0.0013242502635548532)
+(u'United States Census Bureau', 0.001322100904727434)
+(u'International Organization for Standardization', 0.0013144052957834854)
+(u'Western Europe', 0.0013062694527840898)
+(u'High-definition television', 0.0013016004414865823)
+(u'Natural language', 0.0012968455837813783)
+(u'United States Armed Forces', 0.0012855016494248345)
+(u'Commercial broadcasting', 0.001284786208639673)
+(u'Terrestrial television', 0.0012735235847721555)
+(u'Video game', 0.0012722525453903756)
+(u'List of countries by GDP (nominal)', 0.0012702075105753363)
+(u'Italy', 0.0012595655182100775)
+(u'Employment', 0.0012515024338205982)
+(u'Android (operating system)', 0.001251150659839457)
+(u'Culture', 0.0012466730667041862)
+(u'List of U.S. states and territories by population', 0.0012369913914308125)
+(u'Caribbean Sea', 0.001229987973662753)
+(u'Multinational corporation', 0.0012215380529873791)
+(u'Virginia', 0.001210356095994273)
+(u'Acronym', 0.001209671536209779)
+(u'Computer memory', 0.0012061409780138503)
+(u'American Revolution', 0.0011973303427595865)
+(u'Territories of the United States', 0.0011945299987861455)
+(u'Mikhail Gorbachev', 0.0011933631205234042)
+(u'Social networking service', 0.0011914499248487746)
+(u'Word', 0.0011670991635144496)
+(u'IOS', 0.001165278060436359)
+(u'Microprocessor', 0.0011618181398149832)
+(u'Intellectual property', 0.0011489777675763022)
+(u'Jurisdiction', 0.0011417061579924396)
+(u'Printing', 0.0011377696183903013)
+(u'Internet forum', 0.0011365686938337915)
+(u'The arts', 0.0011339043931632394)
+(u'Mobile app', 0.001131927101769461)
+(u'Light', 0.0011293193217681203)
+(u'Web page', 0.0011273237934433411)
+(u'Object-oriented programming', 0.001124714167504497)
+(u'Legal personality', 0.0011225637868828148)
+(u'Business', 0.0011206312639336728)
+(u'Criminal law', 0.001114480163551756)
+(u'Tool', 0.0011136518357637972)
+(u'Computer keyboard', 0.0011113755432242624)
+(u'Schengen Area', 0.0011109435363343884)
+(u'Printer (computing)', 0.0011075445367770302)
+(u'Interlaced video', 0.0011061772104566676)
+(u'Electoral College (United States)', 0.0010970530281639878)
+(u'Instant messaging', 0.0010904653956432212)
+(u'Software development process', 0.0010887126838501947)
+(u'Web application', 0.0010858821886811606)
+(u'Library (computing)', 0.001080745992653316)
+(u'Computer scientist', 0.0010758837009456732)
+(u'Microsoft Windows', 0.0010594712273602222)
+(u'Design', 0.0010565805892460516)
+(u'Art', 0.0010464896797661412)
+(u'Machine', 0.0010444131544919582)
+(u'Message', 0.0010437084357808294)
+(u'Upper class', 0.0010347404932912053)
+(u'Mexico', 0.0010345921528983613)
+(u'User (computing)', 0.0010232140859161207)
+(u'Permanent members of the United Nations Security Council', 0.001022194020254338)
+(u'Blog', 0.001021632849894863)
+(u'Object (computer science)', 0.0010081925720734708)
+(u'Hyperlink', 0.0010079347469996098)
+(u'Information system', 0.0010077823819751224)
+(u'International Monetary Fund', 0.0010048286659326451)
+(u'Microsoft', 0.0010035520543773126)
+(u'Character (computing)', 0.0010028830229577063)
+(u'Tax', 0.0009995495137569668)
+(u'Constitutional monarchy', 0.000995872142523164)
+(u'Trade union', 0.0009903442203742648)
+(u'C (programming language)', 0.0009885731222851195)
+(u'Formal language', 0.0009877533210853832)
+(u'Supreme Court of the United States', 0.0009865545862111891)
+(u'Bluetooth', 0.000982399070320447)
+(u'World War I', 0.0009806698466220372)
+(u'County (United States)', 0.0009777485379341866)
+(u'Civil law (common law)', 0.0009751551992623548)
+(u'Embedded system', 0.0009711258934197968)
+(u'High-level programming language', 0.0009692313749580526)
+(u'Personal digital assistant', 0.0009674440381431965)
+(u'Television station', 0.0009667721665414943)
+(u'Shareholder', 0.0009661951655510661)
+(u'Company', 0.0009507823025843914)
+(u'Text messaging', 0.0009500807875241771)
+(u'Apprenticeship', 0.0009468650488240543)
+(u'Unix', 0.0009459359671019338)
+(u'List of sovereign states and dependencies by area', 0.0009451058978878708)
+(u'Bit', 0.0009447587545159933)
+(u'Sentience', 0.0009408659201579711)
+(u'Linux', 0.0009371359732473628)
+(u'Parliamentary system', 0.0009329559844275636)
+(u'Maryland', 0.000927405641321885)
+(u'OS X', 0.0009242203549717563)
+(u'Capital city', 0.0009215853759233334)
+(u'Computer engineering', 0.0009204592193898642)
+(u'Distribution (business)', 0.0009202244444009293)
+(u'Natural and legal rights', 0.0009077029595324579)
+(u'Kingdom of England', 0.0009054794930593299)
+(u'Consumer electronics', 0.0009051946641096536)
+(u'Assembly language', 0.0009036939077889392)
+(u'Web server', 0.0009008697693503223)
+(u'License', 0.0008978949695122651)
+(u'Atomic bombings of Hiroshima and Nagasaki', 0.0008972372738140421)
+(u'Progressive scan', 0.0008953450333472337)
+(u'The Hague', 0.0008820861010256437)
+(u'Conveyed concept', 0.0008728697808785213)
+(u'Hypertext Transfer Protocol', 0.0008702374864028586)
+(u'News', 0.0008688325664166675)
+(u'Free and open-source software', 0.0008667524481134975)
+(u'South Korea', 0.0008657965392337993)
+(u'Central Intelligence Agency', 0.0008639172544963109)
+(u'Programmer', 0.0008595503086532307)
+(u'Desktop computer', 0.000859439267282986)
+(u'User interface', 0.0008588897759647378)
+(u'Working class', 0.0008578362389885262)
+(u'United States Declaration of Independence', 0.0008515232098422995)
+(u'Executable', 0.0008420831078492632)
+(u'Video game console', 0.000836932552035606)
+(u'HTML', 0.0008366472271702638)
+(u'System software', 0.0008352133647958782)
+(u'List of countries and dependencies by population', 0.0008321643631130403)
+(u'Income', 0.0008259062112792641)
+(u'4G', 0.0008243714919400552)
+(u'Photography', 0.0008235594765679563)
+(u'Data structure', 0.0008226037604774046)
+(u'Syntax', 0.0008222884476484862)
+(u'Agile software development', 0.0008221863072752782)
+(u'Television network', 0.0008189994593405328)
+(u'United States Department of Defense', 0.0008178615265922054)
+(u'India', 0.0008139610548804538)
+(u'Client (computing)', 0.0008115012226993737)
+(u'Spanish Empire', 0.0008072517201783054)
+(u'Writing', 0.0008043669309939957)
+(u'Digital media', 0.000802666339105578)
+(u'Doctor Who', 0.0008006035149492088)
+(u'Computer mouse', 0.0008006012091581971)
+(u'International Court of Justice', 0.0007936445020023888)
+(u'Computer language', 0.000792212026431408)
+(u'C++', 0.0007919450527970693)
+(u'Massachusetts', 0.0007912077229036194)
+(u'Kansas City metropolitan area', 0.0007908446618335256)
+(u'Display resolution', 0.0007892841027722164)
+(u'Australian English', 0.0007885298537992631)
+(u'Silicon', 0.0007884500238077586)
+(u'Imperative programming', 0.0007871156216678914)
+(u'Organisation for Economic Co-operation and Development', 0.0007837325129660929)
+(u'Digital audio', 0.0007834100336316225)
+(u'Control system', 0.0007815370550247855)
+(u'List of United States cities by population', 0.000781361383417249)
+(u'Lambda calculus', 0.0007804673949463176)
+(u'Laptop', 0.0007790601987041038)
+(u'Human\u2013computer interaction', 0.0007790283919661175)
+(u'Democracy', 0.0007738161312597949)
+(u'Exclusive right', 0.0007728411242613968)
+(u'Facebook', 0.0007722833501860152)
+(u'Trademark', 0.0007707310932253947)
+(u'Colour broadcast of television systems', 0.0007705718759296784)
+(u'Alan Turing', 0.0007681241646235021)
+(u'Japan', 0.0007652694854914227)
+(u'Free software', 0.0007632918770056037)
+(u'Cellular network', 0.0007622693105623662)
+(u'Social relation', 0.0007613372759086146)
+(u'Kansas City, Kansas', 0.000758899788631163)
+(u'Baghdad', 0.0007576073971559483)
+(u'Eurozone', 0.0007544639862514126)
+(u'Magazine', 0.0007528295818827299)
+(u'Firmware', 0.0007523790356435675)
+(u'Domain Name System', 0.0007523612333286238)
+(u'Middle class', 0.0007489342109091336)
+(u'Concept', 0.0007486583102893102)
+(u'Electronic publishing', 0.0007484777589366572)
+(u'LTE (telecommunication)', 0.0007472218418741745)
+(u'Alaska', 0.0007434026744430909)
+(u'Computational complexity theory', 0.0007392326387757073)
+(u'Interoperability', 0.0007347362706812395)
+(u'Digital camera', 0.0007320731179917728)
+(u'End user', 0.0007292327884681527)
+(u'World Wide Web Consortium', 0.0007289262266911923)
+(u'Fiat money', 0.000728457679318318)
+(u'IEEE 802.11', 0.0007264243986470361)
+(u'Declarative programming', 0.0007223883234242479)
+(u'Digital photography', 0.000721462292224714)
+(u'Broadcast programming', 0.0007192062290752541)
+(u'Unix-like', 0.0007185427925809388)
+(u'Class (computer programming)', 0.0007150742681762528)
+(u'Function (mathematics)', 0.0007121671155051827)
+(u'IPhone', 0.0007111418224074322)
+(u'Non-volatile memory', 0.0007111340429739386)
+(u'Software bug', 0.0007109025889401545)
+(u'Chicago', 0.0007103258536380087)
+(u'Programming paradigm', 0.0007091417119342885)
+(u'Camera phone', 0.0007065410160962086)
+(u'Functional programming', 0.0007047824850134137)
+(u'IPad', 0.0007027978937332359)
+(u'Proprietary software', 0.000701647138863625)
+(u'Value (computer science)', 0.0007006277083727788)
+(u'Canadian English', 0.0006993958676571525)
+(u'Profit (accounting)', 0.000698754769255361)
+(u'Advertising', 0.0006981251849393573)
+(u'Wireless LAN', 0.0006971331079716579)
+(u'Internet television', 0.0006959462352040638)
+(u'Content (media)', 0.0006939969197165888)
+(u"Seven Years' War", 0.0006882137185966312)
+(u'Kingdom of the Netherlands', 0.0006863931842836849)
+(u'Supercomputer', 0.000685685498868359)
+(u'Politics', 0.0006850549138261358)
+(u'European colonization of the Americas', 0.0006850151824048115)
+(u'Electronic media', 0.0006836635906994856)
+(u'Entrepreneurship', 0.0006811596525987198)
+(u'Mobile operating system', 0.0006805188223452834)
+(u'Java (programming language)', 0.0006781455827552005)
+(u'CMYK color model', 0.0006763671849583929)
+(u'Implementation', 0.0006751854692649362)
+(u'Application programming interface', 0.0006742297659235983)
+(u'PBS', 0.0006735300258537135)
+(u'San Francisco', 0.0006719000436393313)
+(u'Pixel', 0.000671478996630604)
+(u'Delaware', 0.0006683521292429556)
+(u'Satellite television', 0.0006663471508184969)
+(u'SQL', 0.0006656999583458197)
+(u'Global Positioning System', 0.0006627997386139446)
+(u'Multi-core processor', 0.0006612477245826732)
+(u'Goal', 0.0006589992096715727)
+(u'Settlement of the Americas', 0.0006587514513528674)
+(u'Peer-to-peer', 0.0006586244229127194)
+(u'XML', 0.0006575369171737033)
+(u'Vocabulary', 0.000656361163031212)
+(u'Contiguous United States', 0.0006558940279428306)
+(u'Technical standard', 0.0006542849984926771)
+(u'Stock', 0.0006507521439161455)
+(u'Data type', 0.0006476964790404954)
+(u'ATSC standards', 0.0006474053235308595)
+(u'Code', 0.0006449780806568029)
+(u'Ultra high frequency', 0.0006418243157170899)
+(u'Software testing', 0.0006401162340707938)
+(u'Unitary state', 0.000639599209549588)
+(u'Unemployment', 0.0006391481578088084)
+(u'Film industry', 0.0006362830324883701)
+(u'List of U.S. states and territories by area', 0.0006355363017870851)
+(u'Metropolitan statistical area', 0.0006345259456237991)
+(u'Binary number', 0.0006335412641110585)
+(u"Kellogg's", 0.0006322998528122186)
+(u'Philippines', 0.000627150827892686)
+(u'Mnemonic', 0.0006264787664741082)
+(u'Internet protocol suite', 0.0006254551135016961)
+(u'Computational problem', 0.0006238384338505057)
+(u'Federal republic', 0.000622512321958251)
+(u'Uniform Resource Locator', 0.0006223594491098047)
+(u'Word processor', 0.0006193281680398617)
+(u'Computing platform', 0.0006174924333066234)
+(u'Time Warner', 0.0006153645384028092)
+(u'Standardization', 0.0006110046157682696)
+(u'HTML element', 0.0006097995434270579)
+(u'Mainframe computer', 0.0006061954059244357)
+(u'Message transfer agent', 0.0006058102266948873)
+(u'Nat (unit)', 0.0006033008514111085)
+(u'Markup language', 0.0006014775774672343)
+(u'Document', 0.0006012725163571079)
+(u'Domain name', 0.0005992903849083306)
+(u'Slavery in the United States', 0.0005937652085128526)
+(u'Java virtual machine', 0.00059340908960031)
+(u'Relational database', 0.0005900847830430162)
+(u'Twitter', 0.0005873356791565357)
+(u'Digital Video Broadcasting', 0.0005841109900403549)
+(u'Lisp (programming language)', 0.0005812213229537003)
+(u'Variable (computer science)', 0.0005811708172848989)
+(u'San Francisco Bay Area', 0.0005810484684536149)
+(u'Silicon Valley', 0.0005761538522344201)
+(u'Computer architecture', 0.0005749994571890973)
+(u'Relational model', 0.0005739882143474213)
+(u'Illinois', 0.000571759633071236)
+(u'Portable media player', 0.0005662763502995294)
+(u'Namespace', 0.0005650449084142984)
+(u'Uniform Resource Identifier', 0.0005645728350195417)
+(u'Charitable organization', 0.0005639995693963507)
+(u'System administrator', 0.0005634074877187942)
+(u'Process (computing)', 0.0005609185940967379)
+(u'List of countries by inequality-adjusted HDI', 0.0005573740504867163)
+(u'Python (programming language)', 0.0005573075723735061)
+(u'Software system', 0.0005569623364235256)
+(u'Blueprint', 0.0005567963702518657)
+(u'Sony', 0.0005558326861447952)
+(u'Bell Labs', 0.0005548981314925113)
+(u'Journalism', 0.0005536732103033591)
+(u'Light-emitting diode', 0.0005529942409940262)
+(u'Software design', 0.0005486344661315334)
+(u'Scripting language', 0.0005484598462721257)
+(u'Commerce', 0.0005445300706741032)
+(u'Animal rights', 0.0005423496197403979)
+(u'Individual', 0.0005422415308608634)
+(u'Treaty of Paris (1783)', 0.0005419873175003375)
+(u'3G', 0.0005409677906757939)
+(u'Types of business entity', 0.0005409585333877679)
+(u'Abstraction (software engineering)', 0.0005407533722969056)
+(u'Multimedia', 0.0005403356295040409)
+(u'Social media', 0.0005401828614379567)
+(u'Turks and Caicos Islands', 0.000537544557674705)
+(u'Plain text', 0.0005366553294191348)
+(u'Wikipedia', 0.0005356599641944332)
+(u'Wage', 0.0005343223306108988)
+(u'Encryption', 0.0005334472430385048)
+(u'The Daily Telegraph', 0.0005289174525302427)
+(u'Programming language theory', 0.0005287221179066352)
+(u'Object (philosophy)', 0.0005285076901032294)
+(u'Academy Awards', 0.0005277398157615268)
+(u'Comics', 0.0005256274661217302)
+(u'BBC Worldwide', 0.0005235735596515246)
+(u'File system', 0.0005233112174087059)
+(u'Agency (philosophy)', 0.0005224655461391038)
+(u'Entscheidungsproblem', 0.0005212377777076902)
+(u'Capital districts and territories', 0.0005204618263846953)
+(u'Commonwealth (U.S. state)', 0.0005201541851992375)
+(u'Individualism', 0.000520110141218942)
+(u'Boston', 0.0005166967543057072)
+(u'Broadcast license', 0.0005162839454691123)
+(u'GSM', 0.0005145107483010932)
+(u'Islamic Golden Age', 0.0005137805582802505)
+(u'God', 0.0005136785309116308)
+(u'Method (computer programming)', 0.0005118667771958037)
+(u'Pennsylvania', 0.0005116388246888113)
+(u'Freedom of speech', 0.0005113262727058949)
+(u'Multimedia Messaging Service', 0.0005081138698661934)
+(u'1080p', 0.0005074559114789071)
+(u'Blu-ray', 0.0005072410342280261)
+(u'Wireless network', 0.0005066911901807638)
+(u'Chesapeake Bay', 0.0005047881317053573)
+(u'List of Metropolitan Statistical Areas', 0.0005045779855256828)
+(u'Spanish\u2013American War', 0.0005040933862147064)
+(u'Bus (computing)', 0.000504084886870915)
+(u'Customer', 0.0005030134912087288)
+(u'Web resource', 0.0005019936793366557)
+(u'Manufacturing', 0.0004989524509036527)
+(u'Mexican\u2013American War', 0.0004961952405533373)
+(u'British Overseas Territories', 0.0004957400350792006)
+(u'Immigration to the United States', 0.0004942776052283216)
+(u'New World', 0.0004932193322799629)
+(u'Auxiliary memory', 0.0004895683814469523)
+(u'Economy of the United States', 0.0004894173886115968)
+(u'Low Countries', 0.0004886285997290913)
+(u'OSI model', 0.0004883886137196023)
+(u'Promotion (marketing)', 0.0004879977293912656)
+(u'Post-industrial society', 0.0004860810380244039)
+(u'The Pentagon', 0.0004842617320871775)
+(u'United States Bill of Rights', 0.00048407227800542694)
+(u'The Washington Post', 0.00048234176280511184)
+(u'Partnership', 0.0004823259844033128)
+(u'North Korea', 0.00048225832364236275)
+(u'Software maintenance', 0.0004811773727201623)
+(u'Chief executive officer', 0.0004795505481468784)
+(u'Metonymy', 0.0004795463702963112)
+(u'List of U.S. states by population density', 0.0004795241788105116)
+(u'Multi-touch', 0.00047929555968853805)
+(u'Student', 0.00047840193885283677)
+(u'Abstraction', 0.00047773861571561853)
+(u'Online shopping', 0.00047551203215696745)
+(u'Dividend', 0.00047408415291247744)
+(u'Random-access memory', 0.00047280990894204406)
+(u'Knowledge representation and reasoning', 0.00047244549588621734)
+(u'Perl', 0.0004718471710113554)
+(u'Interface (computing)', 0.0004715687044575451)
+(u'Documentary film', 0.00047096442970783684)
+(u'Decision-making', 0.0004680675940124795)
+(u'Run time (program lifecycle phase)', 0.00046799765402782414)
+(u'Spreadsheet', 0.0004679048520444439)
+(u'Charles II of England', 0.00046766456595388127)
+(u'Web service', 0.0004647647027978594)
+(u'Sierra Nevada (U.S.)', 0.0004642414002235287)
+(u'Nevada', 0.00046409829222589656)
+(u'Suffering', 0.0004636863187526531)
+(u'Limited liability', 0.00046345958968635123)
+(u'Linker (computing)', 0.00046297974221130075)
+(u'Compact disc', 0.0004624137832477907)
+(u'Internet Explorer', 0.00046062191085879044)
+(u'Charles I of England', 0.0004600168286322995)
+(u'Computer-generated imagery', 0.00045881863562227513)
+(u'Confederate States of America', 0.00045873426031244725)
+(u'Television licensing in the United Kingdom', 0.00045855842046078085)
+(u'Wiki', 0.00045854985811415573)
+(u'Component-based software engineering', 0.0004571639191148944)
+(u'BBC World News', 0.0004566270781448717)
+(u'Understanding', 0.00045532540489985276)
+(u'Requirement', 0.0004548166480955894)
+(u'Computer graphics (computer science)', 0.0004545477702624761)
+(u'Floppy disk', 0.0004542465897488632)
+(u'Firefox', 0.00045280633919724184)
+(u'Television advertisement', 0.00045210722194380414)
+(u'GNU General Public License', 0.00045134314505797804)
+(u'Videotape', 0.00045042798042263554)
+(u'Web 2.0', 0.0004502626762787941)
+(u'Specification (technical standard)', 0.0004496453543057168)
+(u'64-bit computing', 0.00044863795011913777)
+(u'Constructed language', 0.00044671421804482305)
+(u'Comic strip', 0.00044589786844856334)
+(u'Social issue', 0.0004457761356317189)
+(u'Board of directors', 0.00044533969206556165)
+(u'ARM architecture', 0.00044481407819493645)
+(u'Colonial empire', 0.00044417338300499915)
+(u'DARPA', 0.0004435249335945347)
+(u'Small business', 0.0004429641631346138)
+(u'Software documentation', 0.00044227388883561364)
+(u'North Sea', 0.0004415457003414952)
+(u'E-commerce', 0.00044132235218220697)
+(u'Punched tape', 0.0004412998482974267)
+(u'Archipelago', 0.0004408276926653143)
+(u'Control flow', 0.0004405744251330786)
+(u'Formal system', 0.00043936536827065295)
+(u'West Virginia', 0.00043789369921632705)
+(u'Abstraction layer', 0.0004372119527367715)
+(u'Aircraft', 0.0004365862156068748)
+(u'Yahoo!', 0.00043578738468331817)
+(u'New Spain', 0.000435528591728232)
+(u'Market (economics)', 0.0004352215788045041)
+(u'Direct-to-video', 0.0004351205274612959)
+(u'Linux kernel', 0.0004341862898341572)
+(u'Branch (computer science)', 0.0004338720823248492)
+(u'Potomac River', 0.00043227815238523775)
+(u'Type system', 0.0004311088464994681)
+(u'Multiculturalism', 0.0004297280779549705)
+(u'Santa Clara County, California', 0.00042866106663860267)
+(u'The Pragmatic Programmer', 0.00042733116215150076)
+(u'Arlington County, Virginia', 0.0004272540585309745)
+(u'Television film', 0.00042506497593394613)
+(u'Computer security', 0.00042130061964616933)
+(u'Graphics software', 0.0004206873322157844)
+(u'Laser', 0.0004204555113280139)
+(u'Entropy (information theory)', 0.00041871959049857843)
+(u'Television licence', 0.00041766383049992776)
+(u'Broadcast network', 0.0004172764654230145)
+(u'Public domain', 0.00041677330086519024)
+(u'Science fiction on television', 0.00041665079912789007)
+(u'Expression (computer science)', 0.000415734585902633)
+(u'Academia', 0.0004156272400328667)
+(u'Complex systems', 0.00041434555366708407)
+(u'Computer accessibility', 0.00041434555366708407)
+(u'Command-line interface', 0.00041423779005071183)
+(u'Berkeley Software Distribution', 0.0004139968355927991)
+(u'JavaScript', 0.00041310203079209667)
+(u'Federated States of Micronesia', 0.0004129755067631641)
+(u'Open-source model', 0.00041282838870978475)
+(u'History of computing hardware', 0.0004122243812904499)
+(u'West Coast of the United States', 0.0004118196541427057)
+(u'Syntax (programming languages)', 0.00041118423551509325)
+(u'Structured programming', 0.0004103208463578501)
+(u'Denmark', 0.0004097363309357772)
+(u'Transmission (telecommunications)', 0.0004091367704935989)
+(u'Federal district', 0.000408010530622482)
+(u'Instance (computer science)', 0.0004077946187650679)
+(u'Video camera', 0.0004061462492627973)
+(u'Web content', 0.0004044034750135632)
+(u'George Washington', 0.00040342656791766474)
+(u'Session (computer science)', 0.00040187356212094367)
+(u'Population density', 0.00039872074561100434)
+(u'Income tax', 0.00039810185308606337)
+(u'Conglomerate (company)', 0.0003978962787204594)
+(u'State (computer science)', 0.0003975993487431975)
+(u'Market capitalization', 0.0003970753201444312)
+(u'Workforce', 0.00039637365134922135)
+(u'Samsung', 0.0003952983371633944)
+(u'Cardiff', 0.0003952309656953366)
+(u'Social network', 0.00039448827368291386)
+(u'Human-readable medium', 0.0003936752354548814)
+(u'East Coast of the United States', 0.00039069954405970033)
+(u'List of countries and territories by population density', 0.00039068864489610536)
+(u'Black and white', 0.00039051529756471237)
+(u'Memory management', 0.00038986807791495555)
+(u'San Jose, California', 0.00038920676614091353)
+(u'News aggregator', 0.00038910212744295024)
+(u'Motherboard', 0.000388351707229449)
+(u'Software license', 0.0003871026358131452)
+(u'Constituent country', 0.00038685698288867343)
+(u'Subscription business model', 0.0003858061942336247)
+(u'Southern United States', 0.00038556246354832607)
+(u'Interpreted language', 0.0003848068025037807)
+(u'Emmy Award', 0.00038416523992509477)
+(u'Application layer', 0.0003840239662827515)
+(u'Online advertising', 0.0003834978627028202)
+(u'Waterfall model', 0.00038251061939705054)
+(u'CNN', 0.000382342734917359)
+(u'IEEE 802.11g-2003', 0.0003820746208946223)
+(u'Software portability', 0.0003816421722489973)
+(u'Object code', 0.0003813090932339931)
+(u'Open standard', 0.00038017775845509386)
+(u'Modular programming', 0.00038011988533949524)
+(u'Reference implementation', 0.00037846232408156663)
+(u'Procedural programming', 0.00037774918985569803)
+(u'Initial public offering', 0.0003770629790934726)
+(u'Paper', 0.00037621379810329577)
+(u'American Indian Wars', 0.00037546339182479736)
+(u'Reference work', 0.00037533633442511985)
+(u'Business model', 0.0003739740096598283)
+(u'Time-sharing', 0.00037184963200565457)
+(u'IEEE 802.11ac', 0.0003714336034199121)
+(u'James II of England', 0.0003710129170757233)
+(u'Colony of Virginia', 0.0003704231296228839)
+(u'Startup company', 0.0003699040865776207)
+(u'Low-level programming language', 0.0003678381916816718)
+(u'Print server', 0.0003671443911185888)
+(u'Freedom of religion', 0.0003650813100267552)
+(u'Identifier', 0.00036370623595554595)
+(u'Palau', 0.0003628484440529455)
+(u'Domain-specific language', 0.0003627628741267976)
+(u'Arizona', 0.0003621200481605447)
+(u'United States territorial acquisitions', 0.00036169361012375117)
+(u'Accounting', 0.0003611023826476176)
+(u'Radio network', 0.0003606634664879239)
+(u'X86', 0.000360424907618972)
+(u'Version control', 0.0003603621289606316)
+(u'Fortran', 0.0003603326126874653)
+(u'Open-source license', 0.00036023026218419564)
+(u'Optical disc drive', 0.0003593100366686663)
+(u'Cent (currency)', 0.0003592776299904506)
+(u'Dollar sign', 0.0003592776299904506)
+(u'Live television', 0.0003591031336860507)
+(u'Volunteering', 0.0003582756522712839)
+(u'Innovation', 0.0003580856246278334)
+(u'Subsidiary', 0.0003573946078054914)
+(u'Command (computing)', 0.0003545583134466894)
+(u'Risk', 0.00035452174839827283)
+(u'Culture of the United Kingdom', 0.0003537517085182034)
+(u'GNU Project', 0.0003534488564234076)
+(u'Fortune (magazine)', 0.0003534128414293822)
+(u'Database server', 0.00035195722245737865)
+(u'Marketing mix', 0.0003514412619197298)
+(u'Broadsheet', 0.00035135305472257233)
+(u'Sequence', 0.0003509225816240946)
+(u'Application domain', 0.0003494668198137843)
+(u'Safari (web browser)', 0.0003492509680143826)
+(u'Packaging and labeling', 0.000349222225135511)
+(u'Signal (electrical engineering)', 0.00034906916111419395)
+(u'Units of information', 0.0003489695923859429)
+(u'System resource', 0.0003463049464662844)
+(u'Linux distribution', 0.0003460742443459183)
+(u'Java bytecode', 0.0003453032907233696)
+(u'Native American tribes in Virginia', 0.00034495646687711227)
+(u'Miniseries', 0.0003420047452565038)
+(u'Query language', 0.00034137420870592643)
+(u'Free Software Foundation', 0.00034119236129554425)
+(u'Abbreviation', 0.000340965343676591)
+(u'Software framework', 0.0003405142731046877)
+(u'Los Angeles', 0.00034039473849072196)
+(u'Web search engine', 0.00034028298353243667)
+(u'List of U.S. states by date of admission to the Union', 0.000339984306635518)
+(u'Islam', 0.00033899724879064933)
+(u'Cross-platform', 0.0003387220711086648)
+(u'Aviation', 0.00033659263002512764)
+(u'Technology company', 0.0003365361955554647)
+(u'Scope (computer science)', 0.0003364650537561501)
+(u'Programming language implementation', 0.00033627770117310174)
+(u'Turner Broadcasting System', 0.00033577219376322966)
+(u'File server', 0.00033570365712792664)
+(u'Wikimedia Foundation', 0.000335676172780731)
+(u'MP3', 0.00033548669971703244)
+(u'Prequel', 0.0003354438455810172)
+(u'Typography', 0.00033543330302350836)
+(u'Freeware', 0.0003349053417688126)
+(u'Benelux', 0.0003343296018160347)
+(u'Ontology', 0.0003337414843982444)
+(u'Table (database)', 0.00033343547031030766)
+(u'Class-based programming', 0.00033305707788103094)
+(u'Disk storage', 0.00033272180092951554)
+(u'Statement (computer science)', 0.00033256487599699395)
+(u'Iterative and incremental development', 0.0003321023913381671)
+(u'Binary file', 0.00033130313984780854)
+(u'Western United States', 0.0003306427665324807)
+(u'General-purpose programming language', 0.00033021224177992575)
+(u'Broadcast syndication', 0.00032981812212107975)
+(u'Reconstruction Era', 0.0003293397928542315)
+(u'Permissive software licence', 0.00032899734536596687)
+(u'Atlanta', 0.0003289156408979457)
+(u'Radio station', 0.0003280507822023616)
+(u'LG Corporation', 0.00032707614095383073)
+(u'Incarnation', 0.0003255336226549642)
+(u'East Asia', 0.0003248167903191747)
+(u'Keeping Up Appearances', 0.00032434522291984613)
+(u'Uncertainty', 0.0003239746953713471)
+(u'Sweden', 0.00032390309530219485)
+(u'Bible', 0.00032323619592089)
+(u'Amsterdam', 0.0003229259266669588)
+(u'Malware', 0.0003225956117682967)
+(u'Census-designated place', 0.0003222678092367107)
+(u'Computability', 0.0003222026913438819)
+(u'Code generation (compiler)', 0.000321970681068672)
+(u'Silicon carbide', 0.0003216385619258359)
+(u'App Store (iOS)', 0.0003212863202868907)
+(u'Marshall Islands', 0.0003190843574586706)
+(u'Short Message Service', 0.00031824221167796134)
+(u'NTT DoCoMo', 0.00031806953140888666)
+(u'Camcorder', 0.0003179994953374915)
+(u'Productivity software', 0.00031749445279358646)
+(u'Northern California', 0.0003165897112171961)
+(u'Richard Stallman', 0.00031411843650495377)
+(u'IEEE 802.11n-2009', 0.00031347298994075906)
+(u'Cult', 0.0003134325195568942)
+(u'Debugging', 0.0003124447282382999)
+(u'Hulu', 0.0003124385283643342)
+(u'Oracle Database', 0.00031198712166255124)
+(u'Commoditization', 0.0003117442826236044)
+(u'Chicago metropolitan area', 0.00031160686202737957)
+(u'List of Internet entrepreneurs', 0.00031122867486791436)
+(u'Systems architecture', 0.000311205271960032)
+(u'Google Chrome', 0.0003107786972341854)
+(u'List of countries by average wage', 0.0003102937286310877)
+(u'Health', 0.0003098041324462028)
+(u'Articles of Confederation', 0.0003083689425781547)
+(u'Mountain View, California', 0.00030821221274486516)
+(u'Desktop environment', 0.00030764675097873164)
+(u'Cascading Style Sheets', 0.0003074245649026439)
+(u'Pinterest', 0.0003064197700572075)
+(u'Culture of the United States', 0.00030532531553782846)
+(u'Third-party software component', 0.000304943904565119)
+(u'San Francisco Bay', 0.00030488885680265846)
+(u'Connectionless communication', 0.0003037724635769324)
+(u'Imperative mood', 0.00030342680370749127)
+(u'Sign (semiotics)', 0.00030319593794892006)
+(u'CNN International', 0.0003029516532183476)
+(u'Philadelphia', 0.0003027067907278034)
+(u'High tech', 0.00030215116133709273)
+(u'Rice Krispies', 0.00030186079979494716)
+(u'Y Combinator (company)', 0.0003014451817702169)
+(u'Serial (radio and television)', 0.0003013996166766136)
+(u'Unification Church', 0.00029980349869392786)
+(u'Microsoft Office', 0.00029972598209674093)
+(u'Google Play', 0.0002997208355405655)
+(u'State governments of the United States', 0.00029929705251723364)
+(u'Industrial design', 0.00029919890088814455)
+(u'Direct-broadcast satellite', 0.00029906230035634326)
+(u'Zimbabwe', 0.00029905399767464757)
+(u'BBC One', 0.00029772650549913523)
+(u'Twenty-third Amendment to the United States Constitution', 0.0002973690562953481)
+(u'Service-orientation', 0.00029713272219045964)
+(u'New York metropolitan area', 0.00029681566556260093)
+(u'Network affiliate', 0.0002965737889232785)
+(u'Software architecture', 0.00029644317238652137)
+(u'Email client', 0.0002961995653692745)
+(u'Service-oriented architecture', 0.0002950492419786246)
+(u'Mid-Atlantic states', 0.00029503734003073084)
+(u'Financial transaction', 0.0002949308561882788)
+(u'Classical music', 0.0002946457567626887)
+(u'Los Angeles County, California', 0.0002934906996893298)
+(u'Capital of the Netherlands', 0.0002930462457535263)
+(u'Continental Army', 0.00029261320218589227)
+(u'Fiduciary', 0.0002918590689368973)
+(u'Copyright term', 0.0002915535280211011)
+(u'Geography of the United States', 0.0002913909709102043)
+(u'Climate of the United States', 0.0002913909709102043)
+(u'Race and ethnicity in the United States', 0.0002913909709102043)
+(u'Nuclear weapons and the United States', 0.0002913909709102043)
+(u'United States Minor Outlying Islands', 0.0002913909709102043)
+(u'Science and technology in the United States', 0.0002913909709102043)
+(u'Government agency', 0.0002901031998199095)
+(u'Non-voting members of the United States House of Representatives', 0.000289706002944176)
+(u'Virtual keyboard', 0.0002891643609355685)
+(u'Sun Myung Moon', 0.0002890541683456634)
+(u'Standish Group', 0.0002889000290445486)
+(u'Collaborative software development model', 0.0002889000290445486)
+(u'Sun Microsystems', 0.00028847807835884236)
+(u'Group of Ten (economics)', 0.00028833922444034725)
+(u'Microsoft Edge', 0.00028729150782365786)
+(u'Direct manipulation interface', 0.00028647165060319724)
+(u'Taiwan', 0.0002857683142085285)
+(u'Concurrent computing', 0.0002828880224976699)
+(u'BASIC', 0.0002822777051001278)
+(u'Derivative work', 0.00028215032353335446)
+(u'COBOL', 0.00028183970120091773)
+(u'Computer cluster', 0.00028139398671475646)
+(u'Alexa Internet', 0.00028094763195479213)
+(u'Java (software platform)', 0.0002808662994352455)
+(u'Ruby (programming language)', 0.00028017702169614965)
+(u'Chrome OS', 0.0002788104707509406)
+(u'Netflix', 0.0002785727645299286)
+(u'Intranet', 0.0002785156186886578)
+(u'Smalltalk', 0.00027813212821706283)
+(u'Tax exemption', 0.0002777456135359853)
+(u'View (SQL)', 0.0002766255167349905)
+(u'Service (systems architecture)', 0.00027596038204966074)
+(u'Compile time', 0.0002750062769535125)
+(u'Dynamic programming language', 0.00027473361673891204)
+(u'Mathematical object', 0.00027462881831654486)
+(u'IPod Touch', 0.0002744846023696621)
+(u'John Tukey', 0.0002742682921600414)
+(u'Computer virus', 0.0002741381460071537)
+(u'YouTube', 0.00027367035458689446)
+(u'Nokia', 0.00027345562315639343)
+(u'Commercial software', 0.0002729491438308876)
+(u'Online newspaper', 0.0002720711323024593)
+(u'Memory address', 0.000272049375122029)
+(u'.org', 0.00027099198229008824)
+(u'Apache License', 0.00027010414014852735)
+(u'Yelp', 0.00026980163944919337)
+(u'MySQL', 0.00026970876156465494)
+(u'First-order logic', 0.00026949681603466154)
+(u'Digital distribution', 0.00026885064518429797)
+(u'Language interpretation', 0.00026845623839946394)
+(u'Direct tax', 0.0002679151346835553)
+(u'Program (machine)', 0.00026700089358437916)
+(u'720p', 0.0002668069462795022)
+(u'Webmail', 0.00026660066877506763)
+(u'Powhatan', 0.0002662160991031722)
+(u'Transport layer', 0.0002661206378274597)
+(u'Virtual memory', 0.0002660491119714084)
+(u'Pixel density', 0.0002659779143191627)
+(u'Database schema', 0.00026567003092606495)
+(u'News broadcasting', 0.00026558869943534274)
+(u'Code reuse', 0.000265503979585925)
+(u'Chile', 0.0002654170701591889)
+(u'Presentation', 0.000264858675784788)
+(u'Charter', 0.00026328472599835526)
+(u'Alta California', 0.00026276881009073617)
+(u'IPhone 5', 0.0002626864300652194)
+(u'Double taxation', 0.00026254476107664997)
+(u'Sales', 0.00026212852346829956)
+(u'Korean language', 0.00026195098379032844)
+(u'Editorial', 0.0002619494820241517)
+(u'Central Valley (California)', 0.00026191582472157254)
+(u'Parliament', 0.0002618622152529249)
+(u'Limitations and exceptions to copyright', 0.00026147600886961296)
+(u'Software developer', 0.00026128467067872255)
+(u'Scheme (programming language)', 0.00026112012550694836)
+(u'Smartwatch', 0.00026085776517526454)
+(u'Child abuse', 0.0002600362312896405)
+(u'Baja California', 0.0002599526342392234)
+(u'Mains electricity', 0.00025993830089023333)
+(u'Tumblr', 0.00025993489383982916)
+(u'Guinness World Records', 0.000259728439547488)
+(u'Node (networking)', 0.00025942917325987063)
+(u'University of California, Berkeley', 0.00025935755585665914)
+(u'Moral rights', 0.000258634309311688)
+(u'Fingerprint recognition', 0.0002584887344828724)
+(u'Wolfram Language', 0.00025767187830179366)
+(u'Real estate', 0.00025733221541915277)
+(u'Journalist', 0.00025710596557984973)
+(u'OS/360 and successors', 0.0002566202791583773)
+(u'Income tax in the United States', 0.00025652582604691)
+(u'Printed circuit board', 0.00025616972704653256)
+(u'Indirect tax', 0.0002557041140509472)
+(u'New religious movement', 0.0002544478285098659)
+(u'Application server', 0.0002538329762676506)
+(u'Midtown Manhattan', 0.00025381295530416635)
+(u'Symbian', 0.00025348842863578096)
+(u'Industrial unionism', 0.0002534010588921776)
+(u'Craft unionism', 0.0002534010588921776)
+(u'Paywall', 0.00025298737349887065)
+(u'BlackBerry Limited', 0.0002527239959838461)
+(u'Rotterdam', 0.0002517922712506799)
+(u'South African English', 0.0002517614933450397)
+(u'New Zealand English', 0.0002517614933450397)
+(u'Photo sharing', 0.0002505396705641512)
+(u'Task (computing)', 0.00024975872905512843)
+(u'Question', 0.00024857374714751365)
+(u'Constraint (information theory)', 0.00024857374714751365)
+(u'Stimulation', 0.00024857374714751365)
+(u'Event horizon', 0.00024857374714751365)
+(u'Observation', 0.00024857374714751365)
+(u'Pattern theory', 0.00024857374714751365)
+(u'Configuration (geometry)', 0.00024857374714751365)
+(u'Netscape', 0.00024809292382792626)
+(u'Vulnerability (computing)', 0.0002476958957411505)
+(u'C Sharp (programming language)', 0.0002476559120132642)
+(u'Logic programming', 0.0002473450379624203)
+(u'Intermediary', 0.00024650598945465487)
+(u'Pricing', 0.00024650598945465487)
+(u'Access control', 0.00024571704038542727)
+(u'San Bernardino County, California', 0.0002454255812121143)
+(u'Idiom', 0.0002452482787760635)
+(u'Web design', 0.000244956234605514)
+(u'IPad (1st generation)', 0.0002448874422556696)
+(u'Exposure (photography)', 0.0002448340553509052)
+(u'Creator deity', 0.00024446689778942786)
+(u'Macro (computer science)', 0.00024436547211569134)
+(u'Color', 0.00024436104858348664)
+(u'Synecdoche', 0.00024389035936829307)
+(u'Record (computer science)', 0.00024365150630291778)
+(u'Online community', 0.00024360209004985347)
+(u'Label', 0.00024353655235193387)
+(u'Documentation', 0.00024305140124311194)
+(u'Copyleft', 0.00024275922608230365)
+(u'News agency', 0.00024271871541136763)
+(u'Free software license', 0.00024195204881752685)
+(u'Tabloid (newspaper format)', 0.00024112496851517065)
+(u'International copyright treaties', 0.0002409276287158929)
+(u'Performing rights', 0.0002409276287158929)
+(u'Copyright formalities', 0.0002409276287158929)
+(u'Graphics processing unit', 0.00024007497231969)
+(u'Ajax (programming)', 0.00023985825945365004)
+(u'Generic programming', 0.00023934676685348583)
+(u'Preprocessor', 0.0002392508387988736)
+(u'Source code editor', 0.00023871037731084397)
+(u'Radio program', 0.0002382997099141421)
+(u'List of highest-income counties in the United States', 0.00023822449875562013)
+(u'Haskell (programming language)', 0.00023795431554055803)
+(u'Document Object Model', 0.00023763196587232212)
+(u'Venture capital', 0.00023751681731126536)
+(u'Editorial cartoon', 0.00023745061846051517)
+(u'California Gold Rush', 0.00023724562513834847)
+(u'Word formation', 0.00023694724032837655)
+(u'Blend word', 0.00023694724032837655)
+(u'Web development', 0.00023685427598647927)
+(u'PayPal', 0.00023684441738225937)
+(u'Daemon (computing)', 0.00023658276361666862)
+(u'Separation of concerns', 0.00023656768578620828)
+(u'Pascal (programming language)', 0.00023636827427580214)
+(u'Compiled language', 0.0002363283651403282)
+(u'Loader (computing)', 0.00023580891479274278)
+(u'Human factors and ergonomics', 0.00023569804280556506)
+(u'Line length', 0.00023531459386889149)
+(u'Article (publishing)', 0.00023503184107725588)
+(u'Cabinet of the Netherlands', 0.00023488897042357845)
+(u'States General of the Netherlands', 0.00023488897042357845)
+(u'Java Database Connectivity', 0.00023467161554605075)
+(u'MIT License', 0.00023456908499246303)
+(u'Discovery Channel', 0.00023442779755875233)
+(u'IEEE 802.11b-1999', 0.00023438911957012284)
+(u'Classified advertising', 0.00023436906134577149)
+(u'Chaebol', 0.00023417364165959762)
+(u'Usage share of operating systems', 0.00023377683014822834)
+(u'Image editing', 0.00023314860701277877)
+(u'Stanford University', 0.00023303793538848616)
+(u'Readability', 0.0002330359599258255)
+(u'Currency symbol', 0.00023297004222418266)
+(u'Council of the District of Columbia', 0.00023206699972455933)
+(u'District of Columbia home rule', 0.00023169851936931878)
+(u'American National Standards Institute', 0.00023168150592220115)
+(u'Big iron', 0.0002316594205924198)
+(u'District of Columbia voting rights', 0.0002313478343979828)
+(u'Opera (web browser)', 0.00023131099024655636)
+(u'Rerun', 0.00023091378522011253)
+(u'System call', 0.00023091134064430463)
+(u'Political organisation', 0.0002307304499589646)
+(u'Dinosaur', 0.00023062832093886105)
+(u'Request\u2013response', 0.00023047524806363827)
+(u'Reuters', 0.0002303013668427411)
+(u'Ubuntu (operating system)', 0.00022978298783529784)
+(u'Insolvency', 0.00022869856594998994)
+(u'Manslaughter', 0.00022869856594998994)
+(u'List of company registers', 0.00022869856594998994)
+(u'Fraud', 0.00022869856594998994)
+(u'Corporate law', 0.00022869856594998994)
+(u'Separate legal entity', 0.00022869856594998994)
+(u'Food', 0.00022779412114293902)
+(u'Synchronization', 0.0002276629414249753)
+(u'Device driver', 0.00022730819650975144)
+(u'Bandwidth (computing)', 0.00022705963870182152)
+(u'News media', 0.00022685525600423225)
+(u'Dragon Tales', 0.0002262605815351106)
+(u'Jacquard loom', 0.00022595360969818358)
+(u'Player piano', 0.00022595360969818358)
+(u'Ban\u016b M\u016bs\u0101', 0.00022595360969818358)
+(u'The Doctor (Doctor Who)', 0.0002257455935436131)
+(u'Column (periodical)', 0.00022530116744427797)
+(u'General-purpose language', 0.00022516822353509507)
+(u'Garbage collection (computer science)', 0.00022515278053586037)
+(u'Southern California', 0.0002248395851349772)
+(u'C++11', 0.00022455699843971778)
+(u'Collectivism', 0.00022451345615995104)
+(u'System programming', 0.00022380657479543809)
+(u'Installation (computer programs)', 0.000223706258849341)
+(u'Washington metropolitan area', 0.00022361548461766526)
+(u'Resource Description Framework', 0.00022359179051691412)
+(u'Browsing', 0.0002234879687283185)
+(u'Private network', 0.0002234879687283185)
+(u'Comment (computer programming)', 0.00022330090759546762)
+(u'Binary', 0.00022330090759546762)
+(u'BlackBerry', 0.00022326763953798816)
+(u"Newsagent's shop", 0.00022303068931664644)
+(u'Hampton Roads', 0.00022268461674035332)
+(u'Mexico\u2013United States border', 0.00022239125797841362)
+(u'Collaborative software', 0.0002223790159540234)
+(u'Database administrator', 0.000222220549343261)
+(u'Walking with...', 0.00022200854573166645)
+(u'Mozilla Foundation', 0.0002216352388535634)
+(u'Inland Empire', 0.0002215702819827091)
+(u'Workflow', 0.00022141116723789354)
+(u'Privacy', 0.00022114779654290595)
+(u'Seoul', 0.00022048503483983656)
+(u'Virtual address space', 0.00022034510094114928)
+(u'Seed accelerator', 0.00021986876174845456)
+(u'Walking with Dinosaurs', 0.00021977605797822078)
+(u'Clang', 0.00021957429506636565)
+(u'Software prototyping', 0.00021955572702961386)
+(u'Dynamic web page', 0.00021874471736931723)
+(u'Bloomberg Businessweek', 0.00021852459016498152)
+(u'1080i', 0.00021794236678008568)
+(u'David Wheeler (British computer scientist)', 0.00021768958673583534)
+(u'GNU Compiler Collection', 0.00021749719810196618)
+(u'Bangladesh', 0.0002160871357957095)
+(u'List of iOS devices', 0.0002155858578510912)
+(u'Ecuador', 0.00021552846733195722)
+(u'GNU', 0.0002154099417514978)
+(u'WGBH-TV', 0.00021491369172947048)
+(u'Mojave Desert', 0.00021479017471936015)
+(u'Nova ScienceNow', 0.00021380378610619458)
+(u'Watergate scandal', 0.00021339887526138524)
+(u'Chicago Loop', 0.00021299832563587137)
+(u'IWork', 0.00021293721593115058)
+(u'Spiral model', 0.00021285145245683996)
+(u'Non-commercial', 0.00021185464683276054)
+(u'Froot Loops', 0.00021153290167322795)
+(u'Frosted Flakes', 0.00021153290167322795)
+(u'DDR SDRAM', 0.00021152665457105306)
+(u'Sales tax', 0.00021133149342429756)
+(u'Common Lisp', 0.00021128258940914083)
+(u'San Mateo County, California', 0.00021123583112650575)
+(u'De facto currency', 0.00021117579186320665)
+(u'Reserve currency', 0.00021117579186320665)
+(u'International use of the U.S. dollar', 0.00021117579186320665)
+(u'Television channel', 0.00021082800853585256)
+(u'Newspaper of record', 0.00020940052652765312)
+(u'Public affairs (broadcasting)', 0.00020934920470592108)
+(u'Luminance', 0.0002088371153406477)
+(u'Reusability', 0.00020870607199086527)
+(u'Injury', 0.0002080367028585451)
+(u'Korea', 0.00020753277456255165)
+(u'Digital video recorder', 0.00020724613320218646)
+(u'Secrecy', 0.00020682012459176104)
+(u'Frequency allocation', 0.0002063202980510093)
+(u'Porting', 0.00020595799501029778)
+(u'Gag cartoon', 0.00020564040812758527)
+(u'Richard Nixon', 0.0002054546020930513)
+(u'Online auction', 0.00020544463931988197)
+(u'Just-in-time compilation', 0.00020497850115776197)
+(u'Inheritance tax', 0.00020436237599984612)
+(u'Cheque', 0.00020343091502055845)
+(u'The New York Times', 0.00020341941584272927)
+(u'Roku', 0.0002032360014455374)
+(u'User interface design', 0.0002029524129066505)
+(u'Los Angeles metropolitan area', 0.00020268993423797725)
+(u'Darwin (operating system)', 0.00020222178680323822)
+(u'Web Services Description Language', 0.00020178952431787288)
+(u'Architectural pattern', 0.00020134157906486483)
+(u'Parameter (computer programming)', 0.00020085164775740684)
+(u'Deliverable', 0.00020074207860684045)
+(u'Referential transparency', 0.0002006028023941407)
+(u'Google Docs, Sheets, Slides and Forms', 0.00020044290799359107)
+(u'Sacramento, California', 0.00020006773931270617)
+(u'Royalty-free', 0.00019964480641533247)
+(u'The Time of the Doctor', 0.00019951984317825166)
+(u'Henrietta Maria of France', 0.00019947366341519233)
+(u'Cloud computing', 0.0001992105272574991)
+(u'Maurice Wilkes', 0.00019905782787304707)
+(u'Scalability', 0.0001988408035913914)
+(u'Palo Alto, California', 0.00019861469145124056)
+(u'San Diego County, California', 0.00019813446714084904)
+(u'David and Frederick Barclay', 0.0001979474531521954)
+(u'IGN', 0.00019782290401385865)
+(u'Georgetown (Washington, D.C.)', 0.00019748083967619399)
+(u'Oregon', 0.00019739104923854683)
+(u'Firefox OS', 0.0001972165858034676)
+(u'Content management system', 0.0001972080300629647)
+(u'Utilitarianism', 0.00019708599941956474)
+(u'Animal law', 0.00019708599941956474)
+(u'Expense', 0.00019701109269029278)
+(u'Microsoft Word', 0.0001968229055040974)
+(u'Gmail', 0.00019630478486086807)
+(u'United States Code', 0.00019618286878585325)
+(u'Software development kit', 0.0001961669130350844)
+(u'Program lifecycle phase', 0.0001958807787850556)
+(u'Directory (computing)', 0.00019525231828291286)
+(u'Annapolis, Maryland', 0.00019501592954639425)
+(u'Virginia Beach, Virginia', 0.0001948807390021515)
+(u'Cruelty to animals', 0.00019436961453558026)
+(u'IEEE 802.11a-1999', 0.00019410132731934607)
+(u'Mozilla Thunderbird', 0.00019398771690662075)
+(u'Microblogging', 0.00019383714529416888)
+(u'Open Source Initiative', 0.00019365441126576745)
+(u'Plain English', 0.00019338479725679487)
+(u'Economic surplus', 0.00019338479725679487)
+(u'Double bottom line', 0.00019338479725679487)
+(u'Holding company', 0.00019326692595004352)
+(u'WNET', 0.00019302532251521258)
+(u'Maritime boundary', 0.00019270784146716631)
+(u'AOL', 0.00019269457892846946)
+(u'Side effect (computer science)', 0.00019256993483263472)
+(u'Susan B. Anthony dollar', 0.00019227303414232327)
+(u'Panama', 0.00019227303414232327)
+(u'Federal Reserve Note', 0.00019227303414232327)
+(u'East Timor', 0.00019227303414232327)
+(u'ISO 4217', 0.00019227303414232327)
+(u'Economy of the British Virgin Islands', 0.00019227303414232327)
+(u'El Salvador', 0.00019227303414232327)
+(u'Layout engine', 0.00019212834290834813)
+(u'Evaluation strategy', 0.00019208938123682897)
+(u'Workstation', 0.0001919712911396016)
+(u'District of Columbia retrocession', 0.00019176162048171395)
+(u'Web traffic', 0.0001917351521059775)
+(u'Extraterrestrial life', 0.00019166377192267862)
+(u'Router (computing)', 0.00019162796022918882)
+(u'Abolitionism in the United States', 0.0001913909554907321)
+(u'Special member state territories and the European Union', 0.00019083851670087206)
+(u'Pagination', 0.00019049788893582076)
+(u'Gold (UK TV channel)', 0.00019045539502010286)
+(u'ALGOL', 0.00019011110839883447)
+(u'Caribbean Netherlands', 0.00019008145371236915)
+(u'Semantic Web', 0.00018988287068354785)
+(u'Chromebook', 0.0001898482339968275)
+(u'Apache Software Foundation', 0.00018955055889126503)
+(u'Mexican War of Independence', 0.00018919745740160146)
+(u'Client-side scripting', 0.0001888663700806095)
+(u'User-generated content', 0.00018869306933646618)
+(u'PHP', 0.00018866256550746326)
+(u'Peter Capaldi', 0.0001885032651485442)
+(u'Matt Smith (actor)', 0.0001885032651485442)
+(u'Buyer', 0.00018840284017425287)
+(u'Field (computer science)', 0.00018779761256150032)
+(u'Imperial College London', 0.00018775920759711822)
+(u'Public-domain software', 0.00018736570587396856)
+(u'Eduardo Saverin', 0.00018712429900654353)
+(u'Andrew McCollum', 0.00018712429900654353)
+(u'Linus Torvalds', 0.0001866308056897325)
+(u'POSIX', 0.0001862369987068703)
+(u'Paging', 0.00018592512538288602)
+(u'List of largest California cities by population', 0.0001859224206006151)
+(u'Associated Press', 0.00018558679438498846)
+(u'Mozilla', 0.00018557580373900889)
+(u'Compact (newspaper)', 0.00018538986482462649)
+(u'Newspaper format', 0.00018538986482462649)
+(u'International Criminal Court', 0.00018528195855572056)
+(u'Audience measurement', 0.00018501572823562042)
+(u'Confidentiality', 0.00018498386927369258)
+(u'Static web page', 0.00018475384298175416)
+(u'Objective-C', 0.00018469995541554903)
+(u'Manga', 0.00018467082320032353)
+(u'Springfield, Massachusetts', 0.0001845873835285284)
+(u'User Datagram Protocol', 0.00018458587989158773)
+(u'Connection-oriented communication', 0.00018458587989158773)
+(u'Reading (process)', 0.00018455156032088876)
+(u'Package manager', 0.00018417411435524096)
+(u'WebKit', 0.00018384329476082983)
+(u'LinkedIn', 0.00018344788782439136)
+(u'Legibility', 0.00018330536591094315)
+(u'Standard library', 0.00018320069872996121)
+(u'Property (programming)', 0.00018251034607485317)
+(u'Photoblog', 0.00018239314854159408)
+(u'International taxation', 0.00018192677326417676)
+(u'501(c) organization', 0.00018145694823337838)
+(u'Rapid application development', 0.00018140269365541216)
+(u'X Window System', 0.000181307091356249)
+(u'Residence Act', 0.00018099088794415387)
+(u'Web framework', 0.0001809732534334641)
+(u'Drought', 0.00018097259625080565)
+(u'Page description language', 0.00018084803031136242)
+(u'City of license', 0.00018072902485247722)
+(u'Fraunhofer Society', 0.00018022347384924361)
+(u'Serial code', 0.0001802189820984886)
+(u'Alphabet Inc.', 0.0001801198011927558)
+(u'List of virtual communities with more than 100 million active users', 0.00017993495230836246)
+(u'Calendaring software', 0.0001799130045873224)
+(u'Digital subchannel', 0.00017981980822723986)
+(u'Umbrella term', 0.00017974625417146474)
+(u'Open Database Connectivity', 0.00017956482855663544)
+(u'Lincoln Center for the Performing Arts', 0.00017922134979130692)
+(u'NPR', 0.00017911345179787247)
+(u'Link time', 0.00017876981122829085)
+(u'Antique', 0.00017841475293226642)
+(u'Pew Research Center', 0.00017838282214681532)
+(u'Pre-installed software', 0.00017821014042285167)
+(u'Primetime Emmy Award', 0.00017811742686628927)
+(u'Mobile browser', 0.0001777691191741703)
+(u'Labour law', 0.00017772863171008598)
+(u'Edition (book)', 0.00017734865824209367)
+(u'Game server', 0.00017731161043661183)
+(u'Dot-com company', 0.000177128099185349)
+(u'Baltimore', 0.00017673712732617974)
+(u'Port of Rotterdam', 0.00017667742586994676)
+(u'Digital Equipment Corporation', 0.00017663496087902387)
+(u'FreeBSD', 0.00017630516518833884)
+(u'IBM DB2', 0.000176210308718461)
+(u'Microsoft SQL Server', 0.000176210308718461)
+(u'Robotics', 0.0001760951607749062)
+(u'Sunnyvale, California', 0.0001758175613319527)
+(u'Sergey Brin', 0.00017561024040184547)
+(u'Web standards', 0.00017550971703160815)
+(u'San Francisco Peninsula', 0.00017533080010698876)
+(u'Fast Company (magazine)', 0.00017531279550360538)
+(u'Color photography', 0.00017509681366493658)
+(u'Occupational safety and health', 0.00017493411534374775)
+(u'Larry Page', 0.00017490499673393668)
+(u'Prime time', 0.00017471719183329414)
+(u'Emic and etic', 0.00017454244649823758)
+(u'Empire State Building', 0.0001743775095322074)
+(u'Fairfax County, Virginia', 0.0001743427721900091)
+(u'Ring of Fire', 0.00017424908005032487)
+(u'Systems development life cycle', 0.00017424296480133715)
+(u'Extreme programming', 0.00017424296480133715)
+(u'Warner Bros.', 0.00017414793631377007)
+(u'Virtual channel', 0.0001740272892086963)
+(u'Upper West Side', 0.00017400378492329487)
+(u'Alexandria, Virginia', 0.0001739004795038258)
+(u'Alameda County, California', 0.00017348394761451896)
+(u'Trojan horse (computing)', 0.00017335511181909506)
+(u'IPad 2', 0.00017279726788192723)
+(u'Home page', 0.0001726020029026908)
+(u'Usage share of web browsers', 0.00017257088991582046)
+(u'Widescreen', 0.00017240771813241244)
+(u'TARDIS', 0.00017238821383048716)
+(u'Embedded software', 0.00017138591007110861)
+(u'BlackBerry 10', 0.0001710905576995927)
+(u'IPhone 4S', 0.0001706512232687951)
+(u'Blogger (service)', 0.00017045675232276684)
+(u'Mount Whitney', 0.00017043089010424767)
+(u'Server-side scripting', 0.00017041359896512499)
+(u'Regeneration (Doctor Who)', 0.0001703894953308521)
+(u'Bulletin board', 0.00017030044441398952)
+(u'Ruby on Rails', 0.00017016625057803887)
+(u'Threaded code', 0.0001701082519060374)
+(u'Stanley Gill', 0.0001701082519060374)
+(u'Graphic designer', 0.0001700165287184729)
+(u'News magazine', 0.00016998803082142263)
+(u'States of Mexico', 0.00016988436668695096)
+(u'Data model', 0.0001692555118593243)
+(u'Mark Zuckerberg', 0.00016914691035200706)
+(u'Science journalism', 0.00016831010493531152)
+(u'Computer worm', 0.0001676581098044416)
+(u'Web developer', 0.00016708579670437313)
+(u'Tax deduction', 0.00016696103174345813)
+(u'Andy Hunt (author)', 0.00016674522099346362)
+(u'Swift (programming language)', 0.00016667905669959997)
+(u'Report', 0.000166121226565881)
+(u'Video hosting service', 0.0001659355025330567)
+(u'Kernel (operating system)', 0.0001658313114929777)
+(u'Willis Tower', 0.00016571696911063717)
+(u'Reverse engineering', 0.00016563037680774727)
+(u'Social status', 0.00016525078575411008)
+(u'Risk perception', 0.00016525078575411008)
+(u'Free software movement', 0.00016510031831787255)
+(u'Internal Revenue Service', 0.00016451211703145602)
+(u'Wacker Drive', 0.0001643804587662433)
+(u'Columnist', 0.0001641610417208728)
+(u'Mobile music', 0.00016405890747332003)
+(u'Rooting (Android OS)', 0.00016405890747332003)
+(u'Dustin Moskovitz', 0.0001638986021797093)
+(u'Chris Hughes', 0.0001638986021797093)
+(u'Attribution (copyright)', 0.00016380933852842985)
+(u'Psion (company)', 0.00016380107701021872)
+(u'Mayor of the District of Columbia', 0.00016289467962782867)
+(u'National Mall', 0.00016289467962782867)
+(u'List of diplomatic missions in the United States', 0.00016289467962782867)
+(u'List of museums in Washington, D.C.', 0.00016289467962782867)
+(u'District of Columbia Organic Act of 1871', 0.00016289467962782867)
+(u'Internal Revenue Code', 0.00016286423023372394)
+(u'Narrative', 0.00016284982407547725)
+(u'Google+', 0.0001627820813584607)
+(u'Mashup (web application hybrid)', 0.00016263863854223707)
+(u'Portable Document Format', 0.00016236691091212145)
+(u'PlayStation', 0.00016223437207906507)
+(u'The Sarah Jane Adventures', 0.00016182184631535111)
+(u'Dynamic linker', 0.00016178025321175857)
+(u'Customs', 0.00016176334147094358)
+(u'Douglas fir', 0.0001616999538299554)
+(u'Sony Mobile', 0.0001614087490396696)
+(u'PBS NewsHour', 0.00016129881032288796)
+(u'Apache HTTP Server', 0.00016106532338478312)
+(u'Sacramento metropolitan area', 0.00016099805970055278)
+(u'Application framework', 0.00016088686939962136)
+(u'United States Statutes at Large', 0.00016078733316458275)
+(u'Non-commercial educational', 0.00016036206954947365)
+(u'Common Gateway Interface', 0.00016019466631622385)
+(u'British television science fiction', 0.00016006858043380725)
+(u'The Free Software Definition', 0.00015991104080041008)
+(u'Sequoia sempervirens', 0.00015959135016022384)
+(u'WGBH Educational Foundation', 0.0001590940591964506)
+(u'Richmond, Virginia', 0.00015902252247186122)
+(u'Nature (TV series)', 0.00015859213001139384)
+(u'Menlo Park, California', 0.00015806761400162885)
+(u'Scala (programming language)', 0.0001577795045168588)
+(u'Owned-and-operated station', 0.00015750185586434163)
+(u'Quality control', 0.00015697283385360982)
+(u'Crowdsourcing', 0.0001569253711073654)
+(u'List of the most populous counties in the United States', 0.00015671268170113438)
+(u'Measuring programming language popularity', 0.00015637638847956688)
+(u'Serialization', 0.00015617469960713633)
+(u'Wolfram Mathematica', 0.00015594722805856775)
+(u'UCSD Pascal', 0.000155924376528838)
+(u'Santa Clara Valley', 0.00015585474725335381)
+(u'Artifact (software development)', 0.00015577284104537526)
+(u'Time Warner Center', 0.0001555045203257575)
+(u'Obituary', 0.00015537326940592074)
+(u'Agence France-Presse', 0.0001552183409437999)
+(u'Local news', 0.00015507034978502274)
+(u'Ben Silbermann', 0.00015499790229084052)
+(u'Evan Sharp', 0.00015499790229084052)
+(u'Manual memory management', 0.00015499573183514446)
+(u'Ivy League', 0.00015494179127775314)
+(u'BBC World Service Television', 0.00015487599057821232)
+(u'BBC News', 0.00015487599057821232)
+(u'Event-driven architecture', 0.00015472150336846933)
+(u'WGBH (FM)', 0.000154670879319327)
+(u'Newark, New Jersey', 0.0001545581660820749)
+(u'Software release life cycle', 0.0001544762732360461)
+(u'Companion (Doctor Who)', 0.00015444737690722518)
+(u'Conducting', 0.00015433477505385787)
+(u'Telegraph Media Group', 0.00015415455488969402)
+(u'United Kingdom parliamentary expenses scandal', 0.00015415455488969402)
+(u'Sam Allardyce', 0.00015415455488969402)
+(u'Arthur B. Sleigh', 0.00015415455488969402)
+(u'Northern Virginia', 0.00015405554475155412)
+(u'XML schema', 0.00015391294486383114)
+(u'Graphics display resolution', 0.00015390204190973908)
+(u'Volt', 0.0001538853782991251)
+(u'Market research', 0.00015382722337634833)
+(u'Videotelephony', 0.00015364799796279403)
+(u'Dallas', 0.00015363986008334426)
+(u'Backus\u2013Naur Form', 0.00015357431835634272)
+(u'Time travel', 0.00015318988778284027)
+(u'Indigenous peoples of California', 0.0001529632024173142)
+(u'American Public Television', 0.0001529588605477853)
+(u'Berliner (format)', 0.00015288787046919555)
+(u'Hippie', 0.000152793879334715)
+(u'OpenSUSE', 0.00015247572438886913)
+(u'Local government in the United States', 0.00015215910158497477)
+(u'Blue Ridge Mountains', 0.00015198088345993297)
+(u'Antisemitism', 0.00015178386546828098)
+(u'University of California, Davis', 0.00015176289299330647)
+(u'Delphi (programming language)', 0.0001514807400746837)
+(u'Social engineering (security)', 0.00015147405334543142)
+(u'IPhone 5S', 0.00015111517968015623)
+(u'Referent', 0.0001509946426896737)
+(u'Internationalized Resource Identifier', 0.0001509946426896737)
+(u'News World Communications', 0.00015097940593941037)
+(u'Heavy equipment', 0.00015085003109396373)
+(u'Unit operation', 0.00015085003109396373)
+(u'Web engineering', 0.0001507076745677174)
+(u'Europol', 0.00015064535475459447)
+(u'JSON', 0.00015046350684080415)
+(u'Datacasting', 0.00015032938163124033)
+(u'Best practice', 0.00015004877680550809)
+(u'Russell T Davies', 0.00014995139507074253)
+(u'Patch (computing)', 0.0001498148570576725)
+(u'Custom software', 0.00014963390675704373)
+(u'Animal welfare', 0.0001494100526436929)
+(u'CNN Center', 0.0001487246927950605)
+(u'Ted Turner', 0.0001487246927950605)
+(u'Dave Thomas (programmer)', 0.00014865201443735546)
+(u'Dartmouth BASIC', 0.00014859654988148821)
+(u'MATLAB', 0.00014859654988148821)
+(u'Monthly active users', 0.00014857392056711745)
+(u'Debian', 0.00014844026637053718)
+(u'Canonical (company)', 0.00014822866319012514)
+(u'Time Lord', 0.00014819903515123382)
+(u'Op-ed', 0.00014809645352850792)
+(u'Gecko (software)', 0.00014805672409531995)
+(u'Korean reunification', 0.0001478782177830707)
+(u'Software deployment', 0.00014746069712297447)
+(u'IPad Mini', 0.00014744288944217092)
+(u'IPad Pro', 0.0001474428894421709)
+(u'News presenter', 0.00014718585516944126)
+(u'Netbook', 0.00014712970236669464)
+(u'Stateless protocol', 0.0001468524643621423)
+(u'Programming in the large and programming in the small', 0.00014661527058490976)
+(u'Arlington National Cemetery', 0.0001465602525982952)
+(u'Static library', 0.0001464182273028992)
+(u'Plug-in (computing)', 0.00014640253621053486)
+(u'Server', 0.00014634326177391857)
+(u'Session layer', 0.00014629845675326195)
+(u'MongoDB', 0.00014625094255863558)
+(u'PostgreSQL', 0.00014625094255863558)
+(u'Database model', 0.00014625094255863558)
+(u'Sybase', 0.00014625094255863558)
+(u'SAP HANA', 0.00014625094255863558)
+(u'Googleplex', 0.0001459255232311353)
+(u'Mozilla Corporation', 0.0001457672871150277)
+(u'Adware', 0.00014568141125657154)
+(u'Spyware', 0.00014568141125657154)
+(u'Animatronics', 0.00014549582032738766)
+(u'Jasper James', 0.00014549582032738766)
+(u'Tim Haines', 0.00014549582032738766)
+(u'Nova (TV series)', 0.0001454434777651006)
+(u'Network security', 0.00014511971845219168)
+(u'Digital rights management', 0.0001449891588672293)
+(u'East Bay (San Francisco Bay Area)', 0.0001448879073293845)
+(u'Git (software)', 0.00014479212639446318)
+(u'Runtime library', 0.00014452331191103026)
+(u'Voucher', 0.00014447202833168315)
+(u'Corporate identity', 0.00014447202833168315)
+(u'Service mark', 0.00014447202833168315)
+(u'K (programming language)', 0.00014416588374710363)
+(u'Doctor Who (film)', 0.00014369925587404334)
+(u'C++14', 0.0001434294757348818)
+(u'C++03', 0.0001434294757348818)
+(u'GNOME', 0.00014337282570400767)
+(u'Torchwood', 0.00014333369390989606)
+(u'Name collision', 0.00014329361703873829)
+(u'Onomastics', 0.00014329361703873829)
+(u'Land reclamation', 0.00014327293468665555)
+(u'Wheeling Convention', 0.00014325779788769733)
+(u'Chromebox', 0.00014285854966388873)
+(u'Handheld PC', 0.0001427671598673544)
+(u'Power supply unit (computer)', 0.00014241155569749892)
+(u'XQuery', 0.00014221940881497774)
+(u'Apple A7', 0.0001420704200378209)
+(u'BBC Cymru Wales', 0.00014195481061611516)
+(u'Constraint (mathematics)', 0.00014178014511335275)
+(u'Algorithm design', 0.00014178014511335275)
+(u'Software requirements', 0.00014178014511335275)
+(u'The Open Source Definition', 0.00014174927332897774)
+(u'GNU/Linux naming controversy', 0.0001417484285639664)
+(u'Programming Ruby', 0.00014166029942212855)
+(u'Kata (programming)', 0.00014166029942212855)
+(u'24-hour news cycle', 0.00014156527298350675)
+(u'Excise', 0.00014150797937896258)
+(u'Global warming', 0.00014110181502001283)
+(u'United Press International', 0.00014110165965980912)
+(u'Web hosting service', 0.00014082182293403037)
+(u'The Washington Times', 0.00014064670435140643)
+(u'Distributed version control', 0.00014060050607792732)
+(u'Taxable income', 0.00014037269151260756)
+(u'Plankalk\xfcl', 0.00014036605849653588)
+(u'Konrad Zuse', 0.00014036605849653588)
+(u'Beat Generation', 0.00014029726512592496)
+(u'Execution model', 0.00014020036354793367)
+(u'Symbolic programming', 0.00014020036354793367)
+(u'S&P 500 Index', 0.0001401923983306912)
+(u'Red Hat Enterprise Linux', 0.00013999489355350197)
+(u'Yahoo! Answers', 0.00013994540563957406)
+(u'Immutable object', 0.0001398818443252857)
+(u'Jeremy Stoppelman', 0.00013982330930642503)
+(u'Denial-of-service attack', 0.00013980023370909435)
+(u'Google Calendar', 0.00013899853233260761)
+(u'Bug tracking system', 0.00013899324074911467)
+(u'Gratis', 0.00013894031275179305)
+(u'Flagship (broadcasting)', 0.0001388701585531418)
+(u'HTTP cookie', 0.0001387946506329634)
+(u'Antivirus software', 0.0001387395354271241)
+(u'Maintainability', 0.0001387350443575235)
+(u'Group Theatre (New York)', 0.00013816197107017865)
+(u'App store', 0.0001381565862904798)
+(u'Installed base', 0.00013802270102266178)
+(u'Christopher Eccleston', 0.0001380059114851049)
+(u'Weekly newspaper', 0.0001379204472259706)
+(u'Internet hosting service', 0.0001378865488385394)
+(u'World Happiness Report', 0.00013783030204453573)
+(u'QNX', 0.0001376869475052724)
+(u'James Martin (author)', 0.00013749434281359996)
+(u'Earthquake', 0.00013747403758699895)
+(u'Jeff Bezos', 0.00013727578582898434)
+(u'GfK', 0.00013712068650661508)
+(u'Xbox', 0.00013702268623541004)
+(u'Multiple dispatch', 0.00013700033637873517)
+(u'Google Drive', 0.00013655441823749338)
+(u'Accenture', 0.00013637679895036207)
+(u'Fundraising', 0.00013612239532448148)
+(u"Children's television series", 0.00013588807034118318)
+(u'Market share', 0.00013584361159023372)
+(u'WETA-TV', 0.00013568478406923696)
+(u'List of U.S. states by income', 0.00013530814384827362)
+(u'Mercury (element)', 0.00013525218334590612)
+(u'Yahoo! Groups', 0.0001351536685162517)
+(u'Ziff Davis', 0.000134874424478734)
+(u'Liberty', 0.0001346924912567014)
+(u'Snapchat', 0.00013465500846411165)
+(u'TiVo', 0.0001346354379721854)
+(u'Android TV', 0.00013434428152326073)
+(u'Instagram', 0.00013406047596159745)
+(u'Nested function', 0.00013394035200613077)
+(u'North Park, Chicago', 0.0001339177598589818)
+(u'R (programming language)', 0.0001338610222374306)
+(u'DDR2 SDRAM', 0.00013377755282213889)
+(u'Software design pattern', 0.00013376405972531313)
+(u'Web browser engine', 0.00013365068463162285)
+(u'List of free and open-source software packages', 0.00013324395611858934)
+(u'Television pilot', 0.00013319418333326334)
+(u'British Academy Film Awards', 0.00013305559312762599)
+(u'High-definition video', 0.00013294961040565386)
+(u'Rec. 709', 0.00013294961040565386)
+(u'Dragon', 0.00013291396772511626)
+(u'Motorola', 0.00013272473529301487)
+(u'Dot-com bubble', 0.00013232185443978306)
+(u'CentOS', 0.00013226791475202747)
+(u'App', 0.000132094868084217)
+(u'FOAF (ontology)', 0.000132094868084217)
+(u'Real World', 0.000132094868084217)
+(u'Goodreads', 0.000132094868084217)
+(u'Long Island', 0.00013204732762400447)
+(u'Recursion', 0.00013178405818217704)
+(u'File hosting service', 0.00013158714731218774)
+(u'WTTW', 0.00013155874003046458)
+(u'Jack Dorsey', 0.00013148238934345593)
+(u'Evan Williams (Internet entrepreneur)', 0.00013148238934345593)
+(u'List of most popular websites', 0.00013148238934345593)
+(u'Noah Glass (Twitter)', 0.00013148238934345593)
+(u'Biz Stone', 0.00013148238934345593)
+(u'Web search query', 0.00013148238934345593)
+(u'XSLT', 0.0001314274030785692)
+(u'GNU Compiler for Java', 0.00013110854453894367)
+(u'Google Nexus', 0.000131064693060119)
+(u'Fred Wilson (financier)', 0.0001308624534956113)
+(u'Mergers and acquisitions', 0.000130793780303266)
+(u'Progressive tax', 0.0001304839136924426)
+(u'Ransomware', 0.0001301983990937235)
+(u'Purely functional programming', 0.00013008582033621963)
+(u'Hope (programming language)', 0.00013008582033621963)
+(u'Police box', 0.00013008526533354173)
+(u'Wedding vow renewal ceremony', 0.00012979613451530843)
+(u'Wedding', 0.00012979613451530843)
+(u'This (computer programming)', 0.0001297735396479822)
+(u'Google Search', 0.00012971317562472494)
+(u'Register allocation', 0.00012970443432382912)
+(u'Gwen Ifill', 0.0001296918675865365)
+(u'Media market', 0.00012963464002087568)
+(u'Virginia General Assembly', 0.0001294384890016063)
+(u'Firefox for Android', 0.00012902462216934997)
+(u'Great Recession', 0.00012902015908739463)
+(u'Mozilla Application Suite', 0.00012897468843772362)
+(u'Property tax', 0.00012886905561414823)
+(u'Autocode', 0.00012882367770032158)
+(u'Tax credit', 0.00012879283097516059)
+(u'Go (programming language)', 0.0001287056606245092)
+(u'LAMP (software bundle)', 0.00012847948739955212)
+(u'Sun acquisition by Oracle', 0.00012842055816264834)
+(u'Dynamic loading', 0.00012823481503567406)
+(u'Data set (IBM mainframe)', 0.00012823481503567406)
+(u'Commodification', 0.00012823481503567406)
+(u'Adobe AIR', 0.00012798649038562053)
+(u'Automatic programming', 0.00012793143584165155)
+(u'Ipsos', 0.00012775323005315484)
+(u'Nielsen Holdings PLC', 0.00012775323005315484)
+(u'Google Fiber', 0.00012750572684957028)
+(u'Frontline (U.S. TV series)', 0.0001272791583335609)
+(u'K-9 (TV series)', 0.0001272524664049509)
+(u'Courante uyt Italien, Duytslandt, &c.', 0.00012724921500797541)
+(u'Popular print', 0.00012724921500797541)
+(u'Ballad', 0.00012724921500797541)
+(u'Video clip', 0.0001272290040306973)
+(u'Middleware', 0.00012714663399734208)
+(u'Humanoid', 0.00012687808381718792)
+(u'Petabyte', 0.00012678779780126502)
+(u'History of Doctor Who', 0.00012676385841265094)
+(u'Dualism', 0.00012651667367477516)
+(u'Union Square Ventures', 0.00012627734039602598)
+(u'Open-source software development', 0.0001261018649408645)
+(u'Fedora (operating system)', 0.00012605717807692628)
+(u'Interface-based programming', 0.00012579869548907835)
+(u'F Sharp (programming language)', 0.0001255125655323725)
+(u'Android Wear', 0.00012535477467462975)
+(u'Open Handset Alliance', 0.00012535477467462975)
+(u'Android Auto', 0.00012535477467462975)
+(u'Smartphone patent wars', 0.00012535477467462975)
+(u'Roy Clarke', 0.00012484232799219076)
+(u'Caribbean English', 0.0001247876995394451)
+(u'Comparison of American and British English', 0.0001247876995394451)
+(u'List of topics on working time and conditions', 0.0001247876995394451)
+(u'Collective bargaining', 0.0001247876995394451)
+(u'General union', 0.0001247876995394451)
+(u'Professional', 0.0001247876995394451)
+(u'Pensioner', 0.0001247876995394451)
+(u'Input (computer science)', 0.00012472875787542626)
+(u'Computer case', 0.00012472875787542626)
+(u'Vertical direction', 0.00012472875787542626)
+(u'Desk', 0.00012472875787542626)
+(u'Apache Subversion', 0.00012455011642714095)
+(u'Live action', 0.0001244958458381981)
+(u'Django (web framework)', 0.00012435099574559114)
+(u'Channel 4', 0.0001243155813596026)
+(u'IOS SDK', 0.00012402643603401473)
+(u'WCAI', 0.00012368571855254213)
+(u'Duty-free shop', 0.0001236067836208732)
+(u"Don't repeat yourself", 0.00012347813040332827)
+(u'Netscape Navigator', 0.00012339167100382622)
+(u'WGBY-TV', 0.00012333480655352997)
+(u"Don't be evil", 0.0001232944070220574)
+(u'Doctor of Philosophy', 0.0001232944070220574)
+(u'Memory management (operating systems)', 0.00012306140547992787)
+(u'Foreign function interface', 0.00012277381920863776)
+(u'Nation of Islam', 0.0001227400571403243)
+(u'Louis Farrakhan', 0.0001227400571403243)
+(u'User profile', 0.0001226955166983386)
+(u'Friending', 0.0001226955166983386)
+(u'Harvard College', 0.0001226955166983386)
+(u'Face book', 0.0001226955166983386)
+(u'List of colleges and universities in metropolitan Boston', 0.0001226955166983386)
+(u'Spamming', 0.00012249501883933685)
+(u'Natural language processing', 0.0001224808085681629)
+(u'Popular science', 0.0001224686613515056)
+(u'Media type', 0.00012241268118494536)
+(u'World (TV channel)', 0.0001223378722297333)
+(u'Create (TV network)', 0.0001223378722297333)
+(u'Doctor Who spin-offs', 0.00012230274427166147)
+(u'Doctor Who (series 1)', 0.00012230274427166147)
+(u'Form (document)', 0.00012153149356437211)
+(u'Peer production', 0.00012149984955705625)
+(u'Physical abuse', 0.00012141110561664464)
+(u'Human trafficking', 0.00012141110561664464)
+(u'Child neglect', 0.00012141110561664464)
+(u'Child sexual abuse', 0.00012141110561664464)
+(u'Psychological abuse', 0.00012141110561664464)
+(u'Seal of Maryland', 0.00012137379922064949)
+(u'List of U.S. state and territory mottos', 0.00012137379922064949)
+(u'George Calvert, 1st Baron Baltimore', 0.00012137379922064949)
+(u'Maryland 400', 0.00012137379922064949)
+(u'SeaMonkey', 0.00012110101850432742)
+(u'Coastal California', 0.00012102246322959949)
+(u'List of the largest counties in the United States by area', 0.00012102246322959949)
+(u'Comparison between U.S. states and countries by GDP (nominal)', 0.00012102246322959949)
+(u'Economy of California', 0.00012102246322959949)
+(u'McKesson Corporation', 0.00012102246322959949)
+(u'Corporate services', 0.00012102246322959949)
+(u'Chevron Corporation', 0.00012102246322959949)
+(u'Death Valley', 0.00012102246322959949)
+(u'National Datacast', 0.0001208695450653943)
+(u'Media proprietor', 0.00012056490480938127)
+(u'United States cable news', 0.00012056490480938127)
+(u'Heinz Rutishauser', 0.00012046177078367156)
+(u'Euphemism', 0.00012044331896773799)
+(u'Template processor', 0.00012039181936656958)
+(u'Tag (metadata)', 0.00012030439763852728)
+(u'George W. Bush', 0.00011990814240644318)
+(u'Upgrade', 0.00011962989091273776)
+(u'IPhone 6S', 0.00011957425056990775)
+(u'Mercurial', 0.00011948511036241165)
+(u'James Gosling', 0.00011938402190318403)
+(u'Falls Church, Virginia', 0.00011937436481307748)
+(u'Data integrity', 0.0001187322294164602)
+(u'Washington Week', 0.00011866954724211165)
+(u'List of Presidents of the United States by home state', 0.00011843268912560916)
+(u'Solid South', 0.00011843268912560916)
+(u'British America', 0.00011843268912560916)
+(u'Virginia Port Authority', 0.00011843268912560916)
+(u'Shenandoah Valley', 0.00011843268912560916)
+(u'London Company', 0.00011843268912560916)
+(u'Denver', 0.00011830708941248836)
+(u'WGBX-TV', 0.00011823205881922032)
+(u'Station identification', 0.00011821322374274182)
+(u'Concentration of media ownership', 0.00011821322374274182)
+(u'Amateur television', 0.00011821322374274182)
+(u'Repeater', 0.00011821322374274182)
+(u'Broadcast range', 0.00011821322374274182)
+(u'Judy Woodruff', 0.00011812240908639889)
+(u'SOAP', 0.00011810027239879349)
+(u'Object database', 0.00011810027239879349)
+(u'Vendor lock-in', 0.00011809180320345445)
+(u'Software patent', 0.00011809180320345445)
+(u'Moffett Federal Airfield', 0.00011790068087870321)
+(u'Lightning (connector)', 0.00011775968048865572)
+(u'Dock connector', 0.00011775968048865572)
+(u'Peabody Award', 0.0001176464939841025)
+(u'David Karp', 0.00011748390756584413)
+(u'Utrecht', 0.00011744397864810058)
+(u'International Criminal Tribunal for the former Yugoslavia', 0.00011744397864810058)
+(u'Special Tribunal for Lebanon', 0.00011744397864810058)
+(u'Euthanasia in the Netherlands', 0.00011744397864810058)
+(u'Permanent Court of Arbitration', 0.00011744397864810058)
+(u'Eurojust', 0.00011744397864810058)
+(u'Same-sex marriage in the Netherlands', 0.00011744397864810058)
+(u'Prostitution in the Netherlands', 0.00011744397864810058)
+(u'Index of Economic Freedom', 0.00011744397864810058)
+(u'Abortion in the Netherlands', 0.00011744397864810058)
+(u'Drug policy of the Netherlands', 0.00011744397864810058)
+(u'Liberalism', 0.00011744397864810058)
+(u'Holland', 0.00011744397864810058)
+(u'Polder', 0.00011744397864810058)
+(u'West Frisian language', 0.00011744397864810058)
+(u'Organisation for the Prohibition of Chemical Weapons', 0.00011744397864810058)
+(u'Metres above sea level', 0.00011744397864810058)
+(u'Amortized analysis', 0.0001173895405523504)
+(u'NetBSD', 0.00011736354954516862)
+(u'S60 (software platform)', 0.00011733287186275149)
+(u'Software feature', 0.00011703506919509443)
+(u'Intuit', 0.00011702040303262325)
+(u'Open-source movement', 0.00011671584424730142)
+(u'String literal', 0.00011662499887973687)
+(u'Gentoo Linux', 0.00011653100343537156)
+(u'Arch Linux', 0.00011653100343537156)
+(u'Linux Mint', 0.00011653100343537155)
+(u'Android software development', 0.00011635818376722564)
+(u'Google TV', 0.00011635818376722564)
+(u'AT&T', 0.0001163473606621457)
+(u'Newspaper display advertising', 0.00011628624319557803)
+(u'Entertainment journalism', 0.00011628624319557803)
+(u'Political journalism', 0.00011628624319557803)
+(u'Sports journalism', 0.00011628624319557803)
+(u'Newsprint', 0.00011628624319557803)
+(u'Feature story', 0.00011628624319557803)
+(u'Food column', 0.00011628624319557803)
+(u'Business journalism', 0.00011628624319557803)
+(u'Editorial independence', 0.00011628624319557803)
+(u'Advice column', 0.00011628624319557803)
+(u'Society reporting', 0.00011628624319557803)
+(u'Medical journalism', 0.00011628624319557803)
+(u'BlackBerry DTEK50', 0.00011620528252341625)
+(u'BlackBerry Priv', 0.00011620528252341625)
+(u'Image hosting service', 0.00011615879058982663)
+(u'PBS Kids', 0.00011615180599325661)
+(u'Conspiracy (criminal)', 0.00011607206177672293)
+(u'Firefox for iOS', 0.00011599612067531519)
+(u'Julia (programming language)', 0.00011571959650140865)
+(u'WCRB', 0.00011570156338469023)
+(u'Cape Cod', 0.00011570156338469023)
+(u'Yacc', 0.00011550337786822264)
+(u'Symbian Ltd.', 0.00011542147000490378)
+(u'Software build', 0.00011524561317624235)
+(u'Botnet', 0.00011523704451960162)
+(u'OCaml', 0.00011522242367545922)
+(u'Glue code', 0.00011504164411682246)
+(u'OpenBSD', 0.00011496441355698574)
+(u'Java processor', 0.00011460288129831408)
+(u'Lisp machine', 0.00011460288129831408)
+(u'Stack register', 0.00011460288129831408)
+(u'Aspect ratio (image)', 0.00011442911289386239)
+(u'UNIX System V', 0.00011439007186377876)
+(u'Software distribution', 0.00011434266769856287)
+(u'Extended static checking', 0.00011432336488350488)
+(u'Logic error', 0.00011432336488350488)
+(u'Type safety', 0.00011432336488350488)
+(u'RAM parity', 0.00011432336488350488)
+(u'Nieman Fellowship', 0.00011395091061438088)
+(u'Donald E. Graham', 0.00011395091061438088)
+(u'Bob Woodward', 0.00011395091061438088)
+(u'List of prizes won by The Washington Post', 0.00011395091061438088)
+(u'Carl Bernstein', 0.00011395091061438088)
+(u'2008 Pulitzer Prize', 0.00011395091061438088)
+(u'Walter Reed Army Medical Center', 0.00011395091061438088)
+(u'Kilowatt hour', 0.00011350332643165696)
+(u'Ampere-hour', 0.00011350332643165696)
+(u'Software configuration management', 0.00011341999524333381)
+(u'List of version control software', 0.00011341999524333381)
+(u'Timestamp', 0.00011341999524333381)
+(u'Ultrix', 0.00011316943069842571)
+(u'SpamBayes', 0.00011314366178575995)
+(u'Computerworld', 0.00011314366178575995)
+(u'Language binding', 0.00011293641486269815)
+(u'Aperture', 0.00011289468413629234)
+(u'Security', 0.0001127735155330511)
+(u'Indonesian language', 0.00011268691264622058)
+(u'Cable modem', 0.00011246533407104725)
+(u'Xfce', 0.00011228289320113304)
+(u'LXDE', 0.00011228289320113304)
+(u'Nature documentary', 0.00011226266348182397)
+(u'Software relicensing', 0.00011205619525583425)
+(u'Java Community Process', 0.00011205619525583425)
+(u'Write once, run anywhere', 0.00011205619525583425)
+(u'GNU Classpath', 0.00011205619525583425)
+(u'IcedTea', 0.00011205619525583425)
+(u'Symbian Foundation', 0.00011205176888795403)
+(u'Data dictionary', 0.00011179723006279613)
+(u'Database index', 0.00011179723006279613)
+(u'Ronald Reagan Washington National Airport', 0.00011176468767485468)
+(u'Space probe', 0.00011160184084434159)
+(u'Bjarne Stroustrup', 0.00011160184084434159)
+(u'Visual C++', 0.00011160184084434159)
+(u'Intel C++ Compiler', 0.00011160184084434159)
+(u'IBM XL C++', 0.00011160184084434159)
+(u'English alphabet', 0.00011160184084434159)
+(u'Telephone exchange', 0.00011160184084434159)
+(u'Persistence (computer science)', 0.00011139926861657371)
+(u'PlayStation Vita', 0.0001113163498234305)
+(u'Dynamic HTML', 0.00011115524600477649)
+(u'WLIW', 0.00011104146373576459)
+(u'NJTV', 0.00011104146373576457)
+(u'Solution stack', 0.00011091970497100838)
+(u'Logistics', 0.0001108235708315296)
+(u'Fleet vehicle', 0.0001108235708315296)
+(u'Business development', 0.00011081853764385437)
+(u'Payroll tax', 0.00011048792487010375)
+(u'Gift tax', 0.00011048792487010375)
+(u'Clojure', 0.00011037265400000815)
+(u'Web template system', 0.00011011092043487577)
+(u'Login session', 0.00010996096594250706)
+(u'Session ID', 0.00010996096594250706)
+(u'Disqus', 0.00010991124059097347)
+(u'Apple A6', 0.00010978472953850397)
+(u'IPhone 5C', 0.00010978472953850397)
+(u'Python Software Foundation', 0.00010961549600443487)
+(u'CPython', 0.00010961549600443487)
+(u'Source lines of code', 0.00010961549600443487)
+(u'Py2exe', 0.00010961549600443487)
+(u'Firewall (computing)', 0.00010945313184541826)
+(u'George H. W. Bush', 0.00010940490709450525)
+(u'GitHub', 0.00010935344419957583)
+(u'Environmental health officer', 0.00010896094154816735)
+(u'Yelp SeatMe', 0.00010896094154816735)
+(u'Russel Simmons', 0.00010896094154816735)
+(u'Pledge drive', 0.00010892544941209316)
+(u'Third-party source', 0.00010892544941209316)
+(u'American Masters', 0.00010892544941209316)
+(u'Masterpiece (TV series)', 0.00010892544941209316)
+(u'Antiques Roadshow (U.S. TV series)', 0.00010892544941209316)
+(u'CERN httpd', 0.00010880604508952505)
+(u'Base64', 0.00010880604508952505)
+(u'LAME', 0.00010880604508952505)
+(u'Serpent (cipher)', 0.00010880604508952505)
+(u'Openwall Project', 0.00010880604508952505)
+(u'Product family engineering', 0.00010880604508952505)
+(u'SHA-3', 0.00010880604508952505)
+(u'Spacefaring', 0.00010876431399949583)
+(u'Cult following', 0.00010876431399949583)
+(u'List of Doctor Who parodies', 0.00010876431399949583)
+(u'K-9 and Company', 0.00010876431399949583)
+(u'List of Doctor Who villains', 0.00010876431399949583)
+(u'Google Photos', 0.00010836800141970004)
+(u'Preferred stock', 0.00010836800141970004)
+(u'Sundar Pichai', 0.00010836800141970004)
+(u'Project Fi', 0.00010836800141970004)
+(u'AdWords', 0.00010836800141970004)
+(u'Mission statement', 0.00010836800141970004)
+(u'Google Maps', 0.00010836800141970004)
+(u'Google Home', 0.00010836800141970004)
+(u'Google Translate', 0.00010836800141970004)
+(u'Google Hangouts', 0.00010836800141970004)
+(u'Open collaboration', 0.00010834383495523047)
+(u'Apache Hadoop', 0.00010834383495523047)
+(u'Free license', 0.00010834383495523047)
+(u'Flickr', 0.00010826268415225301)
+(u'Neil deGrasse Tyson', 0.00010801415696181637)
+(u'David Pogue', 0.00010801415696181637)
+(u'Robert Krulwich', 0.00010801415696181637)
+(u'Economic sector', 0.00010799647115773236)
+(u'List of places with "Silicon" names', 0.00010799647115773236)
+(u'Startup ecosystem', 0.00010799647115773236)
+(u'List of technology centers', 0.00010799647115773236)
+(u'List of research parks', 0.00010799647115773236)
+(u'Erlang (programming language)', 0.00010784077474883885)
+(u'Page (paper)', 0.00010783183462490428)
+(u'QuarkXPress', 0.00010783183462490428)
+(u'Widows and orphans', 0.00010783183462490428)
+(u'Page break', 0.00010783183462490428)
+(u'Page numbering', 0.00010783183462490428)
+(u'St. Louis', 0.00010774716786983656)
+(u"Ousterhout's dichotomy", 0.00010765999519020209)
+(u'Fred Brooks', 0.00010765999519020209)
+(u'The Verge', 0.00010760506100074642)
+(u'Eritrea', 0.00010754818096773999)
+(u'Google Play Games', 0.00010683872078711429)
+(u'Google Play Movies & TV', 0.00010683872078711429)
+(u'Google Play Books', 0.00010683872078711429)
+(u'Google Play Newsstand', 0.00010683872078711429)
+(u'Google Play Music', 0.00010683872078711429)
+(u'Google Store', 0.00010683872078711429)
+(u'Capital gains tax in the United States', 0.00010661574542201103)
+(u'Tax return (United States)', 0.00010661574542201103)
+(u'Partnership taxation in the United States', 0.00010661574542201103)
+(u'Apple A8', 0.00010659677001597426)
+(u'Retina Display', 0.00010659677001597426)
+(u'Touch ID', 0.00010659677001597426)
+(u'GPS navigation software', 0.00010659677001597426)
+(u'Apple motion coprocessors', 0.00010659677001597426)
+(u'FaceTime', 0.00010659677001597426)
+(u'Fujitsu', 0.00010658298128054996)
+(u'Repository (version control)', 0.0001065039473065954)
+(u'Blessing ceremony of the Unification Church', 0.00010646688726542161)
+(u'Emmanuel Milingo', 0.00010646688726542161)
+(u'Projector', 0.00010645416194371063)
+(u'Conversation threading', 0.00010625931160365389)
+(u'Electronic mailing list', 0.00010625931160365389)
+(u'BlackBerry Tablet OS', 0.00010618826932886817)
+(u'Sister station', 0.00010618819841224712)
+(u'Smart device', 0.0001061620209235986)
+(u'Insider threat', 0.0001061620209235986)
+(u'Error-tolerant design', 0.0001061620209235986)
+(u'Internet of things', 0.0001061620209235986)
+(u'SQL injection', 0.0001061620209235986)
+(u'Code injection', 0.0001061620209235986)
+(u'Physical security', 0.0001061620209235986)
+(u'Sharp Corporation', 0.0001058999033387776)
+(u'Siri', 0.00010587963698118673)
+(u'Bugzilla', 0.00010563370933451823)
+(u'List of Mozilla products', 0.00010563370933451823)
+(u'Programming language specification', 0.00010544277951442778)
+(u'Madison, Wisconsin', 0.00010539780120110139)
+(u'Taxation in the United States', 0.00010527618026270813)
+(u'Fur', 0.00010486333550725684)
+(u'Cost\u2013benefit analysis', 0.00010486333550725684)
+(u'Pain in animals', 0.00010486333550725684)
+(u'Zoosadism', 0.00010486333550725684)
+(u'James Clerk Maxwell', 0.00010472597634082057)
+(u'RGB color space', 0.00010472597634082057)
+(u'Film colorization', 0.00010472597634082057)
+(u'ARM Cortex-A9', 0.00010458168816187644)
+(u'PowerVR', 0.00010458168816187644)
+(u'GameSpy', 0.00010449656333067883)
+(u'TeamXbox', 0.00010449656333067883)
+(u'Rotten Tomatoes', 0.00010449656333067883)
+(u'Web browsing history', 0.0001041679073724545)
+(u'HTML scripting', 0.0001041679073724545)
+(u'Content negotiation', 0.00010414300348187032)
+(u'Needham, Massachusetts', 0.00010402560458571768)
+(u'Upload', 0.00010395687222421488)
+(u'Wesley Eure', 0.00010358018469436189)
+(u'Jim Coane', 0.00010358018469436189)
+(u'Ron Rodecker', 0.00010358018469436189)
+(u'Sprout (TV network)', 0.00010358018469436189)
+(u'American Greetings', 0.00010358018469436189)
+(u'Tru64 UNIX', 0.0001034043013756014)
+(u'Windows NT 3.1', 0.0001034043013756014)
+(u'SunOS', 0.0001034043013756014)
+(u'Computer Systems Research Group', 0.0001034043013756014)
+(u'PC-BSD', 0.0001034043013756014)
+(u'ITV (TV channel)', 0.00010307056832862091)
+(u'Anthology series', 0.00010307056832862091)
+(u'Class conflict', 0.0001029713056495534)
+(u'Young Hyacinth', 0.0001029713056495534)
+(u'Drama (TV channel)', 0.0001029713056495534)
+(u'List of Keeping Up Appearances characters', 0.0001029713056495534)
+(u'Santa Clara Valley Transportation Authority', 0.00010295239260262378)
+(u'William Shockley', 0.00010295239260262378)
+(u'Santa Cruz Mountains', 0.00010295239260262378)
+(u'Symantec', 0.00010295239260262378)
+(u'Apple I', 0.00010295239260262378)
+(u'Los Altos, California', 0.00010295239260262378)
+(u'Shockley Semiconductor Laboratory', 0.00010295239260262378)
+(u'Paul Terrell', 0.00010295239260262378)
+(u'Tax form', 0.00010275656444962699)
+(u'Carbon paper', 0.00010275656444962699)
+(u'Order (business)', 0.00010275656444962699)
+(u'Notebook', 0.00010251776387830872)
+(u'SUSE Linux Enterprise Server', 0.00010251776387830872)
+(u'Mir (software)', 0.00010251776387830872)
+(u'KDE Software Compilation', 0.00010251776387830872)
+(u'Category:Free software operating systems', 0.00010251776387830872)
+(u'Mageia', 0.00010251776387830872)
+(u'Wayland (display server protocol)', 0.00010251776387830872)
+(u'Internet in Cuba', 0.00010228590897446495)
+(u'Internet Explorer 6', 0.00010228590897446495)
+(u'Spiritual successor', 0.00010228590897446495)
+(u'Internet in Germany', 0.00010228590897446495)
+(u'MOAP', 0.00010224498882225333)
+(u'UIQ', 0.00010224498882225332)
+(u'Warranty', 0.00010196033886772272)
+(u'Black Duck Software', 0.00010196033886772272)
+(u'Web API', 0.00010167806298820883)
+(u'Handheld video game', 0.00010153148722664908)
+(u'Lex (software)', 0.00010117212492878215)
+(u'Racket (programming language)', 0.00010117212492878215)
+(u'Finitary relation', 0.00010117212492878215)
+(u'Q (programming language from Kx Systems)', 0.00010117212492878215)
+(u'J (programming language)', 0.00010117212492878215)
+(u'Drug Enforcement Administration', 0.00010085563740627384)
+(u'Administrative divisions of Virginia', 0.00010085563740627384)
+(u'United States Air Force Memorial', 0.00010085563740627384)
+(u'Transportation Security Administration', 0.00010085563740627384)
+(u'Pentagon Memorial', 0.00010085563740627384)
+(u'Principal city', 0.00010085563740627384)
+(u'Marine Corps War Memorial', 0.00010085563740627384)
+(u'Myspace', 0.00010049388321524183)
+(u'Facebook Platform', 0.00010049388321524183)
+(u'Spam in blogs', 0.00010049388321524183)
+(u'Blog comment hosting service', 0.000100225445919769)
+(u'Quantcast', 0.000100225445919769)
+(u'Daniel Ha', 0.000100225445919769)
+(u'F. Murray Abraham', 0.00010021433682439235)
+(u'Chris Morgan (ecologist)', 0.00010021433682439235)
+(u'George Page (television presenter)', 0.00010021433682439235)
+(u'Donald Johanson', 0.00010021433682439235)
+(u'Filter (software)', 0.000100079436656551)
+(u'Tiempos del Mundo', 9.97164745404141e-05)
+(u'Insight on the News', 9.97164745404141e-05)
+(u'Hyun Jin Moon', 9.97164745404141e-05)
+(u'GolfStyles', 9.97164745404141e-05)
+(u'World and I', 9.97164745404141e-05)
+(u'Mind control', 9.964573359300966e-05)
+(u'Heresy', 9.964573359300966e-05)
+(u'Deprogramming', 9.964573359300966e-05)
+(u'Interfaith dialogue', 9.964573359300966e-05)
+(u'Hak Ja Han', 9.964573359300966e-05)
+(u'Chancellor', 9.95579929586329e-05)
+(u'Kantar Group', 9.95579929586329e-05)
+(u'Ludwig Erhard', 9.95579929586329e-05)
+(u'Bell TV', 9.945968901467925e-05)
+(u'Public-benefit corporation', 9.938400765447908e-05)
+(u'Autobiography', 9.910434908911764e-05)
+(u'Service provider', 9.910434908911764e-05)
+(u'Gary, Indiana', 9.89808105030783e-05)
+(u'WYCC', 9.89808105030783e-05)
+(u'Qt (software)', 9.893877998385134e-05)
+(u'BlackBerry PlayBook', 9.893877998385134e-05)
+(u'Computer configuration', 9.872772351946075e-05)
+(u'Layer element', 9.872772351946075e-05)
+(u'Fleet commonality', 9.872772351946075e-05)
+(u'Polycarbonate', 9.862181906582251e-05)
+(u'Apple A9', 9.862181906582251e-05)
+(u'Speaker recognition', 9.862181906582251e-05)
+(u'W3C Geolocation API', 9.862181906582251e-05)
+(u'IPhone (1st generation)', 9.862181906582251e-05)
+(u'Assisted GPS', 9.862181906582251e-05)
+(u'IPhone 3GS', 9.862181906582251e-05)
+(u'IPhone 6', 9.862181906582251e-05)
+(u'IPhone 4', 9.862181906582251e-05)
+(u'IPhone SE', 9.862181906582251e-05)
+(u'Visual voicemail', 9.862181906582251e-05)
+(u'IPhone 3G', 9.862181906582251e-05)
+(u'Force Touch', 9.862181906582251e-05)
+(u'480p', 9.862181906582251e-05)
+(u'Web content development', 9.860529275503063e-05)
+(u'Rich Internet application', 9.860529275503063e-05)
+(u'Electronic business', 9.860529275503063e-05)
+(u'Lease', 9.840750670284568e-05)
+(u'MovieBeam', 9.840750670284568e-05)
+(u'Closed captioning', 9.840750670284568e-05)
+(u'Qterics', 9.840750670284568e-05)
+(u'Satellite modem', 9.836446025090025e-05)
+(u'Signaling (telecommunications)', 9.836446025090025e-05)
+(u'Program and System Information Protocol', 9.836446025090025e-05)
+(u'Mesozoic', 9.83372920162902e-05)
+(u'Avery Brooks', 9.83372920162902e-05)
+(u'Prehistoric Planet', 9.83372920162902e-05)
+(u'Discovery Kids', 9.83372920162902e-05)
+(u'Walking with Dinosaurs (film)', 9.83372920162902e-05)
+(u'Kenneth Branagh', 9.83372920162902e-05)
+(u'BBC Natural History Unit', 9.83372920162902e-05)
+(u'David Parnas', 9.821174444692671e-05)
+(u'Program synthesis', 9.821174444692671e-05)
+(u'Database trigger', 9.792723135546797e-05)
+(u'Stored procedure', 9.792723135546797e-05)
+(u'Synonym (database)', 9.792723135546797e-05)
+(u'Conceptual schema', 9.792723135546797e-05)
+(u'Queue (abstract data type)', 9.792723135546797e-05)
+(u'Materialized view', 9.792723135546797e-05)
+(u'Digital dictation', 9.782478848042844e-05)
+(u'IPS panel', 9.782478848042844e-05)
+(u'Apple A5', 9.782478848042844e-05)
+(u'Apple A4', 9.782478848042844e-05)
+(u'Apple A6X', 9.782478848042844e-05)
+(u'Apple A5X', 9.782478848042844e-05)
+(u'IPad Mini (1st generation)', 9.782478848042844e-05)
+(u'IPad Air 2', 9.782478848042844e-05)
+(u'IPad Mini 2', 9.782478848042844e-05)
+(u'IPad Mini 4', 9.782478848042844e-05)
+(u'ARM Cortex-A8', 9.782478848042844e-05)
+(u'Apple A8X', 9.782478848042844e-05)
+(u'Lithium polymer battery', 9.782478848042844e-05)
+(u'IPad (3rd generation)', 9.782478848042844e-05)
+(u'IPad Mini 3', 9.782478848042844e-05)
+(u'IPad Air', 9.782478848042844e-05)
+(u'IPad (4th generation)', 9.782478848042844e-05)
+(u'Project Azorian', 9.757279782991146e-05)
+(u'German submarine U-869', 9.757279782991146e-05)
+(u'Storm chasing', 9.757279782991146e-05)
+(u"Fermat's Last Theorem", 9.757279782991146e-05)
+(u'Colditz Castle', 9.757279782991146e-05)
+(u'Vinland map', 9.757279782991146e-05)
+(u'1980 eruption of Mount St. Helens', 9.757279782991146e-05)
+(u'Elementary particle', 9.757279782991146e-05)
+(u'Drake equation', 9.757279782991146e-05)
+(u'Tarim mummies', 9.757279782991146e-05)
+(u'Shared web hosting service', 9.724294286212979e-05)
+(u'Bruce Eckel', 9.724294286212979e-05)
+(u'GNU Bazaar', 9.724294286212979e-05)
+(u'Launchpad (website)', 9.724294286212979e-05)
+(u'United Kingdom\u2013United States relations', 9.708002884937596e-05)
+(u'Earnings', 9.708002884937596e-05)
+(u'Communication privacy management theory', 9.708002884937596e-05)
+(u'Bodily integrity', 9.708002884937596e-05)
+(u'Lexeme', 9.708002884937596e-05)
+(u'Identity theft', 9.708002884937596e-05)
+(u'Individual and group rights', 9.708002884937596e-05)
+(u'Untranslatability', 9.708002884937596e-05)
+(u'Sweet Honey in the Rock', 9.696869257553896e-05)
+(u'Actors Studio', 9.696869257553896e-05)
+(u'Juilliard School', 9.696869257553896e-05)
+(u'Vaudeville', 9.696869257553896e-05)
+(u'Tin Pan Alley', 9.696869257553896e-05)
+(u'Negro Ensemble Company', 9.696869257553896e-05)
+(u'Sun Records', 9.696869257553896e-05)
+(u'Algonquin Round Table', 9.696869257553896e-05)
+(u'Principle', 9.684155254550358e-05)
+(u'Multitier architecture', 9.684155254550358e-05)
+(u'Test plan', 9.684155254550358e-05)
+(u'Kim Il-sung', 9.667099120268863e-05)
+(u'Tongil Group', 9.667099120268863e-05)
+(u'Moonie (nickname)', 9.667099120268863e-05)
+(u'Anti-communism', 9.667099120268863e-05)
+(u'United States v. Sun Myung Moon', 9.667099120268863e-05)
+(u'List of messiah claimants', 9.667099120268863e-05)
+(u'List of Unification Church affiliated organizations', 9.667099120268863e-05)
+(u'Hungnam', 9.667099120268863e-05)
+(u'Labor camp', 9.667099120268863e-05)
+(u'Collective wedding', 9.667099120268863e-05)
+(u'A Capitol Fourth', 9.663129007607963e-05)
+(u'Tenleytown', 9.663129007607963e-05)
+(u'Ken Burns', 9.663129007607963e-05)
+(u'WETA (FM)', 9.663129007607963e-05)
+(u'Rapid City, South Dakota', 9.64602029294488e-05)
+(u'Hot Springs, Arkansas', 9.64602029294488e-05)
+(u'Biloxi, Mississippi', 9.64602029294488e-05)
+(u'Billings, Montana', 9.64602029294488e-05)
+(u'Chattanooga, Tennessee', 9.64602029294488e-05)
+(u'Antiques Roadshow', 9.64602029294488e-05)
+(u'Provenance', 9.64602029294488e-05)
+(u'Bismarck, North Dakota', 9.64602029294488e-05)
+(u'Decision model', 9.64602029294488e-05)
+(u'Nokia 808 PureView', 9.638044035866625e-05)
+(u'EPOC (operating system)', 9.638044035866625e-05)
+(u'Windows Phone 7', 9.638044035866625e-05)
+(u'Twitch.tv', 9.63137121802008e-05)
+(u'J2 Global', 9.63137121802008e-05)
+(u'Amazon Fire TV', 9.63137121802008e-05)
+(u'Vault Network', 9.63137121802008e-05)
+(u'AskMen', 9.63137121802008e-05)
+(u'Peer Schneider', 9.63137121802008e-05)
+(u'Chris Anderson (entrepreneur)', 9.63137121802008e-05)
+(u'KETC', 9.608415192036687e-05)
+(u'Hari Sreenivasan', 9.608415192036687e-05)
+(u'KQED (TV)', 9.608415192036687e-05)
+(u'Bitbucket', 9.571917967768661e-05)
+(u'Django Software Foundation', 9.571917967768661e-05)
+(u'Create, read, update and delete', 9.571917967768661e-05)
+(u'Nextdoor', 9.571917967768661e-05)
+(u'Type introspection', 9.571917967768661e-05)
+(u'Anthropomorphism', 9.53166582683163e-05)
+(u'Mascot', 9.53166582683163e-05)
+(u'Task management', 9.53166582683163e-05)
+(u'Cephalopod limb', 9.53166582683163e-05)
+(u'Symbol (chemistry)', 9.492630000023873e-05)
+(u'Diff utility', 9.492630000023873e-05)
+(u'WFMT', 9.398981773794922e-05)
+(u'WYIN', 9.398981773794922e-05)
+(u'Wisconsin Public Television', 9.398981773794922e-05)
+(u'Rockford, Illinois', 9.398981773794922e-05)
+(u'Northeastern Illinois University', 9.398981773794922e-05)

@@ -1,0 +1,234 @@
+(u'Linguistics', 0.036796678750357956)
+(u'Programming language', 0.023362212339912168)
+(u'Semantics', 0.02279583885120607)
+(u'Operating system', 0.021751687193420813)
+(u'World Wide Web', 0.0210673528283295)
+(u'Web browser', 0.02104180969536583)
+(u'Software', 0.01944394216872181)
+(u'Language', 0.017963683783941517)
+(u'Syntax', 0.017662072067747277)
+(u'Meaning (linguistics)', 0.016639604287852387)
+(u'Internet', 0.01595023038427058)
+(u'Compiler', 0.014457908077198356)
+(u'Web server', 0.01325558672283754)
+(u'High-level programming language', 0.013143826153855504)
+(u'Interpreter (computing)', 0.013137206744056561)
+(u'Programming paradigm', 0.012285777785906036)
+(u'Denotation', 0.011897144335163888)
+(u'Connotation', 0.011897144335163886)
+(u'Hyperlink', 0.011393707782824222)
+(u'Perl', 0.011061851167850266)
+(u'Visual Basic for Applications', 0.01086735422070777)
+(u'Imperative programming', 0.010626951450747024)
+(u'Markup language', 0.010355206714798676)
+(u'Communication', 0.010176715978681706)
+(u'Application software', 0.010123031682590718)
+(u'Semiotics', 0.009670369661844138)
+(u'Lisp (programming language)', 0.009543817560409212)
+(u'Syntax (programming languages)', 0.009351461171159703)
+(u'HTML', 0.009285664739738032)
+(u'Syntax (logic)', 0.009126898761571429)
+(u'Unix', 0.008715022902235268)
+(u'Website', 0.008628117852842542)
+(u'Microsoft Office', 0.008372645830122557)
+(u'Information Age', 0.008080041687265326)
+(u'Pragmatics', 0.007520926041774258)
+(u'Formatted text', 0.007327128612522325)
+(u'Mobile device', 0.007263901174933147)
+(u'Hypertext Transfer Protocol', 0.007109530437455067)
+(u'Scripting language', 0.006986612762967975)
+(u'Hypertext', 0.006863755349862236)
+(u'Philosophy of language', 0.006467247351696801)
+(u'Communications protocol', 0.006345479073650789)
+(u'Functional programming', 0.006203948254113989)
+(u'Sign', 0.006140337161233855)
+(u'Web page', 0.00601141327801516)
+(u'Symbol', 0.005994958759768132)
+(u'Visual Basic', 0.005982063491142487)
+(u'Web application', 0.005934750916695834)
+(u'Plain text', 0.0058523417967408795)
+(u'Digital media', 0.0057522774539009456)
+(u'World Wide Web Consortium', 0.005720874871074343)
+(u'Unix-like', 0.005707746694050121)
+(u'XML', 0.005579770378516848)
+(u'Image', 0.005403271058688423)
+(u'Computer monitor', 0.00471695122630005)
+(u'Uniform Resource Locator', 0.004586616491799247)
+(u'Reference', 0.00456367231893805)
+(u'Object-oriented programming', 0.004558699055252958)
+(u'Etymology', 0.004471920312898113)
+(u'HTML element', 0.00445473395724246)
+(u'Domain-specific language', 0.004393900987014072)
+(u'Uniform Resource Identifier', 0.00436618677951877)
+(u'Python (programming language)', 0.004331605084754976)
+(u'Document', 0.004321954446923281)
+(u'Scheme (programming language)', 0.004294836558020312)
+(u'Internet forum', 0.004123302023976671)
+(u'Internet Explorer', 0.004079407836824105)
+(u'Execution (computing)', 0.004015329839017212)
+(u'Web resource', 0.003984857832714917)
+(u'Client\u2013server model', 0.003882144371822472)
+(u'Philology', 0.0038535064439395054)
+(u'Tim Berners-Lee', 0.003801241042043736)
+(u'Wiki', 0.0037909622829748924)
+(u'Electronic document', 0.0037650631845946476)
+(u'Computer file', 0.003710947283983399)
+(u'Word', 0.003478092904881327)
+(u'Client (computing)', 0.0034356189641677618)
+(u'Virtual machine', 0.0034250301132092054)
+(u'Instant messaging', 0.0033952289018271166)
+(u'Online shopping', 0.0033952289018271166)
+(u'AWK', 0.003392055408653865)
+(u'Dynamic programming language', 0.0033232602975290433)
+(u'JavaScript', 0.0032707314173377345)
+(u'Bracket', 0.0032636917713865362)
+(u'Firefox', 0.0032297502887256744)
+(u'CERN', 0.0031899100143701602)
+(u'Phrase', 0.0031854142439125214)
+(u'Regular expression', 0.0031693956866947538)
+(u'French franc', 0.003125645027298927)
+(u'Cent (currency)', 0.0031256450272989264)
+(u'TeX', 0.0030731060427729917)
+(u'Microsoft Edge', 0.002951459835095251)
+(u'Safari (web browser)', 0.002951459835095251)
+(u'Google Chrome', 0.002951459835095251)
+(u'Shell script', 0.002808487565999368)
+(u'Sed', 0.002797518173095705)
+(u'Application programming interface', 0.0027692852793746187)
+(u'Interpreted language', 0.0027579414392594785)
+(u'File system', 0.0026369604391345463)
+(u'Portable Document Format', 0.0026071765104935408)
+(u'General-purpose programming language', 0.002530534287600997)
+(u'XHTML', 0.002527701816345552)
+(u'Just-in-time compilation', 0.002500200480855679)
+(u'Intranet', 0.002460248976047937)
+(u'Wikipedia', 0.0024592935846346384)
+(u'Troff', 0.0024533621511651092)
+(u'Node (computer science)', 0.0024219186967452968)
+(u'Emacs Lisp', 0.002412016976955262)
+(u'Opera (web browser)', 0.0023734716709759816)
+(u'Multimedia', 0.0023511874308086798)
+(u'Domain name', 0.0023511874308086798)
+(u'Lexicology', 0.002329225394300776)
+(u'LaTeX', 0.0022728962158071564)
+(u'Private network', 0.002262155489523812)
+(u'Browsing', 0.002262155489523812)
+(u'Cascading Style Sheets', 0.0022184907028619796)
+(u'Web content', 0.002206335485435088)
+(u'Standard Generalized Markup Language', 0.0021438933716661024)
+(u'Screen reader', 0.0021242024724157445)
+(u'Embedded system', 0.0020852747092220663)
+(u'Speech synthesis', 0.002065050945130705)
+(u'Standards organization', 0.0020422832859230255)
+(u'Consortium', 0.0020422832859230255)
+(u'Web navigation', 0.0019651332651730224)
+(u'Information space', 0.0019651332651730224)
+(u'Video', 0.0019651332651730224)
+(u'Page layout', 0.001860226372016981)
+(u'Color', 0.001860226372016981)
+(u'Standard library', 0.001858886122088951)
+(u'Semasiology', 0.0018149500061649805)
+(u'Ancient Greek', 0.0018149500061649805)
+(u'Proxemics', 0.0018149500061649805)
+(u'Agent (grammar)', 0.0018149500061649805)
+(u'International scientific vocabulary', 0.0018149500061649805)
+(u'Formal semantics (linguistics)', 0.0018149500061649805)
+(u'Michel Br\xe9al', 0.0018149500061649805)
+(u'Community', 0.0018149500061649805)
+(u'Note (typography)', 0.0018147392347095763)
+(u'Bibliographic index', 0.0018147392347095763)
+(u'Index (publishing)', 0.0018147392347095763)
+(u'Anchor text', 0.0018147392347095763)
+(u'Mechanism (engineering)', 0.0018147392347095763)
+(u'Transclusion', 0.0018147392347095763)
+(u'Web crawler', 0.0018147392347095763)
+(u'Glossary', 0.0018147392347095763)
+(u'Letter (message)', 0.0018147392347095763)
+(u'Typeface', 0.001801292043561031)
+(u'Browser extension', 0.0017811293185217528)
+(u'Structured document', 0.0017572175480838862)
+(u'Client-side scripting', 0.0017512025128348667)
+(u'Automation', 0.0017489975543272193)
+(u'Virtual world', 0.001741243749755058)
+(u'Online auction', 0.0017002643294091282)
+(u'Webmail', 0.0017002643294091282)
+(u'Presentation semantics', 0.0016983758951755103)
+(u'Brazilian cruzeiro', 0.0016894922157486801)
+(u'Kazakhstani tenge', 0.0016894922157486801)
+(u'Costa Rican col\xf3n', 0.0016894922157486801)
+(u'Mill (currency)', 0.00168949221574868)
+(u'Dollar sign', 0.00168949221574868)
+(u'European Currency Unit', 0.00168949221574868)
+(u'Peseta', 0.00168949221574868)
+(u'Vietnamese dong', 0.00168949221574868)
+(u'Thai baht', 0.00168949221574868)
+(u'Lao kip', 0.0016894922157486797)
+(u'Argentine austral', 0.0016894922157486797)
+(u'Cambodian riel', 0.0016894922157486797)
+(u'Greek drachma', 0.0016894922157486797)
+(u'Turkish lira sign', 0.0016894922157486797)
+(u'German gold mark', 0.0016894922157486797)
+(u'Paraguayan guaran\xed', 0.0016894922157486797)
+(u'Rupee', 0.0016894922157486797)
+(u'Mongolian t\xf6gr\xf6g', 0.0016894922157486797)
+(u'Bangladeshi taka', 0.0016894922157486797)
+(u'Pfennig', 0.0016894922157486797)
+(u'Nigerian naira', 0.0016894922157486797)
+(u'Ghanaian cedi', 0.0016894922157486797)
+(u'Static web page', 0.0016775456795580569)
+(u'Graphic design', 0.001675285127809689)
+(u'Euro sign', 0.0016470653253997478)
+(u'Florin sign', 0.0016470653253997476)
+(u'Hryvnia sign', 0.0016470653253997476)
+(u'Won sign', 0.0016470653253997476)
+(u'\xa5', 0.0016470653253997474)
+(u'Philippine peso sign', 0.0016470653253997474)
+(u'Ruble sign', 0.0016470653253997474)
+(u'Shekel sign', 0.0016470653253997474)
+(u'Indian rupee sign', 0.0016470653253997474)
+(u'Pound sign', 0.0016470653253997472)
+(u'Document Object Model', 0.0016307658093716955)
+(u'Annotation', 0.0016197972371732026)
+(u'Manuscript', 0.0016197972371732026)
+(u'Blue pencil (editing)', 0.0016197972371732026)
+(u'5', 0.0016197972371732026)
+(u'Emacs', 0.0015636369741802085)
+(u'Tcl', 0.0015586909802108887)
+(u'Tree structure', 0.0015584797988728392)
+(u'Runtime system', 0.0015488497556671878)
+(u'Bash (Unix shell)', 0.001520336816601952)
+(u'ECMAScript', 0.0015021433053401465)
+(u'Refreshable braille display', 0.001449137088964839)
+(u'Dynamic web page', 0.0014444193565355035)
+(u'Lua (programming language)', 0.0014178900073711638)
+(u'Abbreviation', 0.0013851986900027984)
+(u'Document type declaration', 0.0013851986900027984)
+(u'HTML attribute', 0.0013851986900027984)
+(u'Newline', 0.0013851986900027984)
+(u'Prototype-based programming', 0.0013833535725434561)
+(u'Server-side scripting', 0.0013654095860358905)
+(u'Self (programming language)', 0.0013498522208203086)
+(u'Style sheet language', 0.00132865900028503)
+(u'XUL', 0.001309538649229695)
+(u'Scalable Vector Graphics', 0.001309538649229695)
+(u'Menu (computing)', 0.0012661683283759274)
+(u'Sidebar (computing)', 0.0012661683283759274)
+(u'Navigation bar', 0.0012661683283759274)
+(u'Database schema', 0.0012355872520442247)
+(u'Document type definition', 0.0012355872520442247)
+(u'Second Life', 0.0012219054914446074)
+(u'The Battle for Wesnoth', 0.0012219054914446074)
+(u'Very high-level programming language', 0.0012219054914446074)
+(u'Trainz', 0.0012219054914446074)
+(u'First-class function', 0.0011538677048937524)
+(u'Input/output', 0.0011538677048937524)
+(u'Site-specific browser', 0.0011538677048937524)
+(u'Array data type', 0.0011538677048937524)
+(u'Node.js', 0.0011538677048937524)
+(u'Software widget', 0.0011538677048937524)
+(u'Punctuation', 0.0011488855735137858)
+(u'Accessibility', 0.0011481930649270772)
+(u'Separation of presentation and content', 0.0011481930649270772)
+(u'MIME', 0.0011481930649270772)
+(u'W3C Markup Validation Service', 0.0011481930649270772)
+(u'Plain Old XML', 0.0011481930649270772)

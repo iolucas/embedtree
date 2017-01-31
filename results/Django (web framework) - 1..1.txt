@@ -1,0 +1,19 @@
+(u'Free and open-source software', 0.09626207887620424)
+(u'Web framework', 0.07212952059744773)
+(u'Django (web framework)', 0.06887701759667379)
+(u'Python (programming language)', 0.059084822376464737)
+(u'501(c) organization', 0.059084822376464737)
+(u'Reusability', 0.046040124155481726)
+(u'Bitbucket', 0.046040124155481726)
+(u'Django Software Foundation', 0.046040124155481726)
+(u'PBS', 0.046040124155481726)
+(u'Type introspection', 0.046040124155481726)
+(u'Architectural pattern', 0.046040124155481726)
+(u'Mozilla Foundation', 0.046040124155481726)
+(u'Pinterest', 0.046040124155481726)
+(u'Create, read, update and delete', 0.046040124155481726)
+(u'The Washington Times', 0.046040124155481726)
+(u"Don't repeat yourself", 0.046040124155481726)
+(u'Disqus', 0.046040124155481726)
+(u'Nextdoor', 0.046040124155481726)
+(u'Instagram', 0.046040124155481726)

@@ -1,0 +1,1423 @@
+(u'Linguistics', 0.018979863361926513)
+(u'United Nations', 0.013920403588101378)
+(u'Language', 0.012923546523278515)
+(u'United States', 0.012877858193589794)
+(u'Latin', 0.011462974867647099)
+(u'World War II', 0.009150628006689393)
+(u'English language', 0.008237929495683043)
+(u'Japan', 0.007883625465047901)
+(u'Europe', 0.007830417277797454)
+(u'Asia', 0.007291495797967223)
+(u'Organ (anatomy)', 0.007124676293806933)
+(u'Phonology', 0.006480979539983212)
+(u'Grammar', 0.006403514769354591)
+(u'China', 0.006337801812861156)
+(u'Pacific Ocean', 0.0060561542466426215)
+(u'United Kingdom', 0.006005642627439714)
+(u'Greek language', 0.005604918800128912)
+(u'Syntax', 0.005325853994005703)
+(u'Language acquisition', 0.005114904480454218)
+(u'Mediterranean Sea', 0.005068396168484432)
+(u'Phonetics', 0.00503725978211828)
+(u'Word', 0.004952915670846169)
+(u'Spanish language', 0.004899180365101605)
+(u'Classical antiquity', 0.0047503982553745855)
+(u'Semantics', 0.004740294547584772)
+(u'Portuguese language', 0.00471234864585767)
+(u'French language', 0.004608088344738249)
+(u'Tissue (biology)', 0.004419034493247085)
+(u'U.S. state', 0.004387421785077535)
+(u'Ancient Greece', 0.004353371393473863)
+(u'Soviet Union', 0.004250462637298788)
+(u'Law', 0.00412172629720191)
+(u'Dialect', 0.004098082063278388)
+(u'Romance languages', 0.0040653229703624056)
+(u'Ancient Greek', 0.003939792813151956)
+(u'Education', 0.003939730199056691)
+(u'UNESCO', 0.003933547011082424)
+(u'Disability', 0.003915013930999549)
+(u'Japanese language', 0.0038986259286267295)
+(u'Chinese language', 0.0038733098843983624)
+(u'Morphology (linguistics)', 0.0037608314379221183)
+(u'Russia', 0.003724334844935102)
+(u'First language', 0.0036409402095010164)
+(u'Energy', 0.003534424910439833)
+(u'Peacekeeping', 0.0035057668875327986)
+(u'Russian language', 0.003505223640187342)
+(u'Korean War', 0.003498775875071525)
+(u'Pragmatics', 0.0034080187812914123)
+(u'Official language', 0.0033963935056403687)
+(u'Lingua franca', 0.0033786175964341087)
+(u'Geographic coordinate system', 0.003374954148827939)
+(u'Taiwan', 0.00321560622187831)
+(u'Human Development Index', 0.003204588421491571)
+(u'Phoneme', 0.00319019455286069)
+(u'European Union', 0.0031804251908245274)
+(u'Pinyin', 0.0031550324972695843)
+(u'East Asia', 0.003081896612574952)
+(u'Atlantic Ocean', 0.0030479764980765114)
+(u'Commonwealth of Nations', 0.0029728814154206832)
+(u'Portugal', 0.0029556279179402314)
+(u'Common law', 0.0029204089657768927)
+(u'Syllable', 0.0028404769234944864)
+(u'Martial arts', 0.002823888784487851)
+(u'Commonwealth Games', 0.002796615061778101)
+(u'Italian language', 0.0026941019076053997)
+(u'Grammatical tense', 0.0026898274218713435)
+(u'United States Constitution', 0.002565867426741792)
+(u'Sport', 0.002553544422596581)
+(u'Second language', 0.0025005462793349755)
+(u'Conversation', 0.002486235686673431)
+(u'Organism', 0.0024281803231826)
+(u'List of countries by GDP (nominal)', 0.002372875491916727)
+(u'Civil law (legal system)', 0.0023716966541541544)
+(u'South Korea', 0.002365579949602226)
+(u'De facto', 0.00236069386470341)
+(u"Webster's Dictionary", 0.0023059679320303113)
+(u'Cardiac muscle', 0.0022864030757635207)
+(u'Combat sport', 0.0022747294900321595)
+(u'G20', 0.0022701640055067997)
+(u'Great power', 0.0022546912365964357)
+(u'Anatomy', 0.002245707957629407)
+(u'Central Asia', 0.0022368794672911942)
+(u'Chinese characters', 0.002215810776018572)
+(u'Atomic bombings of Hiroshima and Nagasaki', 0.0022123139028682117)
+(u'Empire of Japan', 0.0022077489375746787)
+(u'American English', 0.002193830166100134)
+(u'War', 0.00218748723975188)
+(u'Military', 0.002164290624749668)
+(u'Simplified Chinese characters', 0.002149707142917809)
+(u'Grammatical aspect', 0.0021481842933900215)
+(u'Standard Chinese', 0.002137114987084133)
+(u'United States Declaration of Independence', 0.0021167118078043437)
+(u'Traditional Chinese characters', 0.0021132373285874997)
+(u'Standard language', 0.0021004196374949883)
+(u'Merriam-Webster', 0.0020816488623224627)
+(u'Latin script', 0.0020765768834359617)
+(u'Anatolia', 0.002060436379439127)
+(u'Grammatical mood', 0.0020489682117796467)
+(u'Thirteen Colonies', 0.0020484791201992327)
+(u'Caspian Sea', 0.002043695992523409)
+(u'Precedent', 0.002043341849483374)
+(u'Stress (linguistics)', 0.0020297635240582542)
+(u'List of countries and dependencies by population', 0.002019408818321166)
+(u'Connective tissue', 0.002011273622667775)
+(u'Ancient Rome', 0.001997574949632039)
+(u'Developed country', 0.0019872698838222917)
+(u'Jurisdiction', 0.001982384503513399)
+(u'Taoism', 0.0019734420762065625)
+(u'Hong Kong', 0.0019702292638837412)
+(u'Human body', 0.001956395426463722)
+(u'Verb', 0.001939263309252918)
+(u'Heart', 0.001938093973929712)
+(u'Federal government of the United States', 0.0019370682524306022)
+(u'England', 0.0019366649068796274)
+(u'Greek alphabet', 0.0019350389510566373)
+(u'Vulgar Latin', 0.0019318713398281165)
+(u'Han Chinese', 0.0018942154044609884)
+(u'Employment', 0.001888040071601145)
+(u'Black Sea', 0.0018726989654069563)
+(u'United States Armed Forces', 0.0018660231902902639)
+(u'Language family', 0.0018263476851667773)
+(u'Singapore', 0.001822701801971876)
+(u'Mediterranean Basin', 0.0018130458689039652)
+(u'Country', 0.0018114565827162558)
+(u'List of countries by GDP (PPP)', 0.0017935437572357338)
+(u'North Korea', 0.0017878464962704456)
+(u'Malaysia', 0.001771443086662878)
+(u'Brazil', 0.0017687309781916616)
+(u'South Asia', 0.0017655159391433853)
+(u'Brazilian jiu-jitsu', 0.0017604143271899905)
+(u'Mixed martial arts', 0.0017579790385909904)
+(u'Olympic Games', 0.0017557893248707009)
+(u'Variety (linguistics)', 0.0017499047349546013)
+(u'List of languages by number of native speakers', 0.00174175920167948)
+(u'Arabic', 0.0017376786832525744)
+(u'Muscle', 0.0017214721473300975)
+(u'Clause', 0.0017195683761446442)
+(u'Weapon', 0.0017173534497318752)
+(u'Morpheme', 0.0017117394668463182)
+(u'Mutual intelligibility', 0.0016969219280276813)
+(u'Pennsylvania', 0.0016762052971390914)
+(u'Mora (linguistics)', 0.0016671115657787116)
+(u'American Civil War', 0.0016636866000384642)
+(u'World War I', 0.0016217609900901107)
+(u'Edo period', 0.0016206593883261312)
+(u'Democratic Party (United States)', 0.0016189862366988478)
+(u'Global city', 0.001596961166754983)
+(u'Hindi', 0.001586667306984067)
+(u'Judo', 0.0015715935706870263)
+(u'Nation', 0.0015712298504151493)
+(u'Vowel', 0.0015391369345304092)
+(u'Mandarin Chinese', 0.0015390997994510181)
+(u'International Olympic Committee', 0.0015375614893458928)
+(u'Second Sino-Japanese War', 0.0015342433041027293)
+(u'Varieties of Chinese', 0.0015231231691487067)
+(u'List of countries by military expenditures', 0.0015127953879162132)
+(u'Republican Party (United States)', 0.0015103820101407153)
+(u'Emperor of Japan', 0.001509011459236578)
+(u'Professional wrestling', 0.0015065889231810927)
+(u'Society', 0.0015019561048388941)
+(u'German language', 0.0015005106495774567)
+(u'Subculture', 0.0014958943555678972)
+(u'Macau', 0.0014957691103019437)
+(u'Writing system', 0.001482722040790762)
+(u'Criminal law', 0.0014786042397413903)
+(u'British English', 0.0014637830723693082)
+(u'Bone', 0.0014583664119239086)
+(u'Subject (grammar)', 0.0014405814254261537)
+(u'Latin alphabet', 0.001405300326698048)
+(u'Meiji Restoration', 0.001397592663213931)
+(u'American Revolutionary War', 0.0013972940868463098)
+(u'Southeast Asia', 0.0013950385826925372)
+(u'Crime', 0.0013926008254964066)
+(u'Entertainment', 0.0013913859508703104)
+(u'Boxing', 0.0013829492695334176)
+(u'Consonant', 0.001380551966819135)
+(u'Official languages of the United Nations', 0.0013781038858407617)
+(u'International law', 0.0013496212389561754)
+(u'Organisation for Economic Co-operation and Development', 0.0013445351251719106)
+(u'Nagasaki', 0.0013426252356382193)
+(u'Armed forces', 0.001316613852457235)
+(u'Prisoner of war', 0.001305007803459987)
+(u'Persian language', 0.001296518620862783)
+(u'Tokyo', 0.0012961884175457167)
+(u'Grappling', 0.0012775066340716718)
+(u'Netherlands', 0.0012747496065965657)
+(u'Buddhism', 0.0012684942178075725)
+(u'Olympic sports', 0.0012653809461930562)
+(u'National language', 0.0012640850253273603)
+(u'Noun', 0.0012529499792586147)
+(u'Chinese martial arts', 0.0012498890667522711)
+(u'Tone (linguistics)', 0.0012296683298418207)
+(u'Kickboxing', 0.0012222143725235377)
+(u'Punishment', 0.0012024907219006249)
+(u'Shogun', 0.0011987563828958579)
+(u'Actin', 0.0011877090124022898)
+(u'Forms of government', 0.0011860742670783213)
+(u'Tamil language', 0.0011824416318683619)
+(u'Red Army', 0.0011803703330784485)
+(u'Archipelago', 0.0011733749507706005)
+(u'Compound (linguistics)', 0.0011712597452304917)
+(u'Grammatical gender', 0.0011672017360518435)
+(u'Civilian', 0.0011651876672466495)
+(u'Old English', 0.0011511507192214663)
+(u'Self-defense', 0.0011368137384269762)
+(u'Thailand', 0.0011336144494870303)
+(u'Grammatical case', 0.0011318288410608402)
+(u'Ontology', 0.0011024689634758112)
+(u'Category of being', 0.0010943300211178767)
+(u'Smooth muscle tissue', 0.001094025875230007)
+(u'Greco-Roman world', 0.0010931594407304272)
+(u'Law enforcement', 0.0010872920061067136)
+(u'Statutory law', 0.0010760125615614387)
+(u'Death', 0.0010740474584531414)
+(u'Statute', 0.0010732422875859534)
+(u'Word stem', 0.0010698744538062198)
+(u'Sino-Tibetan languages', 0.0010634918770656976)
+(u'Middle East', 0.0010584323122037416)
+(u'Corporation', 0.0010562098394397619)
+(u'Hangul', 0.0010539868939358854)
+(u'Constitutional monarchy', 0.0010420093876008971)
+(u'Prefectures of Japan', 0.0010409066001933625)
+(u'De jure', 0.0010369586235415512)
+(u'Hanja', 0.001036272660611954)
+(u'Skeletal muscle', 0.0010354841931601193)
+(u'Grammatical number', 0.0010324363797108178)
+(u'Philadelphia', 0.0010321383250872964)
+(u'Grammatical category', 0.0010290942417514903)
+(u'Part of speech', 0.0010274256323569196)
+(u'Pedagogy', 0.0010270871874474218)
+(u'History of Japan', 0.001026707551728228)
+(u'Copper', 0.0010265299255766238)
+(u'First Sino-Japanese War', 0.0010198207117183696)
+(u'Tokugawa shogunate', 0.0010184315089876172)
+(u'Korean language', 0.0010175594594157525)
+(u'Treaty', 0.0010172321493075347)
+(u'Emperor Meiji', 0.0010063814202643077)
+(u'List of countries by life expectancy', 0.0009994080901588084)
+(u'Grapheme', 0.0009957532168637358)
+(u'Object (grammar)', 0.0009904447423237797)
+(u'Voice (grammar)', 0.0009899865908021286)
+(u'Honshu', 0.0009844049568234563)
+(u'Iberian Peninsula', 0.00098226012073463)
+(u'Collagen', 0.000975839821955381)
+(u'Fusional language', 0.0009745800497660488)
+(u'Classical Chinese', 0.0009681884507027769)
+(u'Disease', 0.000961571609598623)
+(u'Kanji', 0.0009602494034785797)
+(u'Grammatical person', 0.0009559719316821828)
+(u'Sri Lanka', 0.0009451865189875905)
+(u'Summer Olympic Games', 0.0009450347791345595)
+(u'International Phonetic Alphabet', 0.0009437450872209833)
+(u'Germ layer', 0.0009428909198533439)
+(u'Firearm', 0.0009388974103164019)
+(u'Training', 0.0009335377086420748)
+(u'Court', 0.0009293228034636624)
+(u'Constitution of Japan', 0.0009200869833084518)
+(u'Loanword', 0.0009146924263907334)
+(u'Gracie family', 0.0009114772171088749)
+(u'Middle English', 0.0009079798047507)
+(u'Muscle tissue', 0.0009048728081594093)
+(u'Ultimate Fighting Championship', 0.0009033443851047155)
+(u'Grammatical conjugation', 0.0009031741196505868)
+(u'Winter Olympic Games', 0.0009005518666189071)
+(u'Mesoderm', 0.0008850424334911609)
+(u'Wrestling', 0.0008816543018275023)
+(u'List of U.S. states and territories by population', 0.0008760972172251163)
+(u'Muscle contraction', 0.0008746247597534926)
+(u'Protein', 0.0008713216544006904)
+(u'Spanish\u2013American War', 0.0008655406813041595)
+(u'Group of Eight', 0.0008653791898808349)
+(u'Group of Seven (G7)', 0.000857711591348712)
+(u'Argument (linguistics)', 0.0008559536247160189)
+(u'Tree', 0.0008487491406008051)
+(u'American and British English spelling differences', 0.0008463134620124585)
+(u'Non-combatant', 0.0008453159792213114)
+(u'Great Purge', 0.0008385272229142606)
+(u'Japanese martial arts', 0.0008383160932972163)
+(u'Syllabary', 0.0008302024568301164)
+(u'Dutch language', 0.0008299366776628964)
+(u'Complement (linguistics)', 0.0008284990081226296)
+(u'Organization of American States', 0.0008272319955054926)
+(u'Infection', 0.0008270413903826646)
+(u'Muay Thai', 0.0008256630535969214)
+(u'Kyushu', 0.0008159370043619609)
+(u'History of the Mediterranean region', 0.0008157178777945296)
+(u'Learning', 0.0008132112388510781)
+(u'Indian subcontinent', 0.0008095461041058784)
+(u'Commonwealth (U.S. state)', 0.0008079853082155494)
+(u'Guangdong', 0.0008070620587899246)
+(u'Skull', 0.0008043895500317265)
+(u'Suffix', 0.0008029397090317752)
+(u'Standard German', 0.000802142588876987)
+(u'Major trauma', 0.0008017424619465335)
+(u'United States Army', 0.0007952695175304759)
+(u'Agent (grammar)', 0.0007920479255308984)
+(u'Archery', 0.0007895724898366268)
+(u'Gemination', 0.0007867813742167902)
+(u'Bronze', 0.0007862093715698454)
+(u'Affix', 0.0007847053901418283)
+(u'Register (sociolinguistics)', 0.0007804979381994783)
+(u'Prison', 0.0007800765230974116)
+(u'Onomatopoeia', 0.0007798011897549196)
+(u'Natural law', 0.0007784213759265824)
+(u'Genetic relationship (linguistics)', 0.00076987232608793)
+(u'Basque language', 0.000766508785683058)
+(u'Comparative method (linguistics)', 0.0007595542241899504)
+(u'Strike (attack)', 0.0007587669479114347)
+(u'Kyoto', 0.0007576175212734058)
+(u'Vowel length', 0.0007467958565472748)
+(u'Financial centre', 0.0007427454734513405)
+(u'Telugu language', 0.000742330968795911)
+(u'Punjabi language', 0.0007394561238853531)
+(u'Numeral system', 0.0007386555017954894)
+(u'Combatant', 0.0007383383230341535)
+(u'North Sea', 0.0007367066178547253)
+(u'Spelling', 0.000730000500534481)
+(u'American Indian Wars', 0.0007242812059447475)
+(u'Consciousness', 0.0007224299312569264)
+(u'Reference', 0.0007200138711095989)
+(u'Iron', 0.0007154763989627988)
+(u'Officer (armed forces)', 0.0007114998198976555)
+(u'Kansai region', 0.0007089234134880477)
+(u'Past tense', 0.0007025933787082893)
+(u'Police', 0.0007021085855498492)
+(u'Canon law (Catholic Church)', 0.0006989029782745744)
+(u'Delaware', 0.0006975629868861509)
+(u'State legislature (United States)', 0.0006964431253337501)
+(u'Korea', 0.0006947051867239186)
+(u'Human leg', 0.0006909280686754711)
+(u'Topic and comment', 0.0006898970273019693)
+(u'Japanese archipelago', 0.0006822414342714858)
+(u'Latium', 0.0006811209955709154)
+(u'Customary international law', 0.0006781193907420722)
+(u'Tendon', 0.0006762554528353638)
+(u'Pronoun', 0.0006704200363413668)
+(u'Pitch accent', 0.0006695007723643207)
+(u'Grappling position', 0.0006681162588729776)
+(u'Prefix', 0.0006677163292358525)
+(u'Health', 0.0006628882298718334)
+(u'Bakumatsu', 0.0006606448632371907)
+(u'Myogenesis', 0.0006588117529114468)
+(u'Grappling hold', 0.0006582606449074864)
+(u'Association football', 0.0006579604740129833)
+(u'Maghreb', 0.0006544161521566167)
+(u'United States Department of Defense', 0.0006533674127729228)
+(u'Logogram', 0.0006509203145664392)
+(u'Injury', 0.0006464582907710848)
+(u'Island country', 0.0006377381173711661)
+(u'Passive voice', 0.0006349448046900805)
+(u'Combat', 0.000632231545903464)
+(u'Adjective', 0.0006303170880493036)
+(u'Foot', 0.0006302011302132058)
+(u'Written Chinese', 0.00062765284621134)
+(u'Belligerent', 0.0006234863618679853)
+(u'Turkish language', 0.0006228577520867882)
+(u'Southern Hemisphere', 0.0006225308661799786)
+(u'Cognate', 0.0006183478813301374)
+(u'Joint', 0.0006161404675882893)
+(u'Number', 0.0006158779219491339)
+(u'Capital punishment', 0.0006156887026348141)
+(u'Iberian Romance languages', 0.0006150651762619388)
+(u'Wushu (sport)', 0.0006144349339251248)
+(u'Seat of government', 0.0006143760152273421)
+(u'Civil war', 0.0006111395888168035)
+(u'Tense\u2013aspect\u2013mood', 0.0006068279835446914)
+(u'Animal locomotion', 0.0006059513487431456)
+(u'Wong Fei-hung', 0.0006026407772491844)
+(u'Contact sport', 0.0006014306513778)
+(u'Numerical digit', 0.0006009347193240655)
+(u'Joint lock', 0.0005998474841354778)
+(u'Amateur wrestling', 0.0005994392734974192)
+(u'Military tactics', 0.0005941875185173722)
+(u'Article (grammar)', 0.0005940690979724116)
+(u'Bengali language', 0.0005936210415141381)
+(u'Isochrony', 0.0005934207219862985)
+(u'Romania', 0.0005931355379859139)
+(u'Agglutinative language', 0.0005915138518773309)
+(u'Linguistic typology', 0.0005868929653220455)
+(u'East China Sea', 0.000586282053454081)
+(u'Edo', 0.0005860328281091297)
+(u'Folk wrestling', 0.0005830399121807179)
+(u'Guilt (law)', 0.000581738017483783)
+(u'Projectile', 0.0005803741587209469)
+(u'Myocyte', 0.0005783056596301042)
+(u'Regulation of sport', 0.0005748568004537368)
+(u'Military personnel', 0.0005670384374164705)
+(u'Carlos Gracie', 0.0005648982379598537)
+(u'East Asian cultural sphere', 0.0005638922657196046)
+(u'Law of war', 0.0005637475536816378)
+(u'Sports governing body', 0.0005629173069890823)
+(u'Ontario', 0.000562603088875915)
+(u'Catalan language', 0.0005625924341184627)
+(u'Pay-per-view', 0.0005621743388041689)
+(u'Ancient Olympic Games', 0.000561114906809598)
+(u'Extinct language', 0.0005597289722970507)
+(u'Athletics (physical culture)', 0.0005594624993303875)
+(u'Chinese culture', 0.0005584839581289355)
+(u'Cantonese', 0.0005507564726446654)
+(u'Heian period', 0.0005501312763145649)
+(u'Sambo (martial art)', 0.0005499948228834848)
+(u'Thai language', 0.0005498459939242449)
+(u'Murder', 0.0005481570996020794)
+(u'Australian English', 0.0005475370670795573)
+(u'Lever', 0.0005474007792687731)
+(u'Georgian language', 0.0005406357773798279)
+(u'0 (number)', 0.0005366689561711478)
+(u'Wood', 0.0005366307513680008)
+(u'Emperor of China', 0.0005355812979052261)
+(u'Submission (combat sports)', 0.0005336340585106366)
+(u'Nasal consonant', 0.0005329210844868332)
+(u'Hand-to-hand combat', 0.0005247776010130836)
+(u'Hokkaido', 0.0005236813305234742)
+(u'Neijia', 0.0005226751933603798)
+(u'African Union', 0.0005206894275596685)
+(u'Artillery', 0.0005198147308484386)
+(u'Botany', 0.0005197661309830671)
+(u'Ligament', 0.0005192532343498717)
+(u'Middle Chinese', 0.0005187836608514936)
+(u'Army', 0.0005181182283865949)
+(u'Skeleton', 0.0005178160698594079)
+(u'Arabs', 0.000516421639063024)
+(u'Turkic languages', 0.0005162325189388984)
+(u'Myosin', 0.0005161259228592724)
+(u'Roman law', 0.0005134681015583584)
+(u'List of cities by GDP', 0.0005134348245434076)
+(u'Knife', 0.000511598769515165)
+(u'Steel', 0.0005059049126181002)
+(u'Predation', 0.0005054791404645869)
+(u'Gun', 0.0005018560991147826)
+(u'H\xe9lio Gracie', 0.0005007011055954518)
+(u"World's largest cities", 0.0004977392124098343)
+(u'Language shift', 0.0004967868174518067)
+(u'Codification (law)', 0.0004961301095846522)
+(u'History of China', 0.0004934078521169697)
+(u'Military science', 0.0004918087536234876)
+(u'Torso', 0.0004913704804704174)
+(u'Archaic Greek alphabets', 0.0004904437099317335)
+(u'Cornwall', 0.0004892909906192573)
+(u'Slavic languages', 0.0004885396799328603)
+(u'United States Department of the Army', 0.0004883636788047907)
+(u'Ryukyuan languages', 0.0004881112719723928)
+(u'Throw (grappling)', 0.0004847173316381543)
+(u'Deadly force', 0.00048393393935223725)
+(u'Shaolin Monastery', 0.00048200905946945983)
+(u'Jews', 0.00047996089513450025)
+(u'Karate', 0.0004777658867970712)
+(u'List of glossing abbreviations', 0.0004749687620182541)
+(u'Pronunciation', 0.00047278270038882966)
+(u'Kick', 0.000472510376198833)
+(u'Urdu', 0.00047214833779861485)
+(u'East Timor', 0.00046649012393223396)
+(u'Han dynasty', 0.0004657885470379125)
+(u'Greater Tokyo Area', 0.00046465322550879576)
+(u'Glossary of professional wrestling terms', 0.0004645563283027924)
+(u'Afterlife', 0.00046421101792015404)
+(u'Physical fitness', 0.0004638725790395804)
+(u'Qigong', 0.000463513143285521)
+(u'Roman Britain', 0.00046251239070376285)
+(u'Finnish language', 0.00046181984534183145)
+(u'Altered state of consciousness', 0.00046152276043585645)
+(u'Bone fracture', 0.0004606202753512992)
+(u'Standard French', 0.0004602409638674594)
+(u'Beijing dialect', 0.0004597966277104593)
+(u'Fujian', 0.00045467317290764556)
+(u'Capital of Japan', 0.0004531666775982215)
+(u'Strategy', 0.0004518457726478312)
+(u'Tension (physics)', 0.00045102240255074586)
+(u'Caucasus', 0.0004509294243574746)
+(u'Blunt trauma', 0.0004470930986458958)
+(u'Language contact', 0.000446526637208189)
+(u'Sentence (law)', 0.00044573274228141695)
+(u'National Diet', 0.00044541001133869)
+(u'List of U.S. states and territories by area', 0.0004444034308617364)
+(u'Intangible cultural heritage', 0.0004418753781851036)
+(u'Guangxi', 0.00044121111700943984)
+(u'Altaic languages', 0.00043993546370738593)
+(u'Goal', 0.00043985760472229935)
+(u'Determiner', 0.00043971820046035976)
+(u'Brazilian jiu-jitsu ranking system', 0.0004395387103317561)
+(u'Kyoto Prefecture', 0.0004393034271517243)
+(u'Relative and absolute tense', 0.0004392679336771804)
+(u'Punch (combat)', 0.0004392227537440663)
+(u'Aikido', 0.00043913344089751996)
+(u'Russo-Japanese War', 0.00043696175916735217)
+(u'Hong Kong action cinema', 0.0004348334218609925)
+(u'Mexican\u2013American War', 0.00043441289893707984)
+(u'Harrisburg, Pennsylvania', 0.0004340153240891255)
+(u'Takedown (grappling)', 0.00043389195558956044)
+(u'Jackie Chan', 0.00043384154215337566)
+(u'Penetrating trauma', 0.00043253784972968265)
+(u'Operational level of war', 0.000430766504701588)
+(u'Non-lethal weapon', 0.00043043378464046857)
+(u'List of writing systems', 0.0004301427144189494)
+(u'Sea of Okhotsk', 0.0004249096997762605)
+(u'Water polo', 0.00042474694899064273)
+(u'Knee', 0.00042467580566332176)
+(u'Roman mythology', 0.00042375519073550665)
+(u'Deterrence (legal)', 0.0004226763646467345)
+(u'Rehabilitation (penology)', 0.00042267636464673444)
+(u'Ohio', 0.0004214065193634666)
+(u'Michael Halliday', 0.000421145519464859)
+(u'Language isolate', 0.00042086359647432983)
+(u'Samurai', 0.0004206098884623979)
+(u'Club (weapon)', 0.0004180298845559511)
+(u'Linguistic modality', 0.0004180187742703175)
+(u'Maryland', 0.00041679213928023305)
+(u'Berbers', 0.0004164563834251532)
+(u'Japonic languages', 0.0004160436543454955)
+(u'Chokehold', 0.00041599983985368856)
+(u'Caliber', 0.0004153839577529383)
+(u'Sakoku', 0.0004146524621154559)
+(u'Keihanshin', 0.0004128134964637702)
+(u'Sword', 0.00041224895492864813)
+(u'Law enforcement agency', 0.0004121225495769346)
+(u'Qi', 0.0004120981510635806)
+(u'Suicide', 0.0004119928126158236)
+(u'Analytic language', 0.00041137525417135417)
+(u'Personal development', 0.0004108677343590831)
+(u'Upper Paleolithic', 0.0004101349217404391)
+(u'Future tense', 0.00040982843267798697)
+(u'Hunting', 0.0004079252570731896)
+(u'Genitive case', 0.00040713453543161026)
+(u'George Washington', 0.0004066144935310564)
+(u'Shanghainese', 0.0004056770568722258)
+(u'Mercosur', 0.0004052514923431549)
+(u'Amusement park', 0.0004050288356062481)
+(u'Trunk (botany)', 0.0004048318180861716)
+(u'Wound', 0.00040480057339056195)
+(u'Standard English', 0.00040428762398040085)
+(u'Spirituality', 0.0004041162499474558)
+(u'Ethical code', 0.00040365216874101016)
+(u'Present tense', 0.00040068475376959535)
+(u'Neutral country', 0.00040067507948244636)
+(u'S\xe3o Paulo', 0.000399692292949059)
+(u'List of states and territories of the United States', 0.00039967520011210836)
+(u'Jujutsu', 0.00039951395241769185)
+(u'Branch', 0.00039916256637063935)
+(u'Rhine', 0.00039911995551743934)
+(u'Submission wrestling', 0.00039640700699342726)
+(u'Rio de Janeiro', 0.00039640632366392766)
+(u"Chen-style t'ai chi ch'uan", 0.0003958078254367629)
+(u'Swimming (sport)', 0.00039315961397726575)
+(u'Metre (poetry)', 0.000393085850453922)
+(u'Nerve', 0.0003928072409790373)
+(u'Bruce Lee', 0.00039255030225256773)
+(u'List of U.S. states by population density', 0.00039120885599715303)
+(u'Tibia', 0.00039101371887254255)
+(u'New York', 0.00038900868237476367)
+(u'Wade\u2013Giles', 0.0003886701165130192)
+(u'Wuxia', 0.000387977860159861)
+(u'Adenosine triphosphate', 0.0003871104367893327)
+(u'Chinese philosophy', 0.0003856397767323006)
+(u'Old Chinese', 0.00038556051159172375)
+(u'Clinch fighting', 0.0003843400196576365)
+(u'Osaka', 0.0003830275289962177)
+(u'Osaka Prefecture', 0.0003822249876398862)
+(u'List of islands of Japan', 0.0003821391427140224)
+(u'ISO basic Latin alphabet', 0.00038184563882555215)
+(u'Cornerman', 0.00038021599755603126)
+(u'Hepburn romanization', 0.0003798891647647577)
+(u'Biological warfare', 0.0003793887725734778)
+(u'List of international sports federations', 0.0003793081443064934)
+(u'Japanese writing system', 0.000379138196436537)
+(u'Hokkien', 0.0003782309559437811)
+(u'Imprisonment', 0.0003765176285705361)
+(u'X-ray', 0.0003749253003111717)
+(u'Pittsburgh', 0.0003734793184881362)
+(u'Catch wrestling', 0.00037331201762917486)
+(u'Qin Shi Huang', 0.00037172630364469165)
+(u'Battle', 0.0003714068014668303)
+(u'Soldier', 0.00037102505754111877)
+(u'Small arms', 0.00037075311479528984)
+(u'Kory\u016b', 0.00037059980868580896)
+(u'Nagasaki Prefecture', 0.00037030624774305604)
+(u'Mitsuyo Maeda', 0.00036906274303136725)
+(u'Lake Erie', 0.00036613812436361864)
+(u'2016 Summer Olympics', 0.000365051285720717)
+(u'Subject\u2013object\u2013verb', 0.0003646413029667773)
+(u'Iraq War', 0.0003643062044874537)
+(u'New Jersey', 0.00036305611732483404)
+(u'United States Marine Corps', 0.0003624014233711562)
+(u'Semivowel', 0.00036178596548386646)
+(u'Japanese people', 0.0003611932630641112)
+(u'Sheriff', 0.0003607005907860459)
+(u'Affection', 0.000360487850380887)
+(u'Philippine\u2013American War', 0.00036043324492432725)
+(u'Ryukyu Islands', 0.00035992857338904797)
+(u'Ceramic', 0.00035989104358445466)
+(u'Berber languages', 0.00035923651278081187)
+(u'Tao', 0.0003571785759697143)
+(u'Howard Rosenberg', 0.00035695430560403496)
+(u'Law enforcement officer', 0.00035675482944596377)
+(u'International humanitarian law', 0.00035510118930357626)
+(u'International Skating Union', 0.0003548088465061824)
+(u'Military strategy', 0.00035434580104639767)
+(u'Han system', 0.0003542726523177658)
+(u'Propellant', 0.00035319600317548804)
+(u'Arabic numerals', 0.00035298940612010077)
+(u'Wu Chinese', 0.0003524223197503728)
+(u'Yue Chinese', 0.0003522932357798503)
+(u'Imperial House of Japan', 0.00035222625071687497)
+(u'Ground fighting', 0.0003512628017000262)
+(u'Retronym', 0.00034819470091783464)
+(u'Systemic functional linguistics', 0.0003479228757216802)
+(u'Police officer', 0.0003468202336280535)
+(u'Devon', 0.00034676120856116867)
+(u'Sea of Japan', 0.0003467034352701709)
+(u'Korean martial arts', 0.000345658890598319)
+(u'Simple machine', 0.00034549579617453475)
+(u'Persian people', 0.00034506665610818427)
+(u'Westmorland', 0.0003441778363946505)
+(u'Shikoku', 0.0003431556069337446)
+(u'Mid-Atlantic states', 0.000342948526298164)
+(u'Kamakura period', 0.0003428737330470839)
+(u'Angola', 0.00034220462204810934)
+(u'Colorado', 0.00034210761458406194)
+(u'Somalia', 0.00034126074789768787)
+(u'North Germanic languages', 0.000341174774760889)
+(u'Pay television', 0.00034069030817429266)
+(u'Styles of Chinese martial arts', 0.0003405684081662067)
+(u'Miguel de Cervantes', 0.000339360055722787)
+(u'List of countries by exports', 0.00033881798209520295)
+(u'List of countries by imports', 0.00033881798209520295)
+(u'Kant\u014d region', 0.0003365088589957869)
+(u'Sparring', 0.000336456383631483)
+(u'History of science and technology in China', 0.000336088004779118)
+(u'Breathing', 0.00033582125725223507)
+(u'Gendai bud\u014d', 0.00033540885893823004)
+(u'Ice skating', 0.00033539519151234244)
+(u'Homophone', 0.0003332389663263209)
+(u'Min Chinese', 0.00033241341285671154)
+(u'Mount (grappling)', 0.000331894387399348)
+(u'Mars (mythology)', 0.0003301186266143709)
+(u'Tao Te Ching', 0.0003284817332888394)
+(u'Arab world', 0.00032763323655786284)
+(u'Smokeless powder', 0.0003271177547109598)
+(u'Provinces and territories of Canada', 0.00032687229920718314)
+(u'Vietnamese language', 0.0003252149660451859)
+(u'Hip', 0.0003251654028206975)
+(u'Machine', 0.00032448619367397434)
+(u'Momentum', 0.00032424204167925486)
+(u'Strangling', 0.0003234884095531812)
+(u'Taiwanese Hokkien', 0.0003234733144599972)
+(u'Travelling funfair', 0.00032330025181925685)
+(u'United States Secretary of the Army', 0.0003226146570592704)
+(u'Pennsylvania State Senate', 0.00032175084311713507)
+(u'List of laser applications', 0.000321659587648264)
+(u'Unlawful combatant', 0.0003211249297781327)
+(u'Professional wrestling throws', 0.00032110345549504174)
+(u'Title 10 of the United States Code', 0.00032094958550739924)
+(u'Aikikai', 0.0003200880198576882)
+(u'Yip Man', 0.00031984892650807243)
+(u'Thigh', 0.0003197196275390822)
+(u'Luiz Fran\xe7a', 0.0003195975537831018)
+(u'Jet Li', 0.0003188061640610435)
+(u'Kung fu film', 0.0003188061640610435)
+(u'Rape', 0.00031859768925542796)
+(u'List of metropolitan areas by population', 0.00031827301088030636)
+(u'Chin Na', 0.0003175833590821395)
+(u'Hiragana', 0.0003174998957195212)
+(u'Katakana', 0.0003174998957195212)
+(u'Soft tissue', 0.0003170952669018143)
+(u'Synthetic language', 0.00031649844003982285)
+(u'Norm (social)', 0.0003163515820429122)
+(u'Third Geneva Convention', 0.000315030058471477)
+(u'Transliteration', 0.00031425478729076007)
+(u'Japanese pitch accent', 0.0003135661230904901)
+(u'Napoleonic Code', 0.0003134218744990854)
+(u'Legal positivism', 0.0003134218744990854)
+(u'Codex Justinianus', 0.0003134218744990854)
+(u'Ancient Germanic law', 0.0003134218744990854)
+(u'Right of self-defense', 0.000312993685400203)
+(u'Carbohydrate', 0.00031271491838833767)
+(u'Rifling', 0.0003124373959525505)
+(u'Denver', 0.0003121172877530664)
+(u'Kobe', 0.000311619120351567)
+(u'Redox', 0.0003103064294276024)
+(u'Ryukyu Kingdom', 0.0003102925609035013)
+(u'Ramesses II', 0.00031019298093647705)
+(u'Bruise', 0.0003080796822902876)
+(u'Pennsylvania German language', 0.0003079293563120299)
+(u'Syllable weight', 0.0003064534740858029)
+(u'James D. McCawley', 0.0003064534740858029)
+(u'Cornish language', 0.00030583607892617373)
+(u'Indian mathematics', 0.00030549113830232366)
+(u'Mongolic languages', 0.00030488769993696136)
+(u'Soshihiro Satake', 0.0003046421443980792)
+(u'Pluperfect', 0.0003035106480745925)
+(u'Peabody Award', 0.00030270616620311466)
+(u'Uses of English verb forms', 0.00030176893925310444)
+(u'Business ethics', 0.00030152722688403164)
+(u'Code of conduct', 0.00030152722688403164)
+(u'Criminal procedure', 0.00030135808998785224)
+(u'Deixis', 0.00029928394066632864)
+(u'Oxford English Dictionary', 0.00029814349500512864)
+(u'Cape Verde', 0.0002973542524655896)
+(u'Phonogram (linguistics)', 0.0002970163423384206)
+(u'Terracotta Army', 0.00029669772897593746)
+(u'Ergative\u2013absolutive language', 0.0002966108131846949)
+(u'Headlands and bays', 0.0002961178344521154)
+(u'Estuary', 0.0002961178344521154)
+(u'Kan\u014d Jigor\u014d', 0.00029550576905210666)
+(u'List of Greek and Latin roots in English', 0.00029457798570009167)
+(u'Crimea', 0.0002942902844432525)
+(u'Fourth Geneva Convention', 0.0002931522085479155)
+(u'Psychological pain', 0.00029313324278474186)
+(u'Transformational grammar', 0.0002928471427401246)
+(u'Taekwondo', 0.00029277777476156825)
+(u'Vale tudo', 0.0002922122243774436)
+(u'Brazilian jiu-jitsu gi', 0.0002914022536910445)
+(u'Carbine', 0.0002913996733770323)
+(u'Firefighter', 0.0002912032070602836)
+(u'Syllabic consonant', 0.00028948609391007095)
+(u'UFC 1', 0.0002893829140148131)
+(u'Promoter (entertainment)', 0.0002882868350425982)
+(u'Consanguinity', 0.00028828283278982316)
+(u'Unconsciousness', 0.00028772507612295523)
+(u'Tort', 0.0002877104016465672)
+(u'Laozi', 0.00028770662666317213)
+(u'Swedish language', 0.00028603384189016836)
+(u'Danish language', 0.0002860338418901683)
+(u'USC School of Cinematic Arts', 0.0002846270224910252)
+(u'Close combat', 0.00028401636277506883)
+(u'Trachea', 0.00028347221331977016)
+(u'1964 Summer Olympics', 0.00028343963833759494)
+(u'Fascia', 0.0002813206946743702)
+(u'Mechanical advantage', 0.00028096472738975273)
+(u'Controversy', 0.0002807952259007028)
+(u'Frontal bone', 0.0002804966096874713)
+(u'Dagger', 0.0002802324009137801)
+(u'Old Japanese', 0.00028014961961040047)
+(u'Greco-Roman wrestling', 0.0002789449313785541)
+(u'Economic Community of West African States', 0.00027862816965892304)
+(u'Portuguese-based creole languages', 0.00027862816965892304)
+(u'Donnie Yen', 0.0002777062875692356)
+(u'Neigong', 0.0002777062875692356)
+(u'Sifu', 0.0002777062875692356)
+(u'Yim Wing-chun', 0.0002777062875692356)
+(u'Kunlun Mountains', 0.0002777062875692356)
+(u'Chen Fake', 0.0002777062875692356)
+(u'Fa jin', 0.0002777062875692356)
+(u'Bodhidharma', 0.0002777062875692356)
+(u'Zhang Jin (actor)', 0.0002777062875692356)
+(u'Li Ching-Yuen', 0.0002777062875692356)
+(u'Eight Immortals', 0.0002777062875692356)
+(u'Sammo Hung', 0.0002777062875692356)
+(u'Yin and yang', 0.0002777062875692356)
+(u'Yue Fei', 0.0002777062875692356)
+(u'Bolo Yeung', 0.0002777062875692356)
+(u'Yang Luchan', 0.00027770628756923553)
+(u'Wudang Mountains', 0.0002777062875692355)
+(u'Mount Hua', 0.0002777062875692355)
+(u'Five Elders', 0.0002777062875692355)
+(u'Rope', 0.0002772042409124374)
+(u'Ky\u016bjitai', 0.00027602740349026066)
+(u'Museum of the Portuguese Language', 0.00027590631613975047)
+(u'Topic-prominent language', 0.0002756709765359183)
+(u'Colonialism', 0.00027473908004442424)
+(u'Conventional weapon', 0.00027341587290909635)
+(u'Kung fu (term)', 0.0002733200383031009)
+(u'Joint dislocation', 0.0002732250561211484)
+(u'Mount Emei', 0.00027306126662264297)
+(u'Somali Civil War', 0.00027304998807639683)
+(u'Ten Tigers of Canton', 0.0002729680881642204)
+(u'Hung Hei-gun', 0.0002729680881642204)
+(u'Zhang Sanfeng', 0.0002729680881642204)
+(u'Wang Zi-Ping', 0.0002729680881642204)
+(u'Fong Sai-yuk', 0.00027287109488734765)
+(u"Sun Lu-t'ang", 0.00027287109488734754)
+(u'Wu Quanyou', 0.00027287109488734754)
+(u'Huo Yuanjia', 0.0002727700476223962)
+(u'Dong Haichuan', 0.0002727700476223962)
+(u'Chan Heung', 0.0002727700476223961)
+(u'Moral', 0.00027252307793426385)
+(u'Phonotactics', 0.0002721782880852664)
+(u'Globalization and World Cities Research Network', 0.0002720184519072132)
+(u'Ballistic trauma', 0.0002718851198082951)
+(u'S\xe3o Tom\xe9 and Pr\xedncipe', 0.00027188018231849375)
+(u'Flores', 0.00027073246193263053)
+(u'Koreanic languages', 0.00027058174495316214)
+(u'Grenade launcher', 0.0002705762653876702)
+(u'Submachine gun', 0.0002705762653876702)
+(u'Liberty', 0.0002704626526089538)
+(u'Hungarian language', 0.0002701546119074291)
+(u'Carl von Clausewitz', 0.0002699469588971378)
+(u'Diaspora', 0.0002690214450865212)
+(u'Agglutination', 0.00026866471019582126)
+(u'Infant mortality', 0.0002686455555928037)
+(u'Goa', 0.0002682801325811203)
+(u'War of 1812', 0.0002682615777407967)
+(u'Baseball', 0.0002680851135460308)
+(u'Countermeasure', 0.00026807412352603866)
+(u'Force (law)', 0.00026807412352603866)
+(u'Harm', 0.00026807412352603866)
+(u'Italians', 0.0002680432282617578)
+(u'Referee (boxing)', 0.0002672955392709024)
+(u'William Penn', 0.0002671134742897252)
+(u'Delaware River', 0.0002671134742897252)
+(u'Kana', 0.00026656376876767706)
+(u'Vincent Zhao', 0.0002663057507131428)
+(u'Changbai Korean Autonomous County', 0.00026630029332181163)
+(u'Yanbian Korean Autonomous Prefecture', 0.00026630029332181163)
+(u'Shrub', 0.0002654156490860655)
+(u'List of cities proper by population', 0.0002648273010478736)
+(u'Forensic science', 0.0002644519836474498)
+(u'Sino-Japanese vocabulary', 0.00026433435686293533)
+(u'Use of force', 0.00026399213540932135)
+(u'Norwegian language', 0.0002635732865898635)
+(u'Maltese language', 0.00026312407224390714)
+(u'Brazilians', 0.00026269933540236346)
+(u'Joint Chiefs of Staff', 0.000262392868866431)
+(u'Grammatical modifier', 0.00026212680443541813)
+(u'Hindu\u2013Arabic numeral system', 0.00026185585955362437)
+(u'Prefecture', 0.0002617474253476415)
+(u'Figure skating', 0.0002613937593665976)
+(u'Debate', 0.00026116056723862296)
+(u'Gomphosis', 0.00026092931916060167)
+(u'Suture (joint)', 0.00026092931916060167)
+(u'Matthew C. Perry', 0.00026087840883596083)
+(u'Lancashire', 0.00025998267469534936)
+(u'Peristalsis', 0.0002597593145160452)
+(u'Kata', 0.00025892718151747254)
+(u'Lieutenant Governor of Pennsylvania', 0.00025864831745648427)
+(u'Gairaigo', 0.00025853393210582853)
+(u'Military branch', 0.0002577307466617823)
+(u'2006 FIFA World Cup', 0.0002572840125945842)
+(u'Freestyle wrestling', 0.00025683575967481217)
+(u'Hell', 0.00025672801700180655)
+(u'Blade', 0.00025592236249412923)
+(u'Robbery', 0.0002556230582809595)
+(u'Aliveness (martial arts)', 0.0002551947811647773)
+(u'Estonian language', 0.0002551133608309955)
+(u'Andragogy', 0.0002546977788426256)
+(u'Liberal education', 0.0002546977788426256)
+(u'Vocational education', 0.0002546977788426256)
+(u'Socratic method', 0.0002546977788426256)
+(u'Japan Self-Defense Forces', 0.0002546477974154395)
+(u'Diphthong', 0.00025391162061527396)
+(u'Plymouth', 0.0002539030504316723)
+(u'Rickson Gracie', 0.0002531683536283716)
+(u'Southern Min', 0.00025252802110884787)
+(u'Intercontinental ballistic missile', 0.0002516804056336172)
+(u'Cyberweapon', 0.0002516804056336172)
+(u'Human digestive system', 0.00025114305759639814)
+(u'Anxiety', 0.00025100893555812933)
+(u'Demonstration sport', 0.0002509728038562503)
+(u'Mortar (weapon)', 0.00025080037807941253)
+(u'Nonpast tense', 0.00025017553747536505)
+(u'TUTT (linguistics)', 0.00025017553747536505)
+(u'Nonfuture tense', 0.00025017553747536505)
+(u'Tenseless language', 0.00025017553747536505)
+(u'Upper house', 0.0002494517638951175)
+(u'Endangered language', 0.000249185624551129)
+(u'Atlas Mountains', 0.00024911837707369225)
+(u'Private law', 0.000247221899619872)
+(u'Telescopic sight', 0.00024683553409298364)
+(u'Iron sights', 0.00024683553409298364)
+(u'Hypoxia (medical)', 0.0002467741321472648)
+(u'Mixed martial arts rules', 0.0002463039823887926)
+(u'Honorific speech in Japanese', 0.0002461837937338076)
+(u'Mens rea', 0.00024583578117190447)
+(u'Life imprisonment', 0.00024583578117190447)
+(u'Prague school', 0.00024552021690163516)
+(u'Corrections', 0.00024542361277379523)
+(u'Japanese dialects', 0.0002444169671379027)
+(u'Hejaz', 0.00024421362846010976)
+(u'Randori', 0.00024347998107971045)
+(u'Japanese tea ceremony', 0.00024291147945833225)
+(u'New Zealand English', 0.0002421032306027722)
+(u'Cumberland', 0.00024150212958018257)
+(u'Eclecticism', 0.00024102386797586332)
+(u'Royler Gracie', 0.0002407943306535607)
+(u'K-1', 0.0002404464163509279)
+(u'Vietnam War', 0.0002401097510992734)
+(u'Violence', 0.00023981794131710635)
+(u'Shaolin Kung Fu', 0.00023966438228076076)
+(u'Suspension of disbelief', 0.00023928114345656766)
+(u'Regular and irregular verbs', 0.00023916814516639827)
+(u'Cotton', 0.00023896818229326034)
+(u'Pennsylvania General Assembly', 0.00023831745076319938)
+(u'Kingdom of Galicia', 0.0002381402456163471)
+(u'Batticaloa', 0.0002381402456163471)
+(u'Malacca', 0.0002381402456163471)
+(u'Daman, Daman and Diu', 0.0002381402456163471)
+(u'Equatorial Guinea', 0.0002381402456163471)
+(u'Mozambique', 0.0002381402456163471)
+(u'Lu\xeds de Cam\xf5es', 0.0002381402456163471)
+(u'Guinea-Bissau', 0.0002381402456163471)
+(u'Lope de Vega', 0.0002381402456163471)
+(u'Olavo Bilac', 0.0002381402456163471)
+(u'Diu, India', 0.0002381402456163471)
+(u'Hybrid martial arts', 0.00023789248241498116)
+(u'West Virginia', 0.00023737605894650826)
+(u'1992 Summer Olympics', 0.00023649777853265388)
+(u'Homicide', 0.00023615429321626567)
+(u'Acronym', 0.00023584759834075787)
+(u'Syllabograms', 0.0002354005701280314)
+(u'Rorion Gracie', 0.0002353676458454111)
+(u'Collar-and-elbow', 0.00023529281112197025)
+(u'Military chaplain', 0.00023504245265092106)
+(u'J\u014dy\u014d kanji', 0.00023394420505786244)
+(u'Foreign policy', 0.0002337598156285609)
+(u'Sudan', 0.00023275354622478948)
+(u'Riot control', 0.00023186002152572323)
+(u'Hy\u014dgo Prefecture', 0.00023184492734924214)
+(u'Special police', 0.00023182782857560682)
+(u'Hapkido', 0.00023158288613998052)
+(u'Heaven', 0.0002311978133185087)
+(u'Kendo', 0.00023049091235073427)
+(u'Royal Thai General System of Transcription', 0.00023025380369467906)
+(u'World Muaythai Council', 0.00023025380369467906)
+(u'Shotgun', 0.00023023318196214125)
+(u'Hiatus (linguistics)', 0.00022836634085419326)
+(u'Monophthong', 0.00022835463970338965)
+(u'Geo Omori', 0.00022743135463602302)
+(u'Collegiate wrestling', 0.00022711986897080684)
+(u'Article 9 of the Japanese Constitution', 0.00022706123052447025)
+(u'Stratovolcano', 0.00022706123052447025)
+(u'List of regions of Japan', 0.00022706123052447025)
+(u'Names of Japan', 0.00022706123052447025)
+(u'End of World War II in Asia', 0.00022706123052447025)
+(u'Shoot wrestling', 0.00022678106600506042)
+(u'Speed skating', 0.0002261482830253078)
+(u'Continental Army', 0.0002260114398870553)
+(u'Okinawan Japanese', 0.0002254674930884559)
+(u'Professional wrestling holds', 0.00022529611723282148)
+(u'Professional wrestling aerial techniques', 0.00022529611723282145)
+(u'Bretons', 0.0002249467458841081)
+(u'2008 Summer Olympics', 0.0002247492864188906)
+(u'Malayalam', 0.00022456217523168773)
+(u'Evidence', 0.00022442063229135572)
+(u'Ministry of Education, Culture, Sports, Science and Technology', 0.0002243319578989568)
+(u'Pennsylvania State Capitol', 0.00022411072270334782)
+(u'Army National Guard', 0.00022346087275073123)
+(u'Active voice', 0.00022336384631336555)
+(u'Rank in Judo', 0.00022332429301358822)
+(u'Forehead', 0.000223175627568699)
+(u'Sino-Xenic pronunciations', 0.00022311539448570766)
+(u'Bailiff', 0.0002221828597847134)
+(u'Ch\u1eef N\xf4m', 0.00022151122472860793)
+(u'Customs', 0.00022134892048474486)
+(u'Senescence', 0.00022109427280994187)
+(u'Pharynx', 0.00022087205289293224)
+(u'Pride Fighting Championships', 0.00022072830544579795)
+(u'Boxing glove', 0.00022041360405231054)
+(u'Amateur boxing', 0.00022041360405231054)
+(u'Shahmukhi alphabet', 0.00022034971385423714)
+(u'Armlock', 0.0002200740733204845)
+(u'FINA', 0.0002195880985709802)
+(u'Royce Gracie', 0.00021948803728502278)
+(u'Gulf War', 0.00021883391990164117)
+(u'2020 Summer Olympics', 0.00021862849997918225)
+(u'Tungusic languages', 0.0002184569522580628)
+(u'Late Middle Japanese', 0.0002183427922674729)
+(u'Carlos Gracie Jr.', 0.00021834202207291853)
+(u'Adoption of Chinese literary culture', 0.0002181302221487514)
+(u'Pacific Rim', 0.00021784918603609025)
+(u'CV Productions, Inc.', 0.00021784918603609025)
+(u'Shooto', 0.0002178419884561196)
+(u'Dehydration', 0.00021781065003344914)
+(u'Depression (mood)', 0.00021774634266382852)
+(u'Treatise', 0.00021761306799664018)
+(u'Triumphal arch', 0.00021761306799664018)
+(u'Leadership', 0.00021761306799664018)
+(u'Battle of Kadesh', 0.00021761306799664018)
+(u'Population control', 0.00021761306799664018)
+(u'Recorded history', 0.00021761306799664018)
+(u'Relief', 0.00021761306799664018)
+(u'Victory column', 0.00021761306799664018)
+(u'Political agenda', 0.00021761306799664018)
+(u'Nara Prefecture', 0.00021688161601230788)
+(u'Whiskey Rebellion', 0.0002159759603936058)
+(u'Fat', 0.0002155466250605884)
+(u'Scholastic wrestling', 0.0002147376612936244)
+(u'Southwestern Mandarin', 0.00021425862116349788)
+(u'Hakka people', 0.00021425862116349788)
+(u'Xiang Chinese', 0.00021425862116349788)
+(u'Stand-up fighting', 0.00021378677913849942)
+(u'Ry\u016b (school)', 0.00021362778586911388)
+(u'Copula (linguistics)', 0.0002126217954180271)
+(u'List of water sports', 0.00021247906743765592)
+(u'Cornish wrestling', 0.0002118924376386751)
+(u'Genetics', 0.00021155999008866486)
+(u'Pistol', 0.00021147187690501827)
+(u'Prosecutor', 0.0002112578440573533)
+(u'Headbutt', 0.0002105839077310886)
+(u'Relson Gracie', 0.00020999232353393276)
+(u'Heian-ky\u014d', 0.00020954520344536703)
+(u'Osteogenesis imperfecta', 0.00020926895561467564)
+(u'Osteoporosis', 0.00020926895561467564)
+(u'Bone tumor', 0.00020926895561467564)
+(u'Auxiliary police', 0.0002087752538997411)
+(u'Patriarch', 0.0002083282682317315)
+(u'Oswaldo Fadda', 0.0002083282682317315)
+(u'Hanging', 0.00020805604227906334)
+(u'Beam (structure)', 0.00020748704530962816)
+(u'Hinge', 0.00020748704530962816)
+(u'Morihei Ueshiba', 0.00020724416919635705)
+(u'Dominance (ethology)', 0.00020675147914940087)
+(u'1988 Summer Olympics', 0.00020543453097718686)
+(u'United World Wrestling', 0.0002054199948396307)
+(u'Taekkyeon', 0.000204458562568502)
+(u'Theft', 0.00020433618267712622)
+(u'Dait\u014d-ry\u016b Aiki-j\u016bjutsu', 0.00020423757877168077)
+(u'Glory (kickboxing)', 0.0002041844926144101)
+(u'Koreans', 0.00020398179346232668)
+(u'Pradal serey', 0.00020353950414664937)
+(u'Sweep (martial arts)', 0.0002032583375031762)
+(u'Areal feature', 0.00020313116394550762)
+(u'Yamato kotoba', 0.00020280677036873434)
+(u'List of causes of death by rate', 0.000202227926317268)
+(u'CT scan', 0.00020192097215784545)
+(u'Tennis', 0.00020157129867199986)
+(u'Renzo Gracie', 0.00020102420080438132)
+(u'2006 FIFA World Cup Final', 0.00020046647875839285)
+(u'Zinedine Zidane', 0.00020046647875839285)
+(u'Elbow (strike)', 0.00019896361201999824)
+(u'Mercer (consulting firm)', 0.00019868633511322949)
+(u'Psychologist', 0.00019819219175694775)
+(u'Paradigm', 0.00019819219175694775)
+(u'Behaviorism', 0.00019819219175694775)
+(u'History of Crimea', 0.00019812075000277278)
+(u'Hypnosis', 0.00019807397792618675)
+(u'Delirium', 0.00019807397792618675)
+(u'Sleep', 0.00019807397792618675)
+(u'Takeo Yano', 0.00019794692326893326)
+(u'Chinese numerals', 0.00019751568093181223)
+(u'East Asian languages', 0.00019751568093181223)
+(u'Classification of the Japonic languages', 0.00019751568093181223)
+(u'Japanese verb conjugation', 0.00019751568093181223)
+(u'Sentence-final particle', 0.00019751568093181223)
+(u'Japanese equivalents of adjectives', 0.00019751568093181223)
+(u'Wasei-eigo', 0.00019751568093181223)
+(u'Japanese particles', 0.00019751568093181223)
+(u'Japanese numerals', 0.00019751568093181223)
+(u'Early Modern Japanese', 0.00019751568093181223)
+(u'Greek wrestling', 0.000197326064785329)
+(u'Professional wrestling attacks', 0.000197326064785329)
+(u'Open secret', 0.000197326064785329)
+(u'Kayfabe', 0.000197326064785329)
+(u'Professional wrestling promotion', 0.000197326064785329)
+(u'Verisimilitude', 0.000197326064785329)
+(u'List of martial arts', 0.000197326064785329)
+(u'Trade secret', 0.000197326064785329)
+(u'Trial', 0.0001967000325280985)
+(u'Japanese poetry', 0.00019596450863347298)
+(u'Close quarters combat', 0.00019523216032624018)
+(u'Mace (weapon)', 0.0001951526519481315)
+(u'Violent crime', 0.000194412920912667)
+(u'Appalachian Mountains', 0.00019359245755514628)
+(u'Lancashire wrestling', 0.00019355246921630133)
+(u'McNichols Sports Arena', 0.00019348484467422234)
+(u'Abrasion (medical)', 0.00019328165293925172)
+(u'Uniformed services of the United States', 0.00019312557107129945)
+(u'Okinawan martial arts', 0.00019294235569546346)
+(u'Spade', 0.00019238114466560414)
+(u'Allentown, Pennsylvania', 0.00019227140264379443)
+(u'Nippon TV', 0.00019168922831376965)
+(u'Fuji Television', 0.00019168922831376965)
+(u'NHK', 0.00019168922831376965)
+(u'Tokyo Broadcasting System', 0.00019168922831376965)
+(u'National Institute of the Korean Language', 0.00019163768616835747)
+(u'List of islands in the Pacific Ocean', 0.00019163417465692352)
+(u'Ring of Fire', 0.00019163417465692352)
+(u'KDKA-TV', 0.00019163417465692352)
+(u'Malnutrition', 0.00019088766775345858)
+(u'Starvation', 0.00019088766775345858)
+(u'Military police', 0.00018989874036737497)
+(u'Professional Karate Association', 0.00018884194149666742)
+(u'World Association of Kickboxing Organizations', 0.00018884194149666742)
+(u'World Kickboxing Association', 0.00018884194149666742)
+(u'Yamato period', 0.0001888204427806966)
+(u'Augustine of Hippo', 0.00018859997762003724)
+(u'List of human positions', 0.00018854289716956025)
+(u'Motion (physics)', 0.00018854289716956025)
+(u'Lactic acid fermentation', 0.00018854289716956025)
+(u'Pankration', 0.00018771865726244423)
+(u'Erie, Pennsylvania', 0.0001875081233889563)
+(u'Sprachbund', 0.0001866703225656632)
+(u'Compression lock', 0.00018589599908138527)
+(u'ESPN Caribbean', 0.00018524674122416993)
+(u'BT Sport', 0.00018524674122416993)
+(u'Ryan Gracie', 0.00018514459224399296)
+(u'Distinctive feature', 0.00018496629678994814)
+(u'Keikogi', 0.00018401060647955039)
+(u'Figure-four (grappling hold)', 0.0001838395332527482)
+(u'Oomoto', 0.00018340760529830948)
+(u'Pehlwani', 0.0001824621286946876)
+(u'Emigration', 0.000182193116549991)
+(u'Rolls Gracie', 0.0001811348853298806)
+(u'Kimono', 0.00018092503226507084)
+(u'Choking', 0.0001807789311512566)
+(u'Baton (law enforcement)', 0.00018067605143056142)
+(u'Caveman', 0.00018067605143056142)
+(u'Hiking', 0.0001801640588811922)
+(u'Japanese art', 0.00017995203991243814)
+(u'Nasal vowel', 0.00017936611659067267)
+(u'Sonorant', 0.00017936611659067267)
+(u'Stress fracture', 0.00017885026116480914)
+(u'Impact (mechanics)', 0.00017885026116480914)
+(u'Orthopedic surgery', 0.00017885026116480914)
+(u'Pathologic fracture', 0.00017885026116480914)
+(u'Carley Gracie', 0.00017862988556323464)
+(u'Cumberland and Westmorland wrestling', 0.0001784776357391075)
+(u'Shinjitai', 0.00017816603818487426)
+(u'CJK characters', 0.00017816603818487426)
+(u'Functional illiteracy', 0.00017816603818487426)
+(u'Bel\xe9m', 0.00017791385149974867)
+(u'Machine gun', 0.00017784420427993325)
+(u'Feature film', 0.00017768337519063037)
+(u'Video on demand', 0.00017768337519063037)
+(u'Customer service advisor', 0.00017768337519063037)
+(u'Pressure point', 0.00017728360366344318)
+(u"Man'y\u014dgana", 0.0001770727373421299)
+(u'Gatling gun', 0.0001768563520783369)
+(u'Umbrella term', 0.0001767927914222996)
+(u'Devon wrestling', 0.00017630818709221777)
+(u'Muromachi period', 0.00017627913001592077)
+(u'1958 Lebanon crisis', 0.00017626446425502101)
+(u'Banana Wars', 0.00017626446425502101)
+(u'Utah War', 0.00017626446425502101)
+(u'Multinational Force in Lebanon', 0.000176264464255021)
+(u'Boxer Rebellion', 0.000176264464255021)
+(u'Dominican Civil War', 0.000176264464255021)
+(u'Reform War', 0.000176264464255021)
+(u'Puerto Rican Nationalist Party revolts of the 1950s', 0.000176264464255021)
+(u'War in North-West Pakistan', 0.000176264464255021)
+(u'Military intervention against ISIL', 0.000176264464255021)
+(u'Operation Golden Pheasant', 0.000176264464255021)
+(u'Allied intervention in the Russian Civil War', 0.000176264464255021)
+(u'First Barbary War', 0.000176264464255021)
+(u'Invasion of Grenada', 0.000176264464255021)
+(u'Cortina Troubles', 0.000176264464255021)
+(u'Pakistan\u2013United States skirmishes', 0.000176264464255021)
+(u'Las Cuevas War', 0.000176264464255021)
+(u'Border War (1910\u201319)', 0.000176264464255021)
+(u'NATO bombing of Yugoslavia', 0.000176264464255021)
+(u'Korean DMZ Conflict (1966\u201369)', 0.000176264464255021)
+(u'Operation Eagle Claw', 0.000176264464255021)
+(u'Patriot War', 0.000176264464255021)
+(u'United States invasion of Panama', 0.000176264464255021)
+(u'Operation Enduring Freedom', 0.000176264464255021)
+(u'Culture of Iran', 0.00017606080886413997)
+(u'Kyra Gracie', 0.00017564887849290297)
+(u'Military occupation', 0.00017540954036708226)
+(u'Expert witness', 0.00017485786056987374)
+(u'Definiteness', 0.00017455716375641857)
+(u'-logy', 0.0001740782335937103)
+(u'Periodontal ligament stem cells', 0.0001740782335937103)
+(u'Abraham Cann', 0.0001738760653521059)
+(u'Riot', 0.00017366052668038484)
+(u'Mat', 0.00017238180135807524)
+(u'Japanese honorifics', 0.00017173126019940792)
+(u'Respect', 0.00017173126019940792)
+(u'Eve Torres', 0.0001712124836568025)
+(u'Knee (strike)', 0.00017073683561431727)
+(u'Guard (grappling)', 0.0001705901298576045)
+(u'Bayonet', 0.00017005146999547762)
+(u'Viro Small', 0.0001698815306662761)
+(u'John McMahon (wrestler)', 0.0001698815306662761)
+(u'Tailteann Games', 0.0001698815306662761)
+(u'Reading, Pennsylvania', 0.00016949066391593317)
+(u'Northern United States', 0.00016949066391593317)
+(u'Battle of Gettysburg', 0.00016949066391593317)
+(u'List of cities in Pennsylvania', 0.00016949066391593317)
+(u'Independence Hall', 0.00016949066391593317)
+(u'Erie Triangle', 0.00016949066391593317)
+(u'South Central Pennsylvania', 0.00016949066391593317)
+(u'Transition (grappling)', 0.00016927423808427126)
+(u'Jan Firbas', 0.00016893851770568815)
+(u'Eva Haji\u010dov\xe1', 0.00016893851770568815)
+(u'Petr Sgall', 0.00016893851770568815)
+(u'Vil\xe9m Mathesius', 0.00016893851770568815)
+(u'Halliday', 0.00016893851770568815)
+(u'Georg von der Gabelentz', 0.00016893851770568815)
+(u'Henri Weil', 0.00016893851770568815)
+(u'Information structure', 0.00016893851770568815)
+(u'World championship', 0.00016838520667301053)
+(u'International Sport Karate Association', 0.00016838520667301053)
+(u'Superkombat Fighting Championship', 0.00016838520667301053)
+(u'Lumpinee Boxing Stadium', 0.00016838520667301053)
+(u'International Kickboxing Federation', 0.00016838520667301053)
+(u'Contemporary society', 0.00016810551554809035)
+(u'Strict liability', 0.00016810551554809035)
+(u'Actus reus', 0.00016810551554809035)
+(u'Breach of contract', 0.00016810551554809035)
+(u'Community sentence', 0.00016810551554809035)
+(u'Criminal code', 0.00016810551554809035)
+(u'Wrongdoing', 0.00016810551554809035)
+(u'Civil procedure', 0.00016810551554809035)
+(u'Municipalities of Japan', 0.00016789430352550118)
+(u'TripAdvisor', 0.00016789430352550118)
+(u'Fortune Global 500', 0.00016789430352550118)
+(u'Bonin Islands', 0.00016789430352550118)
+(u'Michelin Guide', 0.00016789430352550118)
+(u'Economist Intelligence Unit', 0.00016789430352550118)
+(u'Tokyo Metropolitan Television', 0.00016789430352550118)
+(u'International Fight League', 0.00016781947269526936)
+(u'Northern England', 0.00016781128291517064)
+(u'Scottish Backhold', 0.00016781128291517064)
+(u'Wrist', 0.00016612049824147988)
+(u'Japanese literature', 0.0001658560475793071)
+(u'Kuge', 0.0001658560475793071)
+(u'Fujiwara clan', 0.0001658560475793071)
+(u'Vasili Oshchepkov', 0.00016585510477377694)
+(u'Viktor Spiridonov', 0.00016585510477377694)
+(u'Anatoly Kharlampiyev', 0.00016585510477377694)
+(u'1972 Summer Olympics', 0.0001657720127306003)
+(u'2014 Winter Olympics', 0.0001657720127306003)
+(u'Baseball at the Summer Olympics', 0.0001657720127306003)
+(u'Curling', 0.0001657720127306003)
+(u'Polo', 0.0001657720127306003)
+(u'Tug of war', 0.0001657720127306003)
+(u'1998 Winter Olympics', 0.0001657720127306003)
+(u'Strikeforce (mixed martial arts)', 0.0001651555764895774)
+(u'World Extreme Cagefighting', 0.0001651555764895774)
+(u'Koreans in Japan', 0.0001651285229643164)
+(u'Eastern Arabic numerals', 0.0001651142291309879)
+(u'Indian numerals', 0.0001651142291309879)
+(u'Mathematics in medieval Islam', 0.0001651142291309879)
+(u'Home video', 0.00016503004832151997)
+(u'Shodokan Aikido', 0.00016438650956648453)
+(u'Choking game', 0.00016425214355424687)
+(u'Erotic asphyxiation', 0.00016425214355424687)
+(u'Silat', 0.00016413705658819544)
+(u'Hand wrap', 0.00016385114059629986)
+(u'Russian boxing', 0.00016385114059629986)
+(u'Diagonal', 0.00016381143104562775)
+(u'Twig', 0.00016381143104562775)
+(u'Vertical direction', 0.00016381143104562775)
+(u'Horizontal plane', 0.00016381143104562775)
+(u'Los Angeles Times', 0.00016360104663517002)
+(u'No Time to Think', 0.00016360104663517002)
+(u'The George Foster Peabody Awards Board of Jurors', 0.00016360104663517002)
+(u'Pulitzer Prize for Criticism', 0.00016360104663517002)
+(u'Television criticism', 0.00016360104663517002)
+(u'English articles', 0.00016350794241808326)
+(u'Proper noun', 0.00016350794241808326)
+(u'Parse tree', 0.00016345510436318572)
+(u'Shiga Prefecture', 0.0001633710429074281)
+(u'Fukui Prefecture', 0.0001633710429074281)
+(u'Tottori Prefecture', 0.0001633710429074281)
+(u'Tokushima Prefecture', 0.0001633710429074281)
+(u'Wakayama Prefecture', 0.0001633710429074281)
+(u'Mie Prefecture', 0.0001633710429074281)
+(u'Kirpan', 0.00016333723504392196)
+(u'Switchblade', 0.00016333723504392196)
+(u'Pocketknife', 0.00016333723504392196)
+(u'Hunting knife', 0.00016333723504392196)
+(u'Oldowan', 0.00016333723504392196)
+(u'Primary education', 0.00016310981374554676)
+(u'Pahlevani and zoorkhaneh rituals', 0.00016297502394937204)
+(u'Romanization of Japanese', 0.00016231403888932323)
+(u'Robson Gracie', 0.0001621646926418122)
+(u'Rodrigo Gracie', 0.0001621646926418122)
+(u'Fujian White Crane', 0.0001620796169134353)
+(u'Taijutsu', 0.00016177325910922248)
+(u'Adyghe language', 0.0001608613527814996)
+(u'Asphyxia', 0.00016061348978167427)
+(u'Kalaripayattu', 0.0001598119143947245)
+(u'Affinity (law)', 0.0001595007964361202)
+(u'Carlson Gracie', 0.0001595007964361202)
+(u'Subluxation', 0.00015891334158758136)
+(u'Reduction (orthopedic surgery)', 0.00015891334158758136)
+(u'Length (phonetics)', 0.00015869696384373833)
+(u'Vietnamese phonology', 0.00015869696384373833)
+(u'Finnish phonology', 0.00015869696384373833)
+(u'Mixe languages', 0.00015869696384373833)
+(u'Old English phonology', 0.00015869696384373833)
+(u'Japanese phonology', 0.00015869696384373833)
+(u'Luise\xf1o language', 0.00015869696384373833)
+(u'Chroneme', 0.00015869696384373833)
+(u'Fenghuang', 0.00015869696384373833)
+(u'South African English', 0.00015869696384373833)
+(u'Fijian language', 0.00015869696384373833)
+(u'Sympathy', 0.00015842402759245154)
+(u'Judgement (afterlife)', 0.00015842402759245154)
+(u'Necrophobia', 0.00015842402759245154)
+(u'Saudade', 0.00015842402759245154)
+(u'Solitude', 0.00015842402759245154)
+(u'Sorrow (emotion)', 0.00015842402759245154)
+(u'Death anxiety (psychology)', 0.00015842402759245154)
+(u'Human bonding', 0.00015842402759245154)
+(u'Accident', 0.00015842402759245154)
+(u'Grief', 0.00015842402759245154)
+(u'Decomposition', 0.00015842402759245154)
+(u'Compassion', 0.00015842402759245154)
+(u'Sadness', 0.00015842402759245154)
+(u'Biological process', 0.00015842402759245154)
+(u'William Morris Endeavor', 0.00015832375894417937)
+(u'List of UFC events', 0.00015832375894417937)
+(u'Mainstream media', 0.00015832375894417937)
+(u'Weight class', 0.00015832375894417937)
+(u'UFC Fight Pass', 0.00015832375894417937)
+(u'Dana White', 0.00015832375894417937)
+(u'Stabbing', 0.0001581822537836311)
+(u'Shock (circulatory)', 0.0001581822537836311)
+(u'Biblical Hebrew', 0.00015773032093482187)
+(u'United States Army Reserve', 0.00015680210476774436)
+(u'Ptolemy', 0.0001564177821649032)
+(u'Dacia', 0.0001564177821649032)
+(u'Caesar (title)', 0.0001564177821649032)
+(u'Josephus', 0.0001564177821649032)
+(u'John Chrysostom', 0.0001564177821649032)
+(u'Chersonesus', 0.0001564177821649032)
+(u'Cosmopolitanism', 0.0001564177821649032)
+(u'Ulpian', 0.0001564177821649032)
+(u'Human nose', 0.00015635775724834983)
+(u'Anglo-Cornish', 0.00015560696900362972)
+(u'Gouren', 0.00015560696900362972)
+(u'President of the Senate', 0.00015474666037543946)
+(u'Pennsylvania Senate election, 2014', 0.00015474666037543946)
+(u'Unconscious mind', 0.0001543352595519724)
+(u'Infarction', 0.0001543352595519724)
+(u'Traumatic brain injury', 0.0001543352595519724)
+(u'Anesthesia', 0.0001543352595519724)
+(u'English-speaking world', 0.00015385906385698324)
+(u'Portmanteau', 0.00015385906385698324)
+(u'Counting rods', 0.00015385906385698324)
+(u'Pseudo-anglicism', 0.00015385906385698324)
+(u'Rener Gracie', 0.00015266897889072218)
+(u'Gracie Challenge', 0.00015266897889072218)
+(u'Clark Gracie', 0.00015266897889072218)
+(u'Reyson Gracie', 0.00015266897889072218)
+(u'Kron Gracie', 0.00015266897889072218)
+(u'Neiman Gracie', 0.00015266897889072218)
+(u'Rolles Gracie Jr.', 0.00015266897889072218)
+(u'Roger Gracie', 0.00015266897889072218)
+(u'Machado family', 0.00015266897889072218)
+(u'Kabuki', 0.00015189313732147825)
+(u'B\u014d', 0.00015166953598504037)
+(u'Cane', 0.0001506989360648483)
+(u'Gun (staff)', 0.0001506989360648483)
+(u'I Marine Expeditionary Force', 0.00015020620508418873)
+(u'Use of force continuum', 0.00015020620508418873)
+(u'Lethality', 0.00015020620508418873)
+(u'Crowd control', 0.00015020620508418873)
+(u'Dan (rank)', 0.0001492057623122643)
+(u'International Judo Federation', 0.0001492057623122643)
+(u'Order of the Rising Sun', 0.0001492057623122643)
+(u'Five Animals', 0.00014920407179014016)
+(u'Existential clause', 0.00014920288168590544)
+(u'Wilhelm von Humboldt', 0.00014920288168590544)
+(u'Japanese irregular verbs', 0.00014920288168590544)
+(u'Luganda', 0.00014920288168590544)
+(u'Quechuan languages', 0.00014920288168590544)
+(u'Morice Town', 0.00014860750870959122)
+(u'James Polkinghorne', 0.00014860750870959122)
+(u'Colebrooke, Devon', 0.00014860750870959122)
+(u'Rash guard', 0.00014860223344277895)
+(u'Altai Mountains', 0.0001485685040204042)
+(u'Middle Mongol language', 0.0001485685040204042)
+(u'Tsushima-Fuch\u016b Domain', 0.0001484348832802117)
+(u'Satsuma Domain', 0.0001484348832802117)
+(u'Factory (trading post)', 0.0001484348832802117)
+(u'Dejima', 0.0001484348832802117)
+(u'Siddha\u1e43 script', 0.00014777992785149297)
+(u'Japanese language and computers', 0.00014777992785149297)
+(u'Kunoichi', 0.00014777992785149297)
+(u'Bujinkan', 0.00014706583897415064)
+(u'Kenp\u014d', 0.00014706583897415064)
+(u'Combatives', 0.00014704096857122575)
+(u'Entrenching tool', 0.00014704096857122575)
+(u'Improvised weapon', 0.00014704096857122575)
+(u'Rules of engagement', 0.00014704096857122575)
+(u'Street fighting', 0.00014549700811000878)
+(u'Hoof', 0.00014533531387715446)
+(u'Capoeira', 0.00014533531387715446)
+(u'Sikaran', 0.00014533531387715446)
+(u'Vovinam', 0.00014533531387715446)
+(u'Football', 0.00014533531387715446)
+(u'Savate', 0.00014533531387715446)
+(u'Heel', 0.00014533531387715446)
+(u'Abjad numerals', 0.00014487510191084455)
+(u'Fibonacci', 0.00014487510191084455)
+(u'Baghdad', 0.00014487510191084455)
+(u'Unicode', 0.00014487510191084455)
+(u'B\xe9ja\xefa', 0.00014487510191084455)
+(u'Consonant cluster', 0.00014433037027949383)
+(u'Monguor people', 0.00014386318832968896)
+(u'Occipital bone', 0.00014364894492220148)
+(u'Parietal bone', 0.00014364894492220148)
+(u'Glasgow', 0.00014364894492220148)
+(u'Biting', 0.00014345162900869057)
+(u'Fish-hooking', 0.00014345162900869057)
+(u'Eye-gouging', 0.00014345162900869057)
+(u'Marshal', 0.0001430664757129318)
+(u'Special agent', 0.0001430664757129318)
+(u'Public sector', 0.0001430664757129318)
+(u'State police', 0.0001430664757129318)
+(u'Immigration officer', 0.0001430664757129318)
+(u'Fire investigation', 0.0001430664757129318)
+(u'Community Safety Accreditation Scheme', 0.0001430664757129318)
+(u'Security guard', 0.0001430664757129318)
+(u'Border guard', 0.0001430664757129318)
+(u'Sheriffs in the United States', 0.0001430664757129318)
+(u'Probation officer', 0.0001430664757129318)
+(u'Game warden', 0.0001430664757129318)
+(u'Leglock', 0.0001428959144800275)
+(u'Triangle choke', 0.0001428959144800275)
+(u'Ric Flair', 0.0001428959144800275)
+(u'Guru', 0.00014180435609114595)
+(u'Mughal Empire', 0.00014180435609114595)
+(u'Malla-yuddha', 0.00014180435609114595)
+(u'Ustad', 0.00014180435609114595)
+(u'Marathi language', 0.00014180435609114595)
+(u'Military service', 0.00014173848374323617)
+(u'Chief of Army Staff', 0.00014173848374323617)
+(u'Regular Army (United States)', 0.00014173848374323617)
+(u'Army of the United States', 0.00014173848374323617)
+(u'Fiscal year', 0.00014173848374323617)
+(u'Congress of the Confederation', 0.00014173848374323617)
+(u'Personal weapon', 0.00014024385009169814)
+(u'Prison escape', 0.00014024385009169814)
+(u'Urban warfare', 0.00014024385009169814)
+(u'Jungle warfare', 0.00014024385009169814)
+(u'Nunchaku', 0.00013622233554727825)
+(u'Stick-fighting', 0.00013622233554727825)
+(u'Throwing', 0.00013622233554727825)
+(u'Choi Yong-sool', 0.00013622233554727825)
+(u'Eagle Claw', 0.00013437142760884974)
+(u'Fu Jow Pai', 0.00013437142760884974)

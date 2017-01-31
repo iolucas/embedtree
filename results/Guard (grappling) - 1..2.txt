@@ -1,0 +1,169 @@
+(u'Japanese language', 0.04936493539708439)
+(u'Combat sport', 0.03164885446273537)
+(u'Martial arts', 0.027325509827496083)
+(u'Japan', 0.026019641407493205)
+(u'Chinese characters', 0.025736344020865602)
+(u'Chinese language', 0.020678465563354644)
+(u'Mixed martial arts', 0.020199095743166865)
+(u'Self-defense', 0.019954864455807183)
+(u'Article (grammar)', 0.01819839865927734)
+(u'Judo', 0.017770998096841767)
+(u'Kanji', 0.01695670060806221)
+(u'Brazilian jiu-jitsu', 0.01600983364663924)
+(u'Military', 0.015662935961268512)
+(u'Combat', 0.014089166243570065)
+(u'Crime', 0.012961156171832133)
+(u'Korean language', 0.012504074593512923)
+(u'Japanese martial arts', 0.011176730313953899)
+(u'Mora (linguistics)', 0.01091793977885354)
+(u'Grappling', 0.010414167319364799)
+(u'Contact sport', 0.010339862537472055)
+(u'Law enforcement', 0.010181937151050367)
+(u'Weapon', 0.01011956588775766)
+(u'Strike (attack)', 0.009439333130282179)
+(u'Boxing', 0.009213067005980409)
+(u'Battle', 0.009059602041277245)
+(u'Tokyo', 0.00832403935850463)
+(u'Kickboxing', 0.00823226298401933)
+(u'Tendon', 0.008108683458231517)
+(u'Muay Thai', 0.007607074428624915)
+(u'Ryukyuan languages', 0.007292765865647365)
+(u'Subject\u2013object\u2013verb', 0.006979516355988898)
+(u'Agglutinative language', 0.006979516355988898)
+(u'Joint lock', 0.0069766661666019305)
+(u'Altaic languages', 0.006931332634471433)
+(u'Japanese writing system', 0.00692589336055271)
+(u'Japonic languages', 0.006876039785201052)
+(u'Hand-to-hand combat', 0.00664034098161851)
+(u'Grappling position', 0.006625953615678262)
+(u'Grappling hold', 0.006516137328924921)
+(u'Amateur wrestling', 0.006346560038610156)
+(u'Ligament', 0.006245780877528674)
+(u'Muscle', 0.006245780877528674)
+(u'Civilian', 0.006242616881937522)
+(u'Ultimate Fighting Championship', 0.0060332559488995375)
+(u'Combatant', 0.006005841914852578)
+(u'Death', 0.005949072581130065)
+(u'Katakana', 0.005932731331402216)
+(u'Hiragana', 0.005932731331402216)
+(u'Punch (combat)', 0.005823134090015003)
+(u'Blunt trauma', 0.0056782885698126945)
+(u'Pennsylvania', 0.005454108332286508)
+(u'Throw (grappling)', 0.005436585749919248)
+(u'Penetrating trauma', 0.005354493520901702)
+(u'Submission (combat sports)', 0.0052844529028579215)
+(u'Syllabary', 0.00525943068943891)
+(u'Professional wrestling', 0.005202743686507485)
+(u'Mitsuyo Maeda', 0.005168912060096673)
+(u'Chokehold', 0.00504920497512831)
+(u'Catch wrestling', 0.005011780814271626)
+(u'Gendai bud\u014d', 0.004935651957262714)
+(u'Kory\u016b', 0.004924458250404118)
+(u'Lancashire wrestling', 0.004919594264271053)
+(u'Kick', 0.00487660055657897)
+(u'Jujutsu', 0.004864935540983154)
+(u'Law enforcement officer', 0.004808417222983274)
+(u'Bone fracture', 0.004722142512690811)
+(u'Heian period', 0.004624130983986417)
+(u'Vale tudo', 0.004585243143927822)
+(u'Soshihiro Satake', 0.004576669629382894)
+(u'Gracie family', 0.00451978387073865)
+(u'Pay-per-view', 0.004353269206862498)
+(u'Club (weapon)', 0.004305686541171271)
+(u'Latin script', 0.004250793800857702)
+(u'Takedown (grappling)', 0.0042215015606491876)
+(u'Aikido', 0.004197573648306829)
+(u'Ground fighting', 0.004182781212364988)
+(u'Pahlevani and zoorkhaneh rituals', 0.004110871832846266)
+(u'Cornish wrestling', 0.004110871832846266)
+(u'Carlos Gracie', 0.004075769479355151)
+(u'Civil law (legal system)', 0.004045756235078506)
+(u'Luiz Fran\xe7a', 0.004027658684489338)
+(u'Grammatical person', 0.003982101208511532)
+(u'Vowel length', 0.003982101208511532)
+(u'Kan\u014d Jigor\u014d', 0.003972669998362987)
+(u'Pedagogy', 0.00395231830795101)
+(u'Chin Na', 0.0039068653414621145)
+(u'Sambo (martial art)', 0.0038957544294784758)
+(u'Injury', 0.003825907206101124)
+(u'Mount (grappling)', 0.0038155114595745474)
+(u'Genetic relationship (linguistics)', 0.003776415158756984)
+(u'Old Japanese', 0.003776415158756984)
+(u'Chinese martial arts', 0.00376017383020163)
+(u'Submission wrestling', 0.0037511014174621887)
+(u'Firearm', 0.0037428059534844005)
+(u'Aliveness (martial arts)', 0.003643271783799858)
+(u'Arabic numerals', 0.003586203839206585)
+(u'Gairaigo', 0.003530338880442554)
+(u'Mixed martial arts rules', 0.003517922794641976)
+(u'Brazilian jiu-jitsu gi', 0.003491295784645807)
+(u'Knife', 0.0033426460954850495)
+(u'Brazilian jiu-jitsu ranking system', 0.0032985846637194234)
+(u'Portuguese language', 0.0032770888842050825)
+(u'Cumberland and Westmorland wrestling', 0.0032675473811587417)
+(u'Olympic sports', 0.003144760723927596)
+(u'UFC 1', 0.002948069095624941)
+(u'Pennsylvania State Senate', 0.002948069095624941)
+(u'Pacific Rim', 0.002948069095624941)
+(u'Howard Rosenberg', 0.002948069095624941)
+(u'CV Productions, Inc.', 0.002948069095624941)
+(u'Headbutt', 0.002941030808879176)
+(u'Kata', 0.0028266456981067127)
+(u'Randori', 0.0028266456981067127)
+(u'Joint', 0.002799301217204074)
+(u'Wasei-eigo', 0.002794409100596691)
+(u'Sentence-final particle', 0.002794409100596691)
+(u'Phonotactics', 0.002794409100596691)
+(u'Voice (grammar)', 0.002794409100596691)
+(u'Japanese numerals', 0.002794409100596691)
+(u'Sino-Japanese vocabulary', 0.002794409100596691)
+(u'National language', 0.002794409100596691)
+(u'Early Modern Japanese', 0.002794409100596691)
+(u'Grammatical tense', 0.002794409100596691)
+(u'Japanese particles', 0.002794409100596691)
+(u'Japanese equivalents of adjectives', 0.002794409100596691)
+(u'Chinese numerals', 0.002794409100596691)
+(u'Japanese pitch accent', 0.002794409100596691)
+(u'Monophthong', 0.002794409100596691)
+(u'Japanese verb conjugation', 0.002794409100596691)
+(u'East Asian languages', 0.002794409100596691)
+(u'Gemination', 0.002794409100596691)
+(u'Topic and comment', 0.002794409100596691)
+(u'Sakoku', 0.002794409100596691)
+(u'Late Middle Japanese', 0.002794409100596691)
+(u'Honorific speech in Japanese', 0.002794409100596691)
+(u'Kansai region', 0.002794409100596691)
+(u'Edo', 0.002794409100596691)
+(u'Classification of the Japonic languages', 0.002794409100596691)
+(u'Sweep (martial arts)', 0.002767898886060593)
+(u'Hapkido', 0.0027238120583547502)
+(u'Unconsciousness', 0.0026968186815047287)
+(u'Sparring', 0.002556633963789934)
+(u'Takeo Yano', 0.002556633963789934)
+(u'Tao', 0.002556633963789934)
+(u'Transition (grappling)', 0.0024966744559384965)
+(u'Eclecticism', 0.0023656082736168726)
+(u'Guard (grappling)', 0.002343441257853421)
+(u'Joint dislocation', 0.002308679800668285)
+(u'Lever', 0.002308679800668285)
+(u'Taijutsu', 0.002308679800668285)
+(u'Choking', 0.0022241594959722553)
+(u'Figure-four (grappling hold)', 0.0022241594959722553)
+(u'Forensic science', 0.0022241594959722553)
+(u'Strangling', 0.0022241594959722553)
+(u'Pehlwani', 0.0022220384029525654)
+(u'Travelling funfair', 0.0022220384029525654)
+(u'Devon wrestling', 0.0022220384029525654)
+(u'Greco-Roman world', 0.0022220384029525654)
+(u'Collar-and-elbow', 0.0022220384029525654)
+(u'Military tactics', 0.0021551194929486134)
+(u'Branch', 0.0021551194929486134)
+(u'Close quarters combat', 0.0021551194929486134)
+(u'Improvised weapon', 0.0021551194929486134)
+(u'Close combat', 0.0021551194929486134)
+(u'Ethical code', 0.0021551194929486134)
+(u'Entrenching tool', 0.0021551194929486134)
+(u'Combatives', 0.0021551194929486134)
+(u'United States Army', 0.0021551194929486134)
+(u'Rules of engagement', 0.0021551194929486134)
+(u'Non-lethal weapon', 0.0021551194929486134)

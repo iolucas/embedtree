@@ -1,0 +1,122 @@
+(u'Source code', 0.04936291940894054)
+(u'Computer program', 0.04685430083368543)
+(u'Programming paradigm', 0.03883207991802807)
+(u'Programmer', 0.03203343266885239)
+(u'Library (computing)', 0.030357793178099016)
+(u'Imperative programming', 0.029309796243305528)
+(u'Java (programming language)', 0.024975793689593778)
+(u'Interpreter (computing)', 0.024220208175149645)
+(u'Software development', 0.023177739994534936)
+(u'Operating system', 0.02014701797760502)
+(u'Python (programming language)', 0.01988305155739753)
+(u'C++', 0.019127956320961516)
+(u'Open-source software', 0.019065527459115585)
+(u'C (programming language)', 0.01883698899389765)
+(u'Object-oriented programming', 0.017975783235469882)
+(u'Version control', 0.017663020558619253)
+(u'Plain text', 0.017036347270133013)
+(u'Command-line interface', 0.016844348734804403)
+(u'Graphical user interface', 0.016668965758036117)
+(u'Functional programming', 0.01529686190811968)
+(u'International Organization for Standardization', 0.01411669028901846)
+(u'Procedural programming', 0.013904753873548722)
+(u'Web server', 0.013692758253121766)
+(u'Memory management', 0.012859613266454665)
+(u'Software framework', 0.012854839479483005)
+(u'Wiki', 0.011507375191158527)
+(u'Linux', 0.01080681344932715)
+(u'Microsoft Windows', 0.01063639282203152)
+(u'GNU General Public License', 0.01022543947485213)
+(u'Free software', 0.010141860707924888)
+(u'Software developer', 0.010140710031051863)
+(u'Linux kernel', 0.009643259028544902)
+(u'Free and open-source software', 0.009231422372647015)
+(u'Reusability', 0.009222958411308362)
+(u'Standard library', 0.008272238741680066)
+(u'High-level programming language', 0.008110308902449015)
+(u'Code reuse', 0.007833251738949285)
+(u'Website', 0.007795635485369678)
+(u'GNU Project', 0.0074647914432592185)
+(u'Collaborative software', 0.007276670886750474)
+(u'Type system', 0.00719434876356256)
+(u'OS X', 0.0067554965451632944)
+(u'Reference implementation', 0.006648866348183567)
+(u'Web application', 0.006552252606186188)
+(u'Specification (technical standard)', 0.00638728001541513)
+(u'Content management system', 0.006206511539748351)
+(u'Writing', 0.0062060143025808295)
+(u'Linus Torvalds', 0.006159680893458652)
+(u'Dynamic web page', 0.006058105476874591)
+(u'American National Standards Institute', 0.005977696739988042)
+(u'Client\u2013server model', 0.005831892342387419)
+(u'Programming in the large and programming in the small', 0.0058207534411251274)
+(u'Static web page', 0.0052467189176654185)
+(u'Web hosting service', 0.005154004493587455)
+(u'Git (software)', 0.005103283990195391)
+(u'Distributed version control', 0.005059790915466715)
+(u'Unix-like', 0.0050241007760190625)
+(u'Internet hosting service', 0.004727475764463319)
+(u'Mercury (element)', 0.0047062315193786034)
+(u'Binary file', 0.0047062315193786034)
+(u'Bug tracking system', 0.004493341376969261)
+(u'Web framework', 0.004056435183578911)
+(u'Database', 0.0037869025249831724)
+(u'Spreadsheet', 0.0035616474876494363)
+(u'Word processor', 0.0035616474876494363)
+(u'Timestamp', 0.0035616474876494363)
+(u'Edition (book)', 0.0035616474876494363)
+(u'Software configuration management', 0.0035616474876494363)
+(u'List of version control software', 0.0035616474876494363)
+(u'Spamming', 0.0035616474876494363)
+(u'Django (web framework)', 0.003331317774225581)
+(u'501(c) organization', 0.003290501085908309)
+(u'Web development', 0.0032397325761281967)
+(u'Mercurial', 0.0032277473180180346)
+(u'FreeBSD', 0.003216842339829551)
+(u'Apache Subversion', 0.003166797154535382)
+(u'Amortized analysis', 0.0031447494156080476)
+(u'General-purpose programming language', 0.003110918840886123)
+(u'Python Software Foundation', 0.003110918840886123)
+(u'Py2exe', 0.003110918840886123)
+(u'Third-party software component', 0.003110918840886123)
+(u'Source lines of code', 0.003110918840886123)
+(u'Dynamic programming language', 0.003110918840886123)
+(u'CPython', 0.003110918840886123)
+(u'Readability', 0.003110918840886123)
+(u'Repository (version control)', 0.0029312978726995778)
+(u'Node (networking)', 0.002801053051528056)
+(u'Directory (computing)', 0.002801053051528056)
+(u'Web API', 0.0026719318381553422)
+(u'Web resource', 0.0026719318381553422)
+(u'Web service', 0.0026719318381553422)
+(u'Session (computer science)', 0.0026719318381553422)
+(u'Template processor', 0.0026719318381553422)
+(u'Canonical (company)', 0.002652713424515633)
+(u'GNU Bazaar', 0.0026048287886671732)
+(u'Bruce Eckel', 0.0026048287886671732)
+(u'Launchpad (website)', 0.0026048287886671732)
+(u'Shared web hosting service', 0.0026048287886671732)
+(u'GitHub', 0.0026048287886671732)
+(u'Type introspection', 0.002564012100349901)
+(u'Instagram', 0.002564012100349901)
+(u'Mozilla Foundation', 0.002564012100349901)
+(u"Don't repeat yourself", 0.002564012100349901)
+(u'Nextdoor', 0.002564012100349901)
+(u'Disqus', 0.002564012100349901)
+(u'Bitbucket', 0.002564012100349901)
+(u'PBS', 0.002564012100349901)
+(u'Pinterest', 0.002564012100349901)
+(u'Create, read, update and delete', 0.002564012100349901)
+(u'Django Software Foundation', 0.002564012100349901)
+(u'The Washington Times', 0.002564012100349901)
+(u'Architectural pattern', 0.002564012100349901)
+(u'Cross-platform', 0.0025438786251845208)
+(u'Diff utility', 0.0025438786251845208)
+(u'Symbol (chemistry)', 0.0025438786251845208)
+(u'Task management', 0.002536940250140947)
+(u'Mascot', 0.002536940250140947)
+(u'Access control', 0.002536940250140947)
+(u'Software feature', 0.002536940250140947)
+(u'Anthropomorphism', 0.002536940250140947)
+(u'Cephalopod limb', 0.002536940250140947)
+(u'Manga', 0.002536940250140947)
