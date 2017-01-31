@@ -1,16 +1,0 @@
-(u'World Wide Web', 0.18537332396325804)
-(u'Web browser', 0.11298816866665223)
-(u'Web page', 0.10786903945889356)
-(u'HTML', 0.09479723563294176)
-(u'Hyperlink', 0.0932588972283987)
-(u'HTML element', 0.07502278065107054)
-(u'Web server', 0.05386608880549115)
-(u'Markup language', 0.03998449098655839)
-(u'Web application', 0.03962166450664038)
-(u'Cascading Style Sheets', 0.034705158444132495)
-(u'Bracket', 0.034337845452576954)
-(u'Semantics', 0.034337845452576954)
-(u'World Wide Web Consortium', 0.028523562128821282)
-(u'JavaScript', 0.02852356212882128)
-(u'Scripting language', 0.018395168246583125)
-(u'Structured document', 0.018395168246583125)

@@ -1,35 +1,0 @@
-(u'Physics', 0.18288891132467464)
-(u'Matter', 0.13391381812613)
-(u'Mass', 0.10141514524073778)
-(u'Nuclear physics', 0.08733108482500263)
-(u'Particle physics', 0.06924586559096257)
-(u'Gravity', 0.06136772872667408)
-(u'Quantum field theory', 0.047737610071644024)
-(u'Quantum mechanics', 0.04633886625915053)
-(u'String theory', 0.02745940082443249)
-(u'Quantum gravity', 0.02299216989808574)
-(u'Theory of everything', 0.021707709968570136)
-(u'Particle', 0.02047082464737908)
-(u'Fundamental interaction', 0.020247071590182325)
-(u'Condensed matter physics', 0.019768685151838723)
-(u'Fermion', 0.012157069550937098)
-(u'Quantum chromodynamics', 0.009323150925988831)
-(u'Mathematical model', 0.00919856128562905)
-(u'Supersymmetry', 0.007964465342992397)
-(u'Graviton', 0.007764036067643788)
-(u'Superstring theory', 0.007609043883385856)
-(u'M-theory', 0.0070516898621495235)
-(u'Boson', 0.007038910856557128)
-(u'AdS/CFT correspondence', 0.005971199577422613)
-(u'Bosonic string theory', 0.005780672935041408)
-(u'String (physics)', 0.005780672935041408)
-(u'Dimension', 0.005575979542111489)
-(u'Charge (physics)', 0.0055759795421114885)
-(u'Pure mathematics', 0.005518164020179643)
-(u'Black hole', 0.004972215918191895)
-(u'Mathematical theory', 0.004972215918191895)
-(u'Point particle', 0.004972215918191895)
-(u'Outline of physics', 0.004972215918191895)
-(u'Cosmology', 0.004972215918191895)
-(u'String theory landscape', 0.004972215918191895)
-(u'Nuclear force', 0.004972215918191895)

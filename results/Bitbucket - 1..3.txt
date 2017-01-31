@@ -1,1069 +1,0 @@
-(u'Computer', 0.017691457001602965)
-(u'Computer science', 0.014004096995644075)
-(u'Computer program', 0.012496409870755287)
-(u'Software', 0.012270239845300368)
-(u'Internet', 0.009814848201163682)
-(u'Programming language', 0.009258334725115966)
-(u'Computer programming', 0.00892330952369451)
-(u'Algorithm', 0.008760036733093076)
-(u'United States', 0.00859769850588663)
-(u'Operating system', 0.008083053179213652)
-(u'Information', 0.00780493062097964)
-(u'World War II', 0.007638935046902875)
-(u'Personal computer', 0.007422379283553185)
-(u'Television program', 0.007021382842602649)
-(u'Copyright', 0.006824823994259402)
-(u'Source code', 0.006690789126909788)
-(u'Data', 0.006475140188686871)
-(u'Smartphone', 0.006315729718652842)
-(u'Chemical element', 0.006299795967724688)
-(u'Software engineering', 0.006140297587523142)
-(u'Language', 0.006035032650200104)
-(u'Derivative work', 0.006033948209576347)
-(u'Machine code', 0.005921780844209585)
-(u'World Wide Web', 0.005827233049699303)
-(u'Compiler', 0.005728495510742393)
-(u'Central processing unit', 0.005679484251099806)
-(u'Human', 0.00565710657228232)
-(u'Computing', 0.0056141489403448595)
-(u'Application software', 0.005584410498956349)
-(u'Computer network', 0.005081447782244454)
-(u'Apple Inc.', 0.0050739791238430905)
-(u'Instruction set', 0.004879647123408888)
-(u'Washington, D.C.', 0.004731212561733948)
-(u'China', 0.004496331972924404)
-(u'Atomic number', 0.004378070027435928)
-(u'Interpreter (computing)', 0.004356977419597887)
-(u'Mobile device', 0.004344868846542888)
-(u'Latin', 0.004328861372228637)
-(u'Natural language', 0.0043076730979621485)
-(u'Taiwan', 0.004247671665200526)
-(u'Communication', 0.004213632010593082)
-(u'Organization', 0.004112881526774258)
-(u'Web browser', 0.004096400435146314)
-(u'Execution (computing)', 0.004053029742984196)
-(u'Japan', 0.0039664605673195436)
-(u'Engineering', 0.003964064074295931)
-(u'New Latin', 0.0039258193757291966)
-(u'Computer hardware', 0.0038868971051977475)
-(u'Character (computing)', 0.0037574818306218036)
-(u'Subroutine', 0.003707834525971343)
-(u'Email', 0.0036704481255291337)
-(u'Software development', 0.0034955406085866625)
-(u'Periodic table', 0.0034536890521513217)
-(u'Graphical user interface', 0.0033212739090516916)
-(u'User (computing)', 0.003311448165255412)
-(u'Computer monitor', 0.003298799164769726)
-(u'Computation', 0.003296236880526453)
-(u'Website', 0.0032842841514297426)
-(u'Tablet computer', 0.0032508577153571457)
-(u'Computer file', 0.003242142364643604)
-(u'Server (computing)', 0.003224288273962835)
-(u'Mobile phone', 0.0029978425276342637)
-(u'Computer memory', 0.002951839623041314)
-(u'Psychology', 0.0028322392629958953)
-(u'Value (computer science)', 0.0027641672751011802)
-(u'Computer keyboard', 0.0027621464231739547)
-(u'Data type', 0.0027028629502968025)
-(u'Non-volatile memory', 0.002691718694762597)
-(u'Web page', 0.002623948553531856)
-(u'Emotion', 0.0026144479896649375)
-(u'Chinese language', 0.002614391161039552)
-(u'Object-oriented programming', 0.002597621975318411)
-(u'Tool', 0.002589653239535922)
-(u'Mobile app', 0.0025662255220828584)
-(u'System administrator', 0.0025589037677994537)
-(u'Character encoding', 0.0025502827060567617)
-(u'Open-source software', 0.002534316321438128)
-(u'Library (computing)', 0.002533073621916403)
-(u'High-level programming language', 0.002483266711883774)
-(u'C (programming language)', 0.002468668764922718)
-(u'Document', 0.002449472027753234)
-(u'Hyperlink', 0.00243968030202721)
-(u'Microsoft', 0.0024321950573902326)
-(u'Data (computing)', 0.0023974374322769275)
-(u'Isotope', 0.0023926315813634705)
-(u'Assembly language', 0.002390283153407554)
-(u'Culture', 0.002388413296628304)
-(u'Web application', 0.0023793454566871926)
-(u'Kanji', 0.002306448333705415)
-(u'Object (computer science)', 0.0023027959382842743)
-(u'OS X', 0.0023024620757345947)
-(u'International Organization for Standardization', 0.0023006154699592224)
-(u'Microsoft Windows', 0.002262370249579574)
-(u'Mass media', 0.0022575522390672577)
-(u'Executable', 0.0022436456691391224)
-(u'Web server', 0.002233731165677726)
-(u'Instant messaging', 0.002228829957367669)
-(u'Word processor', 0.002215228999338892)
-(u'Database', 0.0021727321309851313)
-(u'Virginia', 0.002156149536791572)
-(u'Japanese language', 0.002155480728409982)
-(u'Implementation', 0.0021188017193517162)
-(u'Printer (computing)', 0.002105639703580691)
-(u'Technical standard', 0.0020892279428846006)
-(u'Encryption', 0.002086848663849559)
-(u'Lambda calculus', 0.00208614204549458)
-(u'Standards organization', 0.002062474223089005)
-(u'Content (media)', 0.002059810516529795)
-(u'Software testing', 0.00203330788189069)
-(u'Declarative programming', 0.002012294819924486)
-(u'Computer architecture', 0.002003452142406853)
-(u'IOS', 0.002000034545538248)
-(u'Hong Kong', 0.0019891962158592874)
-(u'System software', 0.0019862609772127167)
-(u'Unix', 0.001983512590672458)
-(u'User interface', 0.001976447173369221)
-(u'Mobile operating system', 0.0019647742226116993)
-(u'Resource', 0.0019305669105012743)
-(u'Relative atomic mass', 0.0019285691706776814)
-(u'Imperative programming', 0.0019253998667962183)
-(u'Function (mathematics)', 0.001920134264096817)
-(u'Video game', 0.0019158199623917204)
-(u'Art', 0.0019090019202256476)
-(u'Mercury (element)', 0.0019088599025885715)
-(u'Communications protocol', 0.0019061576977225671)
-(u'Information system', 0.0019039655684815631)
-(u'Computer language', 0.0018998064246454798)
-(u'Understanding', 0.0018865195370995893)
-(u'Human\u2013computer interaction', 0.0018800568208544284)
-(u'Syntax', 0.001877971913223752)
-(u'Desktop computer', 0.0018753969829623553)
-(u'Functional programming', 0.0018643730463421065)
-(u'Social networking service', 0.0018643284514933852)
-(u'HTML', 0.0018611195501943793)
-(u'Symbol (chemistry)', 0.0018442612506369136)
-(u'Linux', 0.0018265809758553863)
-(u'Spoken language', 0.0018208956849065697)
-(u'String (computer science)', 0.0018031531440191226)
-(u'Wiki', 0.0017996436488472208)
-(u'Company', 0.0017863417157688195)
-(u'Random-access memory', 0.0017851568309449272)
-(u'Computer scientist', 0.0017840523933673415)
-(u'Semantics', 0.0017761608479445407)
-(u'Software development process', 0.0017687804951338833)
-(u'Login', 0.0017551224189623538)
-(u'Computer mouse', 0.0017423032100361367)
-(u'Free and open-source software', 0.0017049937469625779)
-(u'Data structure', 0.001696062623020672)
-(u'End user', 0.0016956767831698089)
-(u'Writing', 0.0016933099227000022)
-(u'Proprietary software', 0.001690039385593318)
-(u'Class (computer programming)', 0.001686966002458526)
-(u'Programming paradigm', 0.001648979308120139)
-(u'Programmer', 0.0016392356862602936)
-(u'Laptop', 0.0016359053333495925)
-(u'Free software', 0.0016227932548749113)
-(u'Agile software development', 0.0016215518600438538)
-(u'Standardization', 0.0016070857920967403)
-(u'Software bug', 0.0016048824677957693)
-(u'Android (operating system)', 0.0016031128676699399)
-(u'HTML element', 0.0016009469090790933)
-(u'International Union of Pure and Applied Chemistry', 0.0015962163478210221)
-(u'Net present value', 0.0015946994570269425)
-(u'Maryland', 0.0015880899423910725)
-(u'Variable (computer science)', 0.0015851521126390095)
-(u'Helium', 0.0015775039597067152)
-(u'Hypertext Transfer Protocol', 0.0015668898722397881)
-(u'Chinese characters', 0.0015655655787040973)
-(u'Blog', 0.001561772399203909)
-(u'Client\u2013server model', 0.0015590874564236326)
-(u'Plain text', 0.00155747519499286)
-(u'Unix-like', 0.0015502934031875577)
-(u'C++', 0.0015492759974550783)
-(u'Newspaper', 0.0015257407560488269)
-(u'Recursion (computer science)', 0.00150929369530903)
-(u'Internet forum', 0.0015001775956223092)
-(u'Image', 0.0014589361138116698)
-(u'Requirement', 0.0014322368443962534)
-(u'Systems engineering', 0.0014166819056112465)
-(u'Perl', 0.0014115109617435183)
-(u'World Wide Web Consortium', 0.0014062015542410308)
-(u'Applied science', 0.001403293348089506)
-(u'Digital camera', 0.0013983652012217478)
-(u'Auxiliary memory', 0.0013780240244152416)
-(u'Unicode', 0.0013763443585827065)
-(u'Recursion', 0.001369542569666981)
-(u'ASCII', 0.001364833309355741)
-(u'Fluorescence', 0.0013545877846938869)
-(u'Application programming interface', 0.001343956145966091)
-(u'Java (programming language)', 0.001343340646914688)
-(u'Computing platform', 0.001331770977921768)
-(u'Specification (technical standard)', 0.001321523125535803)
-(u'Ancient Rome', 0.0013190139620210728)
-(u'Markup language', 0.0012978676201267439)
-(u'Computer security', 0.0012951257776157173)
-(u'XML', 0.0012882047064731038)
-(u'Entscheidungsproblem', 0.0012795082784817068)
-(u'Client (computing)', 0.001275958789534101)
-(u'Formula', 0.001272285502865225)
-(u'Syntax (programming languages)', 0.0012718293649296088)
-(u'Lisp (programming language)', 0.001270535820134554)
-(u'Spreadsheet', 0.0012667127958699202)
-(u'Brand', 0.0012625269919006228)
-(u'Software maintenance', 0.0012493169203095093)
-(u'Scripting language', 0.0012456044686563828)
-(u'Command-line interface', 0.0012418631964579703)
-(u'History', 0.001238839941671081)
-(u'PBS', 0.001238824002687765)
-(u'Video game console', 0.0012310840013786452)
-(u'Ununoctium', 0.0012184146718264123)
-(u'Method (computer programming)', 0.0012180206607634153)
-(u'Google', 0.0012129209902383203)
-(u'Firmware', 0.0012090150679860674)
-(u'Software design', 0.0012071240138114365)
-(u'Abstraction (software engineering)', 0.001194592500939565)
-(u'Corporation', 0.0011919200423949469)
-(u'Memory management', 0.0011773139613668205)
-(u'Reference implementation', 0.0011733706563046226)
-(u'United States dollar', 0.0011672856732890633)
-(u'Shanghai', 0.0011660659563937702)
-(u'Taipei', 0.0011660659563937702)
-(u'Wikipedia', 0.0011550775270667973)
-(u'Embedded system', 0.0011544097653186287)
-(u'Advertising', 0.0011526075446750884)
-(u'Python (programming language)', 0.0011459352804636645)
-(u'Nonprofit organization', 0.00113543306682208)
-(u'Manga', 0.001118922787089113)
-(u'Application domain', 0.0011162624091768684)
-(u'Atomic mass', 0.001114797550023449)
-(u'Software documentation', 0.0011081514727782219)
-(u'Floppy disk', 0.0011069056981290926)
-(u'Macintosh', 0.0010992861718702028)
-(u'Uniform Resource Identifier', 0.0010964770376610455)
-(u'Run time (program lifecycle phase)', 0.0010783259881190384)
-(u'Domain name', 0.0010706722213829276)
-(u'Expression (computer science)', 0.0010639821394258274)
-(u'Abstraction', 0.0010636065041826964)
-(u'Access control', 0.0010609772422314084)
-(u'Programming language implementation', 0.0010607769137325482)
-(u'Version control', 0.0010506034634783154)
-(u'Uniform Resource Locator', 0.0010501947429756775)
-(u'Public broadcasting', 0.0010442696293264217)
-(u'Ultraviolet', 0.0010433027438823024)
-(u'Grammar', 0.001038462456136712)
-(u'Process (computing)', 0.0010367355517202517)
-(u'Session (computer science)', 0.0010306567555116877)
-(u'Command (computing)', 0.001028665218358674)
-(u'Linker (computing)', 0.001021241703555686)
-(u'Host (network)', 0.0010117822548085693)
-(u'Internet Protocol', 0.001002577361191817)
-(u'Time-sharing', 0.0010006069803688011)
-(u'File system', 0.001000184446547596)
-(u'Type system', 0.0009978461279337345)
-(u'Structured programming', 0.0009963538990062945)
-(u'Online shopping', 0.000995629813588366)
-(u'Mainframe computer', 0.0009902076699413282)
-(u'Interoperability', 0.0009784526814907504)
-(u'MS-DOS', 0.0009767393664363204)
-(u'Web content', 0.0009729412261040086)
-(u'Supercomputer', 0.0009646868979773933)
-(u'UTF-8', 0.0009599358061346704)
-(u'Linux kernel', 0.0009589080915599763)
-(u'Connectionless communication', 0.0009537262045402117)
-(u'Comics', 0.0009494313531472776)
-(u'Low-level programming language', 0.0009412504699865573)
-(u'IPhone', 0.0009374032749268817)
-(u'Local area network', 0.0009315839010441779)
-(u'Katakana', 0.0009251082703470118)
-(u'Hiragana', 0.0009251082703470118)
-(u'Typesetting', 0.0009243879772714209)
-(u'Namespace', 0.000924017501392144)
-(u'Interpreted language', 0.000920702595490703)
-(u'Web service', 0.0009200163243198566)
-(u'California', 0.000919462135085152)
-(u'Software system', 0.0009178518869761086)
-(u'Instance (computer science)', 0.0009113854117361597)
-(u'Waterfall model', 0.0009062710031930296)
-(u'New York City', 0.0009033626963233358)
-(u'GNU General Public License', 0.000903220725839639)
-(u'Web resource', 0.0008961812213596791)
-(u'Human-readable medium', 0.0008896276360632436)
-(u'State (computer science)', 0.0008747545314390081)
-(u'SQL', 0.0008740829092598746)
-(u'Berkeley Software Distribution', 0.0008708719805981711)
-(u'X86', 0.0008705839275714156)
-(u'Bytecode', 0.0008696005093446706)
-(u'Television station', 0.0008690543402218307)
-(u'Hierarchy', 0.0008670488829725683)
-(u'Packaging and labeling', 0.0008575596024396676)
-(u'Formal system', 0.0008514783896820622)
-(u'Relational model', 0.0008432682386977856)
-(u'Third-party software component', 0.000823622946181513)
-(u'Virtual memory', 0.0008193759307414297)
-(u'Component-based software engineering', 0.0008178806069493279)
-(u'Typography', 0.0008137007877810371)
-(u'Fluorescent lamp', 0.0008128282767583127)
-(u'Software license', 0.0008123332248850533)
-(u'Memory card', 0.0008117320824074317)
-(u'Intel', 0.0008117246273542426)
-(u'Cinnabar', 0.000809363876929362)
-(u'Computability', 0.000806622193644061)
-(u'Formatted text', 0.0008063849982160322)
-(u'Pinterest', 0.0008050484506953581)
-(u'Greek language', 0.0008009016252484878)
-(u'Open-source model', 0.0008004125429096626)
-(u'Class-based programming', 0.0007955981461557111)
-(u'Marketing', 0.0007955848360919696)
-(u'Metadata', 0.0007939262774094409)
-(u'Procedural programming', 0.0007892483670205703)
-(u'Sony', 0.0007875539820986988)
-(u'Military', 0.0007789421491624625)
-(u'Academia', 0.0007724770450047079)
-(u'Bell Labs', 0.0007700619255728306)
-(u'Linux distribution', 0.0007690715657928287)
-(u'IPad', 0.0007676950550434608)
-(u'Free Software Foundation', 0.0007652625705720326)
-(u'Trademark', 0.0007641599685858724)
-(u'Application server', 0.0007517330691658979)
-(u'Code reuse', 0.0007494403783791094)
-(u'Firefox', 0.0007489684954087689)
-(u'Internet service provider', 0.0007464054509341547)
-(u'Java virtual machine', 0.0007376984607110602)
-(u'Microsoft Office', 0.0007376170066144302)
-(u'Xbox One', 0.0007358507316193178)
-(u'Multimedia', 0.0007338376838682944)
-(u'Email client', 0.0007329023861330167)
-(u'Commoditization', 0.0007311151733389418)
-(u'Pointer (user interface)', 0.0007303202248920386)
-(u'Desktop environment', 0.000725956050640192)
-(u'General-purpose programming language', 0.000724577337662377)
-(u'International standard', 0.0007240179005400349)
-(u'Service (systems architecture)', 0.0007239954337855152)
-(u'Open-source license', 0.000721498590308059)
-(u'Documentation', 0.0007209132815017468)
-(u'GNU Project', 0.00071930001163555)
-(u'App Store (iOS)', 0.0007184775757919481)
-(u'Freeware', 0.0007171116898931887)
-(u'Node (networking)', 0.0007107505684655077)
-(u'Software portability', 0.0007084288615501909)
-(u'Permissive software licence', 0.0007070497726459988)
-(u'Mascot', 0.000698983464955256)
-(u'Scope (computer science)', 0.0006876327952985324)
-(u'Fortran', 0.0006874255156748529)
-(u'Domain-specific language', 0.0006811661750765299)
-(u'Compile time', 0.0006765841639429479)
-(u'Mercury poisoning', 0.0006765513087154341)
-(u'List of organizations with consultative status to the United Nations Economic and Social Council', 0.0006748307215172988)
-(u'Geneva', 0.0006748307215172988)
-(u'Collaborative software', 0.000659855224105262)
-(u'Print server', 0.0006564300307825863)
-(u'Book', 0.0006546673512641656)
-(u'Router (computing)', 0.0006529495715918212)
-(u'Subscription business model', 0.0006509654666356588)
-(u'Virtual address space', 0.000650022092923438)
-(u'Public sector', 0.0006486038121502457)
-(u'Binary file', 0.0006484576433474839)
-(u'Smalltalk', 0.0006445033099148671)
-(u'Acronym', 0.000644490802337806)
-(u'Interface (computing)', 0.0006434403224624569)
-(u'BASIC', 0.0006395245138464078)
-(u'Richard Stallman', 0.00063520141028819)
-(u'Netherlands', 0.0006341208767227318)
-(u'Concurrent computing', 0.0006331016188051621)
-(u'Webmail', 0.0006286043435244222)
-(u'Single UNIX Specification', 0.0006271371426004039)
-(u'Network affiliate', 0.0006260550314919982)
-(u'Set-top box', 0.0006171185043131234)
-(u'Copyleft', 0.0006160342721995755)
-(u'Microsoft Word', 0.0006152889118766989)
-(u'Preprocessor', 0.0006135003353774493)
-(u'Commercial software', 0.0006094636152107882)
-(u'Referential transparency', 0.0006075514888786648)
-(u'Software framework', 0.0006060582644231311)
-(u'Porting', 0.0006019434007181509)
-(u'Productivity software', 0.0005993638249270147)
-(u'Institute of Electrical and Electronics Engineers', 0.0005980593042492321)
-(u'Text-based user interface', 0.0005957578553146237)
-(u'Modular programming', 0.0005940618066986271)
-(u'Online chat', 0.000593199520496716)
-(u'Logic programming', 0.0005843366218611456)
-(u'Shell (computing)', 0.0005838140211628154)
-(u'Query language', 0.0005836887608776125)
-(u'Text file', 0.0005813486121823123)
-(u'Community', 0.0005799865776362613)
-(u'Ruby (programming language)', 0.000579412871142453)
-(u'Sun Microsystems', 0.0005731562509380929)
-(u'Apple TV', 0.0005722261659356115)
-(u'Mac OS', 0.000572178121871562)
-(u'XHTML', 0.0005717876904744826)
-(u'Application layer', 0.0005706166904257737)
-(u'Team', 0.000568534557413369)
-(u'Smartwatch', 0.0005669104072558253)
-(u'Wolfram Language', 0.0005655911798405514)
-(u'Consortium', 0.000565148896817482)
-(u'Dynamic programming language', 0.0005651135969795674)
-(u'Public domain', 0.0005608539388972653)
-(u'Chrome OS', 0.0005546956738262074)
-(u'Distributed computing', 0.0005536394769860919)
-(u'PlayStation 4', 0.0005529692157957138)
-(u'Apple Watch', 0.000548402544365047)
-(u'Etymology', 0.000547857475860575)
-(u'Massachusetts Institute of Technology', 0.0005456010487114173)
-(u'Collaborative software development model', 0.0005450839375688162)
-(u'Standish Group', 0.0005450839375688162)
-(u'Program lifecycle phase', 0.0005440201145849821)
-(u'Government agency', 0.0005428725518462987)
-(u'UTF-16', 0.0005416031234342337)
-(u'Typewriter', 0.0005414806943734882)
-(u'System call', 0.0005372814145097096)
-(u'Academic journal', 0.0005333888849584531)
-(u'Apache License', 0.0005328999084345752)
-(u'System programming', 0.000532562516212078)
-(u'Compiled language', 0.0005319424766163831)
-(u'Unix shell', 0.0005317495053729004)
-(u'Lead', 0.0005294306623804526)
-(u'Direct manipulation interface', 0.0005278441904046746)
-(u'Java bytecode', 0.0005273138346123766)
-(u'Daemon (computing)', 0.0005263025845833431)
-(u'Data center', 0.0005256009706778493)
-(u'C Sharp (programming language)', 0.0005243082187683612)
-(u'Statement (computer science)', 0.0005226398168250809)
-(u'Pascal (programming language)', 0.0005225375539969055)
-(u'Web search engine', 0.0005223184581864744)
-(u'Tree structure', 0.0005217995896322058)
-(u'Scheme (programming language)', 0.0005211379853032601)
-(u'Comment (computer programming)', 0.0005205577399171077)
-(u'Binary', 0.0005205577399171077)
-(u'Professional association', 0.0005203073492466358)
-(u'Reusability', 0.0005166797588629299)
-(u'IPod Touch', 0.0005161688757690336)
-(u'Windows Phone', 0.0005148939124625225)
-(u'OSI model', 0.0005140832789264904)
-(u'Document Object Model', 0.0005108396392465741)
-(u'DOS', 0.0005107151140701692)
-(u'Haskell (programming language)', 0.0005104141816582145)
-(u'Garbage collection (computer science)', 0.0005084825440361504)
-(u'Toxic heavy metal', 0.0005031644747550155)
-(u'Domain name registrar', 0.0004994784200698888)
-(u'Directory (computing)', 0.0004991819908137942)
-(u'MP3', 0.0004971479653241035)
-(u'Computer terminal', 0.0004952383392690774)
-(u'Software developer', 0.0004948312115403196)
-(u'University of Alabama', 0.0004934473371188279)
-(u'PowerPC', 0.0004904711584703137)
-(u'American National Standards Institute', 0.00048780413918799034)
-(u'Dynamic web page', 0.000485517669486457)
-(u'Standard conditions for temperature and pressure', 0.00048485477860858)
-(u'Free software license', 0.00048386045855960106)
-(u'Java (software platform)', 0.0004836039789907621)
-(u'64-bit computing', 0.00048242624058704263)
-(u'OS/360 and successors', 0.0004818004781960057)
-(u'Oracle Database', 0.0004765275232077951)
-(u'Business telephone system', 0.00047299001065454047)
-(u'Desktop metaphor', 0.00047294121210342434)
-(u'PARC (company)', 0.0004715482096283017)
-(u'Web development', 0.00047137144804461524)
-(u'Kernel (operating system)', 0.0004699987389523954)
-(u'Record (computer science)', 0.00046510959953066677)
-(u'Facebook', 0.0004641699504258714)
-(u'Side effect (computer science)', 0.0004641396882574579)
-(u'English alphabet', 0.0004638586268862037)
-(u'Generic programming', 0.0004627215720320308)
-(u'General-purpose language', 0.0004624755478367805)
-(u'Correspondence chess', 0.0004617260720690663)
-(u'IWork', 0.0004616499163292893)
-(u'Cephalopod limb', 0.00046070752259476437)
-(u'Paging', 0.00046017468486389426)
-(u'COBOL', 0.0004601379691530315)
-(u'Microsoft Excel', 0.00045971386807614487)
-(u'Just-in-time compilation', 0.00045876354269002123)
-(u'POSIX', 0.0004586095602452011)
-(u'Intranet', 0.00045518703807147264)
-(u'WGBH-TV', 0.0004533346893405921)
-(u'Public-domain software', 0.0004519262485523511)
-(u'Digital rights management', 0.00045159002762106546)
-(u'Cephalopod', 0.0004508904439714418)
-(u'Private sector', 0.0004499202862441889)
-(u'MySQL', 0.00044779284126622175)
-(u'Clang', 0.00044733460054053123)
-(u'Imperative mood', 0.00044721981449027606)
-(u'Darwin (operating system)', 0.00044610041779366067)
-(u'Muscular hydrostat', 0.0004441794436939854)
-(u'MIT License', 0.00044278620545089856)
-(u'Package manager', 0.00043998054700350973)
-(u'Line length', 0.00043952389816100964)
-(u'FreeBSD', 0.0004392685494916288)
-(u'E-commerce', 0.0004391649597811824)
-(u'Online auction', 0.00043888005338910455)
-(u'Readability', 0.0004386913367196057)
-(u'Software versioning', 0.0004379944399489359)
-(u'Oxidation state', 0.00043764042333155285)
-(u'Mangaka', 0.00043720724120777674)
-(u'Table (database)', 0.0004364946390052409)
-(u'Database schema', 0.00043397832767146116)
-(u'File format', 0.0004333643885648968)
-(u'User Datagram Protocol', 0.0004326586217041235)
-(u'Connection-oriented communication', 0.0004326586217041235)
-(u'Mozilla Foundation', 0.00043194152182711535)
-(u'Tank\u014dbon', 0.00043080777749449273)
-(u'Cartoonist', 0.00043080777749449273)
-(u'Malware', 0.0004307676245281165)
-(u'String literal', 0.00043059229702578167)
-(u'C++11', 0.00043037624397563413)
-(u'Twitter', 0.0004287943571989652)
-(u'Common Lisp', 0.0004274788477289267)
-(u'Broadsheet', 0.0004254402281079941)
-(u'Logo', 0.00042255196142195405)
-(u'Gallium', 0.00042244520817454897)
-(u'Big iron', 0.0004210579813621814)
-(u'32-bit', 0.00042046957563762175)
-(u'Java Database Connectivity', 0.0004187320811670634)
-(u'Windows NT', 0.00041859627260193476)
-(u'Infrastructure', 0.0004184133236948449)
-(u'List of Unix commands', 0.0004176687749629242)
-(u'Menu (computing)', 0.0004171280236592355)
-(u'Sun Myung Moon', 0.00041690216081246645)
-(u'Live action', 0.0004168657671299297)
-(u'GNU Compiler Collection', 0.000416347837307142)
-(u'Roman numerals', 0.000415259863845615)
-(u'Diff utility', 0.000411953313188109)
-(u'Evaluation strategy', 0.0004118306099526605)
-(u'Black and white', 0.00041146637205227645)
-(u'Authorization', 0.0004114358853932597)
-(u'Lock (security device)', 0.0004114358853932597)
-(u'PHP', 0.00041061654900809277)
-(u'Web hosting service', 0.0004086758073569706)
-(u'Mercury sulfide', 0.00040847135998209804)
-(u'Vermilion', 0.00040847135998209804)
-(u'Tax', 0.0004073090807848221)
-(u'Income tax in the United States', 0.0004072965847549784)
-(u'VisiCalc', 0.00040433271302777954)
-(u'GNU', 0.000403913572691688)
-(u'501(c) organization', 0.00040373375984836075)
-(u'Profession', 0.0004029881257391277)
-(u'Bug tracking system', 0.0004013782729502219)
-(u'Paywall', 0.00039977564207217576)
-(u'Diary', 0.0003985409794294358)
-(u'Page description language', 0.0003979543632242647)
-(u'Ajax (programming)', 0.0003978082002318221)
-(u'Apache Software Foundation', 0.00039763026542664453)
-(u'Dennis Ritchie', 0.00039755297047342684)
-(u'Content management system', 0.00039723930312110533)
-(u'Client-side scripting', 0.00039684999092966445)
-(u'Icon (computing)', 0.00039628171766205837)
-(u'Spamming', 0.0003941036584502023)
-(u'Internet hosting service', 0.00039002110375893926)
-(u'X Window System', 0.00038939680759219665)
-(u'Cross-platform', 0.00038874558263596835)
-(u'The Pragmatic Programmer', 0.00038811602539158226)
-(u'Static web page', 0.0003873419565194532)
-(u'Code name', 0.0003869839752960071)
-(u'Classified advertising', 0.0003857625833526606)
-(u'Fraunhofer Society', 0.0003854158669532106)
-(u'Weather', 0.00038388497927402084)
-(u'Windows 10 Mobile', 0.0003823586209584147)
-(u'Objective-C', 0.00038107279156498173)
-(u'Display resolution', 0.0003809143428145362)
-(u'Web framework', 0.0003806028100725395)
-(u'Resource Description Framework', 0.00037833250550297124)
-(u'View (SQL)', 0.0003747764729499175)
-(u'Ubuntu (operating system)', 0.0003737136294626507)
-(u'Stateless protocol', 0.00037258776749214846)
-(u'Configuration management', 0.0003715160741424812)
-(u'Patch (computing)', 0.0003701588712825698)
-(u'Embedded software', 0.0003698539400663925)
-(u'Data model', 0.000368845604639371)
-(u'Reverse engineering', 0.0003678094939503783)
-(u'Device driver', 0.00036743810216155644)
-(u'Google Docs, Sheets, Slides and Forms', 0.0003673834894774199)
-(u'Photo sharing', 0.00036671051035623526)
-(u'WNET', 0.00036583764723581045)
-(u'Block (periodic table)', 0.00036519397979015654)
-(u'Social software', 0.00036517902077857556)
-(u'Software engineer', 0.00036511969460754397)
-(u'Field (computer science)', 0.0003650757936291676)
-(u'BSD licenses', 0.0003627179628272681)
-(u'Synchronization', 0.00036194424225088266)
-(u'Breakfast cereal', 0.0003614751016963636)
-(u'General Mills', 0.00036147510169636356)
-(u'Trix (cereal)', 0.00036147510169636356)
-(u'Linus Torvalds', 0.0003610381217468241)
-(u"Apple's transition to Intel processors", 0.00036082293513295047)
-(u'Manual memory management', 0.00035801003436151176)
-(u'Common Gateway Interface', 0.0003579180927222013)
-(u'Apple II', 0.000357554945334084)
-(u'Ben Silbermann', 0.0003573585743865687)
-(u'Evan Sharp', 0.0003573585743865687)
-(u'Server-side scripting', 0.00035721964253082947)
-(u'Electronic publishing', 0.0003569716236979305)
-(u'TOP500', 0.0003567811139852332)
-(u'Lotus 1-2-3', 0.00035538997404371695)
-(u'Parameter (computer programming)', 0.00035511022957172427)
-(u'Sport', 0.00035505536952695017)
-(u'Unification Church', 0.00035472709962582776)
-(u'Project management software', 0.00035449781795652646)
-(u'Boston', 0.0003540447150645811)
-(u'User space', 0.00035362913477287764)
-(u'Office Online', 0.00035333833743748813)
-(u'UCSD Pascal', 0.0003532571466681187)
-(u'Transport layer', 0.00035323961779062306)
-(u'Graphics', 0.00035194913560212485)
-(u'Software design pattern', 0.0003516797682634739)
-(u'Startup company', 0.00035037898915580716)
-(u'Standard library', 0.00034878603982208727)
-(u'Spell checker', 0.00034792027873198496)
-(u'XQuery', 0.00034732362884751277)
-(u'Stock market', 0.00034640969561638404)
-(u'Digital video recorder', 0.0003462781656877377)
-(u'Document file format', 0.00034584520086132216)
-(u'Dominance (economics)', 0.0003434010643106894)
-(u'Risk', 0.0003427062173790669)
-(u'Home page', 0.00034252320365692494)
-(u'Legibility', 0.0003424950570831998)
-(u'Colocation centre', 0.000341248107278238)
-(u'Red Hat Enterprise Linux', 0.0003410368231042274)
-(u'Open Database Connectivity', 0.00034102639680350306)
-(u'Delphi (programming language)', 0.00034088995751045426)
-(u'Dartmouth BASIC', 0.0003402354821258743)
-(u'MATLAB', 0.0003402354821258743)
-(u'The Washington Times', 0.00033818207078526304)
-(u'Pressure measurement', 0.00033706141131152964)
-(u'Wolfram Mathematica', 0.000335924218409134)
-(u'PlayStation 3', 0.0003349774896917829)
-(u'HUD (video gaming)', 0.00033455971016543276)
-(u'Learning curve', 0.00033455971016543276)
-(u'Volumetric display', 0.00033455971016543276)
-(u'Secondary notation', 0.00033455971016543276)
-(u'EBCDIC', 0.0003330550191675045)
-(u'Swift (programming language)', 0.00033084793378543905)
-(u'Nation', 0.00033071308596982116)
-(u'Definition', 0.0003304977963569339)
-(u'Andy Hunt (author)', 0.0003302359144476463)
-(u'Windows Mobile', 0.00033008334029144986)
-(u'Windows 10', 0.00033008334029144986)
-(u'Scala (programming language)', 0.00033003601227999416)
-(u'Web design', 0.00032985551802923517)
-(u'ALGOL', 0.0003295877713506572)
-(u'Backus\u2013Naur Form', 0.0003292627519800883)
-(u'Tumblr', 0.0003280277793248533)
-(u'Custom software', 0.00032736010747578116)
-(u'Quality control', 0.00032736010747578116)
-(u'1080p', 0.0003270451986820006)
-(u'Anime', 0.0003264269156500146)
-(u'Email spam', 0.000325838894643022)
-(u'Free software movement', 0.000325467645470571)
-(u'Usage share of operating systems', 0.0003252801883572837)
-(u'OpenSUSE', 0.00032432829163805515)
-(u'XSLT', 0.0003242213318704408)
-(u'Table (information)', 0.0003234452749235991)
-(u'Wiki software', 0.0003230912284767103)
-(u'Silicon Valley', 0.0003229884018144258)
-(u'Worksheet', 0.0003220321508390705)
-(u'Measuring programming language popularity', 0.00032101199861493034)
-(u'Privately held company', 0.0003201567972937597)
-(u'Graphic designer', 0.0003184895120721458)
-(u'OS X El Capitan', 0.00031775384339967355)
-(u'MacOS Sierra', 0.00031718484535928423)
-(u'Plankalk\xfcl', 0.00031656547952943606)
-(u'Cephalopod beak', 0.0003163937562812169)
-(u'Mac OS X 10.0', 0.0003153268153404132)
-(u'WordPerfect', 0.0003152720308280825)
-(u'Broadcast syndication', 0.0003148297745485103)
-(u'Git (software)', 0.00031476483104296674)
-(u'Static library', 0.0003146387123634984)
-(u'Dynamic linker', 0.0003146387123634984)
-(u'Apple DOS', 0.0003139618127901018)
-(u'Mozilla Corporation', 0.00031272724232442686)
-(u'Trade union', 0.0003124051583484325)
-(u'Telephone exchange', 0.00030955657037966066)
-(u'The Free Software Definition', 0.000309288624675835)
-(u'Konrad Zuse', 0.0003088979966799513)
-(u'Windows Embedded', 0.0003076431323967465)
-(u'K (programming language)', 0.00030741468903543233)
-(u'CentOS', 0.0003071287116214823)
-(u'Vocabulary', 0.0003071198727439034)
-(u'Debian', 0.0003060102329246046)
-(u'London', 0.00030548581745343495)
-(u'Mac OS X Lion', 0.0003051601894847762)
-(u'Software deployment', 0.00030385328323382775)
-(u'Y Combinator (company)', 0.0003036494560155644)
-(u'Dental restoration', 0.0003035514177198626)
-(u'News World Communications', 0.00030317999105754185)
-(u'Execution model', 0.00030264225087675784)
-(u'Symbolic programming', 0.00030264225087675784)
-(u'Software analyst', 0.00030228436508987223)
-(u'Immutable object', 0.0003022784047257548)
-(u'Canonical (company)', 0.0003022133834653877)
-(u'Network security', 0.00030088408960345493)
-(u'Montreal', 0.0002991322257834885)
-(u'CP/M', 0.0002979689711620337)
-(u'Windows CE', 0.0002971994630807909)
-(u'Spam (food)', 0.00029706159332581594)
-(u'Wayland (display server protocol)', 0.0002967836244279361)
-(u'Web engineering', 0.0002967210308319786)
-(u'Windows 9x', 0.00029664915064636855)
-(u'Philadelphia Phillies', 0.00029616615570771663)
-(u'Reading (process)', 0.000296034697374292)
-(u'Programming in the large and programming in the small', 0.0002958454347550069)
-(u'Serialization', 0.0002953433202834723)
-(u'Internationalized Resource Identifier', 0.00029476656089233775)
-(u'Referent', 0.00029476656089233775)
-(u'Semantic Web', 0.00029476656089233775)
-(u'Mac OS X Leopard', 0.00029387337776362837)
-(u'NeXT', 0.00029326191422020823)
-(u'OS X Mavericks', 0.0002930862472285954)
-(u'Multiple dispatch', 0.00029150535152717505)
-(u'Distributed version control', 0.0002914391610904158)
-(u'Session layer', 0.0002913155263589143)
-(u'Barometer', 0.0002901112037725717)
-(u'Thermometer', 0.0002901112037725717)
-(u'JSON', 0.0002900252403944169)
-(u'Mozilla', 0.0002900011918635924)
-(u'Fable', 0.0002895418769260439)
-(u'C++14', 0.0002892978232411652)
-(u'C++03', 0.0002892978232411652)
-(u'WatchOS', 0.0002890163599379618)
-(u'TvOS', 0.0002890163599379618)
-(u'Disqus', 0.0002885958997210706)
-(u'Hope (programming language)', 0.0002880404630152992)
-(u'Purely functional programming', 0.0002880404630152992)
-(u'Nested function', 0.00028739218064219047)
-(u'Microsoft SQL Server', 0.00028691343493745126)
-(u'Room temperature', 0.0002867964209240291)
-(u'Rubidium', 0.0002867964209240291)
-(u'Distribution frame', 0.000286598998390705)
-(u'Patch panel', 0.000286598998390705)
-(u'Passivity (engineering)', 0.000286598998390705)
-(u'Data terminal equipment', 0.000286598998390705)
-(u'Mozilla Thunderbird', 0.0002862190211420422)
-(u'Memory management (operating systems)', 0.00028595660666637683)
-(u'R (programming language)', 0.000285751735414064)
-(u'Google Play', 0.00028571842227385154)
-(u'Web content management system', 0.0002855596723083141)
-(u'Autocode', 0.0002849602819776187)
-(u'Publication', 0.00028488841067932796)
-(u'Dave Thomas (programmer)', 0.00028224971304133235)
-(u'Installed base', 0.0002822472945257947)
-(u'Mac OS X Snow Leopard', 0.00028202651012954614)
-(u'Anthropomorphism', 0.0002804669948694483)
-(u'Smart TV', 0.0002796577926538172)
-(u'Time complexity', 0.00027787559630555904)
-(u'This (computer programming)', 0.0002778308669917673)
-(u'Doc (computing)', 0.00027772634767763235)
-(u'C', 0.00027707701582467786)
-(u'ANSI C', 0.00027707701582467786)
-(u'Mac OS 9', 0.00027630780565758014)
-(u'Data set (IBM mainframe)', 0.00027558754261761625)
-(u'Dynamic loading', 0.00027558754261761625)
-(u'Commodification', 0.00027558754261761625)
-(u'Application framework', 0.0002749922834536495)
-(u'Mountain View, California', 0.00027476971203692704)
-(u'Arlington County, Virginia', 0.0002747287406766483)
-(u'Apache Subversion', 0.0002737863769925612)
-(u'GNU/Linux naming controversy', 0.0002731385041076751)
-(u'Web developer', 0.00027296168190132046)
-(u'GNOME', 0.00027220653009690625)
-(u'Privacy', 0.00027111405378255304)
-(u'List of free and open-source software packages', 0.00027111405378255304)
-(u'Software test documentation', 0.0002701620047116696)
-(u'SAP HANA', 0.0002697984658840906)
-(u'Sybase', 0.0002697984658840906)
-(u'Database model', 0.0002697984658840906)
-(u'MongoDB', 0.0002697984658840906)
-(u'IBM DB2', 0.0002697984658840906)
-(u'PostgreSQL', 0.0002697984658840906)
-(u'Recursive acronym', 0.0002690129433312846)
-(u'Mac OS X Tiger', 0.0002689405148540556)
-(u'GNU Compiler for Java', 0.00026882616788379845)
-(u'Nova (TV series)', 0.0002678792602249869)
-(u'Alabama Crimson Tide', 0.0002667215487980999)
-(u'Ward Cunningham', 0.0002664398253456267)
-(u'Online rich-text editor', 0.0002664398253456267)
-(u'WikiWikiWeb', 0.0002664398253456267)
-(u'Knowledge management', 0.0002664398253456267)
-(u'Hawaiian language', 0.0002664398253456267)
-(u'Web community', 0.0002664398253456267)
-(u'Comparison of notetaking software', 0.0002664398253456267)
-(u'HTTP cookie', 0.0002662154854755792)
-(u'Datasheet', 0.00026609363134455944)
-(u'Regulatory agency', 0.00026609363134455944)
-(u'Trade association', 0.00026609363134455944)
-(u'Mesopotamia', 0.0002656913275410618)
-(u'Storytelling', 0.0002656913275410618)
-(u'Mesoamerica', 0.0002656913275410618)
-(u'List of national legal systems', 0.0002656913275410618)
-(u'Ancient Egypt', 0.0002656913275410618)
-(u'Go (programming language)', 0.00026511328621325403)
-(u'Sun acquisition by Oracle', 0.00026457212873522005)
-(u'Heinz Rutishauser', 0.00026404180064195)
-(u'Mercurial', 0.00026379735704541826)
-(u'OpenOffice.org', 0.00026358644572297823)
-(u'WYSIWYG', 0.0002635864457229782)
-(u'F Sharp (programming language)', 0.00026282699538944054)
-(u'Web template system', 0.00026275090836168217)
-(u'Bandwidth (computing)', 0.00026022579790777506)
-(u'Fedora (operating system)', 0.00025973721071550674)
-(u'Juniper Networks', 0.00025931828097872984)
-(u'Datacasting', 0.00025848915736028223)
-(u'Django (web framework)', 0.00025842715487316506)
-(u'OS X Server', 0.0002584126925132768)
-(u'Windows Server 2012 R2', 0.00025710196248303384)
-(u'Windows Server', 0.00025710196248303384)
-(u'Operating environment', 0.00025710196248303384)
-(u'Media type', 0.00025686665903061303)
-(u'IGN', 0.0002567304244909397)
-(u'Personal web page', 0.000255676979157859)
-(u'Toy block', 0.000255676979157859)
-(u'HTTPS', 0.000255676979157859)
-(u'E-government', 0.000255676979157859)
-(u'Site map', 0.000255676979157859)
-(u'Template processor', 0.00025538519256599506)
-(u'PBS NewsHour', 0.0002550212108716971)
-(u'Software configuration management', 0.00025453101135805193)
-(u'List of version control software', 0.00025453101135805193)
-(u'Timestamp', 0.00025453101135805193)
-(u'Edition (book)', 0.00025453101135805193)
-(u'Big cat', 0.00025426525910779603)
-(u'Foreign function interface', 0.00025231360064644837)
-(u'GitHub', 0.0002519499963438602)
-(u'Issue tracking system', 0.00025170163784857605)
-(u'Maintainability', 0.00024998572393139106)
-(u'Apple II series', 0.00024921338651847193)
-(u'Standard deviation', 0.00024921338651847193)
-(u'Workbench', 0.00024647994409576166)
-(u'Yacc', 0.0002462897528821083)
-(u"Don't repeat yourself", 0.00024601652293191966)
-(u'Tungsten', 0.00024596731645656363)
-(u'Ionization', 0.00024596731645656363)
-(u'Chemical elements in East Asian languages', 0.00024596731645656363)
-(u'Subscript and superscript', 0.00024596731645656363)
-(u'Systematic element name', 0.00024596731645656363)
-(u'Hassium', 0.00024596731645656363)
-(u'OCaml', 0.0002458879761783328)
-(u'Gratis', 0.00024581956005024277)
-(u'Vendor lock-in', 0.00024581956005024277)
-(u'Liberty', 0.00024581956005024277)
-(u'Software patent', 0.00024581956005024277)
-(u'Consumer organization', 0.000245067537409617)
-(u'CERN httpd', 0.0002444986368575773)
-(u'SHA-3', 0.0002444986368575773)
-(u'Base64', 0.0002444986368575773)
-(u'LAME', 0.0002444986368575773)
-(u'Serpent (cipher)', 0.0002444986368575773)
-(u'Openwall Project', 0.0002444986368575773)
-(u'Product family engineering', 0.0002444986368575773)
-(u'Julia (programming language)', 0.00024382584760932054)
-(u'Amortized analysis', 0.0002431519847335384)
-(u'AlphaSmart', 0.00024293117051993416)
-(u'AbiWord', 0.00024293117051993416)
-(u'Wang Laboratories', 0.00024293117051993416)
-(u'KWord', 0.00024293117051993416)
-(u'LibreOffice Writer', 0.00024293117051993416)
-(u'Monochrome monitor', 0.00024293117051993416)
-(u'LyX', 0.00024293117051993416)
-(u'Expensive Typewriter', 0.00024293117051993416)
-(u'Autocorrection', 0.00024293117051993416)
-(u'James Gosling', 0.0002427828387993096)
-(u'RAM parity', 0.00024238047095559702)
-(u'Extended static checking', 0.00024238047095559702)
-(u'Logic error', 0.00024238047095559702)
-(u'Type safety', 0.00024238047095559702)
-(u'Digital asset management', 0.00024212731635346368)
-(u'Object database', 0.0002417124967610294)
-(u'Mashup (web application hybrid)', 0.0002417124967610294)
-(u'Web Services Description Language', 0.0002417124967610294)
-(u'SOAP', 0.0002417124967610294)
-(u'Spamdexing', 0.00024166392043834377)
-(u'Software build', 0.00024126756698363773)
-(u'WETA-TV', 0.00024063627570641472)
-(u'WTTW', 0.00024063627570641472)
-(u'Gentoo Linux', 0.00024020471390214014)
-(u'Arch Linux', 0.00024020471390214014)
-(u'Linux Mint', 0.00024020471390214011)
-(u'Rubber stamp', 0.00023991973010041475)
-(u'Postmark', 0.00023991973010041475)
-(u'Analysis of algorithms', 0.00023749866525952615)
-(u'Java processor', 0.00023743788006187844)
-(u'Lisp machine', 0.00023743788006187844)
-(u'Stack register', 0.00023743788006187844)
-(u'Login session', 0.00023738537540568397)
-(u'Session ID', 0.00023738537540568397)
-(u'Glue code', 0.00023702195221536474)
-(u'Computer-supported cooperative work', 0.00023683894512073828)
-(u'Collaborative working environment', 0.00023683894512073828)
-(u'Enterprise bookmarking', 0.00023683894512073828)
-(u'Online dating service', 0.00023683894512073828)
-(u'Bromine', 0.00023653143053652858)
-(u'Mercury(II) chloride', 0.00023653143053652858)
-(u'Mercury relay', 0.00023653143053652858)
-(u'Infrared thermometer', 0.00023653143053652858)
-(u'Methylmercury', 0.00023653143053652858)
-(u'Mercury switch', 0.00023653143053652858)
-(u'Ballcock', 0.00023653143053652858)
-(u'Alcohol', 0.00023653143053652858)
-(u'Caesium', 0.00023653143053652858)
-(u'Amalgam (dentistry)', 0.00023653143053652858)
-(u'Thermistor', 0.00023653143053652858)
-(u'Sphygmomanometer', 0.00023653143053652858)
-(u'Galinstan', 0.00023653143053652858)
-(u'Keyboard shortcut', 0.00023612928506791926)
-(u'System Management Interface Tool', 0.00023612928506791926)
-(u'DOS Shell', 0.00023612928506791926)
-(u'OpenVMS', 0.00023612928506791926)
-(u'LAMP (software bundle)', 0.00023586501930620698)
-(u'Computerworld', 0.00023394584081524647)
-(u'SpamBayes', 0.00023394584081524647)
-(u'Language binding', 0.00023347145587385623)
-(u'Mass collaboration', 0.00023287109761095095)
-(u'Systems architect', 0.00023257187484715213)
-(u'Clojure', 0.0002321740644833428)
-(u'Dynamic HTML', 0.00023164668571574255)
-(u'Persistence (computer science)', 0.00023128100749987616)
-(u'Erlang (programming language)', 0.00023062159776900874)
-(u'Java Community Process', 0.0002297611742570652)
-(u'IcedTea', 0.0002297611742570652)
-(u'Write once, run anywhere', 0.0002297611742570652)
-(u'Software relicensing', 0.0002297611742570652)
-(u'GNU Classpath', 0.0002297611742570652)
-(u'OS X Mountain Lion', 0.00022934608620759465)
-(u'Landmark', 0.00022934608620759465)
-(u'Mac OS X Server 1.0', 0.00022934608620759465)
-(u'Manhua', 0.00022906370983583619)
-(u'Japanese art', 0.00022906370983583619)
-(u'Colorful (manga)', 0.00022906370983583619)
-(u'Japanese yen', 0.00022906370983583619)
-(u'Manhwa', 0.00022906370983583619)
-(u'Trade paperback (comics)', 0.00022906370983583619)
-(u'Bjarne Stroustrup', 0.00022832002405742414)
-(u'Intel C++ Compiler', 0.00022832002405742414)
-(u'Space probe', 0.00022832002405742414)
-(u'Visual C++', 0.00022832002405742414)
-(u'IBM XL C++', 0.00022832002405742414)
-(u'Solution stack', 0.00022719424883001124)
-(u'Video hosting service', 0.00022642651456688227)
-(u'Python Software Foundation', 0.00022642217522825042)
-(u'Py2exe', 0.00022642217522825042)
-(u'Source lines of code', 0.00022642217522825042)
-(u'CPython', 0.00022642217522825042)
-(u'Multi-licensing', 0.00022624496841304698)
-(u'David A. Wheeler', 0.00022624496841304698)
-(u'Levenshtein distance', 0.00022473493580129597)
-(u'Patch (Unix)', 0.00022473493580129597)
-(u'Data comparison', 0.00022473493580129597)
-(u'Grep', 0.00022473493580129597)
-(u'Edit distance', 0.00022473493580129597)
-(u'Repository (version control)', 0.00022275005623607831)
-(u'DNS hosting service', 0.00022266538644895637)
-(u'Email hosting service', 0.00022266538644895637)
-(u'Upstream (networking)', 0.00022266538644895637)
-(u"Ousterhout's dichotomy", 0.00022175557380604068)
-(u'Fred Brooks', 0.00022175557380604068)
-(u'Automatic programming', 0.00022147720173251734)
-(u'Nature (TV series)', 0.00022092874590146354)
-(u'Keeping Up Appearances', 0.00022092874590146354)
-(u'BBC World News', 0.00022092874590146354)
-(u'National Datacast', 0.00022092874590146354)
-(u'Masterpiece (TV series)', 0.00022092874590146354)
-(u'Frontline (U.S. TV series)', 0.00022092874590146354)
-(u'Nova ScienceNow', 0.00022092874590146354)
-(u'GfK', 0.00022092874590146354)
-(u'American Public Television', 0.00022092874590146354)
-(u'American Masters', 0.00022092874590146354)
-(u'Antiques Roadshow (U.S. TV series)', 0.00022092874590146354)
-(u'Dragon Tales', 0.00022092874590146354)
-(u'Walking with Dinosaurs', 0.00022092874590146354)
-(u'Pledge drive', 0.00022092874590146354)
-(u'Third-party source', 0.00022092874590146354)
-(u'Doctor Who', 0.00022092874590146354)
-(u'Flickr', 0.00022055862414240563)
-(u'Internal Revenue Code', 0.00022015074005846648)
-(u'Taxation in the United States', 0.00022015074005846648)
-(u'Child abuse', 0.00022015074005846648)
-(u'Cruelty to animals', 0.00022015074005846648)
-(u'Tax exemption', 0.00022015074005846648)
-(u'Launchpad (website)', 0.0002176653446011237)
-(u'HTML scripting', 0.00021758525968091226)
-(u'Web browsing history', 0.00021758525968091226)
-(u'SourceForge', 0.00021669140825817483)
-(u'Mono (software)', 0.00021623591567577943)
-(u'Content negotiation', 0.00021577163002837392)
-(u'Finitary relation', 0.00021572728480544632)
-(u'Lex (software)', 0.00021572728480544632)
-(u'Racket (programming language)', 0.00021572728480544632)
-(u'J (programming language)', 0.00021572728480544632)
-(u'Q (programming language from Kx Systems)', 0.00021572728480544632)
-(u'Programming language specification', 0.00021548084486910384)
-(u'Color photography', 0.00021457535036617048)
-(u'S\xe3o Paulo', 0.0002143717552502442)
-(u'Isle of Man', 0.0002143717552502442)
-(u'Bitbucket', 0.00021338012707156358)
-(u'Blog comment hosting service', 0.00021308387782009957)
-(u'Quantcast', 0.00021308387782009957)
-(u'Daniel Ha', 0.00021308387782009957)
-(u'The Daily Telegraph', 0.00021308387782009957)
-(u'CNN', 0.00021308387782009957)
-(u'Web browser engine', 0.00021141433785971646)
-(u'Web API', 0.00021071353487354326)
-(u'LXDE', 0.0002104845226002806)
-(u'Xfce', 0.0002104845226002806)
-(u'Notebook', 0.0002104845226002806)
-(u'SUSE Linux Enterprise Server', 0.0002104845226002806)
-(u'KDE Software Compilation', 0.0002104845226002806)
-(u'TiVo', 0.0002104845226002806)
-(u'Mir (software)', 0.0002104845226002806)
-(u'Category:Free software operating systems', 0.0002104845226002806)
-(u'Mageia', 0.0002104845226002806)
-(u'Yelp', 0.0002098740268173838)
-(u'The Washington Post', 0.0002098740268173838)
-(u'Yahoo! Groups', 0.0002098740268173838)
-(u'Linux kernel mailing list', 0.00020980700496277092)
-(u'FTA receiver', 0.00020980700496277092)
-(u'Linux kernel interfaces', 0.00020980700496277092)
-(u'Network-attached storage', 0.00020980700496277092)
-(u'Wireless access point', 0.00020980700496277092)
-(u'Loadable kernel module', 0.00020980700496277092)
-(u'Perforce', 0.00020949498690002563)
-(u'Symbian', 0.0002087921075530245)
-(u'Ambassador', 0.0002078323349788663)
-(u'Smokey Bear', 0.0002078323349788663)
-(u'Student society', 0.0002078323349788663)
-(u'Phillie Phanatic', 0.0002078323349788663)
-(u'Professional sports', 0.0002078323349788663)
-(u'Good faith', 0.0002078323349788663)
-(u'Luck', 0.0002078323349788663)
-(u'Military organization', 0.0002078323349788663)
-(u'Big Al (mascot)', 0.0002078323349788663)
-(u'Athletic nickname', 0.0002078323349788663)
-(u'School', 0.0002078323349788663)
-(u'Costumed character', 0.0002078323349788663)
-(u'Computer configuration', 0.0002077932404373688)
-(u'Distribution (business)', 0.0002077932404373688)
-(u'Layer element', 0.0002077932404373688)
-(u'Upgrade', 0.0002077932404373688)
-(u'Fleet commonality', 0.0002077932404373688)
-(u'Installation (computer programs)', 0.0002077932404373688)
-(u'Filter (software)', 0.00020753537199961504)
-(u'Standard cross-cultural sample', 0.00020750002954836652)
-(u'List of natural phenomena', 0.00020750002954836652)
-(u'List of narrative techniques', 0.00020750002954836652)
-(u'Season', 0.00020750002954836652)
-(u'Report', 0.00020453006340614578)
-(u'Form (document)', 0.00020453006340614578)
-(u'Pagination', 0.00020453006340614578)
-(u'James Martin (author)', 0.00020453006340614578)
-(u'Web content development', 0.00020324919165860036)
-(u'Electronic business', 0.00020324919165860036)
-(u'Rich Internet application', 0.00020324919165860036)
-(u'Bruce Eckel', 0.00020231553905516588)
-(u'Shared web hosting service', 0.00020231553905516588)
-(u'GNU Bazaar', 0.00020231553905516588)
-(u'FreeBSD Ports', 0.00020206302510224243)
-(u'Junos OS', 0.00020206302510224243)
-(u'Research Unix', 0.00020206302510224243)
-(u'CollabNet', 0.000201341602712217)
-(u'CodePlex', 0.000201341602712217)
-(u'Free Pascal', 0.000201341602712217)
-(u'Concurrent Versions System', 0.000201341602712217)
-(u'Test plan', 0.00019976802119971501)
-(u'Principle', 0.00019976802119971501)
-(u'Multitier architecture', 0.00019976802119971501)
-(u'Software feature', 0.00019842514749177092)
-(u'Task management', 0.00019842514749177092)
-(u'Django Software Foundation', 0.00019803032152560575)
-(u'Architectural pattern', 0.00019803032152560575)
-(u'Type introspection', 0.00019803032152560575)
-(u'Instagram', 0.00019803032152560575)
-(u'Nextdoor', 0.00019803032152560575)
-(u'Create, read, update and delete', 0.00019803032152560575)
-(u'BlackBerry 10', 0.00019517812743647926)

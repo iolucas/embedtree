@@ -1,219 +1,0 @@
-(u'Television program', 0.05387672172319491)
-(u'Washington, D.C.', 0.04363369809385459)
-(u'United States', 0.043451775356721935)
-(u'Software', 0.04135533154761068)
-(u'Software engineering', 0.03780641841918715)
-(u'Computer science', 0.031268068234876954)
-(u'Programming language', 0.02430134869647882)
-(u'Computer programming', 0.020934719925435726)
-(u'Software development', 0.02047173358121591)
-(u'Source code', 0.020379931388082632)
-(u'Virginia', 0.018267532506743473)
-(u'Imperative programming', 0.016945236916944002)
-(u'Computing', 0.01608900326484936)
-(u'Subroutine', 0.015804919175455588)
-(u'Interpreter (computing)', 0.01468670937176778)
-(u'Maryland', 0.01372545259375226)
-(u'Information', 0.013123194996301478)
-(u'Reference implementation', 0.012788868203761067)
-(u'Object-oriented programming', 0.01164649339045462)
-(u'Programming paradigm', 0.01149603999811849)
-(u'Firefox', 0.011340905406332426)
-(u'Software maintenance', 0.0110802604736525)
-(u'Web browser', 0.01069862179203195)
-(u'Library (computing)', 0.01057948770646301)
-(u'Software design', 0.010074573779870198)
-(u'Computer hardware', 0.009990299305771926)
-(u'Newspaper', 0.009104660444758444)
-(u'Object (computer science)', 0.009059365022651254)
-(u'Software documentation', 0.008522287288089007)
-(u'Software development process', 0.008484804132519697)
-(u'High-level programming language', 0.008331135975044708)
-(u'Operating system', 0.008137463899136327)
-(u'PBS', 0.007657735604476882)
-(u'Python (programming language)', 0.007244593913861832)
-(u'Java (programming language)', 0.006995085628909174)
-(u'Public broadcasting', 0.006591129025727515)
-(u'Android (operating system)', 0.006485216074889508)
-(u'Mobile app', 0.006449733447744616)
-(u'Open-source software', 0.006331509391334811)
-(u'Social networking service', 0.006301286112304031)
-(u'Method (computer programming)', 0.006132100527462996)
-(u'C++', 0.006088114849157962)
-(u'Web application', 0.00568539544747389)
-(u'Television station', 0.005601359521888381)
-(u'Desktop computer', 0.005338402858394985)
-(u'The Pragmatic Programmer', 0.005304498662772337)
-(u'Memory management', 0.00478326307019507)
-(u'Google', 0.00468564944315603)
-(u'Linux', 0.004592512686751751)
-(u'Database', 0.004540651928924948)
-(u'Pinterest', 0.004385612467237626)
-(u'Network affiliate', 0.004215066782296646)
-(u'Corporation', 0.004103350698853559)
-(u'Andy Hunt (author)', 0.004085765268678309)
-(u'Copyright', 0.004030793643495781)
-(u'Procedural programming', 0.003903401041615264)
-(u'Functional programming', 0.00389900570341166)
-(u'Mozilla Foundation', 0.003811237451616584)
-(u'Sun Myung Moon', 0.003679820172342324)
-(u'Netherlands', 0.003495414535856627)
-(u'Dave Thomas (programmer)', 0.0033695809991160256)
-(u'Web service', 0.003339420852064419)
-(u'Free and open-source software', 0.0033324510360691227)
-(u'Software framework', 0.003241801887658515)
-(u'Open-source license', 0.0032368394068683437)
-(u'Email client', 0.0031509776669323922)
-(u'User interface', 0.0031384045253503895)
-(u'Run time (program lifecycle phase)', 0.0031377992956624404)
-(u'Database schema', 0.003044648992523347)
-(u'Computing platform', 0.003028002906028026)
-(u'Facebook', 0.0029803472163398314)
-(u'California', 0.0029496385785864575)
-(u'Free software', 0.0029456508067466766)
-(u'Mozilla Corporation', 0.0029001522150583405)
-(u'Code reuse', 0.0028923041476799564)
-(u'Modular programming', 0.002826740708784907)
-(u'Type system', 0.002783080061827283)
-(u'WGBH-TV', 0.0027719143868609212)
-(u'Mozilla', 0.0027421219131784727)
-(u'Open-source model', 0.0025626444309684512)
-(u'Tax', 0.0025189172593496965)
-(u'Unification Church', 0.0024117422852849542)
-(u'Standard library', 0.0023937768563541415)
-(u'Broadsheet', 0.0023563742773815813)
-(u'Component-based software engineering', 0.0023395837180300964)
-(u'Reusability', 0.0023084857697929905)
-(u'Programming in the large and programming in the small', 0.002304661405525942)
-(u'The Washington Times', 0.002283818796694618)
-(u'Nonprofit organization', 0.0022314714391722668)
-(u'Dynamic web page', 0.002184142338621698)
-(u'Server (computing)', 0.002161558521395007)
-(u'Packaging and labeling', 0.002155633991606517)
-(u'Income tax in the United States', 0.0020916931777786012)
-(u'WNET', 0.0020825049666896404)
-(u'Version control', 0.00206856763639701)
-(u'Static web page', 0.00205283350897457)
-(u'IPhone', 0.002014704077593769)
-(u'Mozilla Thunderbird', 0.0020032545742125285)
-(u'Photo sharing', 0.001995857275828427)
-(u'News World Communications', 0.0019890496562658313)
-(u'Proprietary software', 0.0019562474128522285)
-(u'Software deployment', 0.001955759165344386)
-(u'Evan Sharp', 0.0019448973451962467)
-(u'Ben Silbermann', 0.0019448973451962467)
-(u'Startup company', 0.0019002780715467664)
-(u'Mountain View, California', 0.0017979023448702932)
-(u"Don't repeat yourself", 0.001795307400770039)
-(u'Google Play', 0.001752970711654503)
-(u'Nova (TV series)', 0.0017526081765256965)
-(u'Broadcast syndication', 0.0017526081765256965)
-(u'Silicon Valley', 0.0017383287840953342)
-(u'Web framework', 0.0017072435693548922)
-(u'Y Combinator (company)', 0.0016550867343910285)
-(u'1080p', 0.0016467385964421622)
-(u'App Store (iOS)', 0.0016467385964421622)
-(u'IGN', 0.0016206540339552497)
-(u'Disqus', 0.001572754830695943)
-(u'Arlington County, Virginia', 0.0015420540071467137)
-(u'Datacasting', 0.0014912489856535038)
-(u'Automatic programming', 0.001433288468641949)
-(u'PBS NewsHour', 0.0014212445696805242)
-(u'IPad', 0.0014138152516668461)
-(u'IPod Touch', 0.0014138152516668461)
-(u'Django (web framework)', 0.0014020614094270335)
-(u'501(c) organization', 0.001384882715000837)
-(u'Git (software)', 0.0013698153264094324)
-(u'Web development', 0.0013635153829887011)
-(u'WETA-TV', 0.0013506992322475007)
-(u'WTTW', 0.0013506992322475007)
-(u'Free software license', 0.001346655487723403)
-(u'Video hosting service', 0.0012899516382119793)
-(u'GitHub', 0.0012870848892431485)
-(u'General-purpose programming language', 0.0012695216048273785)
-(u'Python Software Foundation', 0.0012695216048273785)
-(u'Py2exe', 0.0012695216048273785)
-(u'Third-party software component', 0.0012695216048273785)
-(u'Source lines of code', 0.0012695216048273785)
-(u'Dynamic programming language', 0.0012695216048273785)
-(u'CPython', 0.0012695216048273785)
-(u'Readability', 0.0012695216048273785)
-(u'BBC World News', 0.0012298897947813111)
-(u'National Datacast', 0.0012298897947813111)
-(u'GfK', 0.0012298897947813111)
-(u'American Public Television', 0.0012298897947813111)
-(u'Frontline (U.S. TV series)', 0.0012298897947813111)
-(u'Doctor Who', 0.0012298897947813111)
-(u'Keeping Up Appearances', 0.0012298897947813111)
-(u'Antiques Roadshow (U.S. TV series)', 0.0012298897947813111)
-(u'Nature (TV series)', 0.0012298897947813111)
-(u'Dragon Tales', 0.0012298897947813111)
-(u'American Masters', 0.0012298897947813111)
-(u'Nova ScienceNow', 0.0012298897947813111)
-(u'Walking with Dinosaurs', 0.0012298897947813111)
-(u'Pledge drive', 0.0012298897947813111)
-(u'Masterpiece (TV series)', 0.0012298897947813111)
-(u'Third-party source', 0.0012298897947813111)
-(u'Trademark', 0.0012288981611457384)
-(u'United States dollar', 0.0012259370374751335)
-(u'Software build', 0.0012127778970767115)
-(u'Color photography', 0.0012070466197980924)
-(u'Software design pattern', 0.0011963685985116879)
-(u'Risk', 0.0011963685985116879)
-(u'List of free and open-source software packages', 0.001179547148043123)
-(u'Computer security', 0.001179547148043123)
-(u'Privacy', 0.001179547148043123)
-(u'Berkeley Software Distribution', 0.001179547148043123)
-(u'Malware', 0.001179547148043123)
-(u'Blog comment hosting service', 0.001161455034902841)
-(u'Quantcast', 0.001161455034902841)
-(u'Daniel Ha', 0.001161455034902841)
-(u'CNN', 0.001161455034902841)
-(u'The Daily Telegraph', 0.001161455034902841)
-(u'Yelp', 0.0011439526698614453)
-(u'The Washington Post', 0.0011439526698614453)
-(u'Yahoo! Groups', 0.0011439526698614453)
-(u'Child abuse', 0.001130631130639286)
-(u'Taxation in the United States', 0.001130631130639286)
-(u'Trade union', 0.001130631130639286)
-(u'Internal Revenue Code', 0.001130631130639286)
-(u'Tax exemption', 0.001130631130639286)
-(u'Cruelty to animals', 0.001130631130639286)
-(u'Web resource', 0.0011245435060327586)
-(u'Web API', 0.0011245435060327586)
-(u'Session (computer science)', 0.0011245435060327586)
-(u'Template processor', 0.0011245435060327586)
-(u'Pagination', 0.0011148327095001995)
-(u'Acronym', 0.0011148327095001995)
-(u'Report', 0.0011148327095001995)
-(u'James Martin (author)', 0.0011148327095001995)
-(u'Form (document)', 0.0011148327095001995)
-(u'Persistence (computer science)', 0.0011148327095001995)
-(u'Synchronization', 0.0011146592993673595)
-(u'Test plan', 0.0011146592993673595)
-(u'Principle', 0.0011146592993673595)
-(u'Multitier architecture', 0.0011146592993673595)
-(u'Installation (computer programs)', 0.001111031445945191)
-(u'Distribution (business)', 0.001111031445945191)
-(u'Upgrade', 0.001111031445945191)
-(u'Namespace', 0.001111031445945191)
-(u'Fleet commonality', 0.001111031445945191)
-(u'Computer configuration', 0.001111031445945191)
-(u'Layer element', 0.001111031445945191)
-(u'GNU Bazaar', 0.0010963018256339523)
-(u'Mercurial', 0.0010963018256339523)
-(u'Bruce Eckel', 0.0010963018256339523)
-(u'Launchpad (website)', 0.0010963018256339523)
-(u'Shared web hosting service', 0.0010963018256339523)
-(u'Type introspection', 0.0010791231312077558)
-(u'Instagram', 0.0010791231312077558)
-(u'Nextdoor', 0.0010791231312077558)
-(u'Bitbucket', 0.0010791231312077558)
-(u'Create, read, update and delete', 0.0010791231312077558)
-(u'Django Software Foundation', 0.0010791231312077558)
-(u'Architectural pattern', 0.0010791231312077558)
-(u'Flickr', 0.0010638727788680193)
-(u'Symbian', 0.0010638727788680193)
-(u'BlackBerry 10', 0.0010638727788680193)
-(u'Twitter', 0.0010638727788680193)
-(u'Tumblr', 0.0010638727788680193)

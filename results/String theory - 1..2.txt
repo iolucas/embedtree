@@ -1,405 +1,0 @@
-(u'Physics', 0.033271434490735656)
-(u'Quantum mechanics', 0.01666357285343263)
-(u'Mathematics', 0.015579824683761165)
-(u'Science', 0.013294318331806849)
-(u'Universe', 0.01271614023210806)
-(u'Atom', 0.012648242046666586)
-(u'Natural science', 0.012294841683242873)
-(u'Philosophy', 0.0121380188660172)
-(u'Social science', 0.011892269244780408)
-(u'Chemistry', 0.011623937865810756)
-(u'Gravity', 0.011507846315315665)
-(u'Ancient Greek', 0.01134075049445862)
-(u'Mass', 0.011076095496555074)
-(u'Discipline (academia)', 0.009622378967287399)
-(u'International System of Units', 0.00942672009331371)
-(u'Energy', 0.009169726238398561)
-(u'Albert Einstein', 0.00881968112899811)
-(u'Matter', 0.00860753539028683)
-(u'Nuclear weapon', 0.008337917061901252)
-(u'General relativity', 0.00797233398306772)
-(u'Electron', 0.00787581038427616)
-(u'Particle physics', 0.007665509205160255)
-(u'Spacetime', 0.006984839804027659)
-(u'Biology', 0.0069241326942346935)
-(u'Photon', 0.006777706441248615)
-(u'Molecule', 0.0067606201010152)
-(u'Electromagnetism', 0.006708886597851777)
-(u'Classical mechanics', 0.006658963622876635)
-(u'Force', 0.006585865717744676)
-(u'Theoretical physics', 0.006491103244209752)
-(u'Economics', 0.006419714206776055)
-(u'Atomic nucleus', 0.0063091775458756156)
-(u'Star', 0.006304069871882683)
-(u'Kilogram', 0.006263640443361944)
-(u'Radiation', 0.006129936403207607)
-(u'Astronomy', 0.006127642727979752)
-(u'Proton', 0.005877706369298224)
-(u'Engineering', 0.0054771343945850225)
-(u'Technology', 0.005434227948121258)
-(u'Natural philosophy', 0.005312797982742759)
-(u'Subatomic particle', 0.005233173693004798)
-(u'Neutron', 0.005216697435611957)
-(u'Psychology', 0.005211615277890962)
-(u'Human', 0.005195914877706949)
-(u'Gas', 0.005184453525236671)
-(u'Plasma (physics)', 0.0051337191409056805)
-(u'Electric charge', 0.005082723560772292)
-(u'Galaxy', 0.0050682296100433375)
-(u'Special relativity', 0.005006468711345409)
-(u"Newton's law of universal gravitation", 0.004903569545001481)
-(u'Quantum field theory', 0.0047973570621655005)
-(u'Planet', 0.004704987961608386)
-(u'Space', 0.004688614419596005)
-(u'Atmosphere of Earth', 0.004643749377460018)
-(u'Motion (physics)', 0.004639200859423275)
-(u'Solid', 0.004620124821387137)
-(u'Milky Way', 0.0045173796606713746)
-(u'Mythology', 0.004458739760209469)
-(u'Theory', 0.004449179528609664)
-(u'Particle', 0.004412486850297135)
-(u'Electromagnetic radiation', 0.004408328541200036)
-(u'Physical law', 0.004284071955886869)
-(u'Physical body', 0.0042734950304021925)
-(u'Temperature', 0.004270764220312359)
-(u'Research', 0.004261519011119179)
-(u'Liquid', 0.004239804857693051)
-(u'Astronomical object', 0.004164368223840123)
-(u'Black hole', 0.004155898756934955)
-(u'Elementary particle', 0.004146988092145141)
-(u'Geology', 0.004102405031529975)
-(u'Dimension', 0.004087450258369473)
-(u'Earth', 0.004032437721682467)
-(u'State of matter', 0.004028689105246689)
-(u'Materials science', 0.004007528814166214)
-(u'Spin (physics)', 0.003990493783820607)
-(u'Sociology', 0.003949238002402042)
-(u'Outline of physical science', 0.0039039614898956133)
-(u'Gravitational field', 0.003881050510150259)
-(u'Nuclear physics', 0.0038687776177343384)
-(u'Big Bang', 0.0037932723219143804)
-(u'Tide', 0.0037424645682703397)
-(u'Physical cosmology', 0.0037220746114767977)
-(u'Light', 0.0036612413299233373)
-(u'Mass\u2013energy equivalence', 0.003572013656516989)
-(u'Condensed matter physics', 0.0035688936232325134)
-(u'Computer science', 0.0035326727507675073)
-(u'Moon', 0.0034473725390170126)
-(u'Three-dimensional space', 0.003432590726568484)
-(u'Radioactive decay', 0.0034232683992646688)
-(u'Dark matter', 0.003377437217106773)
-(u'Fundamental interaction', 0.0033749460207539712)
-(u'Mathematical model', 0.003332049574395197)
-(u'Crystal structure', 0.0032773859419300473)
-(u'Interdisciplinarity', 0.0032682521644235426)
-(u'Point (geometry)', 0.0032333779666219704)
-(u'Standard Model', 0.003232504485118889)
-(u'Chemical property', 0.0031859695178809177)
-(u"Newton's laws of motion", 0.003150417082389557)
-(u'Quark', 0.003037405454140762)
-(u'Time', 0.003033098555714191)
-(u'Artificial intelligence', 0.003025715549855928)
-(u'Speed of light', 0.003019969013953286)
-(u'Nuclear force', 0.0029888602722597957)
-(u'Cosmology', 0.002983139258958313)
-(u'Bose\u2013Einstein condensate', 0.002878643656504299)
-(u'Computer', 0.002861400202355869)
-(u'Calculus', 0.002829590195828375)
-(u'Weak interaction', 0.002802928554385886)
-(u'Archaeology', 0.0027717363927294647)
-(u'Lambda-CDM model', 0.0027240599037793695)
-(u'Classical physics', 0.0027009502928945894)
-(u'Religion', 0.002655260913909352)
-(u'Physical property', 0.002654401583062682)
-(u'Integer', 0.0026467698153333037)
-(u'Acceleration', 0.0026286736607693244)
-(u'Theory of relativity', 0.0026257056772314813)
-(u'Hydrogen', 0.002608185156543709)
-(u'Invariant mass', 0.002579042475143396)
-(u'Pure mathematics', 0.0025699025399570025)
-(u'Minkowski space', 0.002546393407102161)
-(u'Plane (geometry)', 0.0025264676197684476)
-(u'Thermodynamics', 0.0025132539568856827)
-(u'Earth science', 0.00250770168005339)
-(u'Magnetism', 0.002502417597861124)
-(u'String theory', 0.002500670076984281)
-(u'Orbit', 0.0024967767537376886)
-(u'Fermion', 0.0024857574328336855)
-(u'Photoelectric effect', 0.002484440522833643)
-(u'Nucleon', 0.002430733354156332)
-(u'Mechanics', 0.0024292992352563385)
-(u'Society', 0.0024249517801455817)
-(u'Absolute zero', 0.0024223257746525144)
-(u'Metaphysics', 0.0024100416172088213)
-(u'Quantum gravity', 0.0023828743690196925)
-(u'Metre', 0.0023620155922688896)
-(u'Physicist', 0.0023471237377306513)
-(u'Semiconductor', 0.00232073284955685)
-(u'Quantum state', 0.0023052441747831347)
-(u'Strong interaction', 0.0022920697091655747)
-(u'Field (physics)', 0.002279546693397313)
-(u'Political science', 0.002274764210441234)
-(u'Statistical mechanics', 0.002229016522325483)
-(u'Macroscopic scale', 0.0022216754374508665)
-(u'Baryon', 0.0021947718277657577)
-(u'Max Planck', 0.002127634796962816)
-(u'Dark energy', 0.0020901988207300323)
-(u'Magnetic resonance imaging', 0.002073397904033413)
-(u'Laser', 0.0020693896640041347)
-(u'Applied mathematics', 0.0020485053795728804)
-(u'Particle accelerator', 0.002043249875293331)
-(u'Stellar evolution', 0.00202083522104398)
-(u'Hadron', 0.001992013287118783)
-(u'Quantum chromodynamics', 0.0019521975492326337)
-(u'Line (geometry)', 0.0019472863490375522)
-(u'Supermassive black hole', 0.0019464063385285753)
-(u'Black-body radiation', 0.0019410607368082658)
-(u'Volume', 0.0019336993212906647)
-(u'Scientific revolution', 0.0018716783596719915)
-(u'Wave function', 0.0018288690624885904)
-(u'Higgs boson', 0.001821430870652608)
-(u'Hypothesis', 0.0017990241258342473)
-(u'Coordinate system', 0.0017956846600321896)
-(u'Transistor', 0.0017902488688808361)
-(u'Meson', 0.0017694368629007746)
-(u'List of natural phenomena', 0.0017522751776905307)
-(u'Antiferromagnetism', 0.0017488660822461317)
-(u'Ultimate fate of the universe', 0.0017458848894771797)
-(u'Surface (topology)', 0.00173269052729915)
-(u'Gravitational collapse', 0.0017090717229894517)
-(u'Quantum electrodynamics', 0.0016986999798354022)
-(u'Astrophysics', 0.0016870642043861012)
-(u'Nanotechnology', 0.0016854628262808432)
-(u'Distance', 0.0016720564222467752)
-(u'Quantum chemistry', 0.0016708042549072293)
-(u'Scientific modelling', 0.001651102201620271)
-(u'Outline (list)', 0.0016436473030517526)
-(u'Ferromagnetism', 0.0016353544633234689)
-(u'Femtometre', 0.001629620288011739)
-(u'Atomic orbital', 0.0016177490318012907)
-(u'Latitude', 0.0015970628355915068)
-(u'Charge (physics)', 0.0015888037542652555)
-(u'Laws of science', 0.0015694972795337176)
-(u'Creation myth', 0.0015518726071512515)
-(u'List of particles', 0.0015482988373770085)
-(u'Sagittarius A*', 0.0015471672682538609)
-(u'Hydrogen atom', 0.0015437566908384898)
-(u'Superconductivity', 0.0015377549508031442)
-(u'Gravitational wave', 0.0015368556955028016)
-(u'Probability amplitude', 0.0015311700002080034)
-(u'Body of knowledge', 0.001505445405100471)
-(u'Sphere', 0.0015012490459123127)
-(u'Chronology of the universe', 0.0014937216168769158)
-(u'Medical imaging', 0.0014822006449737722)
-(u'Supersymmetry', 0.0014606673807081017)
-(u'Weight', 0.0014585668203736545)
-(u'Four-dimensional space', 0.0014509698607085213)
-(u'Theory of everything', 0.0014503606391775095)
-(u'Crystallography', 0.0014292577280544496)
-(u'Pauli exclusion principle', 0.0014241325356616345)
-(u'Gravitational constant', 0.0014186885024332703)
-(u'Boson', 0.0014179504980117888)
-(u'Metallurgy', 0.0014038608955586679)
-(u'Cosmological constant', 0.0013955415201277461)
-(u'Biophysics', 0.0013856926741611895)
-(u'Quantization (physics)', 0.001377795049765097)
-(u'Large Hadron Collider', 0.0013735660677188085)
-(u'Phase (matter)', 0.0013723218326424885)
-(u'Weighing scale', 0.0013698132643887677)
-(u'Forms of energy', 0.0013698132643887677)
-(u'System', 0.0013685136684153285)
-(u'Solid-state physics', 0.001367848408751159)
-(u"Coulomb's law", 0.0013469424309902381)
-(u'Square (algebra)', 0.0013159925949706734)
-(u'Neutron star', 0.001313380970853315)
-(u'Galaxy formation and evolution', 0.0013109074454427415)
-(u'Television', 0.0013078840392487798)
-(u'Demarcation problem', 0.0013078840392487798)
-(u'Major appliance', 0.0013078840392487798)
-(u'Industrialisation', 0.0013078840392487798)
-(u'Lepton', 0.001301948166402951)
-(u'Electron microscope', 0.001298942045836948)
-(u'Two-dimensional space', 0.0012673973855395417)
-(u'Quantum superposition', 0.0012591900833513348)
-(u'Uncertainty principle', 0.0012433669758936906)
-(u'Proportionality (mathematics)', 0.0012393696848351985)
-(u'Longitude', 0.0012313574796409764)
-(u'Center of mass', 0.0012238073014243863)
-(u'History of quantum mechanics', 0.0012054247036582628)
-(u'Cavendish Laboratory', 0.0012028218177806836)
-(u'Event horizon', 0.0011789668288519099)
-(u'Binary star', 0.0011755022178350366)
-(u'Nuclear power', 0.0011754441426579478)
-(u'Discovery of the neutron', 0.0011741498680055478)
-(u'Thermal radiation', 0.0011699163083169757)
-(u'Massless particle', 0.0011611487206136428)
-(u'Gauge theory', 0.001122772162573276)
-(u'Quasiparticle', 0.001119981721607173)
-(u'Stellar black hole', 0.0011196437486659062)
-(u'Mathematical formulation of quantum mechanics', 0.0011098441993424015)
-(u'Point particle', 0.0011065659114941552)
-(u'Black body', 0.0011018957983127678)
-(u'Religious cosmology', 0.0010892510853489656)
-(u'Nuclear binding energy', 0.001077651639169018)
-(u'Paul Dirac', 0.0010647624443542393)
-(u'Solar mass', 0.0010495103245448624)
-(u'Pierre-Simon Laplace', 0.001048010194789999)
-(u'Schr\xf6dinger equation', 0.0010472796757718097)
-(u'Physics beyond the Standard Model', 0.0010430074309361486)
-(u'Superconducting magnet', 0.0010413429069977267)
-(u'Old quantum theory', 0.0010413429069977267)
-(u'Microprocessor', 0.0010413429069977267)
-(u'Light-emitting diode', 0.0010413429069977267)
-(u'Nuclear medicine', 0.0010401901597283658)
-(u'LIGO', 0.0010363282444648466)
-(u'Hamiltonian mechanics', 0.0010343997684181588)
-(u'Observational astronomy', 0.001026344115447885)
-(u'Quark\u2013gluon plasma', 0.0010236192209393704)
-(u'Lagrangian mechanics', 0.0010227226553867653)
-(u'Gravitational time dilation', 0.0010163342409401247)
-(u'Space (mathematics)', 0.0010137976066092408)
-(u'Satyendra Nath Bose', 0.001012288697580055)
-(u'Planck units', 0.0010120777047809763)
-(u'Excited state', 0.0010095518796167187)
-(u'Superfluidity', 0.0009864212304811486)
-(u'Spacetime symmetries', 0.000985763204199113)
-(u'Spin\u2013statistics theorem', 0.0009829250954777628)
-(u'Hawking radiation', 0.0009775876840881572)
-(u'Ion implantation', 0.0009732523694315951)
-(u'German philosophy', 0.0009720749109529449)
-(u'Perturbation theory (quantum mechanics)', 0.0009713056699802489)
-(u'Formation and evolution of the Solar System', 0.0009593546026874014)
-(u'Tensor', 0.0009556369258359617)
-(u'M-theory', 0.0009354352228744154)
-(u'Superstring theory', 0.0009272323054430334)
-(u'Navigation', 0.0009222985337488468)
-(u'Grand Unified Theory', 0.000918486736635193)
-(u'Event (relativity)', 0.0009110814710566002)
-(u'Microscopic scale', 0.0009021916242010106)
-(u'AdS/CFT correspondence', 0.0009005171428456923)
-(u'Hamiltonian (quantum mechanics)', 0.0008824806115495807)
-(u'Special unitary group', 0.0008689752190820555)
-(u'Half-integer', 0.0008671307702100362)
-(u'Particulates', 0.000861955094269498)
-(u'Feynman diagram', 0.0008588271899758677)
-(u'Radiocarbon dating', 0.0008574341005510906)
-(u'Gravitational potential', 0.0008522166144715802)
-(u'Group theory', 0.0008473315937253038)
-(u'Force carrier', 0.0008472788770078958)
-(u'Enrico Fermi', 0.0008447383133291887)
-(u'Pion', 0.0008444329171913832)
-(u'Spontaneous symmetry breaking', 0.000834691887390482)
-(u'Measure (mathematics)', 0.0008130833705470877)
-(u'Equivalence principle', 0.0008130833705470877)
-(u'Net force', 0.0008130833705470877)
-(u'Inertia', 0.0008130833705470877)
-(u'Sound', 0.0007718410404608868)
-(u'Phonon', 0.000771141029460763)
-(u'Planck length', 0.0007696225388127832)
-(u'Function space', 0.0007680352630709787)
-(u'Mass generation', 0.0007662534249403747)
-(u'Parity (mathematics)', 0.0007648276607839866)
-(u'Trajectory', 0.000751957330730634)
-(u'Leonard Susskind', 0.0007518897448069423)
-(u'Holographic principle', 0.0007513323527266342)
-(u'Absolute time and space', 0.000748521163315389)
-(u'Superpartner', 0.000736745678522946)
-(u'Concept', 0.0007239654571508282)
-(u'Renormalization', 0.0007214592275992674)
-(u'NP-completeness', 0.0007131222245166478)
-(u'Fermionic condensate', 0.0007122400239966921)
-(u'Leucippus', 0.0007122400239966921)
-(u'Democritus', 0.0007122400239966921)
-(u'Quark model', 0.0006902615180914935)
-(u'Gluon', 0.0006898864906693309)
-(u'Extra dimensions', 0.0006856254428021267)
-(u'Graviton', 0.0006828136569850969)
-(u'Science fiction', 0.0006775419504153966)
-(u'Supergravity', 0.0006765545586656125)
-(u'\xc5', 0.0006762215686083912)
-(u'Commutator', 0.0006760284116107757)
-(u'Suspension (chemistry)', 0.000671619304830818)
-(u'First observation of gravitational waves', 0.0006653798826368086)
-(u'Bose\u2013Einstein statistics', 0.0006625166342644673)
-(u'Accretion disk', 0.0006608917530192967)
-(u'String theory landscape', 0.0006412326107812793)
-(u'String (physics)', 0.0006387649530185205)
-(u'Cylinder (geometry)', 0.0006322667743136374)
-(u'Bosonic string theory', 0.0006237979826773918)
-(u'Conformal field theory', 0.0006081650042980549)
-(u'Pseudo-Riemannian manifold', 0.0006080564257149209)
-(u'Edward Witten', 0.0005973376687257857)
-(u'Operations research', 0.0005925616752966343)
-(u'Economist', 0.0005925616752966343)
-(u'Engineer', 0.0005925616752966343)
-(u'Statistician', 0.0005925616752966343)
-(u'Meteorology', 0.0005925616752966343)
-(u'Elasticity (physics)', 0.0005883007947478291)
-(u'Magnetic flux', 0.0005825193423677515)
-(u'\xc5ngstr\xf6m', 0.0005779601078787999)
-(u'Scalar potential', 0.0005779601078787999)
-(u'Yukawa potential', 0.0005779601078787999)
-(u'History of string theory', 0.0005715569572189484)
-(u'Fermi\u2013Dirac statistics', 0.0005703790663086291)
-(u'Loop quantum gravity', 0.0005700499628565605)
-(u'Causal fermion system', 0.0005700499628565605)
-(u'Quantum field theory in curved spacetime', 0.0005648617526969179)
-(u'Quasar', 0.0005648617526969179)
-(u'Karl Schwarzschild', 0.0005648617526969179)
-(u'David Finkelstein', 0.0005648617526969179)
-(u'John Michell', 0.0005648617526969179)
-(u'Number theory', 0.0005599908603430507)
-(u"Gerard 't Hooft", 0.0005566415517848404)
-(u'Observer (special relativity)', 0.0005501880867173703)
-(u'Configuration space', 0.0005501880867173703)
-(u'Parameter space', 0.0005501880867173703)
-(u'Cube', 0.0005501880867173703)
-(u'Anti-de Sitter space', 0.0005446579668912973)
-(u'Calabi\u2013Yau manifold', 0.0005382665405359263)
-(u'Yang\u2013Mills theory', 0.0005359249037165492)
-(u'Brane', 0.0005340233561368613)
-(u'Atomic physics', 0.0005286997782836344)
-(u'Yakov Frenkel', 0.0005286997782836344)
-(u'Cambridge', 0.0005286997782836344)
-(u'Philip Warren Anderson', 0.0005286997782836344)
-(u'American Physical Society', 0.0005286997782836344)
-(u'Volker Heine', 0.0005286997782836344)
-(u'Ultracold atom', 0.0005286997782836344)
-(u'Nuclear matter', 0.0005286997782836344)
-(u'Bell Labs', 0.0005286997782836344)
-(u'Americans', 0.0005286997782836344)
-(u'Nature (journal)', 0.0005279532404117017)
-(u'Stanis\u0142aw Lem', 0.0005279532404117017)
-(u'Steven Gubser', 0.0005269657218135288)
-(u'Alexander Markovich Polyakov', 0.0005269657218135288)
-(u'Christian Wolff (philosopher)', 0.0005254567649257541)
-(u'Western esotericism', 0.0005254567649257541)
-(u'Philosophy of physics', 0.0005254567649257541)
-(u'Philosophy of space and time', 0.0005254567649257541)
-(u'Thomas Blount (lexicographer)', 0.0005254567649257541)
-(u'Eschatology', 0.0005254567649257541)
-(u'David Spergel', 0.0005254567649257541)
-(u'Stress\u2013energy tensor', 0.000523444882644593)
-(u'Cooper pair', 0.0005218136262954979)
-(u'Isotopes of lead', 0.0005218136262954979)
-(u'Indian people', 0.0005218136262954979)
-(u'World line', 0.0005143981807779821)
-(u'Mathematical theory', 0.0005134137504152807)
-(u'Outline of physics', 0.0005134137504152807)
-(u'Subset sum problem', 0.0005004406547714844)
-(u'Anthropic principle', 0.0005004406547714844)
-(u'Homology (mathematics)', 0.0005004406547714844)
-(u'False vacuum', 0.0005004406547714844)
-(u'Fine-tuning', 0.0005004406547714844)
-(u'University of Southern California', 0.0004927414509554016)
-(u'Compactification (physics)', 0.0004927414509554016)
-(u'S-duality', 0.0004927414509554016)
-(u'Matrix theory (physics)', 0.0004927414509554016)
-(u'T-duality', 0.0004927414509554016)
-(u'Igor Klebanov', 0.0004856838166320691)
-(u'Coupling (physics)', 0.0004856838166320691)
-(u'Non-perturbative', 0.0004856838166320691)
-(u'Juan Mart\xedn Maldacena', 0.0004856838166320691)
-(u'Boundary value problem', 0.0004856838166320691)
-(u'Flux tube', 0.00048282945477941784)
-(u'Worldsheet', 0.00048282945477941784)

@@ -1,14 +1,0 @@
-(u'Combat sport', 0.22397501176887014)
-(u'Grappling', 0.12828673375008165)
-(u'Judo', 0.12434802499508216)
-(u'Brazilian jiu-jitsu', 0.09750622647342763)
-(u'Strike (attack)', 0.09749932488073162)
-(u'Mixed martial arts', 0.0956659489184356)
-(u'Grappling position', 0.05291150741013932)
-(u'Joint lock', 0.047860437168646824)
-(u'Chokehold', 0.047860437168646824)
-(u'Hand-to-hand combat', 0.023077832032830245)
-(u'Japanese language', 0.023077832032830245)
-(u'Transition (grappling)', 0.012907615142807832)
-(u'Catch wrestling', 0.012907615142807832)
-(u'Guard (grappling)', 0.012115453114661875)

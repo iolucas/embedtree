@@ -1,12 +1,0 @@
-(u'Version control', 0.18531467320837067)
-(u'Python (programming language)', 0.1548705763840416)
-(u'Git (software)', 0.08626331376433902)
-(u'Web framework', 0.07768740593687617)
-(u'Bitbucket', 0.07211489873271842)
-(u'Shared web hosting service', 0.060535590281950526)
-(u'Django (web framework)', 0.060535590281950526)
-(u'GitHub', 0.060535590281950526)
-(u'Mercurial', 0.060535590281950526)
-(u'GNU Bazaar', 0.060535590281950526)
-(u'Launchpad (website)', 0.060535590281950526)
-(u'Bruce Eckel', 0.060535590281950526)

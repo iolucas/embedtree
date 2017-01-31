@@ -1,576 +1,0 @@
-(u'Mathematics', 0.023124680546645446)
-(u'Renaissance', 0.020875101001109064)
-(u'Ancient Greek', 0.018257316173029937)
-(u'Science', 0.014777097701984392)
-(u'Natural science', 0.014075644366255833)
-(u'Latin', 0.013962774207985985)
-(u'Philosophy', 0.013919997870253213)
-(u'Physics', 0.0122636707322938)
-(u'Greek language', 0.011569281580195427)
-(u'Ancient Greece', 0.009912034431911371)
-(u'Italy', 0.009490282944408433)
-(u'Social science', 0.008753903303559338)
-(u'Classical antiquity', 0.00867809764259408)
-(u'Hellenistic period', 0.008646686107505415)
-(u'Middle Ages', 0.008461539969496851)
-(u'Classical Greece', 0.008001125395934365)
-(u'Linguistics', 0.007954029103963164)
-(u'Logic', 0.007379937565572613)
-(u'Disease', 0.007331184276657863)
-(u'Alexander the Great', 0.006696627793244798)
-(u'Statistics', 0.006525170422932206)
-(u'Knowledge', 0.005941899142020552)
-(u'Aristotle', 0.005936037630489071)
-(u'Biology', 0.00581929027335843)
-(u'Language', 0.005719428196908539)
-(u'Scientific method', 0.005707390408678575)
-(u'Universe', 0.005292436275487263)
-(u'Real number', 0.005259656738668736)
-(u'Astronomy', 0.005252397927511578)
-(u'Engineering', 0.005213308503111648)
-(u'Number', 0.005203892559098388)
-(u'Psychology', 0.005200617836861676)
-(u'Isaac Newton', 0.0051735447058860705)
-(u'Plato', 0.005016666420518912)
-(u'Economics', 0.00495134060882046)
-(u'Truth', 0.004902173089498851)
-(u'Galileo Galilei', 0.00473425742052249)
-(u'Technology', 0.004593370510087165)
-(u'Chemistry', 0.004540258628287048)
-(u'Modern history', 0.004485684051256119)
-(u'Western world', 0.004426034938088496)
-(u'Mediterranean Sea', 0.004381219453892956)
-(u'Set (mathematics)', 0.004286461519234578)
-(u'Medicine', 0.0042522463829513584)
-(u'Immanuel Kant', 0.004154132157981053)
-(u'Koine Greek', 0.004120515414937755)
-(u'Measurement', 0.004116243285529387)
-(u'Experiment', 0.0041137021134890605)
-(u'Italian Renaissance', 0.004088097189227664)
-(u'Phenomenon', 0.004070695895852745)
-(u'Archaic Greece', 0.003987466512563622)
-(u'Early modern period', 0.003959985160257732)
-(u'Computer science', 0.003910464503318217)
-(u'Albert Einstein', 0.0037520368826396114)
-(u'Semantics', 0.003727373209267591)
-(u'Natural philosophy', 0.003649776670309969)
-(u'Metaphysics', 0.003616215140487919)
-(u'History', 0.0036106507894217055)
-(u'Calculus', 0.0035902754491612164)
-(u'Natural number', 0.003509721138805753)
-(u'Axiom', 0.0034875172172552336)
-(u'Alexandria', 0.0034545334178475167)
-(u'Observation', 0.0034479497126024246)
-(u'Late Middle Ages', 0.003442894676807106)
-(u'Geocentric model', 0.003404273273278616)
-(u'Empirical evidence', 0.0034031483645793883)
-(u'Florence', 0.003389144706162788)
-(u'Gottfried Wilhelm Leibniz', 0.003358236665605188)
-(u'Information', 0.0033218099937768718)
-(u'Space', 0.0032030760951788097)
-(u'Ancient Greek philosophy', 0.0031812617036334036)
-(u'Venice', 0.0031445405357214337)
-(u'Reason', 0.003127291747867466)
-(u'Complex number', 0.0031217601782919037)
-(u'History of Europe', 0.0031137496137157083)
-(u'Heliocentrism', 0.003102326753579053)
-(u'Attic Greek', 0.0030791011862062174)
-(u'Function (mathematics)', 0.003062995053417191)
-(u'Argument', 0.0030576646809235162)
-(u'Medieval Greek', 0.003037402567939909)
-(u'System of measurement', 0.0029872969590940216)
-(u'Geometry', 0.002953425879093962)
-(u'Homer', 0.0029371573458419585)
-(u'Deductive reasoning', 0.0029181993199914546)
-(u'Mathematical logic', 0.0029088420604843784)
-(u'Philosopher', 0.00290033280661477)
-(u'Religion', 0.0028763061225866677)
-(u'Numeral system', 0.0028745828516173197)
-(u'Sociology', 0.0028324472819327923)
-(u'Renaissance humanism', 0.0028323834669890247)
-(u'Counting', 0.0027682677513119025)
-(u'Algorithm', 0.002760070091524881)
-(u'Scientific revolution', 0.002748488191801966)
-(u'Force', 0.002743797251001584)
-(u'Set theory', 0.002741439376420154)
-(u'International System of Units', 0.002709257640674977)
-(u'Quantum mechanics', 0.002705661785122743)
-(u'Mathematical proof', 0.0026845268646037697)
-(u'Classical mechanics', 0.002684417060758334)
-(u'Data', 0.0026773268595155315)
-(u'Game theory', 0.0026706006525754953)
-(u'Arithmetic', 0.0026347643732116247)
-(u'Statistical hypothesis testing', 0.002552651524117345)
-(u'Motion (physics)', 0.002532567424733694)
-(u'Socrates', 0.0025235900967801373)
-(u'Rational number', 0.002518020232516066)
-(u'Historiography', 0.0025110325679762228)
-(u'Inductive reasoning', 0.002505011935154929)
-(u'Number theory', 0.002457007779623211)
-(u'Algebra', 0.0024555038522311584)
-(u'German language', 0.00245170613322656)
-(u'Time', 0.0024261819169704006)
-(u'Mathematical object', 0.0024063124152727995)
-(u'Mass', 0.0023993488448113315)
-(u'Printing press', 0.0023725390514084703)
-(u'Italians', 0.0023507253572557373)
-(u'Polymath', 0.0023162022655154532)
-(u'Phrase', 0.002276319988993801)
-(u'Mathematician', 0.0022631304283230952)
-(u'Spacetime', 0.0022113413691137087)
-(u'Mathematical model', 0.0022111996923413024)
-(u'Mathematical analysis', 0.002193105937636717)
-(u'Euclid', 0.002178796541982042)
-(u'Applied science', 0.0021739418723985536)
-(u'Rome', 0.0021568161445301185)
-(u'House of Medici', 0.002155246410338844)
-(u'Fall of Constantinople', 0.0021520793830275154)
-(u'Theorem', 0.002146439951472452)
-(u'Field (mathematics)', 0.002141425012564345)
-(u'Statistical population', 0.002128710526394453)
-(u'Symbol', 0.00211910557484945)
-(u'Archaeology', 0.0020931784336506343)
-(u'Greek mathematics', 0.00208543245193438)
-(u'Proposition', 0.002070246617006135)
-(u'Natural language', 0.002069438307636319)
-(u'Art', 0.002063981646161658)
-(u'Conjecture', 0.0020622118581370996)
-(u'Republic of Venice', 0.0020452680747722607)
-(u'History of mathematics', 0.002042403645691555)
-(u'Ren\xe9 Descartes', 0.002018792528355962)
-(u'Humanities', 0.0020169385177918947)
-(u'Outline of physical science', 0.00201690218801736)
-(u'Null hypothesis', 0.0020042269048607337)
-(u'Multiplication', 0.001983236937443578)
-(u'David Hilbert', 0.0019673268484089886)
-(u'Leonardo da Vinci', 0.0019592724201701276)
-(u'Machine', 0.0019497236821720432)
-(u'Photon', 0.0019131507843683023)
-(u'Post-classical history', 0.0018951384391271324)
-(u'Bible', 0.0018903345868585175)
-(u'Sequence', 0.0018744924202967338)
-(u'Qualitative research', 0.0018554952923973424)
-(u'American and British English spelling differences', 0.0018306266911363315)
-(u'Premise', 0.0018264683042990522)
-(u'Quantitative research', 0.001822501936735126)
-(u'Addition', 0.0018177248889709714)
-(u'Ptolemaic Kingdom', 0.001796835564486596)
-(u'Fact', 0.0017743700830900634)
-(u'Movable type', 0.001771695017123094)
-(u'Michelangelo', 0.0017696761410610324)
-(u'Statistical inference', 0.0017514330013312682)
-(u'Outline of academic disciplines', 0.0017399337323544825)
-(u'Concept', 0.0017332976402356403)
-(u'Abductive reasoning', 0.001716659012171434)
-(u'Anthropology', 0.0016964789310687895)
-(u'Tool', 0.001691760278432606)
-(u'Integral', 0.0016841239630410883)
-(u'History of science', 0.0016528478341711972)
-(u'Foundations of mathematics', 0.001648866777371655)
-(u'Western canon', 0.0016290595475845766)
-(u'Finite set', 0.0016269310360607025)
-(u'Sample (statistics)', 0.0016256251291222909)
-(u'Special relativity', 0.0016122470657484469)
-(u'General relativity', 0.0015835619625184964)
-(u'Mechanics', 0.0015674241667578072)
-(u'Dimension', 0.0015672467799612208)
-(u'Group (mathematics)', 0.0015586623094758357)
-(u'American English', 0.0015577553013143897)
-(u'Euclidean geometry', 0.0015247699868067145)
-(u'Alternative hypothesis', 0.0015207157671695917)
-(u'Statistical model', 0.0015207157671695915)
-(u'Formal science', 0.001513770378394923)
-(u'Property (philosophy)', 0.001509651536939526)
-(u'Velocity', 0.0015083235981970273)
-(u'Momentum', 0.0015049826070561766)
-(u'Applied mathematics', 0.0014916529745046655)
-(u'Observational astronomy', 0.0014828344895318113)
-(u'Philosophy of science', 0.0014633473471047352)
-(u'Square root of 2', 0.0014569166120074134)
-(u'Level of measurement', 0.0014504924959481654)
-(u'Inference', 0.0014454843499206002)
-(u'Finance', 0.0014388508661211412)
-(u'Falsifiability', 0.0014322225926873583)
-(u'Jews', 0.0014253500330125596)
-(u'Ring (mathematics)', 0.0013857687245948985)
-(u'Domain of a function', 0.0013809674925977676)
-(u'Accounting', 0.0013773281854201004)
-(u'Italian city-states', 0.0013695846377693639)
-(u'Physical body', 0.0013673196637984564)
-(u'Discovery (observation)', 0.0013611142154944366)
-(u'0 (number)', 0.001355982337619956)
-(u'Muhammad ibn Musa al-Khwarizmi', 0.0013553904921426013)
-(u'Mathematics education', 0.001351282001874616)
-(u'Formal proof', 0.0013502748142374885)
-(u'Pure mathematics', 0.001348808776231121)
-(u'Writing', 0.0013479554519710574)
-(u'Descriptive statistics', 0.0013445931231488662)
-(u'Distance', 0.0013242067606660732)
-(u'Magnitude (mathematics)', 0.0013220312736831464)
-(u'Matrix (mathematics)', 0.0012972862556944807)
-(u'List of life sciences', 0.001283378747356785)
-(u'Umbrella term', 0.0012828511785741743)
-(u'Subtraction', 0.0012810339365812713)
-(u'Mathematical structure', 0.0012690573641031301)
-(u'Statistical dispersion', 0.0012587017452384782)
-(u'Rigour', 0.0012510780690041714)
-(u'Optics', 0.0012494261646626404)
-(u'Quantity', 0.0012462885766621073)
-(u'Uncertainty', 0.001239423430681332)
-(u'Philosophy of mathematics', 0.001237201652344408)
-(u'Probability theory', 0.001231599903841211)
-(u'Fifth-century Athens', 0.001225353314272929)
-(u'Mycenaean Greek', 0.001225353314272929)
-(u'Ancient Greek dialects', 0.001225353314272929)
-(u'Theoretical physics', 0.001220616589675236)
-(u'Petrarch', 0.001217199619769071)
-(u'Central tendency', 0.0012018139388106878)
-(u'2 (number)', 0.0011968057831614198)
-(u'System', 0.0011921812562915599)
-(u'Political science', 0.0011864437981990953)
-(u'A priori and a posteriori', 0.0011767406696208047)
-(u'Axiomatic system', 0.0011722401867547286)
-(u'Photoelectric effect', 0.0011712408089451377)
-(u'Pattern', 0.0011671103781296735)
-(u'Logical truth', 0.001165912601042996)
-(u'Alhazen', 0.001161623197215263)
-(u'Physicist', 0.0011603974339928487)
-(u'Square root', 0.0011583530480930387)
-(u'Calculation', 0.0011536636250540498)
-(u'Pi', 0.0011471449939734779)
-(u'Social research', 0.0011364640661216101)
-(u'Proof theory', 0.0011364376033859102)
-(u'Division (mathematics)', 0.0011363149422288132)
-(u'Definition', 0.0011323769016407651)
-(u'Model theory', 0.0011301017744795978)
-(u'Quality (philosophy)', 0.001127223734067488)
-(u'Health', 0.001113329515590986)
-(u'Friedrich Nietzsche', 0.0011064539657942671)
-(u'Painting', 0.001105436232771386)
-(u'John von Neumann', 0.0011039825578460672)
-(u'Ancient Egyptian mathematics', 0.001083009637340346)
-(u'Absolute (philosophy)', 0.0010827592392720921)
-(u'Standard deviation', 0.0010717011323903639)
-(u'Limit (mathematics)', 0.0010680462293114713)
-(u'Acceleration', 0.0010638999970834565)
-(u"Euclid's Elements", 0.001059292611236731)
-(u'Investment', 0.0010567436933510113)
-(u'Eclecticism', 0.0010529940773624817)
-(u'Antipositivism', 0.0010529940773624817)
-(u'Indian mathematics', 0.0010456049485250442)
-(u'Hindu\u2013Arabic numeral system', 0.0010373400113443724)
-(u'Earth science', 0.001036227006509314)
-(u'Renaissance of the 12th century', 0.001028800691704473)
-(u'1 (number)', 0.0010224263955667928)
-(u'Prayer', 0.0010189214807555984)
-(u'Reality', 0.0010150323010437695)
-(u'List of natural phenomena', 0.0010146758385240757)
-(u'Psychotherapy', 0.001013880104457868)
-(u'Wave', 0.001013748178368518)
-(u'Institute for Advanced Study', 0.0010130027454581729)
-(u'Algebraic structure', 0.0010014209724468581)
-(u'Paradox', 0.001000850834748997)
-(u'Mathematical notation', 0.0009981439678171835)
-(u'Positional notation', 0.000997858773065462)
-(u'Pseudoscience', 0.0009909663328542123)
-(u'Gravitational field', 0.0009895555999603744)
-(u'Jules Michelet', 0.0009872699112817255)
-(u'Georg Cantor', 0.0009866390111526598)
-(u'Dialogue Concerning the Two Chief World Systems', 0.0009819763065031409)
-(u'Analysis', 0.0009795258446873034)
-(u'Word', 0.0009783210214557307)
-(u'Astronomer', 0.0009766641244137353)
-(u'Symmetry', 0.0009752564595280338)
-(u'Functional analysis', 0.0009735810208735661)
-(u'Estimation theory', 0.0009675001764622023)
-(u'Behavioural sciences', 0.0009646947576095816)
-(u'Periodization', 0.000963834936968549)
-(u'Giuseppe Peano', 0.0009635729764837517)
-(u'Nuclear fission', 0.0009633941440333996)
-(u'Systems engineering', 0.0009545631778786307)
-(u'Type I and type II errors', 0.0009524513958698997)
-(u'Fallacy', 0.0009376282542793231)
-(u'Carl Friedrich Gauss', 0.0009364556539320123)
-(u'Propositional calculus', 0.0009337708937515528)
-(u'Measure (mathematics)', 0.0009335488910491299)
-(u'Position (vector)', 0.0009273160230949297)
-(u'Analytic philosophy', 0.0009214754093297107)
-(u'Traditional medicine', 0.0009208178079969968)
-(u'Republic of Genoa', 0.0009183706834628761)
-(u'Mean', 0.000918012140894593)
-(u'Business', 0.0009179556459144601)
-(u'Pythagorean theorem', 0.0009172106764834176)
-(u'Census', 0.0009166848029459634)
-(u'Inquiry', 0.0009106431517649375)
-(u'Charles Sanders Peirce', 0.0009090868643189509)
-(u'Rate of return', 0.000895929755621046)
-(u'Peer review', 0.0008956355958634444)
-(u'Law', 0.000894829347671009)
-(u'Series (mathematics)', 0.000893504790800385)
-(u'Negative number', 0.0008932301752615382)
-(u'Mathematics in medieval Islam', 0.0008861372201608264)
-(u'Art history', 0.0008760170612541356)
-(u'Topology', 0.0008700199466679324)
-(u'Theoretical computer science', 0.0008673760760849852)
-(u'Positivism', 0.0008613596855140293)
-(u'Medical device', 0.0008542147792238599)
-(u'Category theory', 0.0008482325756001799)
-(u'Bertrand Russell', 0.0008470251906272473)
-(u'Basic research', 0.0008467759584263854)
-(u'Enumeration', 0.0008465053002549328)
-(u'British English', 0.000842201909312203)
-(u'Metamathematics', 0.0008414500707400303)
-(u'3 (number)', 0.0008400388164198603)
-(u'Critique of Pure Reason', 0.0008369055948357732)
-(u"Fermat's Last Theorem", 0.0008331178126636716)
-(u'Reductionism', 0.0008320711025176857)
-(u'Particle', 0.0008253867349777335)
-(u'Quantification (science)', 0.0008147936994277511)
-(u'Perspective (graphical)', 0.0008122240078938301)
-(u'Bologna', 0.0008089543987221314)
-(u'Heat', 0.000803707649512172)
-(u'Direction (geometry)', 0.0008027908343387914)
-(u'Jurisprudence', 0.0007992548657505458)
-(u'Celestial mechanics', 0.0007922856827716219)
-(u'Mathematical induction', 0.0007869112457455316)
-(u'Asset', 0.0007820041305479014)
-(u'Physics (Aristotle)', 0.0007807748500502347)
-(u'Speed', 0.0007717462868380566)
-(u'Peano axioms', 0.0007519381989529484)
-(u'Ptolemy I Soter', 0.0007499951328668881)
-(u'Definitions of mathematics', 0.0007496596812949246)
-(u'Shape', 0.0007496596812949246)
-(u'Benjamin Peirce', 0.0007496596812949246)
-(u'Timeline of scientific discoveries', 0.0007496596812949246)
-(u'Abstraction (mathematics)', 0.0007496596812949246)
-(u'Order theory', 0.0007441483464346265)
-(u'Debate', 0.0007397838594477325)
-(u'Health care', 0.000739184726992444)
-(u'Category (mathematics)', 0.0007377766430540984)
-(u'Lambda calculus', 0.0007332638967655633)
-(u'Demography', 0.000732581401630321)
-(u'Map (mathematics)', 0.0007306877475370624)
-(u'Observational study', 0.0007232577381422519)
-(u'Infinitesimal', 0.0007217404540046763)
-(u'Therapy', 0.000720293916086287)
-(u'Non-Euclidean geometry', 0.0007179832842513287)
-(u'Adolf Hitler', 0.0007159076961418894)
-(u'Natural history', 0.0007116519805454416)
-(u'Laws of science', 0.0007116519805454416)
-(u'Mathematical physics', 0.0007116519805454416)
-(u'Francis Bacon', 0.0007116519805454416)
-(u'Presupposition', 0.0007116519805454416)
-(u'Discovery science', 0.0007116519805454416)
-(u'Hard and soft science', 0.0007116519805454416)
-(u'Mass\u2013energy equivalence', 0.0007102294062847231)
-(u'Continuum (measurement)', 0.0007093558899234519)
-(u'Imaginary unit', 0.0007084293861839118)
-(u'Geodesy', 0.0007030634057899072)
-(u'Princeton, New Jersey', 0.0007026750763123681)
-(u'Nobel Memorial Prize in Economic Sciences', 0.0007024379133981715)
-(u'Renaissance Papacy', 0.000698066403356094)
-(u'Greek scholars in the Renaissance', 0.000698066403356094)
-(u'Carolingian Renaissance', 0.000698066403356094)
-(u'Cultural movement', 0.000698066403356094)
-(u'Nostalgia', 0.000698066403356094)
-(u'Longue dur\xe9e', 0.000698066403356094)
-(u'History of education', 0.000698066403356094)
-(u'Protagoras', 0.000698066403356094)
-(u'Concrete', 0.000698066403356094)
-(u'Diplomacy', 0.000698066403356094)
-(u'Oil painting', 0.000698066403356094)
-(u'Erwin Panofsky', 0.000698066403356094)
-(u'Duchy of Milan', 0.000698066403356094)
-(u'Turkish people', 0.000698066403356094)
-(u'Invention', 0.0006973177608457548)
-(u'Codomain', 0.0006950474081090532)
-(u'Quackery', 0.0006945239807629208)
-(u'Kinematics', 0.000686249647223987)
-(u'Design', 0.0006856928435770251)
-(u'Diagnosis', 0.0006817192642944461)
-(u'Nobel Prize in Physics', 0.000679917472088737)
-(u'Riemann hypothesis', 0.0006769197245163703)
-(u'International Bureau of Weights and Measures', 0.0006763348151376696)
-(u'Metrology', 0.000668113802146799)
-(u'Rhind Mathematical Papyrus', 0.0006646127527575815)
-(u'Moscow Mathematical Papyrus', 0.0006646127527575815)
-(u'Human geography', 0.0006510139487259186)
-(u'Medical diagnosis', 0.0006504746276131457)
-(u'Elementary algebra', 0.0006486792140822585)
-(u'Metric space', 0.0006469748639620541)
-(u'Calculus of variations', 0.0006468464898906718)
-(u'Displacement (vector)', 0.0006449965962875829)
-(u'Surgery', 0.0006445953948511744)
-(u'Manhattan Project', 0.0006443765496759642)
-(u'Self-evidence', 0.0006421861500822704)
-(u'Ancient philosophy', 0.0006421861500822704)
-(u'Alternative medicine', 0.0006416417079227036)
-(u'Numeral (linguistics)', 0.0006406466976339805)
-(u'Navigation', 0.0006376719089555651)
-(u'Nominal number', 0.0006364858355767222)
-(u'Frame of reference', 0.0006346450168811755)
-(u'Statistical mechanics', 0.0006342955590431674)
-(u'Strength of materials', 0.0006337722880591434)
-(u'Fundamental theorem of calculus', 0.0006306965715991741)
-(u'Exponentiation', 0.000620288426840219)
-(u'Language of mathematics', 0.0006080980169219615)
-(u'Consequent', 0.0006049513068472515)
-(u'Bias (statistics)', 0.0005997585069519238)
-(u'Compass-and-straightedge construction', 0.0005980097951661789)
-(u'Roman Inquisition', 0.0005925390711878291)
-(u'Thought', 0.0005915149133906077)
-(u'Engineer', 0.0005870719820279062)
-(u'George Berkeley', 0.0005835334062416995)
-(u'Missing data', 0.0005811306324888482)
-(u'Acupuncture', 0.0005741664870617133)
-(u'Black\u2013Scholes model', 0.0005731985161618596)
-(u'Transfinite number', 0.0005719295909290582)
-(u'Medical research', 0.0005705030367299032)
-(u'Modern physics', 0.0005652030446804885)
-(u'Trade', 0.0005627146289730186)
-(u'Closed-world assumption', 0.0005608119761311404)
-(u'Galilean moons', 0.0005598334894122581)
-(u'Corporate finance', 0.0005573703086172369)
-(u'Public finance', 0.0005573703086172369)
-(u'Mathematical sciences', 0.0005536565213302872)
-(u'Industry', 0.0005426406356748607)
-(u'Tests of general relativity', 0.0005423862870757182)
-(u'Convex set', 0.0005400068905299227)
-(u'Physician', 0.0005392575978695694)
-(u'Preventive healthcare', 0.0005392575978695694)
-(u'Process (engineering)', 0.0005342893847850831)
-(u'Structural engineering', 0.0005342893847850831)
-(u'List of engineering branches', 0.0005342893847850831)
-(u'Organization', 0.0005342893847850831)
-(u'Engineering research', 0.0005342893847850831)
-(u'Maintenance, repair, and operations', 0.0005342893847850831)
-(u'Materials science', 0.0005342893847850831)
-(u'Patterns in nature', 0.0005317450944719086)
-(u'Invariant theory', 0.0005257299088494998)
-(u"Hilbert's problems", 0.0005240213525484367)
-(u'Abacus', 0.0005211866547714245)
-(u'Fractal', 0.0005189746543574686)
-(u'Survey methodology', 0.0005181910540475214)
-(u'Censoring (statistics)', 0.0005181910540475214)
-(u'Index (statistics)', 0.0005181910540475214)
-(u'Design of experiments', 0.0005181910540475214)
-(u'Big data', 0.0005181910540475214)
-(u'Objectivity (philosophy)', 0.0005157172023228971)
-(u'Pragmatism', 0.0005111978059149054)
-(u'Pharmaceutical drug', 0.0005075634582885765)
-(u'Humorism', 0.0004944646616345737)
-(u'Differential calculus', 0.00048459554193309675)
-(u'Chinese mathematics', 0.00047961522858905564)
-(u'Babylonian mathematics', 0.00047961522858905564)
-(u'Biopharmaceutical', 0.00046943830939642794)
-(u'Chaos theory', 0.00046292287688246947)
-(u'Quadrivium', 0.0004628473992869192)
-(u'Society of Jesus', 0.0004617167440855455)
-(u'Two New Sciences', 0.0004617167440855455)
-(u'Tychonic system', 0.0004617167440855455)
-(u'Sector (instrument)', 0.0004617167440855455)
-(u'Jupiter', 0.0004617167440855455)
-(u'Pope Urban VIII', 0.0004617167440855455)
-(u'Sunspot', 0.0004617167440855455)
-(u'Phases of Venus', 0.0004617167440855455)
-(u'Stellar parallax', 0.0004617167440855455)
-(u'Brownian motion', 0.00045974957237148524)
-(u"Hilbert's axioms", 0.0004520778019412471)
-(u'Hilbert space', 0.0004520778019412471)
-(u'Ostensive definition', 0.0004502063979525508)
-(u'Extensional and intensional definitions', 0.0004502063979525508)
-(u'Conic section', 0.0004449123569093234)
-(u'Floruit', 0.0004449123569093234)
-(u'Process calculus', 0.00043988531346468844)
-(u'Profession', 0.00043949891679255114)
-(u'Informal logic', 0.0004328226511906155)
-(u'Mathematical folklore', 0.0004328226511906155)
-(u'Mathematical practice', 0.0004328226511906155)
-(u'Quasi-empiricism in mathematics', 0.0004328226511906155)
-(u'Argument-deduction-proof distinctions', 0.0004328226511906155)
-(u'Martin Heidegger', 0.00042532460813764043)
-(u'Essence', 0.00042532460813764043)
-(u'Principle of bivalence', 0.00042532460813764043)
-(u'Aletheia', 0.00042532460813764043)
-(u'Factual relativism', 0.00042532460813764043)
-(u'Truth-bearer', 0.00042532460813764043)
-(u'Modernity', 0.00042532460813764043)
-(u'Veritas', 0.00042532460813764043)
-(u'Criteria of truth', 0.00042532460813764043)
-(u'Correspondence theory of truth', 0.00042532460813764043)
-(u'Authenticity (philosophy)', 0.00042532460813764043)
-(u'Journalism', 0.00042532460813764043)
-(u'Subjectivity', 0.00042532460813764043)
-(u'Falsity', 0.00042532460813764043)
-(u'Serial code', 0.00042328957070087705)
-(u'Numerology', 0.00042328957070087705)
-(u'Hypercomplex number', 0.00042328957070087705)
-(u'One half', 0.00042328957070087705)
-(u'Million', 0.00042328957070087705)
-(u'13 (number)', 0.00042328957070087705)
-(u'International Standard Book Number', 0.00042328957070087705)
-(u'Telephone number', 0.00042328957070087705)
-(u'Cooperative game', 0.00042077961461416726)
-(u'Crafoord Prize', 0.00042077961461416726)
-(u'John Maynard Smith', 0.00042077961461416726)
-(u'Brouwer fixed-point theorem', 0.00042077961461416726)
-(u'Jean Tirole', 0.00042077961461416726)
-(u'Theory of Games and Economic Behavior', 0.00042077961461416726)
-(u'Mathematical economics', 0.00042077961461416726)
-(u'Zero-sum game', 0.00042077961461416726)
-(u'Oskar Morgenstern', 0.00042077961461416726)
-(u'Poker', 0.00042077961461416726)
-(u'Electromagnetic field', 0.000415587373501537)
-(u'Genius', 0.000415587373501537)
-(u'List of scientific publications by Albert Einstein', 0.000415587373501537)
-(u'Russell\u2013Einstein Manifesto', 0.000415587373501537)
-(u'Einstein\u2013Szil\xe1rd letter', 0.000415587373501537)
-(u'Introduction to quantum mechanics', 0.000415587373501537)
-(u'Prussian Academy of Sciences', 0.000415587373501537)
-(u'Citizenship of the United States', 0.000415587373501537)
-(u'Financial instrument', 0.0004107674932936108)
-(u'Heuristic', 0.0004107674932936108)
-(u'Splint (medicine)', 0.00040780183140075294)
-(u'Health technology', 0.00040780183140075294)
-(u'Medicine man', 0.00040780183140075294)
-(u'Biomedical sciences', 0.00040780183140075294)
-(u'Medical genetics', 0.00040780183140075294)
-(u'Surgical suture', 0.00040780183140075294)
-(u'Cytology', 0.00040780183140075294)
-(u'Bloodletting', 0.00040780183140075294)
-(u'Radiation therapy', 0.00040780183140075294)
-(u'Molecular medicine', 0.00040780183140075294)
-(u'Meander', 0.00040481704981973246)
-(u'Tessellation', 0.00040481704981973246)
-(u'Fracture', 0.00040481704981973246)
-(u'Foam', 0.00040481704981973246)
-(u'University of Turin', 0.0004037077418685003)
-(u'Classification of discontinuities', 0.0003941882008470035)
-(u'Linearity', 0.0003927706158967667)
-(u'Timaeus (dialogue)', 0.0003927706158967667)
-(u'Kh\xf4ra', 0.0003927706158967667)
-(u'Conceptual framework', 0.0003927706158967667)
-(u'U.S. National Geodetic Survey', 0.00039234373463997415)
-(u'Tutor', 0.00039234373463997415)
-(u'Harvard University', 0.00039234373463997415)
-(u'Plimpton 322', 0.0003821273534804433)
-(u'Pythagoreanism', 0.0003821273534804433)
-(u'Latin translations of the 12th century', 0.0003821273534804433)
-(u'History of mathematical notation', 0.0003821273534804433)
-(u'Exponential growth', 0.0003821273534804433)
-(u'Die (manufacturing)', 0.00037468247936867127)
-(u'Reflection symmetry', 0.00037468247936867127)
-(u'Wallpaper', 0.00037468247936867127)
-(u'Motif (visual arts)', 0.00037468247936867127)
-(u'Software design pattern', 0.00037468247936867127)
-(u'Germans', 0.00036954257468153624)
-(u'Electrostatics', 0.00036954257468153624)
-(u'Diffeomorphism', 0.000369460927484365)
-(u'Topological group', 0.000369460927484365)
-(u'Homomorphism', 0.000369460927484365)
-(u'Homeomorphism', 0.000369460927484365)
-(u'Treatise', 0.0003486897947491831)
-(u'Carl Benjamin Boyer', 0.0003486897947491831)
-(u'Proclus', 0.0003486897947491831)
-(u'Autolycus of Pitane', 0.0003486897947491831)
-(u'History of algebra', 0.0003486897947491831)
