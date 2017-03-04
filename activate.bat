@@ -1,1 +1,1 @@
-cd env/Scripts && activate && cd ../..
+cd env/Scripts && activate && cd ../..&& cls

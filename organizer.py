@@ -34,3 +34,5 @@ dbQuery = " ".join([
 #Execute query
 for r in neo4jGraph.run(dbQuery):
     print r
+
+keep doing this

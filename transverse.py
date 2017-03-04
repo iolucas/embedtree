@@ -10,7 +10,10 @@ from py2neo import Graph
 
 import networkx as nx
 
+
+
 #import matplotlib.pyplot as plt
+
 
 
 #Functions
@@ -39,9 +42,9 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
     #All directions query based on forward nodes
     #Query all nodes id related
     dbQuery = " ".join([
-        'MATCH (n1:Article {title:"ARTICLE-TITLE"})-[l1:ConnectsTo*' + transversalLevel + ']->(n2:Article)',
+        'MATCH (n1:Article {name:"ARTICLE-TITLE"})-[l1:RefersTo*TRANSVERSAL-LEVEL]->(n2:Article)',
         'RETURN collect(DISTINCT ID(n1)) + collect(DISTINCT ID(n2)) as ids'
-    ]).replace("ARTICLE-TITLE", articleTitle)
+    ]).replace("ARTICLE-TITLE", articleTitle).replace("TRANSVERSAL-LEVEL", transversalLevel)
 
     nodeIds = [] #Array to keep node ids
 
@@ -54,7 +57,7 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
 
     #Now query all connectTo relations between these nodes
     dbQuery = " ".join([
-        'MATCH (n1:Article)-[l1:ConnectsTo]-(n2:Article)',
+        'MATCH (n1:Article)-[l1:RefersTo]-(n2:Article)',
         'WHERE (ID(n1) IN NODE-IDS AND ID(n2) IN NODE-IDS)',
         'RETURN l1 as edges'
     ]).replace("NODE-IDS", str(nodeIds))
@@ -67,7 +70,54 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
         print "Creating graph..."
     for val in neo4jGraph.run(dbQuery):
         e = val[0]
-        G.add_edge(e.start_node()['title'], e.end_node()['title'])
+        G.add_edge(e.start_node()['name'], e.end_node()['name'])
+
+
+
+    #centrality = nx.degree_centrality(G)
+
+    centrality = nx.in_degree_centrality(G)
+
+    use degree centrality 
+
+    think if the current approach is good
+    check if we use clusters or not
+    clusters are good to take the most variate areas of the knowledge
+    think fitness function to cluster
+
+    #centrality = nx.closeness_centrality(G)
+
+    #centrality = nx.betweenness_centrality(G)
+
+    #centrality = nx.edge_betweenness_centrality(G)
+
+    #centrality = nx.current_flow_betweenness_centrality(G)
+
+    #centrality = nx.edge_current_flow_betweenness_centrality(G)
+
+    #centrality = nx.approximate_current_flow_betweenness_centrality(G)
+
+    #centrality = nx.eigenvector_centrality(G) nada ve
+
+    #centrality = nx.eigenvector_centrality_numpy(G)
+
+    #centrality = nx.katz_centrality(G)
+
+    #centrality = nx.katz_centrality_numpy(G)
+
+
+
+
+    
+    
+    
+
+    centralitySorted = sorted(centrality.items(), key=lambda a: a[1], reverse=False)
+
+    for d in centralitySorted:
+        print d
+
+    sys.exit()
 
     #Delete main node if it is needed
     if deleteMainNode:
