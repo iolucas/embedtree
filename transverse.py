@@ -11,6 +11,7 @@ from py2neo import Graph
 import networkx as nx
 
 
+from tabulate import tabulate
 
 #import matplotlib.pyplot as plt
 
@@ -19,18 +20,7 @@ import networkx as nx
 #Functions
 
 #Function to compute incomming edges
-def sumInEdges(g):
-    connDict = dict() #Dictionary to compute values
-
-    #Init all nodes count
-    for n in g.nodes():
-        connDict[n] = 0
-
-    for e in g.edges(): #iterate thru edges
-        target = e[1] #get target
-        connDict[target] += 1 #Sum one value
-
-    return connDict #return the dict
+#replaced by lib in_centrality
 
 
 #Function to get the article cluster
@@ -65,12 +55,42 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
     if verbose:
         print "Querying edges..."
 
-    #Execute query and add edges
+    #Execute query and add edges to create graph
     if verbose:
         print "Creating graph..."
     for val in neo4jGraph.run(dbQuery):
         e = val[0]
         G.add_edge(e.start_node()['name'], e.end_node()['name'])
+
+    #Delete main node if it is needed
+    if deleteMainNode:
+        if verbose:
+            print "Deleting main node..."
+        G.remove_node(articleTitle)
+
+
+
+    #comps = nx.k_components(G.to_undirected())
+
+    #comps = nx.all_node_cuts(G.to_undirected())
+
+    #comps = nx.edge_connectivity(G)
+
+    #comps = nx.minimum_node_cut(G)
+
+    
+    comps = []
+    #print comps
+    #sys.exit()
+
+    print ""
+    for i in comps:
+        comp = comps[i]
+        for member in comp:
+            print member
+        print ""
+
+    
 
 
 
@@ -78,12 +98,20 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
 
     centrality = nx.in_degree_centrality(G)
 
-    use degree centrality 
+    pagerank = nx.pagerank(G)
 
-    think if the current approach is good
-    check if we use clusters or not
-    clusters are good to take the most variate areas of the knowledge
-    think fitness function to cluster
+
+    #think how to construct things by this
+
+    #use degree centrality 
+
+    #think if the current approach is good
+    #check if we use clusters or not
+    #clusters are good to take the most variate areas of the knowledge
+    #think fitness function to cluster
+
+    #maybe clusters wont work due to non fitness function clear for them
+    #just use degree centrality
 
     #centrality = nx.closeness_centrality(G)
 
@@ -105,25 +133,55 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
 
     #centrality = nx.katz_centrality_numpy(G)
 
-
-
-
-    
-    
     
 
-    centralitySorted = sorted(centrality.items(), key=lambda a: a[1], reverse=False)
 
-    for d in centralitySorted:
-        print d
+    def sortConcatAndPrint(dict1, dict2):
+
+        #Sort
+        sortedDict1 = sorted(dict1.items(), key=lambda a: a[1], reverse=False)
+        sortedDict2 = sorted(dict2.items(), key=lambda a: a[1], reverse=False)
+
+        #Concatenate
+        dictSize = len(sortedDict1)
+        printData = list()
+        for i in xrange(dictSize):
+            #Convert data to list to be editable
+            sortedDict1[i] = list(sortedDict1[i])
+            sortedDict2[i] = list(sortedDict2[i])
+
+            #Truncate too long string
+            sortedDict1[i][0] = sortedDict1[i][0][:40]
+            sortedDict2[i][0] = sortedDict2[i][0][:40]
+
+            #Round decimal values to fit on screen
+            sortedDict1[i][1] = round(sortedDict1[i][1], 2)
+            sortedDict2[i][1] = round(sortedDict2[i][1], 2)
+
+            printData.append([str(sortedDict1[i]), str(sortedDict2[i])])
+
+        #Print
+        print(tabulate(printData, headers=['PageRank', 'InCentrality']))
+
+
+
+    def sortAndPrint(items):
+        sortedItems = sorted(items.items(), key=lambda a: a[1], reverse=False)
+        for d in sortedItems:
+            print d.encode('ascii', 'ignore')
+    
+
+    sortConcatAndPrint(pagerank, centrality)
+
+    #print ""
+    #sortAndPrint(centrality)
+
+    #print ""
+    #sortAndPrint(pagerank)
 
     sys.exit()
 
-    #Delete main node if it is needed
-    if deleteMainNode:
-        if verbose:
-            print "Deleteting main node..."
-        G.remove_node(articleTitle)
+
 
     if verbose:
         print "Generating clusters..."
@@ -149,7 +207,7 @@ def getArticleClusters(articleTitle, transversalLevel, deleteMainNode, clusterAl
         if clusterRankMethod == 'pagerank':
             cluster_node_ranks = nx.pagerank(cluster_sg).items() #Pagerank
         elif clusterRankMethod == 'sum':
-            cluster_node_ranks = sumInEdges(cluster_sg).items() #Incomming edges
+            cluster_node_ranks = in_degree_centrality(cluster_sg).items() #Incomming edges
 
         #Order cluster in decreasing order
         cluster_node_ranks = sorted(cluster_node_ranks, key=lambda a: a[1], reverse=True) 
