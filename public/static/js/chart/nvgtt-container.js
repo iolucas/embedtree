@@ -78,7 +78,7 @@ NvgttChart.Container = new function() {
 
 	    var margin = {
             top: 10,
-            bottom: 260,
+            bottom: 100,
             left: 10,
             right: 10
         }      

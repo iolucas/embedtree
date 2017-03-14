@@ -10,7 +10,7 @@ def create_all_cons(args):
 
     db_connection = connectDb()
 
-    for transv in ["1..3"]:
+    for transv in ["1..2"]:
         create_connections(article_title, transv, db_connection)
 
     print "DONE!\n"

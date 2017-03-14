@@ -74,8 +74,6 @@
 <link rel="stylesheet" href="static/css/box-container.css"/>
 <link rel="stylesheet" href="static/css/chart-style.css"/>
 
-<h1>Articles | Map</h1>
-
 <svg class="svg-container" width="100%" height="100%">
     <defs>
 
@@ -153,8 +151,54 @@
 
 <script>
     'use strict';
-    var mapDataStr = '{{mapData|safe}}';
-    NvgttChart.load(JSON.parse(mapDataStr));
+ 
+    var mapLinks = [[1,2],[3,6],[5,1]];
+
+    d3.json("map", function(error, mapLinks) {
+        if(error)
+            console.log(error);
+        else
+            loadMap(mapLinks)
+    });
+
+    function loadMap(mapLinks) {
+
+        //Generate nodesdict and links
+        var nodesDict = {}
+        var links = []
+
+        for(var i = 0; i < mapLinks.length; i++) {
+
+            var node1 = mapLinks[i][0];
+            var node2 = mapLinks[i][1];
+
+            links.push({"sourceId": node2, "targetId": node1})
+            
+            if(nodesDict[node1] == undefined)
+                nodesDict[node1] =  {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": node1, "globalId": node1, "fgcolor": "#2d002d", "name": node1}   
+
+            if(nodesDict[node2] == undefined)
+                nodesDict[node2] =  {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": node2, "globalId": node2, "fgcolor": "#2d002d", "name": node2} 
+        }
+
+        //convert nodes dict to nodes array
+        var nodes = [];
+
+        for(var n in nodesDict)
+            nodes.push(nodesDict[n]);
+
+        // var mapDataStr = '{"nodes": [{"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": "114", "globalId": "114", "fgcolor": "#2d002d", "name": "Social media optimization"}, {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": "115", "globalId": "115", "fgcolor": "#2d002d", "name": "E-commerce"}, {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": "116", "globalId": "116", "fgcolor": "#2d002d", "name": "Social media marketing"}, {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": "117", "globalId": "117", "fgcolor": "#2d002d", "name": "Marketing"}, {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": "113", "globalId": "113", "fgcolor": "#2d002d", "name": "Digital marketing"}], "links": [{"sourceId": "114", "targetId": "113"}, {"sourceId": "116", "targetId": "113"}, {"sourceId": "117", "targetId": "113"}]}';
+        // NvgttChart.load(JSON.parse(mapDataStr));
+
+        // console.log(nodes);
+        // console.log(links);
+
+        NvgttChart.load({
+            nodes: nodes,
+            links: links
+        });
+    }
+
 </script>
 
 </section>
