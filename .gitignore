@@ -89,3 +89,4 @@ env
 
 #results Folder
 results
+*.pyc
