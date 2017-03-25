@@ -18,9 +18,19 @@ in common in that area. We need to valorize the votes of diveristy things in one
 similar to page rank to spread the votes the deeper we go.
 
 """
+"""
+MOTIVATIONS
+===========
+
+PEOPLE WILL TRUST A MAP TO FOLLOW
 
 
 
+
+
+"""
+
+#PUBLISH SOMETHING TO TEST IT
 #think how to construct things by this
 
 
@@ -33,6 +43,8 @@ import networkx as nx #Lib to create and manipulate graphs
 from tabulate import tabulate #Lib to format data as tables before print
 
 import matplotlib.pyplot as plt #Lib to plot info graphics
+
+import numpy as np
 
 VERBOSE = True #Flag to signalize whether to print process info or not
 
@@ -498,11 +510,158 @@ def benchmark_direct_nondirect(args):
     print "\nDIRECTED GRAPH"
     benchmark_central_nodes(dirgraph, article_title)
 
+def extract_path_tuples(path):
+    """Function that generates all path tuples from a list path."""
+    path_tuples = []
+    for i, _ in enumerate(path):
+        if i == 0:
+            continue
+        path_tuples.append((path[i-1], path[i]))
+
+    return path_tuples
+
+
+def get_prereq_probs(graph, seed_node, cutoff):
+    """Function to compute the prereq probabilities for every node."""
+
+    #Compute initial edges probabilities
+    edges_values = dict()
+    for edge1, edge2 in graph.edges():
+        if graph.has_edge(edge2, edge1):
+            edges_values[(edge1, edge2)] = 0.5
+        else:
+            edges_values[(edge1, edge2)] = 1
+
+    #Now compute all the paths to the target seed_node and sequence probabilities to each path
+
+    all_probs = dict()
+
+    nodes_qty = nx.number_of_nodes(graph) - 1
+
+    average_prob = 0
+
+    #Iterate thru all the graph nodes
+    for i, node in enumerate(graph.nodes()):
+        
+        #Skip seed_node since we do not want verify paths to itself
+        if node == seed_node:
+            continue
+
+        print "Working on node ", i+1, "/", nodes_qty
+
+        node_total_paths = 0
+        node_total_prob = 0
+
+        for path in nx.all_simple_paths(graph, source=seed_node, target=node, cutoff=cutoff):
+            node_total_paths += 1
+            node_partial_prob = 1
+            
+            for edge_tuple in extract_path_tuples(path):
+                node_partial_prob *= edges_values[edge_tuple]
+
+            node_total_prob += node_partial_prob
+
+        #Compute probabilitie normalized and the number of total paths
+        all_probs[node] = (node_total_prob / node_total_paths, node_total_paths)
+
+    return all_probs        
+
+def prereq_prob(args):
+    """Function to compute probs of nodes being pre reqs of each other"""
+
+    #virtual_conn_prob = [[]]
+
+    article_title = args[1]
+    transversal_level = args[2]
+
+    db_connection = connectDb()
+
+    graph = getGraph(article_title, transversal_level, db_connection)
+
+    #Compute in_degrees
+    in_degrees = nx.in_degree_centrality(graph)
+
+    #Compute pageranks
+    pageranks = nx.pagerank(graph)
+
+    #Compute graph paths probabilities
+    paths_probs = get_prereq_probs(graph, article_title, 3)
+
+    print paths_probs
+    return
+
+
+    #Must set for true edges their probabilities values
+    #For now they will be 1 if there is no a mirrored edge, and 0.5 for each edge 
+
+    edges_values = dict()
+
+    for edge1, edge2 in graph.edges():
+        if graph.has_edge(edge2, edge1):
+            edges_values[(edge1, edge2)] = 0.5
+        else:
+            edges_values[(edge1, edge2)] = 1
+
+    # for d in edges_values.iteritems():
+    #     print d
+
+    #Now compute all the paths to the target article_title and probabilities of being a request data
+    #all_paths = dict()
+
+
+    all_probs = dict()
+
+    nodes_qty = nx.number_of_nodes(graph) - 1
+    current_node = 1
+
+    average_prob = 0
+
+    for node in graph.nodes():
+        if node == article_title:
+            continue
+
+        print "Working on node ", current_node, "/", nodes_qty
+        current_node += 1
+
+        total_paths = 0
+
+        for path in nx.all_simple_paths(graph, source=article_title, target=node, cutoff=3):
+            total_paths += 1
+            partial_prob = 1
+            for edge_tuple in extract_path_tuples(path):
+                partial_prob *= edges_values[edge_tuple]
+
+            
+            #Init if not initialized
+            if not all_probs.has_key(node):
+                all_probs[node] = 0
+            all_probs[node] += partial_prob
+
+            #print total_paths
+
+        #Only execute this if some path has been found
+        if total_paths > 0:
+            average_prob += all_probs[node] / total_paths
+            all_probs[node] = (all_probs[node] / total_paths, total_paths) 
+            
+    print ""
+
+    sorted_data = sorted(all_probs.iteritems(), key=lambda a: a[1][1], reverse=False)
+    for d in sorted_data:
+        print d
+
+    print "\nAverage prob: ", average_prob/nodes_qty
+
+    #Now compute all probs
+    # all_probs = dict()
+
+    # for 
+            
 
 if __name__ == "__main__":
     #main(sys.argv)
     #path(sys.argv)
-    get_central_nodes(sys.argv)
+    #get_central_nodes(sys.argv)
     #NOT WORKmultiply_distributions(sys.argv)
     #forward_position(sys.argv)
     #benchmark_seedrank(sys.argv)
@@ -511,6 +670,8 @@ if __name__ == "__main__":
     # test_direct_graph(sys.argv)
 
     #benchmark_direct_nondirect(sys.argv)
+
+    prereq_prob(sys.argv)
 
 # will use the 5 first items to compute the required items (501st)
 # later we improve acuracy
