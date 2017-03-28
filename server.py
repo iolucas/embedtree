@@ -1,7 +1,7 @@
 import cherrypy
 import os
 
-from transverse import connectDb
+from transverse import *
 
 import json
 
@@ -27,11 +27,28 @@ def get_map():
 
     return edges
 
+def get_k_most(db_connection, seed_node, k):
+    
+    article_title = seed_node
+    transversal_level = "1..3" #For debug display scheme
+
+    #db_connection = connectDb()
+
+    graph = getGraph(article_title, transversal_level, db_connection)
+
+    paths_probs = get_prereq_probs(graph, article_title, 3)
+
+    sorted_data = sorted(paths_probs.iteritems(), key=lambda a: a[1][1], reverse=True)
+
+    return sorted_data[:k]
 
 class HelloWorld(object):
 
+    def __init__(self):
+        self.db_connection = connectDb()
+
     @cherrypy.expose
-    def index(self):
+    def index(self, node):
         """Func"""
         return open("public/index.html")
 
@@ -43,6 +60,19 @@ class HelloWorld(object):
 
         return json.dumps(edges)
 
+    @cherrypy.expose
+    def target_map(self, node):
+
+        prereq_nodes = get_k_most(self.db_connection, node,10)
+
+        edges = []
+
+        for i, node in enumerate(prereq_nodes):
+            if i == 0:
+                continue
+            edges.append((prereq_nodes[i-1][0], prereq_nodes[i][0]))
+
+        return json.dumps(edges)
 
 if __name__ == '__main__':
     conf = {

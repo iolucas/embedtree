@@ -46,6 +46,8 @@ import matplotlib.pyplot as plt #Lib to plot info graphics
 
 import numpy as np
 
+import csv
+
 VERBOSE = True #Flag to signalize whether to print process info or not
 
 #neo4jGraph = None #Connection to neo4j graph
@@ -525,6 +527,8 @@ def get_prereq_probs(graph, seed_node, cutoff):
     """Function to compute the prereq probabilities for every node."""
 
     #Compute initial edges probabilities
+    #Must set for true edges their probabilities values
+    #For now they will be 1 if there is no a mirrored edge, and 0.5 for each edge 
     edges_values = dict()
     for edge1, edge2 in graph.edges():
         if graph.has_edge(edge2, edge1):
@@ -536,18 +540,23 @@ def get_prereq_probs(graph, seed_node, cutoff):
 
     all_probs = dict()
 
-    nodes_qty = nx.number_of_nodes(graph) - 1
+    paths_per_node = dict()
+
+    nodes_qty = nx.number_of_nodes(graph)
 
     average_prob = 0
 
     #Iterate thru all the graph nodes
     for i, node in enumerate(graph.nodes()):
-        
+
+        print "Working on node ", i+1, "/", nodes_qty
+
+        min_depth = cutoff + 2
+        max_depth = 0
+
         #Skip seed_node since we do not want verify paths to itself
         if node == seed_node:
             continue
-
-        print "Working on node ", i+1, "/", nodes_qty
 
         node_total_paths = 0
         node_total_prob = 0
@@ -555,21 +564,47 @@ def get_prereq_probs(graph, seed_node, cutoff):
         for path in nx.all_simple_paths(graph, source=seed_node, target=node, cutoff=cutoff):
             node_total_paths += 1
             node_partial_prob = 1
-            
-            for edge_tuple in extract_path_tuples(path):
+
+            path_length = len(path)
+
+            #Computes min-max depth
+            if path_length > max_depth:
+                max_depth = path_length
+            if path_length < min_depth:
+                min_depth = path_length
+
+            for i, edge_tuple in enumerate(extract_path_tuples(path)):
+                if i > 0:
+                    if not paths_per_node.has_key(edge_tuple[0]):
+                        paths_per_node[edge_tuple[0]] = 0
+                    paths_per_node[edge_tuple[0]] += 1
+
                 node_partial_prob *= edges_values[edge_tuple]
 
             node_total_prob += node_partial_prob
 
         #Compute probabilitie normalized and the number of total paths
-        all_probs[node] = (node_total_prob / node_total_paths, node_total_paths)
+        all_probs[node] = [node_total_prob / node_total_paths, node_total_paths, min_depth, max_depth]
 
-    return all_probs        
 
+    for key in all_probs.iterkeys():
+        all_probs[key].append(paths_per_node.get(key, 0))    
+
+    return all_probs
+
+def save_csv(file_name, header, data_list):
+    f = open(file_name, 'wt')
+    try:
+        f.write("sep=,\n")
+        writer = csv.writer(f,lineterminator="\n", delimiter=",")
+        writer.writerow(header)
+        for data in data_list:
+            writer.writerow(data)
+    finally:
+        f.close()
+        
 def prereq_prob(args):
-    """Function to compute probs of nodes being pre reqs of each other"""
-
-    #virtual_conn_prob = [[]]
+    """Function to compute probs of nodes being pre reqs of each other."""
 
     article_title = args[1]
     transversal_level = args[2]
@@ -585,78 +620,63 @@ def prereq_prob(args):
     pageranks = nx.pagerank(graph)
 
     #Compute graph paths probabilities
-    paths_probs = get_prereq_probs(graph, article_title, 3)
+    paths_probs = get_prereq_probs(graph, article_title, 4)
 
-    print paths_probs
-    return
-
-
-    #Must set for true edges their probabilities values
-    #For now they will be 1 if there is no a mirrored edge, and 0.5 for each edge 
-
-    edges_values = dict()
-
-    for edge1, edge2 in graph.edges():
-        if graph.has_edge(edge2, edge1):
-            edges_values[(edge1, edge2)] = 0.5
-        else:
-            edges_values[(edge1, edge2)] = 1
-
-    # for d in edges_values.iteritems():
+    # print ""
+    # sorted_data = sorted(paths_probs.iteritems(), key=lambda a: a[1][1], reverse=False)
+    # for d in sorted_data:
     #     print d
 
-    #Now compute all the paths to the target article_title and probabilities of being a request data
-    #all_paths = dict()
+    #Construct data rows
+    data_rows = []
+    for key, value in paths_probs.iteritems():
+        node = key.encode('utf-8')
+        prob = value[0]
+        paths = value[1]
+        min_depth = value[2]
+        max_depth = value[3]
+        paths_per_node = value[4]
+        pagerank = pageranks[key]
+        in_degree = in_degrees[key]
+        data_rows.append((node, prob, paths, min_depth, max_depth, pagerank, in_degree, paths_per_node))
 
 
-    all_probs = dict()
+    file_name = "results2/" + article_title + "-" + transversal_level
+    header = ('node', 'prob', 'paths', 'min_depth', 'max_depth', 'pagerank', 'in_degree', 'paths_per_node')
+    #formated_data_list = [(d[0].encode('utf-8'), d[1][0], d[1][1], d[1][2], d[1][3]) for d in paths_probs.items()]
 
-    nodes_qty = nx.number_of_nodes(graph) - 1
-    current_node = 1
+    save_csv(file_name + ".csv", header, data_rows)
 
-    average_prob = 0
+    #Print graph
+    probs_list = []
+    paths_list = []
+    paths_per_node_list = []
+    for d in data_rows:
+        probs_list.append(d[1])
+        paths_list.append(d[2])
+        paths_per_node_list.append(d[7])
 
-    for node in graph.nodes():
-        if node == article_title:
-            continue
+    #print probs_list
+    #print paths_list
+    plt.xlabel('Paths probabilities')
+    plt.ylabel('Number of paths')
+    plt.title(article_title + " - " + transversal_level)
+    plt.plot(probs_list, paths_list, 'bo')
+    plt.grid(True)
+    plt.savefig(file_name + ".png")
+    #plt.show()
 
-        print "Working on node ", current_node, "/", nodes_qty
-        current_node += 1
+    # plt.xlabel('paths_per_node_list')
+    # plt.ylabel('Number of paths')
+    # plt.title(article_title + " - " + transversal_level)
+    # plt.plot(paths_per_node_list, paths_list, 'bo')
+    # plt.grid(True)
+    # #plt.savefig(file_name + ".png")
+    # plt.show()
 
-        total_paths = 0
 
-        for path in nx.all_simple_paths(graph, source=article_title, target=node, cutoff=3):
-            total_paths += 1
-            partial_prob = 1
-            for edge_tuple in extract_path_tuples(path):
-                partial_prob *= edges_values[edge_tuple]
-
-            
-            #Init if not initialized
-            if not all_probs.has_key(node):
-                all_probs[node] = 0
-            all_probs[node] += partial_prob
-
-            #print total_paths
-
-        #Only execute this if some path has been found
-        if total_paths > 0:
-            average_prob += all_probs[node] / total_paths
-            all_probs[node] = (all_probs[node] / total_paths, total_paths) 
-            
-    print ""
-
-    sorted_data = sorted(all_probs.iteritems(), key=lambda a: a[1][1], reverse=False)
-    for d in sorted_data:
-        print d
-
-    print "\nAverage prob: ", average_prob/nodes_qty
-
-    #Now compute all probs
-    # all_probs = dict()
-
-    # for 
-            
+# for key, value in paths_probs.iteritems():
+#     writer.writerow((str([key]), value[0], value[1], value[2], value[3]))
 
 if __name__ == "__main__":
     #main(sys.argv)
@@ -671,7 +691,9 @@ if __name__ == "__main__":
 
     #benchmark_direct_nondirect(sys.argv)
 
-    prereq_prob(sys.argv)
+    prereq_prob([None, sys.argv[1], "1..1"])
+    prereq_prob([None, sys.argv[1], "1..2"])
+    prereq_prob([None, sys.argv[1], "1..3"])
 
 # will use the 5 first items to compute the required items (501st)
 # later we improve acuracy

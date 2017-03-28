@@ -154,25 +154,43 @@
  
     var mapLinks = [[1,2],[3,6],[5,1]];
 
-    d3.json("map", function(error, mapLinks) {
+    var mainNode = getParameterByName("node")
+
+    d3.json("target_map?node=" + mainNode, function(error, mapLinks) {
         if(error)
             console.log(error);
         else
-            loadMap(mapLinks)
+            loadMap(mapLinks, mainNode)
     });
 
-    function loadMap(mapLinks) {
+    function getParameterByName(name, url) {
+        if (!url) {
+        url = window.location.href;
+        }
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+
+    function loadMap(mapLinks, mainNode) {
 
         //Generate nodesdict and links
         var nodesDict = {}
         var links = []
+
+        //Push main node link
+        mapLinks.push([mapLinks[mapLinks.length-1][1], mainNode])
 
         for(var i = 0; i < mapLinks.length; i++) {
 
             var node1 = mapLinks[i][0];
             var node2 = mapLinks[i][1];
 
-            links.push({"sourceId": node2, "targetId": node1})
+            links.push({"sourceId": node1, "targetId": node2})
             
             if(nodesDict[node1] == undefined)
                 nodesDict[node1] =  {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": node1, "globalId": node1, "fgcolor": "#2d002d", "name": node1}   
@@ -180,6 +198,9 @@
             if(nodesDict[node2] == undefined)
                 nodesDict[node2] =  {"y": 0, "x": 0, "bgcolor": "#b3b3ff", "localId": node2, "globalId": node2, "fgcolor": "#2d002d", "name": node2} 
         }
+
+        //Change color of main node
+        nodesDict[mainNode] = {"y": 0, "x": 0, "bgcolor": "#b3b300", "localId": mainNode, "globalId": mainNode, "fgcolor": "#2d002d", "name": mainNode}
 
         //convert nodes dict to nodes array
         var nodes = [];
