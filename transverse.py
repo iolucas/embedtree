@@ -560,6 +560,7 @@ def get_prereq_probs(graph, seed_node, cutoff):
 
         node_total_paths = 0
         node_total_prob = 0
+        node_higher_prob = 0
 
         for path in nx.all_simple_paths(graph, source=seed_node, target=node, cutoff=cutoff):
             node_total_paths += 1
@@ -583,8 +584,11 @@ def get_prereq_probs(graph, seed_node, cutoff):
 
             node_total_prob += node_partial_prob
 
+            if node_partial_prob > node_higher_prob:
+                node_higher_prob = node_partial_prob
+
         #Compute probabilitie normalized and the number of total paths
-        all_probs[node] = [node_total_prob / node_total_paths, node_total_paths, min_depth, max_depth]
+        all_probs[node] = [node_total_prob / node_total_paths, node_total_paths, min_depth, max_depth, node_higher_prob]
 
 
     for key in all_probs.iterkeys():
@@ -635,14 +639,15 @@ def prereq_prob(args):
         paths = value[1]
         min_depth = value[2]
         max_depth = value[3]
-        paths_per_node = value[4]
+        node_higher_prob = value[4]
+        paths_per_node = value[5]
         pagerank = pageranks[key]
         in_degree = in_degrees[key]
-        data_rows.append((node, prob, paths, min_depth, max_depth, pagerank, in_degree, paths_per_node))
+        data_rows.append((node, prob, paths, min_depth, max_depth, pagerank, in_degree, paths_per_node, node_higher_prob))
 
 
     file_name = "results2/" + article_title + "-" + transversal_level
-    header = ('node', 'prob', 'paths', 'min_depth', 'max_depth', 'pagerank', 'in_degree', 'paths_per_node')
+    header = ('node', 'prob', 'paths', 'min_depth', 'max_depth', 'pagerank', 'in_degree', 'paths_per_node', 'node_higher_prob')
     #formated_data_list = [(d[0].encode('utf-8'), d[1][0], d[1][1], d[1][2], d[1][3]) for d in paths_probs.items()]
 
     save_csv(file_name + ".csv", header, data_rows)

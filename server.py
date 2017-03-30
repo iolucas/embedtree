@@ -63,7 +63,7 @@ class HelloWorld(object):
     @cherrypy.expose
     def target_map(self, node):
 
-        prereq_nodes = get_k_most(self.db_connection, node,10)
+        prereq_nodes = get_k_most(self.db_connection, node,5)
 
         edges = []
 
