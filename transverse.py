@@ -526,18 +526,28 @@ def extract_path_tuples(path):
 def get_prereq_probs(graph, seed_node, cutoff):
     """Function to compute the prereq probabilities for every node."""
 
+
+    #Each node 
+    nodes_edges = dict()
+    for n1, n2 in graph.edges():
+        #init nodes dict if not initiated
+        if not nodes_edges.has_key(n1):
+            nodes_edges[n1] = 0
+        nodes_edges[n1] += 1
+
     #Compute initial edges probabilities
     #Must set for true edges their probabilities values
     #For now they will be 1 if there is no a mirrored edge, and 0.5 for each edge 
     edges_values = dict()
-    for edge1, edge2 in graph.edges():
-        if graph.has_edge(edge2, edge1):
-            edges_values[(edge1, edge2)] = 0.5
-        else:
-            edges_values[(edge1, edge2)] = 1
+    for n1, n2 in graph.edges():
+        edges_values[(n1, n2)] = 1.0 / nodes_edges[n1]
+        # if graph.has_edge(n2, n1):
+        #     edges_values[(n1, n2)] = 0.5
+        # else:
+        #     edges_values[(n1, n2)] = 1
+
 
     #Now compute all the paths to the target seed_node and sequence probabilities to each path
-
     all_probs = dict()
 
     paths_per_node = dict()
@@ -646,7 +656,7 @@ def prereq_prob(args):
         data_rows.append((node, prob, paths, min_depth, max_depth, pagerank, in_degree, paths_per_node, node_higher_prob))
 
 
-    file_name = "results2/" + article_title + "-" + transversal_level
+    file_name = "results3/" + article_title + "-" + transversal_level
     header = ('node', 'prob', 'paths', 'min_depth', 'max_depth', 'pagerank', 'in_degree', 'paths_per_node', 'node_higher_prob')
     #formated_data_list = [(d[0].encode('utf-8'), d[1][0], d[1][1], d[1][2], d[1][3]) for d in paths_probs.items()]
 
@@ -683,6 +693,109 @@ def prereq_prob(args):
 # for key, value in paths_probs.iteritems():
 #     writer.writerow((str([key]), value[0], value[1], value[2], value[3]))
 
+
+def get_deeprank(args):
+    """Function to compute probs of nodes being pre reqs of each other."""
+
+    article_title = args[1]
+    transversal_level = args[2]
+
+    db_connection = connectDb()
+
+    #graph = getGraph(article_title, transversal_level, db_connection)
+    graph = get_direct_graph(article_title, transversal_level, db_connection)
+    
+
+    #Compute graph paths probabilities
+    paths_probs = deeprank(graph, article_title, 4)
+
+
+def deeprank(graph, seed_node, cutoff):
+    """Function to compute the prereq probabilities for every node."""
+
+    #Each node 
+    nodes_edges = dict()
+    for n1, n2 in graph.edges():
+        #init nodes dict if not initiated
+        if not nodes_edges.has_key(n1):
+            nodes_edges[n1] = 0
+        nodes_edges[n1] += 1
+
+    #Compute each link contribution to the article content
+    #For now compute equal values for all of them based on number of edges in the article
+    edges_values = dict()
+    for n1, n2 in graph.edges():
+        edges_values[(n1, n2)] = 1.0 / nodes_edges[n1]
+
+    # for k, v in edges_values.iteritems():
+    #     print k,v
+    # return
+
+    #Now compute all the paths to the target seed_node and sequence probabilities to each path
+    all_probs = dict()
+
+    paths_per_node = dict()
+
+    nodes_qty = nx.number_of_nodes(graph)
+
+    average_prob = 0
+
+    #Iterate thru all the graph nodes
+    for i, node in enumerate(graph.nodes()):
+
+        print "Working on node ", i+1, "/", nodes_qty
+
+        min_depth = cutoff + 2
+        max_depth = 0
+
+        #Skip seed_node since we do not want verify paths to itself
+        if node == seed_node:
+            continue
+
+        node_total_paths = 0
+        node_total_prob = 0
+        node_higher_prob = 0
+
+        for path in nx.all_simple_paths(graph, source=seed_node, target=node, cutoff=cutoff):
+            node_total_paths = 1
+            node_partial_prob = 1
+
+            path_length = len(path)
+
+            #Computes min-max depth
+            if path_length > max_depth:
+                max_depth = path_length
+            if path_length < min_depth:
+                min_depth = path_length
+
+            for i, edge_tuple in enumerate(extract_path_tuples(path)):
+                if i > 0:
+                    if not paths_per_node.has_key(edge_tuple[0]):
+                        paths_per_node[edge_tuple[0]] = 0
+                    paths_per_node[edge_tuple[0]] += 1
+
+                node_partial_prob *= edges_values[edge_tuple]
+
+            node_total_prob += node_partial_prob
+
+            if node_partial_prob > node_higher_prob:
+                node_higher_prob = node_partial_prob
+
+        #Compute probabilitie normalized and the number of total paths
+        all_probs[node] = [node_total_prob / node_total_paths, node_total_paths, min_depth, max_depth, node_higher_prob]
+
+
+    for key in all_probs.iterkeys():
+        all_probs[key].append(paths_per_node.get(key, 0))    
+
+    sortedList = sorted(all_probs.iteritems(), key=lambda a: a[1][0])
+
+    for k, v in sortedList:
+        print [k],v
+    return
+
+    # return all_probs
+
 if __name__ == "__main__":
     #main(sys.argv)
     #path(sys.argv)
@@ -696,9 +809,14 @@ if __name__ == "__main__":
 
     #benchmark_direct_nondirect(sys.argv)
 
-    prereq_prob([None, sys.argv[1], "1..1"])
-    prereq_prob([None, sys.argv[1], "1..2"])
-    prereq_prob([None, sys.argv[1], "1..3"])
+    get_deeprank(sys.argv)
+
+    # get_deeprank([None, sys.argv[1], "1..1"])
+    # get_deeprank([None, sys.argv[1], "1..2"])
+    # get_deeprank([None, sys.argv[1], "1..3"])
+    #prereq_prob([None, sys.argv[1], "1..1"])
+    #prereq_prob([None, sys.argv[1], "1..2"])
+    #prereq_prob([None, sys.argv[1], "1..3"])
 
 # will use the 5 first items to compute the required items (501st)
 # later we improve acuracy
